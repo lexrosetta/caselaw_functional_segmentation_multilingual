@@ -1,0 +1,100 @@
+U.S. Department of Labor Administrative Review BoardWashington, DC 20210-0001In the Matter of:
+
+ADMINISTRATOR, WAGE &  ARB CASE NO. 2017-0071
+
+HOUR DIVISION,
+
+U.S. DEPARTMENT OF LABOR ALJ CASE NO. 2009-SCA-00011
+
+PROSECUTING PARTY, DATE:  September 30, 2020 v.
+
+MESA MAIL SERVICE, LLC,
+
+RICHARD EDWARDS, and
+
+MARY EDWARDS,
+
+Individually and Jointly,
+
+RESPONDENTS.
+
+Appearances:
+
+For the Respondents:
+
+Richard Edwards and Mary Edwards; pro se; Lake Charles,
+
+Louisiana
+
+For the Administrator, Wage and Hour Division:
+
+Nicholas C. Geale, Esq.; Jennifer S. Brand, Esq.; William C. Lesser,Esq.; Jonathan T. Rees, Esq.; Sarah Kay Marcus, Esq.; and Milne A.
+
+Young, Esq.; U.S. Department of Labor, Office of the Solicitor;Washington, District of ColumbiaBEFORE:  James D. McGinley, Chief Administrative Appeals Judge, andHeather C. Leslie and Randel K. Johnson, Administrative Appeals JudgesDECISION AND ORDER
+
+This matter is before the Administrative Review Board (the Board) pursuant to the provisions of the McNamara-O’Hara Service Contract Act of 1965, as amended (SCA), 41 U.S.C. § 6701 et seq. (2011) and its implementing regulations atJudge (ALJ) issued a Decision and Order (D. & O.) finding that Respondents MesaMail Service, LLC, Richard Edwards, and Mary Edwards violated the record- keeping requirements of the SCA and failed to establish unusual circumstances to warrant relief from debarment, and ordering debarment effective from the date of the ALJ’s order. For the following reasons, the Board affirms the ALJ’s D. & O.
+
+BACKGROUND
+
+For many years, Mesa Mail Service, LLC, Richard Edwards, and MaryEdwards (Respondents) contracted with the United States Postal Service (USPS) to move mail and employed truck drivers to perform this service. On three occasions, the U.S. Department of Labor Wage and Hour Division (WHD) investigatedRespondents’ compliance with the SCA and found violations resulting in back wages due to employees in all three investigations.1 During the previous investigation,WHD informed Respondents that its records were insufficient and instructedRespondents to keep adequate records of the time employees worked.2From 2007 to 2011, Respondents were a party to thirteen mail haul contracts.3 In April 2007, an employee filed a complaint with WHD alleging he was not being paid what he was due.4 In the process of investigating the complaint,WHD received numerous complaints from other employees.5On June 23, 2009, WHD filed a complaint against Respondents, alleging they violated the SCA by failing to furnish required fringe benefits to employees, and by failing to make available adequate and accurate records showing hours worked by their employees. The complaint sought back wages and debarment.6A hearing was initially scheduled for June 22, 2010, and was rescheduled several times.7 The parties agreed to a decision on the record.8 On June 2, 2014, theALJ issued a decision on the record concluding that Respondents failed to make available work records as required, WHD’s assessment of back wages calculations were reasonable, and debarment was appropriate.9Respondents appealed to the Board, arguing that their lay representative did not obtain their consent to waive their right to a hearing. On January 21, 2016, theBoard determined the record did not contain a written waiver as required, vacated the ruling, and remanded for a hearing.10A hearing was held on October 13-14, 2016. On July 17, 2017, the ALJ issued a D. & O. on remand ordering that Respondents pay back wages and fringe benefits in the amount of $213,965.02 and ordered that Respondents be debarred for three years.11Respondents filed a petition for review with the Board on August 23, 2017.
+
+Both Respondents and the Administrator filed briefs.
+
+SCA-00011 (ALJ June 2, 2014).
+
+0075, ALJ No. 2009-SCA-00011 (ARB Jan. 21, 2016).
+
+JURISDICTION AND STANDARD OF REVIEW
+
+The Administrative Review Board has jurisdiction to review enforcement actions involving violations of the SCA.12 The Board’s review of an ALJ’s decision under the SCA is in the nature of an appellate proceeding.13 The Board shall modify and set aside an ALJ’s findings of fact only when it determines that those findings are not supported by a preponderance of the evidence.14 An ALJ’s conclusions of law are reviewed de novo.15DISCUSSION
+
+The issues on appeal are (1) whether a preponderance of the evidence supports the ALJ’s finding that the stipulated facts establish the SCA violations; (2) whether a preponderance of the evidence supports the ALJ’s finding of back wages due based on the Administrator’s calculations; (3) whether a preponderance of the evidence supports the ALJ’s finding that “unusual circumstances” within the meaning of the SCA do not exist to warrant relief from the debarment sanction; and (4) whether the government abused its authority in this case.
+
+1. Violations of the SCA
+
+The SCA requires that whenever the United States enters into a contract in excess of $2,500, the principal purpose of which is to provide services through the use of employees, the contract must contain provisions specifying the minimum monetary wages and fringe benefits to be furnished to the various classes of service employees under the contract.16 Contractors who fail to provide such wages andResponsibility to the Administrative Review Board (Secretary’s discretionary review of ARB decisions)), 85 Fed. Reg. 13,186 (Mar. 6, 2020). See 29 C.F.R. § 8.1(b)(3) (2015); 29 C.F.R. § 6.20 (2015).
+
+Cir. 1999).
+
+2002) (errata issued Nov. 5, 2002); United Kleenist Org. Corp.& Young Park, ARB No. 1999-SCA-0018, ALJ No. 1999-SCA-00018, slip op. at 5 (ARB Jan. 25, 2002). benefits are liable for the underpayment, and can be debarred from future federal contracts.17The implementing regulations state that employees subject to the Act are “entitled to the minimum compensation specified under its provisions for each hour worked in performance of a covered contract, a computation of their hours worked in each workweek when such work under the contract is performed is essential.”18The regulations further require compensation “for all hours of work in any workweek in which the employee performs any work in connection with the contract, in the absence of affirmative proof to the contrary that such work did not continue throughout the workweek.”19 Contractors are required to maintain records of the daily and weekly hours worked by each employee.20 Contractors may not delegate the responsibility to maintain proper records to employees.21The ALJ determined Respondents violated the record-keeping requirements of the SCA because they relied on the USPS contract time as the default working hours and had no system for recording the actual hours employees worked. The ALJ further opined it was clear in at least some instances that drivers worked in excess of the USPS contract time, did not always claim extra time, and Respondents had no policy that required or encouraged drivers to report extra time.22Respondents contend that their evidence, including payroll records and testimony, contradict the ALJ’s findings. Respondents also argue the ALJ erred in finding drivers were paid by the trip. However, Respondents acknowledge that they relied on an “honor system” by which drivers were paid based on the time allotted in the USPS contract, did not amend the amount of time worked when trips varied from the contract, and only supplemented wages when drivers requested it.
+
+Respondents allege drivers were not only paid for all hours worked, citing their payroll records, but that their system overpaid drivers. Respondents further allege that if drivers were ever not paid for extra time, it is because they did not request it.
+
+However, it is the employer’s responsibility to keep accurate records, not the employee’s.23 If an employer knows or has reason to know an employee is working, then compensation is due.24 Here, the record demonstrates there were times when drivers were not paid for extra time. The payroll records Respondents rely on do not include time sheets of actual hours worked.25 Respondents testified that they did not keep track of drivers who performed pre-inspection trips or when drivers worked in excess of their schedules, and that they knew drivers did not always turn in extra time slips.26 One of Respondents’ drivers also testified that he was not compensated for the time when he arrived at his truck, inspected it, and drove to the dock to retrieve the mail.27Testimony also demonstrates that Respondents had no policy that required or encouraged drivers to report when they worked excess time.28 Further, while their employee handbook contains a provision on submitting late slips, it does not contain any provision on timekeeping requirements.29The preponderance of the evidence supports the ALJ’s finding that there were hours worked for which drivers were not compensated. Thus, the ALJ properly found Respondents violated the SCA.
+
+2. Calculation of Back Wages
+
+If a contractor has failed to maintain the required records, WHD has the discretion to use reasonable methods to calculate hours worked and wages earned.30A contractor’s failure to maintain proper records may result in giving more weight citing 29 C.F.R. § 4.6(g)(1)(iii).
+
+2012). to the agency’s calculation of shortages.31 Where proper records are not maintained, a contractor may be found to have failed to provide its employees with the required wages or benefits.32In determining the amount of back wages that were owed in this matter,WHD partly relied on statements by former drivers, and gave Respondents credit where Respondents provided documentation.33 The ALJ determined WHD’s calculations of back wages owed was rational.34Respondents argue that the former drivers’ statements should be barred as hearsay. However, the rules of evidence are relaxed in these proceedings.35Respondents also allege drivers’ statements are unreliable because they are disgruntled former workers. The ALJ acknowledged former drivers may have a propensity for bias and were not subject to cross-examination.36 However, the ALJ found the WHD’s Inspector’s testimony was “very credible.”37Respondents contend drivers were often overpaid, suggesting this should balance instances when drivers may not have submitted late slips. However, because Respondents did not keep a record of actual hours worked, they cannot 2008) (Hearsay evidence is admissible in SCA administrative proceedings).
+
+WHD’s Investigator’s calculations of back wages based on employees met the “just and reasonable inference” standard in Mt. Clements); Groberg Trucking, Inc., ARB No. 2003-0137, slip op. at 2-3 (ARB Nov. 30, 2004) (An Administrator’s estimates on back wages based in information from the contractor’s drivers is reasonable). establish this. Moreover, even if they could, overpayments do not offset instances when drivers were underpaid.38As Respondents did not keep adequate records of the time drivers actually worked, they are unable to demonstrate the Administrator’s calculations of back- wages owed are unreasonable. Further, as explained above, the WHD investigator’s calculations were entirely logical. Thus, the preponderance of the evidence supports the ALJ’s finding that the Administrator’s calculations were reasonable.
+
+3. Debarment
+
+Under SCA Section 5(a), persons or firms that violate the Act are subject to debarment, that is, ineligible to receive federal contracts for a period of three years unless the Secretary of Labor recommends otherwise because of “unusual circumstances.”39 Debarment is presumed once a violation of the Act has been found, with the burden of proof falling to the violating contractor to prove that “unusual circumstances” exist.40 As the ARB has recognized, “Section 5(a) is a particularly unforgiving provision of a demanding statute. A contractor seeking an ‘unusual circumstances’ exemption from debarment must, therefore, run a narrow gauntlet.”41 Debarment of a contractor, who violated the SCA, “should be the norm, not the exception, and only the most compelling of justifications should relieve a violating contractor from that sanction.”42 be transformed into compliance with the Act by reallocating portions of payments made for other hours which are in excess of the specified minimum”); 29 C.F.R. § 4.170(a) (An employer cannot offset an amount of monetary wages paid in excess of the wages required under the determination in order to satisfy his fringe benefit obligations under the Act”); R & WTransp., Inc., ARB No. 2006-0048, ALJ No. 2003-SCA-00024, slip op. at 5 (ARB Feb. 28, 2008) (“Overpayments to employees for certain hours cannot offset back wages owed to employees for other hours”).
+
+Dole, 710 F. Supp. 853, 855-856 (D.D.C. 1989). op. at 9 (ARB Apr. 30, 2001).
+
+BSA Co., No. 1988-SCA-0032, slip op. at 6 (Sec’y Sept. 20, 1991)). (quoting Vigilantes, Inc. v. Adm’r of Wage & Hour, 968 F.2d 1412, 1418 (1st Cir. 1992)). regulatory standard for determining the existence of “unusual circumstances” and whether or not “unusual circumstances” exist according to a three-element test.43To prove “unusual circumstances” under the regulations, the violating contractor must (1) establish that the SCA violations were not willful, deliberate, aggravated, or the result of culpable conduct; (2) meet the listed prerequisites of a good compliance history, cooperation in the investigation, repayment of the moneys due, and sufficient assurances of future compliance; and (3) address other factors, such as previous violations of the SCA.44The violator of the Act has the burden of establishing the existence of unusual circumstances to warrant relief from the debarment sanction. 29 C.F.R. § 4.188(b)(1). To meet its burden of proving “unusual circumstances,” the violating contractor must satisfy the regulatory showing.45Respondents argue the issue of debarment is moot due to their retirement.
+
+However, while the ALJ acknowledged this, the ALJ correctly opined the Act requires debarment where a violation of the SCA is found unless an employer can demonstrate “unusual circumstances” to warrant relief from the debarment.46Respondents next argue they established “unusual circumstances.” The record supports the ALJ’s findings that Respondents did not demonstrate an intent to defraud its employees or the government, and that Respondents cooperated with the investigation. However, Respondents were previously investigated three times, and were instructed to record the actual hours employees worked, but did not amend their system of calculating pay. This constitutes a willful failure to comply op. at 12-13. with the recordkeeping requirements of the Act.47 As Respondents do not meet the “unusual circumstances” test, they cannot establish relief from debarment.
+
+Lastly, Respondents reference other mail haulers who similarly failed to pay wages and benefits.48 However, it was Respondents’ responsibility to keep adequate records and pay employees for the hours actually worked.49 Moreover, regardless of what other mail haulers did, Respondents were instructed to keep accurate timesheets in 2006 and did not.
+
+Thus, while Respondents cooperated with the investigation and demonstrated no intent to defraud the government or its workers, the preponderance of the evidence supports the ALJ’s debarment of Respondents.
+
+4. Overreach
+
+Respondents argue the Department of Labor was guilty of “overreaching” and was “arbitrary and abusive.”50 They contend the investigation was initiated when a driver claimed he was not being paid and was dropped when the records demonstrated he was overpaid. Further, they contend WHD continued to search for drivers who were not paid. Respondents broadly argue this constituted abusive action by the government in violation of the Fifth and Fourteenth Amendments.51We note Respondents raised this argument before the ALJ and the ALJ did not address it.52 However, the Secretary of Labor is granted broad authority to follow WHD’s instructions for SCA’s requirements for wage payments and recordkeeping over the course of multiple investigations “demonstrates culpable, indeed willful, conduct” and precludes relief under Part I); Bishop, BSCA Case No. 1991-0012 (An employer’s failure to “compile, maintain, and make available adequate records” indicates “a disregard of the law” and is culpable conduct that prevents it from meeting Part I).
+
+16-20. enforce its provisions and investigate alleged violations of the SCA.53 Further, the record demonstrates WHD’s investigation was entirely driven by complaints from employees, and that there is no evidence that the WHD investigator was abusive towards the Respondents, was less than courteous or was confrontational, imposed unreasonable production of documents deadlines, or otherwise ranged beyond his governmental authority under the SCA.54 Thus, the record does not reflect that theDepartment of Labor, here represented by the WHD, abused or otherwise overreached its authority.
+
+CONCLUSION
+
+The preponderance of the evidence supports the ALJ’s findings that MesaMail Services, LLC, Richard Edwards, and Mary Edwards violated the SCA.
+
+Accordingly, we AFFIRM the ALJ’s order that Mesa Mail Services, LLC, RichardEdwards, and Mary Edwards are liable for $213,965.02 in unpaid wages and fringe benefits, and shall not be awarded United States government contracts for three years. In addition, the Secretary shall forward the Respondents’ names to theComptroller General for debarment.55SO ORDERED.
+
+Sept. 30, 1992) (“[T]he Secretary’s broad discretion to enforce the SCA has not been abused where, as here, years of enforcement efforts, conformance proceedings, and administrative litigation have been conducted to enforce employee rights under the SCA”). organization, contracting agency, or other interested person or organization may report to any office of the Wage and Hour Division . . . a violation, or apparent violation, of the Act, or of any of the rules or regulations prescribed thereunder”).
+

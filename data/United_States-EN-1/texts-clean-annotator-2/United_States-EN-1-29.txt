@@ -1,0 +1,451 @@
+
+This cause is before the Court on: 
+
+Dkt. 187 Motion for Partial Summary Judgment - Sperry 
+
+Dkt. 188 Motion for Summary Judgment as to All Plaintiffs (Knight) 
+
+Dkt. 192 Response in Opposition 
+
+Dkt. S-1 Supporting Documents 
+
+Dkt. S-3 Supporting Documents 
+
+Dkt. 196 Amended Motion for Summary Judgment 
+
+Dkt. 197 Motion to Strike 
+
+Dkt. 198 Response 
+
+Dkt. 200 Response 
+
+This case is a collective action brought under the Fair Labor Standards Act.  
+
+Plaintiffs are current and former technicians engaged by Defendants to perform the 
+
+installation, service and repair of cable television, high-speed internet and digital 
+
+telephone for customers of Bright House Networks.  In the Motion for Summary 
+
+Judgment (Dkt. 188), the Knight Defendants, Jeffry Knight, Inc. d/b/a Knight Enterprises 
+
+and Jeffry D. Knight, seek summary judgment as to the status of all Plaintiffs as 
+
+independent contractors and not employees of Defendants.  Plaintiffs are Michael 
+
+Scantland, Frederick Hauser, III, Joshua Farrell, Leon Sperry, Phillip Zapata and 
+
+Terrence Downs. The Motion for Partial Summary Judgment is directed to the claim of 
+
+Plaintiff Leon Sperry. 
+
+
+Summary judgment should be rendered if the pleadings, the discovery and disclosure materials on file, and any affidavits show that there is no genuine issue as to any material fact and that the movant is entitled to judgment as a matter of law.  Fed. R. Civ. P. 56(c). 
+
+The plain language of Rule 56(c) mandates the entry of summary judgment after adequate time for discovery and upon motion, against a party who fails to make a showing sufficient to establish the existence of an element essential to that party’s case, and on which that party will bear the burden of proof at trial.” 
+
+Celotex Corp. v. Catrett, 477 U.S. 317 (1986). 
+
+The appropriate substantive law will guide the determination of which facts are material and which facts are...irrelevant.  Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986). All reasonable doubts about the facts and all justifiable inferences are resolved in favor of the non-movant. See Fitzpatrick v. City of Atlanta, 2 F.3d 1112, 1115 (11th Cir. 1993). A dispute is genuine “if the evidence is such that a reasonable jury could return a verdict for the non-moving party.” See Anderson, 477 U.S. at 248. But, “[i]f the evidence is merely colorable...or is not significantly probative...summary judgment may be granted.” Id. at 249-50. 
+
+
+1. 
+
+Part of the business conducted by Defendants Jeffry D. Knight, Inc. d/b/a Knight Enterprises and Jeffry D. Knight includes installation and repair of telecommunications services. 
+
+
+
+2. 
+
+Knight Enterprises is in a contractual relationship with Bright House Networks, LLC (“BHN”) to perform installation and repair services.  (Dkt. S-1, Exh. 12). Knight Enterprises is one of four independent contractor companies which perform such services. (Dkt. 61-2) Knight Enterprises performs installation and repair services under its contract with BHN in Pinellas, Manatee, Pasco and Polk counties. 
+
+
+
+3. 
+
+BHN offers cable television, high-speed internet access and digital phone services to its customers. (Dkt. 61-2). 
+
+
+
+4. 
+
+BHN provides technical specifications to the management of Knight Enterprises concerning the installation work to be performed under the contract to ensure that Knight’s work is consistent with the proper functioning of BHN’s equipment and operating systems and for the benefit of customers.  The BHN-Knight contract requires that Knight Enterprises comply with the technical specifications. The BHN-Knight contract further provides that BHN has the right to “chargeback”  Knight Enterprises if audits and quality control checks performed by BHN employees show that Knight Enterprises failed to meet the installation guidelines.  BHN performs quality control and contract compliance audits on 10% of the jobs performed by Knight Enterprises. (Dkt. S-1, Dkt. 61-2, Dkt. 61-4). 
+
+
+
+5. 
+
+BHN provides batches of work orders to Knight Enterprises. Knight Enterprises determines which technician installer is qualified and available to perform the work order, and assigns it to the technician installer.  The technician installer returns the completed work order to Knight management, who conveys the completed work order to BHN . Knight Enterprises is responsible to BHN for the satisfactory completion of the work orders. (Dkt. 61-3). 
+
+
+
+6. 
+
+BHN provides Knight Enterprises with some of the hardware to be installed, included cable boxes, DVRs and cable modems. (Dkt. 61-3, Dkt. 61-4). 
+
+
+
+7. 
+
+BHN contractually requires that the Knight technician installer display an id badge and wear clothing that shows the installer’s affiliation with Knight Enterprises, and requires that the technician’s vehicle must bear the name of Knight Enterprises, must state that Knight Enterprises is an authorized contractor to BHN, and must not state or imply that the Knight technician is employed by BHN.  (Dkt. 61-3). 
+
+
+
+8. 
+
+BHN requires Knight Enterprises to screen and conduct background checks for the technician installers Knight Enterprises uses to perform services under the BHN ­Knight contract, the results of which are reported to Knight Enterprises.  (Dkt. 61-3). 
+
+
+
+9. 
+
+BHN pays Knight Enterprises a set amount per job, based on billing codes provided by BHN to Knight Enterprises. (Dkt. 192-22, p. 11). 
+
+
+
+10. 
+
+Knight Enterprises enters into individual contracts with the technician installers, “Independent Contractor Services Agreement.” (“ICSA”)  The technician installers are engaged as independent contractors.  Execution of the ICSA includes execution of a Warranty, Insurance Agreement and Covenant Not To Compete, which are incorporated by reference into the ICSA. 
+
+
+
+11. 
+
+Knight Enterprises pays the technician installers a set amount per job, based on the billing codes on the completed work, which is determined by Knight Enterprises. (Dkt. 192-22, p. 11). The pay schedule is subject to change, at the option of Knight Enterprises. (Dkts. 188-18, 188-19). 
+
+
+
+12. 
+
+Plaintiffs performed residential and/or commercial installation and repair services for Knight Enterprises pursuant to contracts during the following time periods: 
+
+
+
+
+
+Michael Scantland 2/2002 - 9/2009 
+
+Frederick Hauser, III 2000 - 9/2009 Leon Sperry 5/23/2006 - 9/2009 Joshua Farrell 1/2004 - 9/2009 Phillip Zapata 2002 - 9/2009 Terrence Downs 11/2008 - 12/2009 
+
+13. 
+
+The ICSA was amended from time to time. Plaintiffs acknowledge that Plaintiffs executed multiple ICSA’s. The ICSA version executed in 2006 expressly provides that the technician installer may employ others to assist in completing the work assigned to the technician installer. A later version expressly provides that the technician installer may contract with other companies, and is not limited to Knight. (Dkts. 188-18, 188-19). 
+
+
+
+14. 
+
+In their depositions, Plaintiffs acknowledge that Plaintiffs provided their own vehicles, purchased their own tools and safety equipment, purchased commercial general liability and auto insurance, paid for their own gas, paid for required telephone service, and paid their own taxes. 
+
+
+
+15. 
+
+Some technician installers performed services as sole proprietors, and some provided services through a corporation. (Dkt. 50). 
+
+
+
+16. 
+
+Plaintiffs Scantland, Hauser, Sperry and Zapata provided their services through a corporation, and obtained an FEIN. 
+
+
+
+17. 
+
+Technician installers work six days a week, depending on the volume of work orders from BHN, which varies from week to week, and seasonally.  Knight Enterprises provides its services seven days a week. (Dkt. 192-22, p. 8, p. 10). 
+
+
+
+
+
+18. Plaintiff Scantland testified that, as a “lead,” Plaintiff was required to assign 
+
+work orders to technician installers, or Plaintiff, as lead, would have to perform the work.  Plaintiff Scantland further testified that the workload fluctuated, was never a certain 
+
+Case No. 8:09-CV-1985-T-17TGW number of work orders, and technician installers could request more work. (Dkt. 196­13, p. 13). Plaintiff Scantland also testified that the technician installers could transfer work orders among themselves. (Dkt. 196-13, p. 26). 
+
+19. 
+
+In deposition, Plaintiff Scantland testified that “new guy”  installers worked six days a week, with rotating Sundays, but leads would try to accommodate special schedule requests from “guys with tenure”. (Dkt. 196-13, p. 31). Plaintiff Hauser testified that he worked six days a week, but his request for no Saturdays was approved. Plaintiff Sperry testified that he worked five or six days a week, with Sunday off and some Thursdays off. In his affidavit (Dkt. 132-9),  Plaintiff Farrell states that he was told he was required to work six days a week.  Plaintiff Zapata testified that he worked six days a week, then five days a week. Plaintiff Downs testified that it was mandatory that he work six days a week, and sometimes seven days a week, with rotating Sundays. 
+
+
+
+20. 
+
+To assign the BHN work orders, a “router” distributes the work orders to a “technical consultant” (formerly “lead”), who assigns the work orders to a technician installer on a daily basis. Work orders are distributed according to a technician installer’s skill set and geographic area. (Dkt. 192-22, p. 7, p. 18). 
+
+
+
+21. 
+
+The typical procedure for a technician installer is to come in to the local office to obtain the route for the day, to turn in completed work orders from the previous day and have them checked, to turn in unused equipment from the prior day, and to obtain new equipment for the work orders to be performed, and then to go out into the field. Plaintiffs testified that Plaintiffs came in as early as  6:30 a.m., and not later than 
+
+
+
+
+
+7:15 a.m., to get their routes, to turn in paperwork and equipment, and obtain equipment for the work orders to be completed.  The first time 2 hour slot scheduled was between 8:00 a.m. and 10:00 a.m. Plaintiffs acknowledged that being late meant their route could be given away. 
+
+22. 
+
+Some technician installers elected to partner with other technician installers to complete the assigned work, and some did not.  Plaintiff Sperry testified that when he partnered with Plaintiff Zapata, Plaintiffs decided themselves how to split the money for the job completed. (Dkt. 192-23, p. 26). 
+
+
+
+23. 
+
+Knight Enterprises backcharges technician installers for failure to perform work according to BHN specifications, failure to use “Work Force Management” correctly, and for lost equipment. (Dkt. 192-18, p. 20). 
+
+
+
+24. 
+
+Knight Enterprises does not require the technician installers to have prior cable television installation experience before engaging them.  (Dkt. 192-18, p. 21). 
+
+
+
+25. 
+
+After a technician installer without experience signs an ICSA, Knight Enterprises provides some training, provides technical specifications, and has the technician ride with another technician for a period of time.  (Dkt. 192-22, pp. 2-3). 
+
+
+
+26. 
+
+Plaintiff Downs testified that he spent two weeks in training, for which Plaintiff Downs was not compensated. (Dkt. 192-26, p. 7).  Plaintiff Hauser testified that he received training, then rode with another technician for four days, for which Plaintiff was not compensated. (Dkt. 192-24, p. 14).  Plaintiff Zapata testified that he received training, then rode with another technician for a week, for which Plaintiff was not compensated. (Dkt. 192-25, p. 16). Plaintiff Sperry testified that he received training, then rode with another technician for a week and a half, for which Plaintiff was not compensated. (Dkt. 192-23, pp. 10-11). 
+
+
+
+27. 
+
+In 2008, Knight Enterprises required its technician installers to complete coursework offered by Jones/NCTI and take tests to become certified in cable, voice and data, Quickstart Installer (essentials for installing video), Hi-Speed Data Installer (fundamentals of high-speed internet access) and IP Voice (all aspects of IP voice).  
+
+
+
+28. 
+
+Over time, the services performed by Knight Enterprises  have changed, the volume of work has changed, quality control has changed, becoming more stringent and harder to pass, and backcharges have changed. (Dkt. 192-22, p. 5, p. ). 
+
+
+
+
+
+
+The threshold issue in this case is whether Plaintiffs are independent contractors or employees of Knight Enterprises. The Court applies the “economic realities” test to the facts to reach an ultimate conclusion as to Plaintiffs’ degree of dependence on Knight Enterprises. The question is whether, considering the total circumstances, Plaintiffs are so dependent on Knight Enterprises as a matter of economic reality as to come within the protection of the Fair Labor Standards Act, or sufficiently independent to fall outside the FLSA’s protection. If material facts are disputed, the Court construes them in favor of Plaintiffs, the non-moving party. 
+
+ 
+
+A determination of employment status under the FLSA is a question of law.  See Antenor v. D & S Farms, 88 F.3d 925, 929 (11th Cir. 1996); Brouwer v. Metropolitan Dade County, 139 F.3d 817, 818 (11th Cir. 1998) (citing Villareal v. Woodham, 113 F.3d 202, 205 (11th Cir. 1997)). Subsidiary findings, however, are considered issues of fact. 
+
+See Patel v. Wargo, 803 F.2d 632, 634 n. 1 (11th Cir. 1986). 
+
+In Santelices v. Cable Wiring and South Florida Cable Contractors, Inc., 147 F.Supp.2d 1313, 1318-19, the Court summarizes the principles which guide the Court’s determination: 
+
+The FLSA vaguely explains what is meant by the term “employee.” Weisel v. Singapore Joint Venture, Inc., 602 F.2d 1185, 1188 (5th Cir. 1979). For example, 29 U.S.C. § 203(e)(1) defines an “employee” as “any individual employed by an employer.” An “employer,” in turn, includes “any person acting directly or indirectly in the interest of an employer in relation to an employee.” 29 U.S.C. § 203(d). To “employ” is defined as to “suffer or permit to work.” 29 U.S.C. § 203(g). Whether an employment relationship exists under the FLSA must be judged by the “economic realities” of the individual case and not by traditional common-law principles. See Antenor, 88 F.3d at 929; Donovan v. New Floridian Hotel, 676 F.2d 468, 470 (11th Cir.1982). See also Nationwide Mutual Insurance Co. v. Darden, 503 U.S. 318, 325–26, 112 S.Ct. 1344, 117 L.Ed.2d 581 (1992) (explaining that the definition of employ in the FLSA is expansive and collecting cases). The touchstone of “economic reality” in analyzing a possible employee/employer relationship for purposes of the FLSA is dependency. The courts look at all of the surrounding circumstances of the “whole activity” to determine whether the putative employee is economically dependent upon the alleged employer. Goldberg v. Whitaker Housing Co-op, Inc., 366 U.S. 28, 33, 81 S.Ct. 933, 6 L.Ed.2d 100 (1961); Aimable v. Long & Scott Farms, 20 F.3d 434, 439 (11th Cir. 1994); Harrell v. Diamond A Entm’t, Inc., 992 F.Supp. 1343, 1348 
+
+(M.D. Fla. 1997). Whether or not the parties intended to create an employment relationship is irrelevant. See Donovan, 676 F.2d at 471 (citing Brennan v. Partida, 492 F.2d 707, 709 (5th Cir.1974)). Likewise, merely labeling an individual as an employee or an independent contractor is not dispositive. See Rutherford Food, 331 U.S. at 729, 67 S.Ct. 1473 (“Where the work done, in its essence, follows the usual path of an employee, putting on an ‘independent contractor’ label does not take the worker from the protection of the Act.”). In other words, courts look to see whether the putative employee depends (or depended) on the alleged employer for his economic livelihood based upon the parties' actual working relationship. Antenor, 88 F.3d at 937–38. 
+
+The Court considers the following factors in applying the economic realities test: 
+
+(1)
+
+ the nature and degree of control of the alleged employer’s control as to the manner in which the work is to be performed; 
+
+
+
+(2)
+
+ the alleged employee's opportunity for profit or loss depending upon his managerial skill; 
+
+
+
+(3)
+
+ the alleged employee's investment in equipment or materials required for his task, or his employment of helpers; 
+
+
+
+(4)
+
+ whether the service rendered requires a special skill; 
+
+
+
+(5)
+
+ the degree of permanency and duration of the working relationship; and 
+
+
+
+(6)
+
+ the extent to which the service rendered is an integral part of the alleged employer's business. 
+
+
+
+
+
+Freund v. Hi-Tech Satellite, Inc., 185 Fed. Appx. 782, 783 (11th Cir. 2006). 
+
+The Court notes that “[n]o one factor is controlling, nor is the list exhaustive...The weight of each factor depends on the light it sheds on the putative employee’s dependence on the alleged employer, which in turn depends on the facts of the case.”  Santelices, 147 F.Supp.2d at 1319. The Court may consider any relevant evidence; the ultimate determination is based on the totality of the circumstances of the particular case.  
+
+
+Plaintiffs and Defendants entered into “Independent Contractor Service Agreements” before any Plaintiff performed services for Knight Enterprises.  To the extent that those Agreements designate Plaintiffs as independent contractors, or establish that the parties did not intend to enter an employer/employee relationship, the Agreements do not control the Court’s determination.  Economic reality controls over labels or subjective intent as to the ultimate issue of Plaintiffs’ status as independent contractors or employees. However, the Court considers the provisions of the Agreements to be relevant to some of the factors the Court must apply in examining Plaintiffs’ dependence on Knight Enterprises. Therefore, the Court includes some provisions of Plaintiffs’ Agreements below: 
+
+A. Michael Scantland 
+
+Dkt. 196-4 Scantland Agreement, 2/25/2002 
+
+3. 
+
+Work Assignments. To the extent that Knight decides to utilize the services of a Contractor, Knight shall (directly or through the Company, at Knight’s option) provide to Contractor a work order describing the location, providing other relevant contact information, and describing the type of work to be performed.  Contractor may decline any work assignments and is not required to maintain a set schedule. Once Contractor has accepted one or more assignments, Contractor shall timely and correctly complete said assignments pursuant to the terms and conditions of this Agreement. Contractor shall be held liable for a failure to complete work accepted by Contractor.  Just as Contractor may refuse work assignments, Knight shall be under no obligation to assign any work to Contractor. 
+
+
+
+4. 
+
+Performance. The manner and means of performance of the work, including technique, sequence, procedures, selection and assignment of employees shall be subject to Contractor’s exclusive discretion, supervision and control. Contractor remains fully responsible for the proper completion of the work, including, without limitation, wages of any employees of Contractor, fuel, and other costs.  Knight shall only be required to pay Contractor the payment (as set forth bellow) and shall not be required to reimburse or pay Contractor for any costs incurred by Contractor. Contractor shall comply with all specifications of Knight and the Company regarding the work. Contractor may employ others to assist Contractor in performing the work, in which case Contractor shall be solely responsible for all wages, taxes, worker’s compensation, unemployment, fringe benefits, and any other matters associated with its employees. 
+
+
+
+
+
+.... 
+
+6. 
+
+Payment. Knight will pay Contractor for completed work in accordance with the pay schedule applicable to the work completed which is in effect at the time that the work is completed by Contractor.  Payments to Contractor are on a per-job basis. The pay schedule may be changed from time to time by Knight, in its discretion.  Knight will pay Contractor bi­weekly, or according to such other payment schedule as Knight may adopt from time to time. Contractor may realize a profit or suffer a loss in connection with performing the services and Knight does not guarantee a 
+
+
+
+profit to the Contractor, other than to make the payment required under this section. Contractor acknowledges that the success or failure of its business will depend on the relationship of business receipts (from the payments received by Knight or otherwise) to expenditures (which are Contractor’s responsibility). The payments due under this section are subject to setoff provisions and retainer set forth elsewhere in this Agreement. Contractor will comply with all of Knight’s policies and procedures regarding the reporting of completed work and will complete all forms or other documents relating to the work completed.  Contractor will accurately represent the work completed and will accurately classify the work completed by the proper work code.  Contractor shall not be entitled to payments, compensation, or other amounts from Knight other than as specifically set forth in this section. 
+
+
+
+7.
+
+ Term. The term of this Agreement will commence on the date hereof, and, unless otherwise terminated pursuant to this section, will end on the date which is one (1) year from the date of this Agreement.  Unless terminated pursuant to this section, this Agreement shall automatically renew for successive one-year periods. This Agreement may be terminated by either party, with or without cause, upon thirty (30) days notice to the other party. Termination of this Agreement shall not affect any ongoing obligations pursuant to this Agreement, including the obligation to remedy work pursuant to the Warranty. 
+
+
+
+
+
+Dkt. 196-5. Scantland Agreement, 1/5/04 
+
+2. 
+
+Work Assignments. To the extent that Knight decides to utilize the services of Contractor, Knight shall (directly or through the Company, at Knight’s option) provide to Contractor a work order describing the location, providing other relevant contact information, and describing the type of work to be performed. Contractor may decline any work assignments and is not required to maintain a set schedule. Once Contractor has accepted one or more assignments, including a day’s worth of assignments, Contractor shall timely complete said assignments pursuant to the terms and conditions of this Agreement and may not thereafter refuse to fully complete the accepted assignments. The Contractor agrees to perform specific work for the specific amounts set forth in this Agreement. 
+
+
+
+3. 
+
+Performance. Contractor shall perform the work in a timely and competent manner and all work shall be done in a good and workmanlike manner. Contractor shall use its best efforts to complete all work during 
+
+
+
+
+
+regular business hours. Contractor shall comply with all specifications of Knight and the Company regarding the work.  Contractor shall keep the area in which the work is being performed clean and shall return the area to the condition it was in prior to commencement of the work once the work is completed, including the removal of any debris and excess material. The manner and means of performance of the work, including technique, sequence, procedures, selection and assignment of employees shall be subject to Contractor’s exclusive discretion, supervision and control. Contractor may employ others to assist Contractor in performing the work, in which case Contractor shall be solely responsible for all wages, taxes, workers compensation, unemployment, fringe benefits, and any other manners associated with its employees.  Knight shall be under no obligation to assign any work to Contractor.  Contractor indemnifies, agrees to defend, and holds Knight harmless from any damage, claim, loss, fee or liability arising out of Contractor’s failure to satisfactorily complete the work. 
+
+B) Frederick Hauser, III 
+
+1) Dkt. S-1, Exh. 11 Hauser Agreement, 1/7/2004, with Knight Specifications 
+
+2. 
+
+Work Assignments. To the extent that Knight decides to utilize the services of Contractor, Knight shall (directly or through the Company, at Knight’s option) provide to Contractor a work order describing the location, providing other relevant contact information, and describing the type of work to be performed. Contractor may decline any work assignments and is not required to maintain a set schedule. Once Contractor has accepted one or more assignments, including a day’s worth of assignments, Contractor shall timely complete said assignments pursuant to the terms and conditions of this Agreement and may not thereafter refuse to fully complete the accepted assignments. The Contractor agrees to perform specific work for the specific amounts set forth in this Agreement. 
+
+
+
+3. 
+
+Performance. Contractor shall perform the work in a timely and competent manner and all work shall be done in a good and workmanlike manner. Contractor shall use its best efforts to complete all work during regular business hours. Contractor shall comply with all specifications of Knight and the Company regarding the work.  Contractor shall keep the area in which the work is being performed clean and shall return the area to the condition it was in prior to commencement of the work once the work is completed, including the removal of any debris and excess materials. The manner and means of performance of the work, including technique, sequence, procedures, selection and assignment of employees 
+
+
+
+
+
+shall be subject to Contractor’s exclusive discretion, supervision and control. Contractor may employ others to assist Contractor in performing the work, in which case Contractor shall be solely responsible for all wages, taxes, workers compensation, unemployment, fringe benefits, and any other matters associated with its employees.  Knight shall be under no obligation to assign any work to Contractor.  Contractor indemnifies, agrees to defend and holds Knight harmless from any damage, claim, loss, fee or liability arising out of Contractor’s failure to satisfactorily complete the work. 
+
+..... 
+
+SPECIFICATIONS OF KNIGHT ENTERPRISES 
+
+The following is a non-exhaustive list of the requirements for all independent contractors performing work on behalf of Jeffry Knight, Inc. d/b/a Knight Enterprises: 
+
+1. 
+
+Contractor shall perform the work in a timely and competent manner and all work shall be performed in a good and workmanlike manner. 
+
+
+
+2. 
+
+Contractor shall use its best efforts to complete all work during regular business hours. 
+
+
+
+3. 
+
+Contractor shall keep the area in which the work is being performed clean and shall return the area to the condition it was in prior to commencement of the work once the work is completed, including the removal of any debris and excess materials. 
+
+
+
+4. 
+
+Contractor shall ensure that all persons employed or otherwise utilized by Contractor in connection with any work are clean and well-presented and comport themselves in a professional manner and shall not harass or otherwise act disrespectfully to any person while engaged in any work. 
+
+
+
+5. 
+
+Either Knight or the Company will provide the materials (other than incidental materials) needed to perform the work, but it shall be the responsibility of Contractor to advise Knight and/or the Company (as may be directed by Knight) of any materials that may be needed to complete the work. Contractor shall ensure that the materials provided to 
+
+
+
+
+
+Contractor are accurate as Contractor shall be bound by the records of Knight or the Company for the materials provided to the Contractor and Contractor shall be responsible for the value of any missing, lost or damaged materials. The value of any such materials may be deducted from any amounts due to the Contractor pursuant to this Agreement, regardless of whether this Agreement is still in effect.  Contractor shall return to Knight and/or the Company any materials which are not utilized in performing the work in the same condition as when the materials were delivered to the Contractor. 
+
+2) Dkt. S-1, Exh. 11 Hauser Agreement, 11/2006 Revision 
+
+2. 
+
+Work Assignments. To the extent that Knight decides to utilize the services of Contractor, Knight shall (directly or through the Company, at Knight’s option) provide to Contractor a work order describing the location, providing other relevant contact information, and describing the type of work to be performed. Contractor may decline any work assignments and is not required to maintain a set schedule. Contractor is free to come and go at Contractor’s discretion if he has not accepted an assignment. Contractor may contract with other businesses as Contractor deems appropriate and is not limited to Knight.  Once Contractor has accepted one or more assignments, including a day’s worth of assignments, Contractor shall timely complete said assignments pursuant to the terms and conditions of this Agreement and may not thereafter refuse to fully complete the accepted assignments. The Contractors agrees to perform specific work for the specific amounts set forth in this Agreement. Knight shall be under no obligation to assign any work to Contractor. 
+
+
+
+3. 
+
+Performance. Contractor shall perform the work in a timely and competent manner and all work shall be done in a good and workmanlike manner. Contractor shall use its best efforts to complete all work during regular business hours. Contractor shall comply with all specifications of Knight and the Company regarding the work.  Contractor shall keep the area in which the work is being performed clean and shall return the area to the condition it was in prior to commencement of the work once the work is completed, including the removal of any debris and excess materials. The manner and means of performance of the work, including technique, sequence, procedures, selection and assignment of employees shall be subject to Contractor’s exclusive discretion, supervision and control. 
+
+
+
+
+
+3) Dkt. S-1, Exh. 11 Hauser Agreement, 6/11/2009 
+
+2. 
+
+Work Assignments. To the extent that Knight decides to utilize the services of Contractor, Knight shall (directly or through the Company, at Knight’s option) provide to Contractor a work order describing the location, providing other relevant contact information, and describing the type of work to be performed. Contractor may decline any work assignments and is not required to maintain a set schedule. Contractor is free to come and go at Contractor’s discretion if he has not accepted an assignment. Contractor may contract with other businesses as Contractor deems appropriate and is not limited to Knight.  Once Contractor has accepted one or more assignments, Contractor shall timely complete said assignments pursuant to the terms and conditions of this Agreement and may not thereafter refuse to fully complete the accepted assignments. The Contractor agrees to perform specific work for the specific amounts set forth in this Agreement. Knight shall be under no obligation to assign any work to Contractor at any time in Knight’s’s sole discretion. 
+
+
+
+3. 
+
+Performance. Contractor shall perform the work in a timely and competent manner and all work shall be done in a good and workmanlike manner. Contractor shall use its best efforts to complete all work during regular business hours. Contractor shall comply with all specifications of Knight and the Company regarding the work.  Contractor shall keep the area in which the work is being performed clean and shall return the area to the condition it was in prior to commencement of the work once the work is completed, including the removal of any debris and excess materials. The manner and means of performance of the work, including technique, sequence, procedures, selection and assignment of employees shall be subject to Contractor’s exclusive discretion, supervision and control. 
+
+
+
+
+
+C) Leon Sperry 
+
+1) Dkt. 188-18 Sperry Agreement, 6/5/2006 
+
+2. Work Assignments. To the extent that Knight decides to utilize the services of Contractor, Knight shall (directly or through the Company, at Knight’s option) provide to Contractor a work order describing the location, providing other relevant contact information, and describing the type of work to be performed, Contractor may decline any work assignments and is not required to maintain a set schedule. Once Contractor has accepted 
+
+
+

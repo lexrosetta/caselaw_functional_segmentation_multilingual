@@ -1,0 +1,80 @@
+
+
+ORDER PARTIALLY GRANTING MOTION FOR ATTORNEY’S FEES THIS CAUSE comes before this Court upon defendants’ motion for attorney’s fees [DE 
+
+76] filed on November 19, 2007.  Plaintiff responded [DE 80] on December 17, 2007. Defendants replied [DE 83] on December 18, 2007.  The motion is ripe for adjudication. 
+
+Plaintiff commenced this action by filing a seven count complaint pursuing damages in counts one though four under the FLSA and in counts six and seven under Florida statute § 
+
+448.08.1  This Court issued an order granting defendants’ motion for summary judgment on all counts, making defendants the prevailing party.  Defendants therefore seek recovery for the attorney’s fees incurred in the defense of this lawsuit.2 
+
+1 Count five alleged successor liability relating to the FLSA allegations. 2Defendants previously filed a motion to award costs, which this Court granted. 
+
+
+
+
+
+This Court granted summary judgment based on the FLSA and on plaintiff’s breach of contract allegations, brought under Florida law.  Defendants argue that this Court should exclusively apply the Florida fee statute because “Plaintiff brought a claim under §448.08, because in several counts of the Complaint, she seeks attorney’s fees pursuant to that statute.” This Court disagrees. 
+
+First, the two causes of action based on Florida law were brought pursuant to this Court’s supplemental jurisdiction. Second, two thirds of the counts alleged in the complaint were brought pursuant to the FLSA.  Finally, defendants’ arguments supporting granting attorney’s fees under Florida statute § 448.08 all relate to plaintiff having been an independent contractor. This Court determined that plaintiff was an independent contractor pursuant to the claims raised under the FLSA.  Thus, this Court holds that the FLSA statute regarding the award of attorney’s fees should be applied.  It appears from the motion that defendants only sought recovery from plaintiff under §448.08.  Nonetheless, this Court will construe defendants’ fees request as one brought pursuant to the FLSA.  
+
+The traditional “American Rule” provides that attorneys fees are not to be awarded against a party where not provided for by statute, unless the party has been found to have proceeded in bad faith.  See Buckhannon Bd. & Care Home, Inc. v. W. Va. Dep’t of Health and Human Res., 532 U.S. 598, 602 (2001); Alyeska Pipeline Serv. Co. v. Wilderness Soc’y, 421 U.S. 240 (1975). The Fair Labor Standards Act (FLSA) of 1938, 29 U.S.C. § 216(b) directs district courts to award reasonable attorney’s fees and costs to a plaintiff, in addition to any judgment received.  Since the statute is silent as to prevailing defendants, this Circuit has applied the American Rule in such circumstances and has determined that courts may award a prevailing defendant his attorney’s fees and costs under the FLSA if the plaintiff conducted the litigation in “bad faith, vexatiously, wantonly or for oppressive reasons.” Turlington v. Atlanta Gas Light Co., 135 F.3d 1428, 1437 (11th Cir. 1998); see also, Kreager v. Solomon & Flanagan, 775 F.2d 1541, 1543 (11th Cir. 1985); Goss v. Killian Oaks House of Learning, 248 F.Supp.2d 1162, (S.D.Fla. 2003).  Bad faith is determined by focusing on a party’s conduct and motive rather than on the validity of the case.  Kreager at 1543, citing Rothenberg v. Security Management Co., Inc., 736 F.2d 1470, 1472 (11th Cir. 1984).  The bad faith standard is not limited to suits filed in bad faith but also extends to acts preceding and during the litigation. Kreager at 1543. 
+
+Defendants cite this Court’s statements during the summary judgment hearing to support its argument for fees under the FLSA statute.  During that hearing, this Court commented that it appeared that the “employee” was actually an independent contractor, in fact, that this was the strongest case showing independent contractor status ever brought before it and that the case was accordingly frivolous.  When rendering its final decision granting defendants’ motion for summary judgment, this Court found overwhelming evidence to show that plaintiff was an independent contractor.  
+
+This Court stands by its earlier statements but is concerned that, while plaintiff’s counsel may have possessed the skill necessary to determine whether the suit was meritorious, it does not appear that plaintiff herself could make that determination.  “Even if the Court perceived [an] attorney as being primarily at fault for filing the frivolous claim, that perception should play no role in its determination to assess [] fees against [the party herself].”  Torres v. City of Orlando, 264 F.Supp.2d 1046, 1051 n. 9 (M.D. Fla. 2003).  The record does not show that plaintiff persisted with the claim in malice.  In fact, it appears that she believed that she deserved payment for the months of service she provided to defendant.  There is nothing in the record to indicate that plaintiff had any legal training or otherwise had any special knowledge regarding this area of the law to convince her that her claim was meritless and that she should therefore abandon it.  
+
+After considering defendants’ arguments, this Court is guided by language found in Christiansberg Garment Co. v. E.E.O.C., 434 U.S. 412, 422 (1978): “[e]ven when the law or the facts appear questionable or unfavorable at the outset, a party may have an entirely reasonable ground for bringing suit.”  Bad faith is a stringent standard that makes it difficult for a defendant to prevail.  This Court agrees with plaintiff that defendants have failed to show any conduct proving that she pursued this litigation in bad faith.  Rather, defendants argue that since this Court found no merit to the claim, since plaintiff lost, that this Court should award fees.  As stated above, that is insufficient to prove bad faith.  Accordingly, attorney’s fees against the plaintiff shall not be awarded. 
+
+Defendants also seek an award of fees under 28 U.S.C. § 1927 against  plaintiff’s counsel arguing that she unreasonably and vexatiously multiplied the proceedings in this case.  Section 1927 allows a party to recovery attorney’s fees and costs from opposing counsel who “so multiplies the proceedings in any case unreasonably and vexatiously may be required by the court to satisfy personally the excess costs, expenses, and attorney’s fees reasonably incurred because of such conduct.”  As such, the statute is penal in nature and must be strictly construed.  Monk v. Roadway Exp., Inc., 599 F.2d 1378, 1382 (5th Cir. 1979); Smartt v. First Union National Bank, 245 F.Supp.2d 1229, 1234 (M.D. Fla. 2003).  An attorney acts with bad faith when he knowingly or recklessly pursues a frivolous claim; mere negligence is insufficient.  Smith v. Grand Bank & Trust of Florida, 193 Fed. Appx.833, 837 (11th Cir. 2006). Bad faith can be either objective or subjective. Amlong & Amlong, P.A. v. Denny’s Inc., 475 F.3d 1180, 1191 (11th Cir. 2006). 
+
+Defendants support their claim by relying on an inconsistency in plaintiff’s evidence found in her deposition testimony and an affidavit that she filed in support of her motion for summary judgment.  In the order granting defendants’ motion for summary judgment, this Court declined to consider the affidavit as it contradicted plaintiff’s deposition testimony.   Although plaintiff’s counsel argued that the affidavit did not contradict the deposition testimony, but rather clarified the deposition, this Court disagreed.  
+
+This Court is persuaded by the weight of the evidence in the case that led it to comment during the summary judgment hearing that this case was the strongest case indicating independent contractor status that it had seen and that the case was accordingly frivolous.  While plaintiff herself may not have had the legal knowledge to realize the merlitlessness of her claim, her attorney should.  Plaintiff’s counsel has appeared before this Court numerous times on similar claims and bills herself as specializing in labor law.  As explained in this Court’s order granting defendants’ motion for summary judgment, application of the economic realities test showed that plaintiff was an independent contractor.  Plaintiff had nearly complete control over the manner that the work was to be preformed.  She controlled the potential for profit or loss, there was no permanency to the relationship and, most importantly, plaintiff specifically admitted that she was economically dependent on a different job.  
+
+These facts became apparent after the conclusion of discovery where the evidence simply did not, in any form, support plaintiff’s argument; her counsel should have known that and advised her client to voluntarily dismiss the case at that time.  Instead, plaintiff’s counsel filed an affidavit directly contradicting plaintiff’s own deposition testimony in an attempt to salvage the litigation. For example, as noted in the order granting summary judgment, plaintiff testified at her deposition that she was economically dependent on her nursing job, but then stated in her affidavit that she was economically dependent on her position with defendants.  This was not merely a clarification as argued by plaintiff’s counsel, but rather a direct contradiction of plaintiff’s prior testimony. 
+
+Although it may be true that plaintiff herself believed that her case had merit, and may have convinced her counsel that a lawsuit should be filed, after discovery, counsel should have known that no claim existed and should have advised her client to dismiss the suit accordingly. Torres v. City of Orlando, 264. F.Supp.2d 1046, 1054 (M.D. Fla. 2003)(“A client’s good faith belief in a claim does not automatically make that claim meritorious.”).  As an officer of the court, every attorney have a duty to be candid and loyal and an attorney’s duty to zealously prosecute a case for his client cannot outweigh his or her obligation to the court. Malautea v. Suzuki Motor Co., Ltd., 987 F.2d 1536, 1546-47 (11th Cir. 1993). Accordingly, when an attorney “knows or reasonably should know that a claim pursued is frivolous ... , a trial court does not err by assessing fees attributable to such actions against the attorney.”  Jones v. Continental Corp., 789 F.2d 1225, 1230 (6th Cir. 1986). This Court holds that plaintiff’s counsel is liable for defendants’ attorney’s fees to the extent that she multiplied the proceedings. Thus, plaintiff’s counsel will be responsible for defendants’ attorney’s fees incurred after the conclusion of discovery, the point at which she should have been aware that the suit was meritless.  Lodestar 
+
+The Court has discretion in awarding attorney’s fees based on the lodestar framework. The lodestar framework should include only those hours that were reasonably expended on the litigation, and a prevailing party bears the burden of producing the time records that specify for each partner, associate and paralegal the date, hours expended, and nature of the work done so that the Court may audit the hours and determine what the reasonable fee award should be.  See In re First Colonial Corp. Of America 544 F.2d 1291, 1300 (5th Cir. 1977).  A reasonable hourly rate is the “prevailing market rate in the relevant legal community for similar services by lawyers of reasonably comparable skills, experience, and reputation.” ACLU v. Barnes, 168 F.3d 423, 426 (11th Cir. 1999). “Satisfactory evidence” of the prevailing market rate requires more than the affidavit of the attorney performing the work and can involve direct evidence of charges by lawyers under similar circumstances.  Harbaugh v. Greslin, 365 F. Supp. 2d 1274, 1281 (S.D. Fla 2005).  
+
+
+
+The Court has final discretion as to the reasonableness of the rates.  "Evidence of rates may be adduced through direct evidence of charges by lawyers under similar circumstances or by opinion evidence." Norman v. Hous. Auth. Of City of Montgomery 836 F.2d 1292 (11th Cir. 1988). The Court is itself considered an expert and can make an informed judgment as to a proper award of fees even without the benefit of outside testimony. Id at 1303. 
+
+To determine the reasonableness of rates, this Court is guided in part by two articles regarding attorney rates.  First, is the Florida Bar’s 2004 Economics and Law Office Management Survey.  This survey indicates that less than 50% of attorneys in Florida charge more than $200 per hour, and only 13% charge $300 or more per hour.  See Fla. Bar News, Feb. 1, 2005 at 14. 
+
+Second, is a December 31, 2007 article appearing in the Daily Business Review titled “Still Expanding.”  That article reported  survey results from “the nation’s 250 largest law firms to provide a range of hourly billing rates for partners and associates.”  Three of the reporting firms are headquartered in Florida.  Broad and Cassel of Orlando reported an average fee of $361 per hour for partners and $232 for associates.  Carlton Fields, of Tampa, reported an average fee of $406 for partners and $243 for associates.  Finally, Gray Robinson, of Orlando, reported an average fee of $319 for partners and $198 for associates.  
+
+Based on this Court’s own expertise in determining the reasonableness of attorney’s fees, as well as the above articles, this Court concludes that defense counsel’s rate of $250.00 per hour is reasonable. 
+
+
+
+ 
+
+The next step in calculating attorney’s fees is to calculate the reasonable hours that should be expended on similar litigation. The party seeking the fees must keep “meticulous, contemporaneous time records that reveal for each lawyer whose fees are sought, all hours for which compensation is requested and how those hours were allotted to specific tasks.” Ramos v. Lamm, 713 F. 2d 546, 553 (10th Cir. 1983).  Additionally, when considering the detailed list of tasks, the Court considers the “possibility that reported hours include duplication by reviewing with particular care the numbers of lawyers present and by evaluating the roles played by the lawyers in the litigation generally.” Id at 554. 
+
+After a thorough review of the record, this Court holds that plaintiff’s counsel shall pay defendants’ attorney’s fees commencing at the point that she began to multiply the proceedings; after the close of discovery.  It appears from the time sheet submitted by defense counsel that active discovery ended on September 14, 2006.  
+
+Finally, this Court declines to award all of the time reported for the drafting of the motion for attorney’s fees.  Nearly one-third of defendants’ motion reargues the issues that this Court already granted in defendants’ favor.  Those issues were irrelevant to the determination of this motion.  Plaintiff’s counsel should not have to pay for time spent unnecessarily.  Accordingly, the time spent drafting and reviewing the motion for attorney’s fees will be reduced by one-third. 
+
+In sum, defense counsel will be awarded fees for 93.5  hours of work at a rate of $250.00 per hour.  Based on the above, defendants are awarded $23,375.00 in attorney’s fees. Accordingly, it is hereby: 
+
+ORDERED AND ADJUDGED that defendants’ Motion for Attorney’s Fees [DE 76] is PARTIALLY GRANTED as follows:  
+
+(1) 
+
+Defendants Motion is DENIED as against plaintiff. 
+
+
+
+(2) 
+
+Defendants’ Motion is GRANTED as against plaintiff’s counsel, Cathleen Scott. Cathleen Scott, P.A. is directed to pay defendants $23,375.00 in attorney’s fees pursuant to 28 U.S.C. §1927. 
+
+
+
+
+
+
+

@@ -1,0 +1,309 @@
+
+Presently pending and ready for resolution in this Fair Labor Standards Act collective action are Plaintiffs’ motion for partial summary judgment (ECF No. 45), and Defendants’ cross motion for partial summary judgment (ECF No. 46). The issues have been briefed, and the court now rules, no hearing being deemed necessary. Local Rule 105.6. For the following reasons, Plaintiffs’ motion for partial summary judgment will be granted in part and denied in part. Defendants’ motion for partial summary judgment will be denied. 
+
+
+
+Plaintiffs Laura McFeeley, Danielle Everett, Crystal Nelson, Dannielle Arlean McKay, Jenny Garcia, Patrice Howell, and Tarshea Jackson (collectively, “Plaintiffs”), on behalf of themselves and all others similarly situated, filed this collective action against the exotic dance clubs, Fuego’s Exotic Dance Club (“Fuego”) and Extasy Exotic Dance Club (“Extasy”), and the individuals and entities that operate both of them: Defendants Jackson Street Entertainment, LLC; Risque, LLC; Quantum Entertainment Group, LLC; Nico Enterprises, Inc.; XTC Entertainment Group, LLC; and Uwa Offiah (collectively, “Defendants”) for violations of the minimum wage and overtime provisions of the Fair Labor Standards Act (“FLSA”), 29 U.S.C. §§ 201, et seq., the Maryland Wage and Hour Law (“MWHL”), Md. Code, Lab. & Empl. §§ 3-401, et seq., and the Maryland Wage Payment and Wage Collection Law (“MWPWC”), Md. Code Ann., Lab. & Empl. §§ 3-501 et seq. (ECF No. 31). Defendants filed counterclaims against Plaintiffs for breach of contract and unjust enrichment.1 (ECF No. 32). 
+
+Defendants own and operate Fuego and Extasy exotic dance clubs, located in Prince George’s County, Maryland. (ECF No. 45-1, at 3-4). Defendants have operated Fuego since 2008 and Extasy since mid to late 2010. (ECF No. 46-1, at 6). Defendant Uwa Offiah (“Mr. Offiah”) is the sole owner of both Fuego and Extasy and holds the only financial interest in the clubs. (ECF No. 45-10, at 6-7). Defendants have always classified the dancers at both Fuego and Extasy by contract as independent contractors. (ECF No. 45-10, at 8, 17). Plaintiffs are current or former exotic dancers who danced between April 2009 and the 
+
+1 Defendants also filed a claim for quantum meruit. In the parties’ motions, however, they only discuss the unjustenrichment and breach of contract claims. 
+
+present at either one or both of Defendants’ clubs. (ECF No. 45-1, at 3). There is no dispute that, during their time as exotic dancers at Fuego and Extasy, Plaintiffs did not receive compensation in the form of hourly wages. Plaintiffs signed “lease agreements”2 wherein they were classified as independent contractors of Fuego and Extasy (“the clubs”). As a part of the compensation arrangement under these agreements, Plaintiffs received money from customers, including in the form of performance fees and customer tips. (ECF No. 45-10, at 8). 
+
+On April 3, 2012, Plaintiff Laura McFeeley filed an initial complaint. (ECF No. 1). On April 18, 2012, an amended complaint was filed adding Danielle Everett as plaintiff. (ECF No. 3). Defendants answered on May 21, 2013, and filed a counterclaim against Plaintiffs McFeeley and Everett. On August 24, 2012, Plaintiffs moved to facilitate identification of other similarly situated individuals. (ECF No. 8). On November 26, 2012, the undersigned granted in part and denied in part Plaintiffs’ motion to dismiss Defendants’ counterclaims. (ECF Nos. 13 and 14). The same day, the undersigned conditionally certified an FLSA collective class. (ECF No. 15, at 1). Subsequently, the remaining Plaintiffs — Crystal Nelson, 
+
+2 Mr. Offiah, on behalf of Fuego and Extasy, had Plaintiffssign agreements regarding the terms of their workingrelationship that are titled “Space/Lease Rental Agreement ofBusiness Space” (“lease agreement”). (See, e.g., ECF Nos. 46-2 & 46-3). 
+
+Dannielle Arlean McKay, Jenny Garcia, Patrice Howell, and 
+
+Tarshea Jackson — joined the action as “opt-in” plaintiffs. 
+
+(ECF Nos. 18, 20, 26, 28, and 33). 
+
+On May 6, 2013, Plaintiffs filed a second amended 
+
+complaint. (ECF No. 31). Defendants answered on May 9, 2013, 
+
+and simultaneously filed counterclaims against all Plaintiffs. 
+
+(ECF No. 32). Plaintiffs answered on May 15, 2013.3 (ECF No. 
+
+34). On January 3, 2014, Plaintiffs moved for partial summary 
+
+judgment. (ECF No. 45). Plaintiffs ask the court to find in 
+
+their favor on several issues: 
+
+(1) 
+
+That, at all times relevant, each Plaintiffwas an employee of Defendants under the FLSAand MWHL and was never an independentcontractor; 
+
+
+
+(2) 
+
+That Defendants violated the FLSA and MWHL by compensating Plaintiffs at an hourly rateless than the FLSA and MWHL required minimumwage and overtime rate; 
+
+
+
+(3) 
+
+That Plaintiffs are entitled to recover unpaid wage damages and that Plaintiffs’ unpaid wage damages should be calculated atan hourly rate not less than the FLSA andMWHL minimum wage, free and clear of anykickbacks, fees, fines, or charges paid byPlaintiffs to Defendants; 
+
+
+
+(4) 
+
+That Uwa Offiah was at all times Plaintiffs’ employer under the FLSA and MWHL, and assuch is jointly and severally liable to Plaintiffs along with the corporateDefendants; 
+
+
+
+
+
+3
+
+ Plaintiffs submitted an amended answer to Defendants’ counter-complaint on May 28, 2013. 
+
+(5) 
+
+That Plaintiffs are entitled to recover liquidated damages in an equal amount toPlaintiffs’ to-be-determined unpaid wagesunder the FLSA; and 
+
+
+
+(6) 
+
+That Defendants’ service fee “offset” or “set off” fails as a matter of law and maynot be applied to mitigate or negate any tobe-determined damages owed by Defendants toPlaintiffs. 
+
+
+
+
+
+(ECF No. 45-1, at 1-2). 
+
+Defendants filed their opposition to Plaintiffs’ motion for partial summary judgment and cross moved for partial summary judgment on their counterclaims on January 21, 2014. (ECF No. 46). Plaintiffs opposed Defendants’ cross motion on February 7, 2014.4 (ECF No. 48). 
+
+
+
+
+Rule 56(a) of the Federal Rules of Civil Procedure, permits a party to move for summary judgment or partial summary judgment by identifying “each claim or defense — or the part of each claim or defense — on which summary judgment is sought.” (emphasis added). “[P]artial summary judgment is merely a pretrial adjudication that certain issues shall be deemed established for the trial of the case. This adjudication . . . serves the purpose of speeding up litigation by” narrowing the issues for trial to those over which there is a genuine dispute of material fact. Rotorex Co. v. Kingsbury Corp., 42 F.Supp.2d 
+
+4 Defendants did not file a reply to Plaintiffs’ opposition. 
+
+563, 570-71 (D.Md. 1999) (internal quotation marks omitted) (noting that “numerous courts have entertained and decided motions for partial summary judgment addressing particular issues”). 
+
+A motion for summary judgment shall be granted only if there exists no genuine dispute as to any material fact and the moving party is entitled to judgment as a matter of law. See Fed.R.Civ.P. 56(a); Celotex Corp. v. Catrett, 477 U.S. 317, 322 (1986); Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 250 (1986). The moving party bears the burden of showing that there is no genuine dispute as to any material fact. However, no genuine dispute of material fact exists if the nonmoving party fails to make a sufficient showing that a genuine dispute exists. Celotex, 477 U.S. at 322–23. Therefore, on those issues on which the nonmoving party has the burden of proof, it is his or her responsibility to confront the summary judgment motion with an affidavit or other similar evidence showing that there is a genuine dispute for trial. 
+
+In Anderson v. Liberty Lobby, Inc., the Supreme Court of the United States explained that, in considering a motion for summary judgment, the “judge’s function is not himself to weigh the evidence and determine the truth of the matter but to determine whether there is a genuine issue for trial.” 477 U.S. at 249 (1986). A dispute about a material fact is genuine “if the evidence is such that a reasonable jury could return a verdict for the nonmoving party.” Id. at 248. Thus, “the judge must ask himself not whether he thinks the evidence unmistakably favors one side or the other but whether a fair-minded jury could return a verdict for the [nonmoving party] on the evidence presented.” Id. at 252. 
+
+In undertaking this inquiry, a court must view the facts and the reasonable inferences drawn therefrom “in the light most favorable to the party opposing the motion.” Matsushita Elec. Indus. Co. Ltd. v. Zenith Radio Corp., 475 U.S. 574, 587 (1986) (quoting United States v. Diebold, Inc., 369 U.S. 654, 655 (1962)); see also E.E.O.C. v. Navy Fed. Credit Union, 424 F.3d 397, 405 (4th Cir. 2005). The mere existence of a “scintilla” of evidence in support of the non-moving party’s case is not sufficient to preclude an order granting summary judgment. See Anderson, 477 U.S. at 252. A “party cannot create a genuine dispute of material fact through mere speculation or compilation of inferences.” Shin v. Shalala, 166 F.Supp.2d 373, 375 (D.Md. 2001) (citation omitted). Indeed, this court has an affirmative obligation to prevent factually unsupported claims and defenses from going to trial. See Drewitt v. Pratt, 999 F.2d 774, 778–79 (4th Cir. 1993) (quoting Felty v. Graves–Humphreys Co., 818 F.2d 1126, 1128 (4th Cir. 1987)). 
+
+
+
+
+The first issue in Plaintiffs’ motion for partial summary judgment is whether the dancers at Fuego and Extasy were employees within the meaning of the FLSA and the MWHL.5 The FLSA defines “employee” as “any individual employed by an employer.” To “employ” includes “to suffer or permit to work.” 29 U.S.C. §§ 203(e)(1), 203(g). The definition of employee is to be liberally construed and applied in accordance with the remedial nature of the Act. Schultz v. Capital Int’l Sec., Inc., 466 F.3d 298, 304 (4th Cir. 2006). To determine whether an individual is an employee or an independent contractor under the FLSA, the court must look to the “economic realities” of the relationship between the worker and the putative employer by analyzing the following six factors: 
+
+(1) [T]he degree of control that the putative employer has over the manner inwhich the work is performed; (2) the worker’s opportunities for profit or lossdependent on his managerial skill; (3) theworker’s investment in equipment or material, or his employment of other workers; (4) the degree of skill requiredfor the work; (5) the permanence of theworking relationship; and (6) the degree towhich the services rendered are an integralpart of the putative employer’s business. 
+
+5
+
+ Plaintiffs have not asked for a determination of whether they are employees under the MWPCL. (ECF No. 45, at 1-2). 
+
+Schultz, 466 F.3d at 304-05. No single factor is dispositive and “courts are directed to look at the totality of the circumstances[.]” Thompson v. Linda And A., Inc., 779 F.Supp.2d 139, 147 (D.D.C. 2011) (internal quotations omitted); see also Rutherford Food Corp. v. McComb, 331 U.S. 722, 730 (1947) (“[T]he determination of the [employee-employer] relationship does not depend on such isolated factors but rather upon the circumstances of the whole activity.”). Courts analyze employee status under the MWHL using the same six-prong “economic realities” test as the FLSA. See Randolph v. PowerComm Const., Inc., No. PWG-13-1696, 2014 WL 1260722, at *6-9 (D.Md. Mar. 25, 2014) (analyzing simultaneously whether the plaintiff was an employee or an independent contractor under both the MWHL and the FLSA by applying the six-factor economic realities test); See also Heath v. Perdue Farms, Inc., 87 F.Supp.2d 452, 458-59 (D.Md. 2000) (applying the six-factor economic realities test in analyzing whether crew leaders were employees or independent contractors for the purpose of both the FLSA and the MWHL).6 
+
+6 The MWHL is the state statutory equivalent of the FLSA.Watkins v. Brown, 173 F.Supp.2d 409, 416 (D.Md. 2001). Both the MWHL and the FLSA have similar purposes, almost identicaldefinitions of “employer,” and the MWHL contains internal references to the FLSA. Id. The requirements under the MWHLare so closely linked to the FLSA that “[p]laintiffs’ claimunder the MWHL stands or falls on the success of their claim under the FLSA.” Turner v. Human Genome Sci., Inc., 292F.Supp.2d 738, 744 (D.Md. 2003). 
+
+The focal point of the economic realities analysis is “whether the worker is economically dependent on the business to which he renders service or is, as a matter of economic [reality], in business for himself.” Schultz, 466 F.3d at 304 (internal quotations omitted). Courts must look to the economic reality of the working relationship rather than any labels given by the parties when determining liability under the FLSA and the MWHL. See Calle v. Chul Sun Kang Or, No. DKC 11-0716, 2012 WL 163235 (D.Md. Jan. 18, 2012) (citing Heath, 87 F.Supp.2d at 457); see also Quinteros v. Sparkle Cleaning, Inc., 532 F.Supp.2d 762, 768 (D.Md. 2008) (“[E]ven if a contract clearly defines the relationship as one of client/subcontractor, it may still constitute an employer/employee relationship for purposes of the FLSA.”). 
+
+If after application of the six “economic reality” factors the moving party has shown that there is “no doubt” as to the relationship between the parties, the court may determine as a matter of law that the worker is an employee or independent contractor. Heath, 87 F.Supp.2d at 459; Viar-Robinson v. Dudley Beauty Salon, No. PWG-12-1794, 2013 WL 6388646, at *6 (D.Md. Dec. 5, 2013). If the parties dispute numerous material facts that impact the application of these factors, the movant has failed to show the worker’s status as a matter of law and is not entitled to summary judgment on this issue. Calle, 2012 WL 163235, at *7; see also Solis v. Gen. Interior Sys., Inc., No. 5:08-CV-0823 NPM/ATB, 2012 WL 1987139, at *4 (N.D.N.Y. June 1, 2012) (denying plaintiff’s motion for summary judgment because the parties disputed, “by identifying contradictory evidence, . . . virtually each factual conclusion underlying the factors of the economic reality test”). 
+
+a. Degree of Control Over Worker 
+
+The court must first consider the “degree of control that the putative employer has over the manner in which the work is performed[.]” Schultz, 466 F.3d at 304-05. In considering the degree of control exercised by the club over the dancer, courts should look not only at the club’s rules and guidelines regarding the dancers’ performances and behavior, “but also to the club’s control over the atmosphere and clientele.” Butler 
+
+v. PP & G, Inc., No. WMN-13-430, 2013 WL 5964476, at *3 (D.Md. Nov. 7, 2013) reconsideration denied, No. WMN-13-430, 2014 WL 199001 (D.Md. Jan. 16, 2014). Examples of clubs exerting significant control include: fining dancers for absences and tardiness; enforcing behavioral rules; setting minimum performance fees; and requiring dancers to sign in upon arrival. Id.; see also Reich v. Circle C. Investments, Inc., 998 F.2d 324, 327 (5th Cir. 1993) (finding significant control where the employer fined dancers, set minimum prices, promulgated rules concerning dancers’ behavior, and required dancers to be on the floor at opening time); Hart v. Rick’s Cabaret Int’l, Inc., 967 F.Supp.2d 901, 913-19 (S.D.N.Y. 2013) (holding that club exerted significant control where it had written behavioral guidelines and imposed fines on the dancers); Thompson, Inc., 779 F.Supp.2d at 148 (finding significant control where dancers were required to sign in, follow a schedule, and follow the club’s rules). In Butler, 2013 WL 5964476, at *3-4, the court found that although the club did not exercise control “over the day-to-day decisions and work of its dancers,” it still exercised significant control over the dancers by way of controlling the overall atmosphere of the club through advertising, setting business hours, maintaining the facility, and maintaining aesthetics. The court noted that the dancers were “entirely dependent on the [club] to provide [them] with customers, and [their] economic status ‘is inextricably linked to those conditions over which [the club has] complete control.’” Id. (quoting Reich v. Priba Corp., 890 F.Supp. 586, 592 (N.D.Tex. 1995)). Similarly in Thompson, 779 F.Supp.2d at 148, the court cited to the defendants’ rules — that prohibited “cussing, fighting, biting, scratching or drugs,” and a prohibition against inappropriate behavior on stage — when deciding that the control factor weighed in favor of the dancers. 
+
+Defendants argue that they exercised minimal control over the dancers. (ECF No. 46-1, at 22-25). They state that they did not set schedules for the dancers; rather, the dancers were permitted to pick their own schedules. (Id. at 23). They add that they did not control the dancers’ performances. (Id. at 24). Defendants further contend that they did not reprimand the dancers or inform them that they were “not following the rules.” (Id. at 23). 
+
+Plaintiffs disagree, arguing that Defendants controlled almost every aspect of their work from the moment they were hired. Plaintiffs also provide a set of club-imposed written guidelines that Defendants gave them regarding dancer conduct and prices for private dances. (ECF No. 45-18 “Rule Book”) (“Violators of the above rules and regulations will be kicked out of the club. Indefinitely.”). Defendants argue that they did not enforce some of the rules and fees in the guidelines; thus, Defendants believe that the rules are not evidence of Defendants’ control over the dancers. (ECF No. 45-10, at 21). Courts have previously found, however, that even if a fine is not implemented or is retracted, “written threat to impose such fines, and its imposition of such fines on non-compliant dancers, even if largely retracted, is strong evidence of its control over them.” Hart, 967 F.Supp.2d at 917; see also Clincy 
+
+v. Galardi S. Enters., Inc., 808 F.Supp.2d 1326, 1345 (N.D.Ga. 2011) (finding that despite not enforcing its rules consistently or uniformly, a club exercised a significant amount of control over dancers merely by its potential authority to discipline dancers for breaking club rules). An employer’s “potential power” to enforce its rules and manage dancers’ conduct is a form of control. See Hart, 967 F.Supp.2d at 918. 
+
+Aside from Defendants’ club rules, Defendants exercised control over dancers in other ways. For example, Extasy’s operations manager, Doguy Kamara, stated that he “coached” dancers whom he believed did not have the right attitude or were not behaving properly in the clubs. (ECF No. 45-9, at 26). Dancers were also required to sign in when they entered the clubs and to pay a “tip in.” (ECF No. 45-9, at 10-11, 34). 
+
+Furthermore, Defendants maintained the clubs’ atmospheres as they were responsible for advertising and day-to-day operations in the clubs. (ECF No. 45-10, at 10-12). Defendants set hours of operation, the price of entrance for patrons and dancers, and the types of food and beverages sold. Defendants also set the prices for lap dances and dances in the VIP room. (ECF No. 45-9, at 8, 13-15). Thus, Defendants exercised 
+
+significant  control  over  the  atmosphere,  clientele,  and  
+
+operations of the clubs.  
+
+
+The  second  element  of  the  economic  realities  test  is  
+
+
+
+whether the worker’s opportunity for profit or loss is dependent on her managerial skills. See Schultz, 466 F.3d at 305. “[T]he 
+
+ability to generate more money based on skill and hard work denotes independent contractor status.” Herman v. Mid-Atlantic Installation Servs., Inc., 164 F.Supp.2d 667, 674 (D.Md. 2000). 
+
+Defendants argue that the dancers’ compensation was largely dependent on each dancer’s own skill and ability to attract customers, as well as the dancer’s ability to decide how many days per week she would work. (ECF No. 46-1, at 25-27). Defendants highlight that the dancers sold tickets for club events, passed out flyers to attract more customers to the club, and allowed their photos to be used on promotional flyers. (Id. at 25-26). Defendants also contend that the dancers could negotiate private dance fees with patrons and that their compensation largely depended on their level of dancing skill. (Id. at 26-27). Defendants cite to Matson v. 7455, Inc., No. CV 98-788-HA, 2000 WL 1132110 at *4 (D.Or. Jan. 14, 2000), for the proposition that when compensation is dependent on the plaintiff’s own skill to attract customers, she was in control of her own profit or loss. (Id. at 26). 
+
+Plaintiffs counter that the amount the dancers stood to lose or gain was “generally a function of the actions the clubs, not the entertainers, [took].” (ECF No. 45-1, at 18). Plaintiffs cite Harrell v. Diamond A Entertainment, Inc., 992 F.Supp. 1343 (M.D.Fla. 1997), to support their contention that Plaintiffs had little financial risk and minimal control over the profits they stood to make at the clubs. (ECF No. 45-1, at 19). Harrell, in relevant part, states that: 
+
+[a dancer] risks little more than [her]daily “tip out” fee, the cost of her costumes, and her time. That a dancer mayincrease her earnings by increased ‘hustling’ matters little. As is the case with the zealous waiter at a fancy, fourstar restaurant, a dancer’s stake, her takeand the control she exercises over each of these are limited by the bounds of goodservice; ultimately, it is the restaurantthat takes the risks and reaps the returns. 
+
+992 F.Supp. at 1352 (M.D.Fla. 1997). 
+
+Exotic dance clubs have argued that a dancer’s potential for greater profits relies on her skill as a dancer and her ability to entice customers to give large tips. See Thompson, 779 F.Supp.2d at 149 (citing Harrell, 992 F.Supp. at 1350­52). This argument — that dancers can “hustle” to increase their profits — has been almost universally rejected. See id.; Hart, 967 F.Supp.2d at 920; Clincy, 808 F.Supp.2d at 1346 n.12; Harrell, 992 F.Supp. at 1350, 1352; Priba Corp., 890 F.Supp. at 593. 
+
+In explaining why “hustling” was not the type of initiative contemplated by this element, the Priba court articulated that an individual can “hustle” even in an employment relationship. Priba Corp., 890 F.Supp. at 593. Therefore, dancers’ ability to increase their earnings by exercising initiative does not necessarily indicate that dancers are independent contractors. 
+
+While it is true that “once customers arrive at [the club], a dancer’s initiative, hustle, and costume significantly contribute to the amount of her tips,” the club’s owner in fact significantly controls the dancers’ opportunity for profit or loss, as he “has a significant role in drawing customers to [his] nightclub.” Thompson, 779 F.Supp.2d at 149 (quoting Circle C. Invs., 998 F.2d at 328). The club and its owners, through “advertisement, location, business hours, maintenance of facilities, aesthetics, and inventory of beverages and food” controlled customer volume in the clubs. The clubs therefore significantly controlled the dancers’ opportunity for profit. Reich, 998 F.2d at 328. A clubs’ setting of minimum prices for services also controls the dancers’ ultimate ability to earn a profit. See Priba Corp., 890 F.Supp. at 593 (finding that a club controlled the opportunity for profit and loss when it set the minimum charge for table dances); see also Usery v. Pilgrim Equip. Co., 527 F.2d 1308, 1313 (5th Cir. 1976) (recognizing the significance of the putative employer’s control over profits and losses through implementing price controls, selecting businesses’ locations, and controlling advertising in finding that laundry service workers were employees). 
+
+Here, dancers could promote themselves by handing out flyers with their pictures on them and encouraging potential customers to come to the club. They also could show extra initiative while in the clubs to try to increase their performance fees and tips. Defendants, however, controlled the stream of clientele that appeared at the clubs by setting the clubs’ hours, coordinating and paying for all advertising, and managing the atmosphere within the clubs. (ECF No. 45-10, at 10-12). Plaintiffs’ ostensibly sustained no losses aside from their “tip in” fee and their time. Harrell, 992 F.Supp. at 1354. Most importantly, although Defendants argue that Plaintiffs could negotiate their own prices for dances, Defendants also admit that the club set prices for lap dances and VIP room dances. (ECF No. 45-9, at 14, 19). Thus, Defendants ultimately controlled a key determinant — pricing — affecting Plaintiffs’ ability to make a profit. Furthermore, Defendants’ rule book states “do not [overcharge] our customers. If you do, you will be kicked out of the club.”  (ECF No. 45-18, at 2). Even assuming this rule was not enforced, this potential consequence displays Defendants’ effort to control the prices that dancers charged customers. This factor also weighs in favor of Plaintiffs. 
+
+
+
+
+
+The third element in the economic realities test is Plaintiffs’ level of investment in the business, including their “investment in equipment or material, or [their] employment of other workers.” Schultz, 466 F.3d at 305. In analyzing this factor, courts look to the capital investments made in the dance club by the dancers and club owners respectively. Morse v. Mer Corp., No. 1:08-CV-1389-WTL-JMS, 2010 WL 2346334, at *4-5 (S.D. Ind. June 4, 2010) (noting that “[a] dancer’s investment in costumes . . . is relatively minor to the considerable investment [the club] has in operating a nightclub. [It] leases fixtures for the nightclub . . . owns sound equipment and music, maintains and renovates the facilities, and advertises extensively”) (quoting Circle C. Invs., 998 F.2d at 327) (internal citations omitted). 
+
+Defendants concede that they pay: rent for both clubs; the clubs’ bills such as water and electric; business liability insurance; and for radio and print advertising for the clubs. (ECF No. 45-10, at 11-12).7 Defendants also pay wages to the clubs’ security guards, bartenders, cashiers, and the disc jockey. (Id. at 12). Defendants contend, however, that Plaintiffs’ participation in advertising activities, such as passing out flyers, demonstrates their investment in the clubs. (ECF No. 46-1, at 27-28). Defendants also state that Plaintiffs were responsible for providing their own wardrobe when performing (ECF No. 45-10, at 22), and sometimes, for special 
+
+7 Rent and advertising alone cost Defendants approximately$6,500 a month. (Id.). 
+
+events, Plaintiffs brought their own food or decorations to the clubs. (ECF No. 46-1, at 27-28). 
+
+These undisputed facts show that Defendants investment in the clubs greatly exceeded Plaintiffs’ investment. Aside from the dancers providing their own work apparel and occasional food and decorations for events, Plaintiffs did not invest in the exotic dance clubs. 
+
+
+
+
+The fourth element is the “degree of skill required for the work.” Schultz, 466 F.3d at 305. Other courts have held that there is no special skill required to be an exotic dancer, pointing to the lack of instruction, certification, and prior experience required to become an exotic dancer. Thompson, 779 F.Supp.2d at 149-50; Harrell, 992 F.Supp. at 1351; Morse, 2010 WL 2346334, at *5; Butler, 2013 WL 5964476, at *5. 
+
+Here, Defendants concede that individuals did not need any dancing experience before dancing at Fuego or Extasy, (ECF No. 45-9, at 24-25), and that the court is likely to find that no particular skill was necessary for Plaintiffs to dance at their clubs. (ECF No. 46-1, at 29). Indeed, two Plaintiffs had not danced at any other club before starting at Fuego or Extasy. (ECF No. 45-13, at 4; ECF No. 45-11, at 3). Thus, the minimal degree of skill required for exotic dancing at these clubs also weighs in favor of finding that the exotic dancers were employees rather than independent contractors. 
+
+e. Permanency of the Working Relationship 
+
+The fifth element of the economic realities test is the permanence of the working relationship between the putative employer and employee. See Schultz, 466 F.3d at 305. Defendants argue that this factor favors finding Plaintiffs are independent contractors because they were permitted to work without any specified contract-completion date, “could come and go as they please[d,] and were free to dance at other exotic clubs[.]” (ECF No. 46-1, at 30). Plaintiffs contend that the duration of their working relationships with Defendants were more characteristic of employees, as Plaintiffs’ periods of employment ranged from several months to several years. In addition, Plaintiffs argue that their appearances at the clubs were not “sparse ad hoc” appearances, but rather “they were permanent employees, working full time for an indefinite period.” (ECF No. 45-1, at 20) (emphasis in original). 
+
+In previous cases involving exotic dancers, courts have found that the lack of permanence factor is “entitled to only modest weight in assessing employee status under the FLSA,” and many courts have placed less emphasis on this element in comparison to the other elements. Hart, 967 F.Supp.2d at 920; see also Harrell, 992 F.Supp. at 1352 (“Other courts have found that exotic dancers tend to be itinerant, but have tended to place less emphasis on this factor[;] . . . [t]his Court agrees, and places little emphasis on this factor.”); Priba Corp., 890 F.Supp. at 593-94 (noting that the proper focus under this prong is not on the permanence or exclusivity of the relationship, but the nature of the worker’s dependence on the putative employer). The fact that dancers can work at other clubs “[does] not distinguish them from countless workers . . . who are undeniably employees under the FLSA — for example, waiters, ushers, and bartenders” — that may simultaneously work for other businesses. Hart, 967 F.Supp.2d at 920-21. 
+
+Here, dancers at both Fuego and Extasy worked with no specified contract-completion date. Their lease agreements do not specify a date range or term of years, merely stating that “[t]his lease . . . shall continue on an at-will basis until further written notice of termination by the LESSOR or LESSEE.” (ECF No. 46-2, at 3). Some Plaintiffs worked at either Fuego or Extasy for less than a year. Additionally, some dancers worked at other clubs at the same time that they worked at Fuego or Extasy. (ECF No. 45-14, at 5; ECF No. 45-12, at 4).  In sum, Defendants and Plaintiffs had an at-will arrangement that could be terminated by either party at any time. Furthermore, Plaintiffs worked for multiple clubs at the same time. The lack of permanence in the relationship between the clubs and the dancers is not outcome determinative in the overall determination of whether the dancers were employees of the clubs. 
+
+
+
+
+The sixth element to consider is whether the services rendered by Plaintiffs were “an integral part of the putative employer’s business.” Schultz, 466 F.3d at 305. Defendants concede that this factor favors the Plaintiffs, but contend that this factor does not necessarily control whether Plaintiffs were employees of the clubs under the totality of the circumstances. 
+
+“Courts have routinely noted that the presence of exotic dancers [is] ‘essential,’ or ‘obviously very important,’ to the success of a topless nightclub.” Butler, 2013 WL 5964476, at *5. At Fuego and Extasy, the exotic dancers were the only source of entertainment for customers. (ECF No. 45-9, at 12). The exotic dancers were an integral part of Defendants’ businesses, especially considering that neither club served alcohol or food, aside from a few snacks. (ECF No. 45-10, at 10). 
+
+
+After considering the preceding factors in combination and resolving all disputed facts in favor of Defendants, there is no genuine dispute over the nature of the relationship between the parties. While the working relationship between the parties lacks permanence, Defendants exercised significant control over Plaintiffs and had the dominant opportunity for profit or loss. In addition, Plaintiffs were not required to have specialized skills to work for Defendants, made limited investments in the clubs’ equipment and materials. Most importantly, Plaintiffs were economically dependent on the clubs rather than being in business for themselves, and were integral to the clubs’ business. Even though Plaintiffs signed a “lease agreement” that labeled them independent contractors, under the economic realities test, this label is not dispositive. See Butler, 2013 WL 5964476, at *6 (“[N]either the label placed on an employment relationship, nor an individual's subjective belief about her employment status, are dispositive.”). Therefore, Plaintiffs were employees of Fuego and Extasy under the FLSA and MWHL. 
+
+
+The next issue is whether Mr. Offiah can be considered an “employer” under the FLSA and MWHL, such that he would be subject to personal liability for any minimum wage or overtime obligations due to Plaintiffs. Defendants argue that the facts relied upon by Plaintiffs do not support their argument that Mr. Offiah was an employer. (ECF No. 46-1, at 38). Defendants cite Cubias v. Casa Furniture and Bedding, LLC, No. 1:06CV386 (JCC), 2007 WL 150973, at *2 (E.D.Va. 2007) (emphasis added), for the proposition that “[u]nder the FLSA, an employer . . . includes individuals with managerial responsibilities and substantial control over the terms and conditions of an employee’s work.” (Id.). Defendants point to Plaintiffs’ job auditions and work schedules to suggest that Plaintiffs, rather than Mr. Offiah, had substantial control over the terms and conditions of their work. (Id.). 
+
+Plaintiffs contend that Mr. Offiah “had sufficient operational control over [them] and the misclassification [of Plaintiffs as independent contractors] to make him an employer.” (ECF No. 45-1, at 28). They further allege that he controlled all of the day-to-day operations at the clubs, including “hiring and firing, advertising, marketing[,]” and the “rate and method of Plaintiffs’ pay, including the decision to classify Plaintiffs as independent contractors.” (Id.). Plaintiffs add that Mr. Offiah was the “sole owner, officer and shareholder of each of the corporate Defendants in this action.” (Id.). 
+
+The FLSA defines “employer” as including “any person acting directly or indirectly in the interest of an employer in relation to an employee.” 29 U.S.C. § 2013(d). In addition, “[i]t is well settled that an individual may qualify as an employer and face liability under the FLSA.” Roman v. Guapos III, Inc., 970 F.Supp.2d 407, 416 (D.Md. 2013) (emphasis added). To determine whether an individual can be liable as an employer under the FLSA, “courts generally look at the ‘economic reality’ of [the] individual’s status in the workplace.”8 Id. (quoting Gionfriddo v. Jason Zink, LLC, 769 F.Supp.2d 880, 890 (D.Md. 2011). Courts examine a number of factors including “the person’s job description, his or her financial interest in the enterprise, and whether or not the individual exercises control over the employment relationship.” Gionfriddo, 769 F.Supp.2d at 890; Roman, 970 F.Supp.2d at 416. An individual’s high-level status in the business, however, does not automatically impart “employer” liability. Id. at 417. 
+
+Courts in this district also consider the factors set forth in Bonnette v. California Health & Welfare Agency, 704 F.2d 1465 (9th Cir. 1983), to determine whether an individual constitutes an “employer” under the FLSA. See Roman, 970 F.Supp.2d at 417 (citing Bonnette, 704 F.2d at 1470, abrogated on other grounds by Garcia v. San Antonio Metro. Transit Auth., 469 U.S. 528 (1985)); Iraheta v. Lam Yuen, LLC, No. DKC-12-1426, 2012 WL 5995689, at *3 (D.Md. Nov. 29, 2012); Khalil v. Subway at Arundel Mills Office Park, Inc., No. CCB-09-158, 2011 WL 231793, at *2 (D.Md. Jan. 24, 2011). The Bonnette factors include “whether the alleged employer[:] (1) had the power to hire and fire the employees, (2) supervised and controlled employee work 
+
+8
+
+ The “economic reality” test to determine whether anindividual is an employer under the FLSA, analyzes differentfactors than the “economic reality” test to determine whether anindividual is an employee. 
+
+schedules or conditions of employment, (3) determined the rate and method of payment, and (4) maintained employment records.” Bonnette, 704 F.2d at 1470. No single factor is dispositive, and the totality of the circumstances must be considered. Roman, 970 F.Supp.2d at 415. 
+
+The first element is whether the individual has the power to hire and fire employees. See Bonnette, 704 F.2d at 1470. Plaintiffs assert that Mr. Offiah is in charge of the hiring process. (ECF No. 45-1, at 5). Mr. Offiah initially asserts in his deposition that he does not “hire” dancers; instead, he states that he oversees collecting potential workers’ applications and ensuring they audition, but he does not watch the auditions. (ECF No. 45-10, at 15-16). He alleges that after dancers audition, the dancers themselves decide whether or not they want to work at the clubs. (Id. at 15). Mr. Offiah later admits in his deposition, however, that he is the only person at the clubs who can interview and hire dancers, because “[he] want[s] to make sure it is done right.” (Id.) Mr. Offiah also emphasizes that he reviews the terms of the “lease agreement” with applicants. (Id. at 15-16, 18). Despite Mr. Offiah’s assertion that he does not “hire” dancers, it is clear from his deposition that he is the sole person in charge of overseeing the application and audition process at the clubs, and of reviewing the terms of the “lease agreements” with applicants, indicating that he controls the onboarding of new dancers. 
+
+The second element of the Bonnette test is whether the individual “supervised and controlled employee work schedules or conditions of employment.” Bonnette, 704 F.2d at 1470. Mr. Offiah insists that the dancers set their own work schedules. (ECF No. 45-10, at 12-13). Even taking this assertion as true, Mr. Offiah had significant control over the conditions of Plaintiffs’ employment. As owner of Fuego and Extasy, he controlled advertising, ensured that bills were paid, and ensured that the premises were clean and safe. (ECF No. 45-10, at 11-12). He thus controlled the dancers’ work environment. Mr. Offiah also admits that he was in charge of day-to-day operations at Fuego and Extasy. (Id. at 8). As discussed above, Mr. Offiah controlled the onboarding process for new dancers and discussed the terms of their “lease agreements” with them, including the fact that they would not be paid. Taken as a whole, Mr. Offiah had substantial control over the dancers’ conditions of employment. 
+
+The third element is whether the individual “determined the rate and method of payment.” Bonnette, 704 F.2d at 1470. Mr. Offiah contends that he inherited the dancers’ compensation system and the pricing for some of the dancers’ services from the clubs’ previous owners. (ECF No. 45-10, at 21). In his deposition, Mr. Offiah also states that he kept the business practices of his predecessors because they were “successful.” (Id. at 9-10). Mr. Kamara further states that Mr. Offiah was in charge of determining how to classify the dancers and whether or not to pay them wages. (ECF No. 45-9, at 22). Although the clubs’ compensation arrangement with the dancers may not have been his original idea, upon acquiring the clubs, Mr. Offiah made the conscious decision to maintain the status quo for dancers’ compensation. 
+
+The fourth element is whether the individual maintains employment records. Bonnette, 704 F.2d at 1470. Mr. Offiah states in his deposition that he has records of which days the dancers worked through the “sign in” sheets they were required to complete upon entering the clubs. (ECF No. 45-10, at 14, 17­18). He admits, however, that he does not know how much money the dancers earned nor does he have records accounting for this information. (Id. at 26-27). 
+
+Considering the preceding factors in combination, Mr. Offiah was at all times Plaintiffs’ employer under the FLSA. Not only is he the sole individual with ownership and financial interest in the clubs (ECF No. 45-10, at 7-8), he is also in charge of the clubs’ day-to-day operations and controls the conditions of Plaintiffs employment. Mr. Offiah’s attempt to shift blame to past owners for the clubs’ chosen compensation scheme is misplaced, as he made a conscious decision to implement or maintain the employment practices. Therefore, Mr. Offiah is jointly liable for any damages that may be owed to Plaintiffs under the FLSA and MWHL. 
+
+
+
+
+The Plaintiffs, as employees, are entitled by law to receive minimum wage under the FLSA and MWHL. Pursuant to the FLSA, “an employer must pay an employee an hourly wage no less than the federal minimum wage[,]” Butler, 2013 WL 5964476, at *6 (citing 29 U.S.C. § 206(a)(1)), and overtime pay for each hour worked in excess of forty hours per week. Roman, 970 F.Supp.2d at 412 (citing 29 U.S.C. § 207(a)(1)). “The MWHL similarly requires that employers pay the applicable minimum wage to their employees and, in [§§ 3-415 and 3-420 of the Labor and Employment Article], that they pay an overtime wage of at least 1.5 times the usual hourly wage” for each hour worked in excess of forty hours per week. Id. (quoting Friolo v. Frankel, 373 Md. 501, 513 (2003)) (internal quotation marks omitted). 
+
+a. Plaintiffs’ Entitlement to Minimum Wages and OvertimePay 
+
+Defendants do not dispute that neither Fuego nor Extasy paid Plaintiffs wages. (ECF No. 45-10, at 9). Defendants contend, however, that they have not violated the FLSA, because “pursuant to the terms of their contracts . . . Plaintiffs and other dancers received greater compensation [than] they would have earned at a rate of minimum wage.” (ECF No. 46-1, at 33). In sum, they assert that Plaintiffs’ performance fees and tips on average, when divided by the number of hours worked, exceeded minimum wage. Defendants also allege that the performance fees that the dancers retained as part of the clubs’ pre-negotiated prices for dances, satisfy any wage obligations Defendants may have owed Plaintiffs. (Id. at 34). 
+
+Plaintiffs disagree, arguing that the performance fees they received were “tips” rather than “service charges” under the FLSA and thus do not count as wages. Plaintiffs contend that because Defendants charged them fees and did not pay them any wages, their ultimate pay was a “negative hourly rate.” Plaintiffs argue that in order for Defendants to meet their statutory obligations under the FLSA, Defendants must pay Plaintiffs a minimum wage of $7.25 per hour, and return all “tip in” and other fees Defendants charged Plaintiffs. 
+
+When bringing suit under the FLSA, the employee has the initial burden of proving that she was improperly compensated. See Anderson v. Mt. Clements Pottery, Inc., 328 U.S. 680, 687 (1946), superseded by statute on other grounds. “A prima facie case can be made through an employee’s testimony giving [her] recollection of hours worked . . . [and her case] is not to be dismissed nor should recovery be denied, because proof of the number of hours worked is inexact or not perfectly accurate. Donovan v. Kentwood Dev. Co., Inc., 549 F.Supp. 480, 485 (D.Md. 1982). Once the employee establishes this initial burden, the burden then shifts to the employer. Id. The employer has a duty to keep proper and accurate records of the employee’s wages, hours, and other conditions and practices of employment. Id. When employment records are inaccurate or inadequate and the employee cannot offer convincing substitutes, the court “is not to penalize the employee by denying him recovery on the ground that he is unable to prove the precise extent of uncompensated work.” Id. 
+
+“The FLSA requires covered employers to pay ‘nonexempt employees’ a minimum wage for each hour worked, 29 U.S.C. § 206(a), but allows employers to pay less than the minimum wage to employees who receive tips, 29 U.S.C. § 203(m).” Dorsey v. TGT Consulting, LLC, 888 F.Supp.2d 670, 680 (D.Md. 2012). An employer can meet its statutory obligation by paying employees the FLSA’s required $7.25 per hour minimum wage, or by paying “tipped employees” $2.13 an hour, as long as the $2.13 in conjunction with their tips amounts to at least $7.25.9 Id. 
+
+9 “Tipped employees” are those employees that are “engagedin an occupation in which [they] customarily and regularlyreceive[] more than $30 a month in tips.” 29 U.S.C. § 203(t).Employers utilizing the tip credit under Section 203(m) arefurther required to: (1) inform employees that the tip credit is 
+
+Here, there is a dispute of material fact over whether Plaintiffs were properly compensated under the FLSA and MWHL.10 Plaintiffs assert that their compensation after fees amounted to negative hourly wages (ECF No. 45-1, at 22-23); Defendants, however, point to Plaintiffs’ deposition testimony to support the fact that Plaintiffs received in excess of $7.25 per hour.11 
+
+being claimed, and (2) permit employees to retain all tips theyreceive. Id. (citing 29 U.S.C. § 203(m)). 
+
+10 Nor have Plaintiffs provided a reasonable assessment ofthe amount and extent of the work they performed that wasimproperly compensated. See Anderson v. Mt. Clemens Pottery Co., 28 U.S. 680, 687-88 (1946) (noting that plaintiffs have theburden of showing that they “performed work for which [theywere] improperly compensated and . . . produce sufficient evidence to show the amount and extent of that work as a matter of just and reasonable inference”). 
+
+11 Plaintiff Everett asserts in her deposition that shewould take home anywhere from $300-$500 per night on weekdays to$1,000-$2,000 per night on weekends. (ECF No. 45-12, at 7).Plaintiff Garcia asserts that she took home approximately $200­$250 on Friday nights and approximately $200-$300 on Saturdaynights; at most she estimated receiving $400 per night. (ECFNo. 45-13, at 7). Plaintiffs did not stipulate the number ofhours they worked, but based on Fuego’s and Extasy’s hours ofoperation, the maximum number of hours a dancer can work pertwenty-four hour period ranges from eight to ten. (ECF No. 46­1, at 8). Viewing these facts in the light most favorable toDefendants, Plaintiffs’ wages greatly exceed minimum wage. Even on slow days, Plaintiff Everett was making at least $37.50 perhour on weeknights and $100 per hour on weekends, and PlaintiffGarcia was making at least $20 per hour on weekends. 
+
+Plaintiffs’ contention that the “tip in” fee Defendantscharged them reduced their compensation below minimum wage, isunavailing as Defendants argue that the “tip in fee” ranged from$20-$42 per night; deducting this fee from their wages stillwould not reduce Plaintiffs’ total compensation to less than 
+
+Importantly, Plaintiffs do not stipulate which portions of their income came from performance fees and which portion came from tips.12 This difference is central to the liability determination because “service charges” offset employers’ statutory minimum wage duties, while “tips” do not. Hart, 967 F.Supp.2d at 928-32. The parties heavily dispute whether the performance fees paid to Plaintiffs constituted “tips” or “service charges” under the FLSA.13 (ECF No. 45-1, at 29-31; ECF No. 46-1, at 33-35). The parties also contest material facts regarding the performance fees, such as: what amount was given 
+
+$7.25 per hour, and certainly would not reduce it to a negativehourly rate. 
+
+12 In their depositions, the total amount of income Plaintiffs alleged making from performance fees and tips,divided by the total hours they could have worked, equals anhourly sum that exceeds minimum wage. After tips are deductedfrom their total income, however, the hourly sum may not exceed minimum wage. Plaintiffs refer to the cash they were handedfrom customers as “tips,” (ECF No. 45-12, at 7); Plaintiffs’ useof this term is not indicative that they were “tips” within themeaning of the FLSA, however, as Plaintiffs reference any cashpayment as “tips” even though a portion of these paymentsencompassed the performance fee they received. (see ECF No. 45­13, at 7). 
+
+13
+
+ The Parties’ motions demonstrate that the issue of whether performance fees constitute service charges under the FLSA is unsettled, as courts have come to conflicting outcomeson this issue. (See, e.g., ECF No. 45-1) (citing Hart, 967 F.Supp.2d 901; Priba Corp., 890 F.Supp. 586); (See, e.g., ECF No. 46-1) (citing Ruffin v. Entm’t of the E. Panhandle, No. 3:11-CV-19, 2012 WL 1435674 (D.N.W.Va. Apr. 25, 2012); Doe v. Cin-Lan, Inc., No. 08-DV-12719, 2010 WL 726710 (E.D. Mich. Feb.24, 2010). 
+
+to Plaintiffs for each service rendered, how performance fees were collected and distributed, and whether performance fees were accurately tracked by Defendants. These facts are material because they are central to the determination of whether the performance fees paid to Plaintiffs constitute wages.14 See Thornton v. Crazy Horse, Inc., No. 3:06-CV-00251-TMB, 2012 WL 2175753, at *9-10 (D.Ala. June 14, 2012) (providing the relevant factors courts have assessed when determining “whether a payment is a tip or a service charge”). 
+
+The only evidence produced to support each side’s argument regarding the performance fees is deposition testimony. Thus, the dispute over performance fees and Defendants’ ultimate liability hinges on the credibility of each parties’ testimony.15 
+
+14 In Thornton v. Crazy Horse, Inc., 2012 WL 2175753, at *9,the court notes the relevant factors in assessing whether apayment is a service charge or tip under the FLSA: 
+
+(a) whether the payment was made by acustomer who has received a personalservice; (b) whether the payment wasmade voluntarily in an amount and to aperson designated by the customer; (c)whether the tip is regarded as theemployee’s property; (d) the method ofdistributing the payment; (e) the customer’s understanding of the payment; and (f) whether the employerincluded the payment in its grossreceipts. 
+
+15 The role of weighing evidence and determining witnesscredibility is reserved for the jury. See Dennis v. Columbia Colleton Med. Ctr., Inc., 290 F.3d 639, 644-45 (4th Cir. 2002) 
+
+Neither party has provided financial records accounting for payment or receipt of the performance fees, which appear to be primarily undocumented, cash transactions. Because there are disputes of material fact regarding the issue of Defendants’ liability under the FLSA and MWHL, Plaintiffs motion for partial summary judgment as to this issue is denied. 
+
+b. Plaintiffs’ Entitlement to Liquidated Damages 
+
+Plaintiffs contend that in addition to damages in the amount of unpaid wages, they are entitled to liquidated damages. (ECF No. 32 ¶ 73(c)). “Generally, an employer liable for minimum wage violations under the FLSA is liable both for unpaid wages and liquidated damages in an equal amount.” Butler, 2013 WL 5964476, at *6 (citing 29 U.S.C. § 216(b)). Because Plaintiffs are not entitled to partial summary judgment on the issue of liability for minimum wage and overtime pay under the FLSA and MWHL, it is premature at this juncture to consider whether they are entitled to liquidated damages. 
+
+B. Defendants’ Cross Motion for Partial Summary Judgment 
+
+Defendants filed a cross motion for partial summary judgment requesting that: (1) “in the event that this Court finds that Plaintiffs are employees entitled to back wages from 
+
+(noting that a court should “view the evidence in the light mostfavorable to . . . the nonmovant, and draw all reasonable inferences in her favor without weighing the evidence or assessing the witness[es’] credibility”). 
+
+36 
+
+Defendants, summary judgment should be granted to Defendants on their claim for breach of contract” (ECF No. 46-1, at 35) (emphasis added)[;] and (2) “in the event that this Court finds that Plaintiffs are employees entitled to back wages from Defendants, summary judgment and/or partial summary judgment should be granted to Defendants on their claims for unjust enrichment with the amount to be determine[d] at a later date and with further evidence.” (Id. at 37) (emphasis added). 
+
+Because there is a genuine dispute at to whether Plaintiffs are entitled to back wages under the FLSA and MWHL, it is premature at this juncture to determine whether Defendants are entitled to their requested relief. Defendants have only requested that the court grant their specified relief “in the event that” the court finds them liable under these Acts, a determination which has not yet been made. Moreover, Defendants’ counterclaims for breach of contract16 and unjust 
+
+16 Defendants argue that Plaintiffs have breached theiragreement by pursuing “employee” status under the FLSA afterthey agreed to be “independent contractors,” and by seekingadditional compensation under the FLSA when they had alreadyagreed to the compensation arrangement in the “lease agreement.”Defendants’ arguments essentially assert that Plaintiffs’ breach was the filing of a lawsuit to enforce their statutory rights tominimum wage under the FLSA and MWHL. If Defendants’ argumentswere valid, then any plaintiff challenging a potentially illegalcompensation arrangement could be liable for breach of contract.Workers would then be disincentivized from challengingquestionable compensation arrangements, which would underminethe purpose of the FLSA, which is to “eliminate labor conditionsdetrimental to the maintenance of the minimum standard of living 
+
+enrichment are essentially defenses to statutory liability for wages under the FLSA and MWHL, and are so intertwined with the initial determination of liability and damages under these Acts that it is impossible to determine the former before determining the latter. Put simply, the court cannot determine whether Defendants are entitled to a setoff or reduction in damages, before determining whether Plaintiffs are even entitled to damages.17 
+
+necessary for health, efficiency, and general well-being ofworkers.” Gionfriddo, 769 F.Supp.2d at 892-93. 
+
+17 Plaintiffs have also challenged Defendants’ rights toprosecute their counterclaims. Plaintiffs provide documentationfrom the Maryland State Department of Assessments and Taxation(“SDAT”) website showing that each of the corporate Defendantsis not in good standing, as their status reads “forfeited” or“dissolved.” (ECF No. 48-1). Under Maryland law, a forfeitedcorporation is considered non-existent. Md. Code Ann., Corps &Ass'ns § 3–503(d); Lopez v. NTI, LLC, No. DKC2008-1579, 2008 WL5120542, at *5 (D.Md. Dec. 4, 2008). “Upon forfeiture, thecorporation’s directors act as trustees, and may [s]ue or besued in their own names as trustees or in the name of the corporation. However, trustees are only vested with such powersas are necessary or proper to liquidate the corporation and windup its affairs.” Djourabchi v. Self, 240 F.R.D. 5, 9 (D.D.C.2006) (internal quotations and citations omitted) (finding underMaryland law that the sole proprietor of a corporation, whosecharter had been forfeited, could be treated as its “director­trustee” under Md. Code Ann., Corps. & Ass’ns § 3-515(c)(3)). 
+
+The current status of the corporate defendants’ under Maryland law is unclear; Plaintiffs’ SDAT website exhibit wassubmitted in February 2014, and Defendants have not responded tothis accusation by Plaintiffs. It appears from the SDAT website, however, that Nico Enterprises, Inc. may have beenrevived. Depending on the status of these corporate defendants,Mr. Offiah may be the only proper party to continue this suit inthe name of these corporations whose charters have been 
+
+
+
+
+For the foregoing reasons, the motion for partial summary judgment filed by Plaintiffs will be granted in part and denied in part. The motion for partial summary judgment filed by Defendants will be denied. A separate order will follow. 
+
+

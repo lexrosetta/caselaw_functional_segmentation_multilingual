@@ -1,0 +1,188 @@
+
+
+This cause comes before the Court on Defendant’s Motion to Dismiss.  (Doc. No. 12). Plaintiffs oppose the motion.  (Doc. No. 28). As explained below, the motion is granted in part and denied in part. 
+
+
+
+In deciding a motion to dismiss, the district court is required to view the complaint in the light most favorable to the plaintiff.  See Murphy v. Federal Deposit Ins. Corp., 208 F.3d 959, 962 (11th Cir. 2000)(citing Kirby v. Siegelman, 195 F.3d 1285, 1289 (11th Cir. 1999)). The Federal Rules of Civil Procedure do not require a claimant to set out in detail the facts upon which he bases his claim.  Instead, Rule 8(a)(2) requires a short and plain statement of the claim showing that the pleader is entitled to relief in order to give the defendant fair notice of what the claim is and the grounds upon which it rests.  See Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555 (2007)(citation omitted).  As such, a plaintiff is required to allege “more than labels and conclusions, and a formulaic recitation of the elements of a cause of action will not do.”  Id. 
+
+(citation omitted).  While the Court must assume that all of the allegations in the complaint are true, dismissal is appropriate if the allegations do not “raise [the plaintiff’s] right to relief above the speculative level.” Id. (citation omitted).  The standard on a 12(b)(6) motion is not whether the plaintiff will ultimately prevail in his or her theories, but whether the allegations are sufficient to allow the plaintiff to conduct discovery in an attempt to prove the allegations.  See Jackam v. Hospital Corp. of Am. Mideast, Ltd., 800 F.2d 1577, 1579 (11th Cir. 1986). 
+
+
+
+
+
+
+
+Plaintiffs Estime Francois and Renette Ordeus allege that they were formerly employed by Defendant Gulf Coast Transportation, Inc. as taxicab drivers and that Defendant misclassified them (and all other taxicab drivers) as independent contractors.  Plaintiffs describe their employment with Defendant and cite to, but fail to attach, an agreement that all taxicab drivers entered into with Defendant titled “Agreement for Independent Vehicle-For-Hire Operators” (the “Agreement”), which outlines their relationship with Defendant,.  (Doc. No. 6, ¶ 74, 166; Doc. No. 12-1). 
+
+Defendant holds itself out as a taxicab company.  Defendant owns taxicabs and certificates enabling its taxicabs to be used as taxicabs within Hillsborough County. Taxicab drivers, including Plaintiffs, entered into twelve-month Agreements with Defendant to lease one of its taxicabs for a certain period of time for a certain amount of money.  Specifically, they could lease a taxicab for a 12-hour period for $86, a 24-hour period for $98, or a weekly period for $560. The drivers also were required to make a $2 to $10 refundable bond payment in addition to the stated lease fee. In return, the drivers would drive the taxicabs for that period of time and keep all of the money they generated. 
+
+Defendant outfitted the taxicabs with a radio communication system so that the drivers could receive transportation requests that Defendant dispatched.  Defendant also outfitted the taxicabs with a fare meter and a laptop that could accept credit card payments. 
+
+While the Agreement explicitly states that the taxicab drivers are independent contractors, Plaintiffs allege that they were, in fact, employees because Defendant controlled the manner in which they performed their work and made them economically dependent on Defendant. As examples of Defendant’s control, Plaintiffs allege that: (1) Defendant set their work schedules (Doc. No. 6, ¶ 26); (2) Defendant enforced a “no ride refusal” policy that prohibited drivers from safely dropping off disruptive or violent passengers before completion of their transport (Doc. No. 6, ¶ 28); (3) Defendant controlled the drivers through the use of reprimands, fines, suspension, and termination (Doc. No. 6, ¶ 113); (4) Defendant assigned passengers to drivers at Tampa International Airport, which required drivers to wait for passengers at the airport—sometimes for hours without being assigned a passenger to transport (Doc. No. 6, ¶ 63-65); and (5) Defendant prohibited drivers from refusing rides to passengers to whom Defendant had offered discounted fares, even though that meant that the driver made less money for the rides (Doc. No. 6, ¶ 112). 
+
+Defendant processed the credit card payments and subtracted credit card proceeds earned from the lease payments owed.  The excess credit card proceeds, if any, were paid to the drivers. This excess, if any, was the only compensation that Plaintiffs received from Defendant. Plaintiffs contend that drivers needed to work approximately 80 hours per week just to make enough money to cover their lease payments to Defendant. 
+
+As a result, Plaintiffs assert three claims in their amended complaint.  (Doc. No. 6). First, Plaintiffs contend that due to Defendant’s willful misclassification of them as independent contractors, Defendant did not pay taxicab drivers any wages at all, in violation of the minimum wage requirements of the Fair Labor Standards Act (“FLSA”).  Plaintiffs intend to bring their FLSA claim as a collective action. 
+
+Second, Plaintiffs contend that the misclassification of them as independent contractors resulted in substantial cost savings to Defendant (due to its not having to pay employment taxes) and gave Defendant an unfair competitive advantage as a taxicab company.  Therefore, Plaintiffs contend that Defendant violated Florida’s Deceptive and Unfair Trade Practices Act (“FDUTPA”). Plaintiffs intend to bring their FDUTPA claim as a class action. 
+
+Third, Plaintiff Francois, individually, asserts a conversion claim under Florida common law due to Defendant’s failure to return his taxicab bond money that he had paid.  According to the Agreement, Defendant was required to return the bond money, less any amounts due to Defendant, within thirty days after Francois made a written request. 
+
+
+
+
+
+In response to the amended complaint, Defendant filed the instant motion to dismiss.  In the motion, Defendant argues that all three of the claims must be dismissed.  Accordingly, the Court will address Defendant’s motion as to each claim. 
+
+
+
+Defendant argues that Plaintiffs’ FLSA claim must be dismissed, because Plaintiffs were independent contractors, not employees.  In support of this contention, Defendant cites to various factually similar cases addressing whether taxicab drivers were employees or independent contractors. However, the vital distinction between those cases and the instant case is that this Court is addressing a motion to dismiss an amended complaint that contains an allegation that Plaintiffs are employees, and the cases cited by Defendant were based on a review of evidence regarding the drivers’ employment status.1  This Court must accept Plaintiffs’ allegation of employee status as true for the purposes of this motion, and as such, Plaintiffs have sufficiently alleged an FLSA minimum wage claim. See Ceant v. Aventura Limousine & Transportation Service, Inc., 874 F. Supp. 2d 1373, 1382-83 (S.D. Fla. 2012)(stating that the plaintiff’s FLSA claim was sufficient because he alleged that he was an employee, and finding that he was not required to negate the possibility of independent contractor status in order to avoid dismissal); Moreno v. Ferretti Group of America, LLC, 2011 WL 4499031, at *2 (S.D. Fla. Sept. 27, 2011); Roberts v. Caballero & Castellanos, PL, 2010 WL 114001, at *3 (S.D. Fla. Jan. 11, 2010). Accordingly, Defendant’s motion to dismiss the FLSA claim is denied. 
+
+To the extent that Defendant disputes Plaintiffs’ assertion of employee status, it may properly challenge that assertion in a motion for summary judgment or at trial.  Because the Court anticipates that a motion for summary judgment on this issue will be forthcoming, the Court sets forth the following. 
+
+When determining whether a person is an employee or an independent contractor, the Eleventh Circuit in Scantland v. Jeffrey Knight, Inc. has provided the following guidance: [C]ourts look to the “economic reality” of the relationship between the alleged employee and alleged employer and whether that 
+
+1The cases cited by Defendant were reviewing decisions of employment status under the National Labor Relations Act (“NLRA”). The FLSA was enacted as part of the social legislation of the same general character as the NLRA, and as such, decisions regarding employment status under the NLRA are persuasive when considering issues of employment status under the FLSA. See Rutherford Food Corp. v. McComb, 331 U.S. 722, 723 (1947); Hodgson v. Griffin & Brand of McAllen, Inc., 471 F.2d 235, 237 n.1 (5th Cir. 1973). 
+
+relationship demonstrates dependence.  This inquiry is not governed by the “label” put on the relationship by the parties or the contract controlling that relationship, but rather focuses on whether “the work done, in its essence, follows the usual path of an employee.” . . . [M]any courts have used [the following six factors] as guides in applying the economic reality test: 
+
+(1)
+
+ the nature and degree of the alleged employer’s control as to the manner in which the work is to be performed; 
+
+
+
+(2)
+
+ the alleged employee’s opportunity for profit or loss depending upon his managerial skill; 
+
+
+
+(3)
+
+ the alleged employee’s investment in equipment or materials required for his task, or his employment of workers; 
+
+
+
+(4)
+
+ whether the service rendered requires a special skill; 
+
+
+
+(5)
+
+ the degree of permanency and duration of the working relationship; [and] 
+
+
+
+(6)
+
+ the extent to which the service rendered is an integral part of the alleged employer’s business. 
+
+
+
+
+
+Scantland v. Jeffry Knight, Inc., 721 F.3d 1308, 1311-12 (11th Cir. 2013)(internal citations 
+
+omitted).  Furthermore, the Scantland court noted: 
+
+No one factor is controlling, nor is the list exhaustive. . . . The weight of each factor depends on the light that it sheds on the putative employee’s dependence on the alleged employer, which in turn depends on the facts of the case. 
+
+Id. at 1312 n.2 (quotation marks and citations omitted).  The Scantland court made clear that “the 
+
+overarching focus of the inquiry is economic dependence.”  Id. at 1312. 
+
+Plaintiffs addressed this six-factor test in their response brief and pointed to allegations in 
+
+their amended complaint that they contend show that Defendant exerted sufficient control over 
+
+them.  The Court wants to make clear that many of Plaintiffs’ allegations of control by 
+
+Defendant will not be considered as such because the alleged control comes directly from the 
+
+Hillsborough County Public Transportation Commission Rules (“PTC Rules”).2  For example, 
+
+2These rules can be found at: http://www.hillsboroughcounty.org/index.aspx?NID=2729 (then click hyperlink labeled “PTC Rules”). 
+
+Plaintiffs contend that Defendant controlled them by implementing a grooming policy, but PTC Rule 1-6.001(7) sets forth a grooming and appearance policy for drivers.  Plaintiffs also contend that Defendant required that drivers accept credit cards, but PTC Rule 1-6.001(8) requires the acceptance of credit cards. Plaintiffs also contend that Defendant controlled the fare amounts charged to passengers, but PTC Rules 1-9.001, 1-10.001, and 1-20.001 control the fares that can be charged. Thus, to the extent that Defendant is merely requiring compliance with the PTC Rules, such will not be considered control by Defendant.  See NLRB v. Associated Diamond Cabs, Inc., 702 F.2d 912, 922 (11th Cir. 1983)(stating that “regulation imposed by governmental authorities does not evidence control by the employer,” and therefore, “employer imposed regulations that incorporate governmental regulations do not evidence an employee-employer relationship”). However, if Plaintiffs show pervasive control by Defendant that exceeds to a significant degree the scope of the PTC Rules, then the Court will consider such to be evidence of an employment relationship  Id. (citations omitted). 
+
+
+
+
+
+Next, Defendant moves to dismiss the FDUTPA claim.  In this claim, Plaintiffs allege that Defendant’s misclassification of them as independent contractors resulted in substantial cost savings to Defendant (due to its not having to pay employment taxes) and gave Defendant an unfair competitive advantage as a taxicab company.  
+
+Defendant moves to dismiss this claim, arguing that there was no deception.  Defendant bases this argument on Plaintiffs’ contention that they are consumers, and Defendant acknowledges that Plaintiffs were consumers under agreements to lease taxicabs.  However, Defendant argues that because Plaintiffs received everything that they had bargained for in the Agreement—fully outfitted taxicabs—there was no actionable deception by Defendant.  The Court rejects this argument because the statute prohibits not just deceptive acts; it also prohibits unfair methods of competition and unfair acts or practices in the conduct of any trade or commerce.  Fla. Stat. § 501.204(1). Because Plaintiffs have alleged that Defendant’s misclassification of them as independent contractors resulted in substantial cost savings to Defendant (due to its not having to pay employment taxes) and gave Defendant an unfair competitive advantage as a taxicab company, Plaintiffs have sufficiently alleged an unfair act under FDUTPA. 
+
+Additionally, Defendant argues for dismissal based on Plaintiffs’ contention that they were employees.  Defendant argues that to the extent that Plaintiffs allege that they are also employees (in addition to being consumers), the case law is clear that employees lack standing to sue under FDUTPA. As explained below, the Court rejects Defendant’s arguments that Plaintiffs fail to state a FDUTPA claim. 
+
+The case law has not been consistent regarding whether an employer’s misclassification of employees as independent contractors can be the basis of a FDUTPA claim for damages. Accordingly, the Court will review the cases on this issue. 
+
+Prior to 2015, three Florida federal courts addressed the issue of whether an employer’s misclassification of an employee as an independent contractor could be the basis of a FDUTPA claim for damages.  See Dobbins v. Scriptfleet, Inc., 2012 WL 601145, at *4-5 (M.D. Fla. Feb. 23, 2012); Carroll v. Lowes Home Centers, Inc., 2014 WL 1928669, at *4 (S.D. Fla. May 6, 2014); Leon v. Tapas & Tinto, Inc., 51 F. Supp. 3d 1290, 1297 (S.D. Fla. 2014). Those courts concluded that the plaintiffs lacked standing to sue for damages, because the FDUTPA statute only protected consumers.  See id. However, after those cases were decided, two Florida courts concluded that the FDUTPA statute applies to all persons and entities that are able to prove the elements of a FDUTPA claim.3 See Caribbean Cruise Line, Inc. v. Better Business Bureau of Palm Beach County, Inc., 169 So. 3d 164, 169 (Fla. 4th DCA 2015); Off Lease Only, Inc. v. LeJeune Auto Wholesale, Inc., 187 So. 3d 868, 870 n.2 (Fla. 3d DCA 2016). As a result, this Court no longer finds those cases to be persuasive on this issue. 
+
+Instead, in Seijo v. Casa Salsa, Inc., 2013 WL 6184969 (S.D. Fla. Nov. 25, 2013), the court faced the issue of whether an employer’s misclassification of an employee as an independent contractor could be the basis of a FDUTPA claim for damages.  In Seijo, the court concluded that the plaintiff could pursue her FDUTPA claim based on allegations similar to those in the instant case—namely, that the plaintiff had signed an agreement classifying her as an independent contractor and that the misclassification allowed the defendant to avoid paying payroll taxes for her. See id. at *5-6. Thus, Seijo supports Plaintiffs’ FDUTPA claim in the instant case. 
+
+Likewise, in Bishop v. VIP Transportation Group, LLC., 2016 WL 1253734 (M.D. Fla. Mar. 15, 2016), recommendation adopted by 2016 WL 1244725 (M.D. Fla. Mar. 30, 2016), the court addressed the issue of whether an employer’s misclassification of an employee as an independent contractor could be the basis of a FDUTPA claim for damages.  The Bishop court cited the Caribbean Cruise Line and Off Lease Only cases and concluded that the plaintiff had standing to assert a FDUTPA claim. See 2016 WL 1253734, at *3  However, the Bishop court 
+
+3The elements of a FDUTPA claim are: “(1) a deceptive act or unfair practice; (2) causation; and (3) actual damages.” Caribbean Cruise Line, 169 So. 3d at 167 (citation omitted). 
+
+went on to conclude that the FDUTPA claim was due to be dismissed, because the plaintiff had 
+
+not adequately alleged that she had suffered any actual damages.  See id. at *4. In the instant case, Defendant challenges Plaintiffs’ standing to bring their FDUTPA 
+
+claim for damages, and based on Seijo and Bishop, this Court concludes that Plaintiffs have 
+
+standing. As such, this Court denies Defendant’s motion to dismiss the FDUTPA claim. 
+
+
+
+
+
+Next, Defendant moves to dismiss Plaintiff Francois’ conversion claim. This conversion 
+
+claim is based on Francois’ allegations that he paid a $1,500 bond deposit for his taxicab that 
+
+Defendant was required to return within thirty days after he requested it back. According to the 
+
+Agreement, which is specifically referenced in this count, Francois made payments toward this 
+
+$1,500 bond amount by paying either an additional $2 or $10 with each lease payment. 
+
+Defendant moves to dismiss this claim, arguing that its alleged breach of the Agreement 
+
+by failing to repay the bond money cannot support a conversion claim. As explained below, the 
+
+Court agrees. 
+
+The case of Belford Trucking Company v. Zagar, 243 So. 2d 646 (Fla. 4th DCA 1970), is 
+
+instructive. In Belford Trucking, the court stated the following: 
+
+[C]onversion is defined as an act of dominion wrongfully asserted over another’s property inconsistent with his ownership of it.  What constitutes ‘property’ which may be the subject of conversion has been the subject of considerable discussion, especially where the property alleged to have been converted consists of money . . . .  To be a proper subject of conversion each coin or bill need not be earmarked, but there must be an obligation to keep intact or deliver the specific money in question, so that such money can be identified. Money is capable of identification where it is delivered at one time, by one act and in one mass, or where the deposit is special and the identical money is to be kept for the party making the deposit, or where wrongful possession of such property is obtained.  An example is where a specific sum of money is to be held in constructive trust until the occurrence of a specified event. . . . Therefore, where the parties have an open account, and the defendant is not required to pay the plaintiff identical moneys which he collected, there can be no action in tort for conversion. A mere obligation to pay money may not be enforced by a conversion action. 
+
+Id. at 647-48 (emphasis added)(internal citations omitted). 
+
+In the instant case, Francois’ $1,500 bond deposit is not described under the Agreement or in the amended complaint to be a one-time payment by Francois, nor did Francois allege (nor does the Agreement state) that the bond deposit money must be kept by Defendant in a segregated account for return to Francois. Instead, Francois is incorrectly attempting to enforce a contractual obligation to repay the bond money via a conversion claim. See Gasparini v. Pordomingo, 972 So. 2d 1053, 1055 (Fla. 3d DCA 2008)(stating that “a simple debt which can be discharged by the payment of money cannot generally form the basis of a claim for conversion” and that “conversion must go beyond, and be independent from, a failure to comply with the terms of a contract”).  The fact that Francois is due an amount certain does not make the $1,500 an identifiable fund; instead, there must have been an obligation on Defendant to segregate that money and hold it separately for Francois.  See Florida Desk, Inc. v. Mitchell International, Inc., 817 So. 2d 1059, 1061 (Fla. 5th DCA 2002); Gasparini, 972 So. 2d at 1056 (citations omitted); Ingle v. Janick, 2014 WL 6476223, at *3 (M.D. Fla. Nov. 19, 2014)(citation omitted).  Accordingly, the Court grants Defendant’s motion to dismiss Francois’ conversion claim. 
+
+
+
+
+
+
+
+
+
+Accordingly, it is ORDERED AND ADJUDGED that Defendant’s Motion to Dismiss (Doc. No. 12) is GRANTED IN PART AND DENIED IN PART: The motion is 
+
+GRANTED as to the conversion claim; otherwise the motion is DENIED. 
+
+
+
+
+
+
+

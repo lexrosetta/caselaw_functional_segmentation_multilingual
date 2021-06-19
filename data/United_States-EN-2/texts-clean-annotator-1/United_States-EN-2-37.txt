@@ -1,0 +1,37 @@
+
+
+. This case arises under the Immigration and Nationality Act (INA), 8 U.S.C. §§ 1101-1537 (2014), and its implementing regulations at 20 C.F.R.
+
+Part 655, Subparts H and I (2019). On May 17, 2019, a Department of LaborAdministrative Law Judge (ALJ) issued a Decision and Order Granting SummaryDecision (D. & O.), denying in part and granting in part a motion submitted byRespondent Advent Global Systems to dismiss a complaint filed by ProsecutingParty Naveen Vudhamari.  For the following reasons, we reverse the ALJ’s rulings and remand the case for further proceedings consistent with our decision.
+
+
+
+Advent is a company that provides information technology services. InAugust 2015 it filed a Labor Condition Application (LCA) seeking to hire an H-1B nonimmigrant worker to work as a systems analyst between August 5, 2015 andAugust 5, 2018. On or about August 10, 2015, Vudhamari began working for Advent in the Systems Analyst position identified in the LCA. After he began working atAdvent, Vudhamari submitted a WH-4 (Nonimmigrant Worker Information Form) to the Department of Labor’s Wage and Hour Division. In this document he alleged that Advent committed several violations, including failing to pay him the legal wage pursuant to his H-1B status. Petition for Review, Exhibit (PX) 15 at 6.
+
+Wage and Hour conducted an investigation and on June 19, 2018, theAdministrator concluded that Advent committed LCA violations related toVudhamari’s employment and ordered the company to pay Vudhamari $2,463.97 in back wages. On June 27, 2018, Vudhamari appealed the Administrator’s determinations and requested a hearing before the Office of Administrative LawJudges (OALJ). On December 18, 2018, the ALJ ordered Vudhamari to “file aFormal Complaint asserting the specific grounds upon which his claim is based, the specific violations he alleges that Respondent committed, and the specific nature of the relief he seeks in this matter.” On January 3, 2019, Vudhamari submitted aFormal Complaint (Complaint) to the ALJ alleging various violations committed byAdvent, the Department of Labor, and the U.S. Citizenship and ImmigrationServices.
+
+On March 15, 2019, Advent filed a Motion to Dismiss (Motion) the Complaint on the grounds that Vudhamari failed to state a claim upon which relief could be granted. The ALJ ordered Vudhamari to respond to the Motion and informed him that failure to respond would result in a grant of the Motion. On April 5, 2019,Vudhamari filed a reply to the Motion with supporting exhibits and attachments. D.
+
+& O. at 4.
+
+The ALJ reviewed the Motion and concluded that Advent intended to file a combined motion to dismiss and an alternative motion for summary decision pursuant to the rules governing proceedings before OALJ. Id. at 4-5. On May 17, 2019, the ALJ issued a Decision and Order Granting Summary Decision. The ALJ denied the portion of the Motion seeking to dismiss the Complaint for failure to state a claim upon which relief could be granted and granted the portion of theMotion seeking summary decision. Vudhamari appealed the ALJ’s ruling on theMotion to the Board.
+
+
+
+The ARB has jurisdiction to review the ALJ’s decision pursuant to 20 C.F.R. § 655.845. See also Secretary’s Order No. 01-2020 (Delegation of Authority andAssignment of Responsibility to the Administrative Review Board (Secretary’s discretionary review of ARB decisions)), 85 Fed. Reg. 13,186 (Mar. 6, 2020). TheARB reviews de novo an ALJ’s orders on motions to dismiss and for summary decision. Johnson v. The Wellpoint Cos., Inc., ARB No. 2011-0035, ALJ No. 2010-SOX-00028 (ARB Feb. 25, 2013).
+
+In considering a motion to dismiss for failure to state a claim, we accept the non-movant’s factual allegations as true and draw all reasonable inferences in his favor. Tyndall v. U.S. EPA, ARB No. 1996-0195, ALJ Nos. 1993-CAA-00006, 1995-CAA-00005, slip op. at 2 (ARB June 14, 1996). In contrast, summary decision is appropriate if the pleadings, affidavits, and other evidence show that there is no genuine issue as to any material fact, and that the moving party is entitled to prevail as a matter of law. 29 C.F.R. § 18.72(a); Franchini v. Argonne Nat’l Lab.,ARB No. 2013-0081, ALJ No. 2009-ERA-00014, slip op. at 10 (ARB Sept. 28, 2015).
+
+In reviewing such a motion, the evidence before the ALJ is viewed in the light most favorable to the non-moving party, and he may not weigh the evidence or determine the truth of the matter.
+
+
+We agree with the ALJ’s conclusion that Vudhamari stated a claim upon which relief could be granted by alleging that Advent underpaid his wages. D. & O. at 5 (“Pursuant to the applicable regulations, an employer is obligated to pay its H- 1B employees the required wage rate for the entire period of authorized employment. 20 C.F.R. § 655.731(a) ... Consequently, because the Prosecuting Party has alleged Respondent did not pay him wages or underpaid his wages, theProsecuting Party has stated a claim upon which relief could be granted.”). AndAdvent asserts in its Motion that it “has been and is willing to pay the back wages owed to Mr. Vudhamari which was determined by the Department of Labor after a thorough investigation.” Motion at 2. https://1.next.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000547&cite=29CFRS18.72&originatingDoc=Ib30e721bec3911e9adfea82903531a62&refType=RB&originationContext=document&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_8b3b0000958a4But the Complaint incorporates claims beyond the back pay award, andAdvent submitted exhibits in support of its assertion that it was entitled to dismissal of the Complaint. Vudhamari also submitted additional documents in support of his response to the Motion. Because the parties submitted evidence outside the pleadings, it was proper for the ALJ to interpret the Motion as a request for summary decision. Hukman v. U.S. Airways, Inc., ARB No. 2015-0054, ALJ No.
+
+2015-AIR-00003, slip op at 6-7 (ARB July 13, 2017).
+
+The ALJ informed Vudhamari of the consequences for failing to reply to theMotion when it was presented as a motion to dismiss. See March 19, 2019 OrderEstablishing Deadline for Prosecuting Party to File Reply to Respondent’s Motion toDismiss. But the ALJ did not inform Vudhamari that he was converting the Motion to a motion for summary decision. Vudhamari is appearing pro se, and the ALJ should have provided him with notice of the requirements for opposing a motion for summary decision, in a form sufficiently understandable to apprise him of what was required, along with the text of the rule governing summary decisions. See, e.g.,Zavaleta v. Alaska Airlines, Inc., ARB No. 2015-0080, ALJ No. 2015-AIR-00016, slip op. at 11-12 (ARB May 8, 2017); see also Timms v. Frank, 953 F.2d 281, 285 (7th Cir 1992) (“a short and plain statement in ordinary English” is appropriate because “the need to answer a summary judgment motion with counter-affidavits is contrary to lay intuition.”).
+
+Accordingly, we direct the ALJ to provide Vudhamari with a notice containing: (1) the text of the rule governing summary decisions before ALJs (i.e., 29 C.F.R. § 18.72), and (2) a short and plain statement that factual assertions in Advent’s submissions will be taken as true unless he contradicts Advent with counter- affidavits or other documentary evidence. Although we express no opinion on the merits of Vudhamari’s claims, we REVERSE the ALJ’s Decision and Order GrantingSummary Decision and REMAND the case for further proceedings consistent with this opinion.
+
+SO ORDERED.
+

@@ -1,0 +1,86 @@
+U.S. Department of Labor Administrative Review Board Washington, DC 20210-0001In the Matter of:
+
+DON PORTIS,  ARB CASE NO. 2018-0001
+
+COMPLAINANT, ALJ CASE NO. 2017-FDA-00005 v.  DATE:  September 22, 2020RUAN TRANSPORTATION,
+
+RESPONDENT, &
+
+ATLAS LOGISTICS WAREHOUSE,
+
+RESPONDENT, &
+
+THE KROGER CORP.,
+
+RESPONDENT.
+
+Appearances:
+
+For the Complainant:
+
+Don Portis; pro se; Roanoke, Virginia
+
+For the Respondent:
+
+Thomas M. Lucas, Esq.; Jackson Lewis, P.C.; Roanoke, VirginiaBefore:  James D. McGinley, Chief Administrative Appeals Judge; James A.
+
+Haynes, and Randel K. Johnson, Administrative Appeals Judges 2DECISION AND ORDER
+
+PER CURIAM. This case arises under the employee protection provisions of theFederal Food, Drug, and Cosmetic Act (FFDCA or the Act),1 as amended by Section implementing regulations at 29 C.F.R. § 1987 (2020). Complainant filed a complaint with OSHA on September 19, 2016, which OSHA dismissed as untimely onFebruary 17, 2017. Complainant appealed to the Office of Administrative LawJudges (OALJ). The Administrative Law Judge (ALJ) dismissed the complaint onSeptember 15, 2017. Complainant timely filed a petition for review with theAdministrative Review Board (ARB or Board). For the reasons set forth below, weAFFIRM the ALJ’s decision and order.
+
+JURISDICTION AND STANDARD OF REVIEW
+
+The Secretary of Labor has delegated authority to the Board to issue agency decisions in this matter.3 The ARB reviews questions of law presented on appeal de novo.4BACKGROUND
+
+Complainant worked for Ruan Transportation (Ruan) until the company terminated his employment on November 21, 2012.5 Complainant’s job consisted of driving and delivering goods from warehouses owned by Respondent AtlasWarehouse (Atlas) to stores owned by Respondent Kroger Corporation (Kroger).
+
+Complainant regularly interacted with all three Respondents in this complaint, butRespondent Ruan was his only employer.
+
+Responsibility to the Administrative Review Board (Secretary’s discretionary review of ARB decisions)), 85 Fed. Reg. 13,186 (Mar. 6, 2020); see 29 C.F.R. § 1978.110(a).
+
+ARB 2017-0061, ALJ No. 2015-AIR-00028, slip op. at 4 (ARB Sept. 26, 2019); Burns v. TheUpstate Nat’l Bank, ARB No. 2017-0041, ALJ No. 2017-SOX-00010, slip op. at 2 (ARB Feb.
+
+26, 2019); Jenkins v. EPA, ARB No. 2015-0046, ALJ No. 2011-CAA-00003, slip op. at 7 (ARB Mar. 1, 2018) (citing Kaufman v. EPA, ARB No. 2010-0018, ALJ No. 2002-CAA-00022 (ARB Nov. 30, 2011)); Thorstenson v. BNSF Ry. Co., ARB Nos. 2018-0059, -0060, ALJ No.
+
+2015-FRS-00052 (ARB Nov. 25, 2019). https://1.next.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=21USCAS399D&originatingDoc=Ice535867ad5e11e9adfea82903531a62&refType=LQ&originationContext=document&transitionType=DocumentItem&contextData=(sc.Folder*cid.971f94753ee2424e930e64cb804a3177*oc.Search)On November 30, 2012, Complainant filed a complaint with the VirginiaDepartment of Labor Industry (VDOLI), which began an investigation into the matter.6 VDOLI closed Complainant’s complaint on October 7, 2013.7 Complainant, with assistance of counsel, filed a complaint in Salem Circuit Court in Salem,Virginia on February 10, 2014, alleging, among other things, that he was retaliated against for reporting violations of Virginia law concerning food and worker safety at his workplace. In addition, he alleged that he had been fired in violation of Virginia law.8 What followed was a lengthy litigation process that resulted in the lawsuit moving to Federal District Court, a second lawsuit in Federal District Court, and an arbitration proceeding arising under the collective bargaining agreement at his workplace.9 During the course of the litigation, Complainant began representing himself, although there was a brief period of representation by union counsel during arbitration. At all other times Complainant appeared without counsel, as he does before the Board in this matter.
+
+Complainant instigated this action by filing a complaint via letter with the federal Department of Transportation, copied to OSHA, on September 19, 2016.10The final arbitration decision was issued on October 19, 2016 and Complainant filed another complaint via letter to the White House on October 23, 2016.11 Complainant moved that the District Court vacate the Arbitrator’s award. That motion was denied on December 19, 2016.12 OSHA dismissed his complaint as untimely onFebruary 28, 2017.13Complainant appealed to OALJ, arguing that his filing was timely, and that he had been retaliated against for complaining about safety issues in his workplace.
+
+The safety issues he disclosed included poorly loaded trucks that led to items falling on workers and unsanitary conditions. Complainant stated that his safety concerns were never addressed, and his employment was eventually terminated because he continued to report them. The Respondents moved for dismissal, arguing that the complaint was untimely. Respondents Atlas and Kroger also argued that they were not properly included as parties.14The ALJ issued a decision without holding a hearing on September 15, 2017, dismissing the Complainant’s complaint as to all parties for untimely filing and specifically dismissing Atlas and Kroger.15 Complainant timely filed this appeal.
+
+DISCUSSION
+
+We first address whether all the Respondents are proper parties to the action. The ALJ below found that “the complaint was not against Atlas Logistics and Kroger.”16 Ruan was the only initial Respondent to the complaint, andRespondents Atlas and Kroger were added by motion. Because neither Atlas norKroger employed the Complainant, we dismiss them from this complaint. The plain language of the implementing regulations of the FSMA requires an employment relationship: “[e]mployee means an individual presently or formerly working for a covered entity, an individual applying to work for a covered entity, or an individual whose employment could be affected by a covered entity.”17 Ruan terminated theComplainant’s employment as his employer while Atlas and Kroger were customers of Ruan, not employers of Complainant. Accordingly, the complaint is dismissed as to Respondents Atlas and Kroger.
+
+We now turn to the remaining issues in this case: whether the Complainant timely filed his complaint and, if he did not, whether he should be entitled to equitable relief by tolling the filing deadline.
+
+The FSMA allows a victim of illegal retaliation 180 days to make a complaint to the Secretary of Labor by filing with OSHA.18 On its face, the Complainant’s complaint is untimely. Complainant was terminated from his job on November 21, 2012, and did not contact a federal agency with jurisdiction over the matter untilSeptember 2016, nearly four years later.
+
+While Complainant never specifically invokes tolling, he argues that his complaint is timely, that the safety violations he reported are ongoing, and that he has continued to pursue his claim. We recognize that Complainant appears before the Board representing himself and we construe his arguments as an effort to invoke the doctrine of equitable tolling, although he has not used that term. processing, packing, transporting, distribution, reception, holding, or importation of food.”Id. § 1987.101(f).
+
+Tolling an FSMA claim is an issue of first impression for the Board. However, in cases arising under other statutes, the Board has consistently held that “to be entitled to equitable tolling, a complainant must act diligently, and the untimeliness of the filing must result from circumstances beyond his control.”19Equitable tolling is an extraordinary remedy requiring the party seeking tolling to meet a heavy burden.20 We have articulated four instances in which equitable tolling may be proper: (1) the respondent has actively misled the complainant respecting the cause of action, (2) the complainant has in some extraordinary way been prevented from asserting his or her rights, (3) the complainant has raised the precise statutory claim at issue but has mistakenly done so in the wrong forum, or (4) the employer’s own acts or omissions have lulled the employee into foregoing prompt attempts to vindicate his or her rights.21We hold that the test the Board has applied in other cases and under other, similar statutes also applies to the FSMA. The complainant bears the burden of proving that he deserves equitable tolling.22 Generally, ignorance of the law will not establish grounds for tolling.23The implementing regulations for the FSMA do not direct that mistakenly filing with another agency will extend the deadline for filing a complaint. The example cited in the regulation requires that a complaint must be filed within 180 days with some agency. The language that precedes the example allows the Board to extend the time for filing with OSHA beyond 180 days. The regulation itself is brief and conclusory: (ARB Oct. 5, 2017).
+
+Feb. 15, 2018), aff’d, Madison v. United States Dep’t of Labor, 924 F.3d 941, 947 (7th Cir.
+
+2019).
+
+00010, slip op. at 4 (ARB Jan. 28, 2011); Schafermeyer v. Blue Grass Army Depot, ARB No.
+
+2007-0082, ALJ No. 2007-CAA-00001 (Sept. 30, 2008); School Dist. of Allentown v.
+
+Marshall, 657 F.2d 16, 19-20 (3d Cir. 1981). slip op. at 5 (ARB Sept. 30, 2010).
+
+The time for filing a complaint may be tolled for reasons warranted by applicable case law. For example, OSHA may consider the time for filing a complaint to be tolled if a complainant mistakenly files a complaint with an agency other than OSHA within 180 days after an alleged adverse action.24The Board’s grounds one, two, and four do not apply in this case because there are no facts that support their application. The most promising avenue for theComplainant is the Board’s third ground: that he mistakenly raised the precise statutory issue in the wrong forum by originally filing with VDOLI instead ofOSHA. However, there is no evidence in the record supporting a claim that he went to VDOLI instead of OSHA by mistake, or that a claim filed under Virginia law presents the precise statutory issue found in a federal claim filed with OSHA underFSMA.
+
+The record does not support a claim of mistake because Complainant had notice that OSHA was the proper venue before he filed his complaint in September 2016. He included in the text of his complaint his knowledge of OSHA as a remedy.
+
+He also received notice from VDOLI itself, which alerted him to dual-filing rights with OSHA. Once he did proceed to VDOLI, he vigorously pursued that avenue for several years.
+
+Importantly, the Complainant had retained the services of an attorney by the time he filed in state court – the most critical time for his complaint. While theBoard recognizes that litigants representing themselves will be less familiar with legal terminology and may lack sufficient background to recognize issues presented in their claims, it also holds litigants responsible for the acts of their attorneys.25Complainant’s decision to file an action under Virginia law did not divest him of the opportunity to file a timely claim with OSHA. Complainant declined of his own accord to file a federal claim. The evidence before us in this case does not suggest that Complainant made a “mistake.”Here, the Complainant has failed to meet his burden. The complaint is dismissed as untimely. extraordinary factor because ‘[u]ltimately, clients are accountable for the acts and omissions of their attorneys.’” Tardy, ARB No. 2016-0077, slip op. at 4.
+
+CONCLUSION
+
+Accordingly, we AFFIRM the ALJ’s decision dismissing the complaint against Respondents Atlas and Kroger and AFFIRM the ALJ’s decision dismissingComplainant’s complaint for untimeliness.
+
+SO ORDERED.
+

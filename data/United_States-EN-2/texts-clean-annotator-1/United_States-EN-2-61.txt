@@ -1,0 +1,33 @@
+
+
+ This case arises under the employee protection provisions of the Federal Railroad Safety Act of 1982 (FRSA or the Act).1  Complainant GreggRecommendations of the 9/11 Commission Act of 2007 (9/11 Act), Pub. L. 110-53, as implemented at 29 C.F.R. Part 1982 (2018) and 29 C.F.R. Part 18, Subpart A (2018).
+
+Boucher filed a complaint alleging that Respondent BNSF Railway Company violated the FRSA when it terminated his employment. For the following reasons, we dismiss his complaint.
+
+
+On April 26, 2012, Boucher filed a complaint alleging that the Respondent violated the FRSA when it fired him after he reported an injury. On that same day, Boucher filed a complaint in Montana state court asserting that his discharge violated Mont. Code Ann. § 39-2-703, a Montana law holding railway companies liable for mismanagement. OSHA investigated the FRSA complaint and found that Complainant’s discharge violated the FRSA.
+
+The Respondent requested a hearing before an Administrative Law Judge (ALJ) and filed two motions for summary decision. Prior to any hearing, the ALJ granted Respondent’s second motion for summary decision in a Decision and Order Granting Summary Decision (D. & O.). The ALJ concluded that Complainant could not seek relief for his discharge under both the FRSA and the Montana law. D. & O. at 14. He also noted that it would be improper for Complainant to receive   duplicate remedies for the Respondent’s same alleged unlawful act. Id. at 13-14.
+
+The Complainant appealed the D. & O. to the Board in a “Petition for Review of Decision and Order Granting Motion for Summary Decision” (Petition for Review). The Board accepted the appeal and received briefs from the parties. On April 26, 2018, Complainant filed a “Motion to Withdraw Petition for Review of ALJ Decision” (Motion to Withdraw), which stated: “In exchange for consideration obtained in a Confidential Settlement and Release Agreement relating to the Montana State Court Suit, Boucher provided BNSF releases of all outstanding claims without an award of fees, costs, or expenses.”  The Board directed the parties to submit a copy of their settlement agreement because, under the FRSA regulations, “a party before the Board who enters into a settlement of an FRSA claim may withdraw on the basis of a settlement only after the Board approves the settlement.”2On May 24, 2018, the Respondent submitted a redacted copy of the settlement agreement and an “Order for Dismissal with Prejudice” issued by theMontana Eighth Judicial District Court. On June 5, 2018, the Board issued an “Order Denying Motion to Withdraw Petition for Review of ALJ Decision and Denying Approval of Settlement Agreement” (Order Denying Motion). It states the following:
+
+The Board will not approve a redacted settlement agreement because the amount of money or other consideration provided in a settlement is a “matter of public concern” . . . . Accordingly, the Board directs the parties to submit an unredacted copy of the Settlement within thirty days of this Order. If they have not done so within that time, this matter will proceed to a consideration of the merits of Boucher’s Petition.
+
+On July 2, 2018, the Complainant filed a “Submission in Response to ARB’sOrder to Complainant and Respondent.”  In this document the Complainant concedes that the Respondent is entitled to summary decision:
+
+Complainant’s argument before the ALJ and before the ARB on appeal was that he had not elected a remedy in his Montana state court action because that case was then still pending, and had not resolved via verdict or settlement, i.e., he had not then received a remedy . . . . Having now pursued his “elected remedy” to satisfactory conclusion, the issue before the ARB of whether the ALJ correctly decided election of remedies issue is rendered moot.
+
+
+
+The Secretary of Labor has delegated to the Administrative Review Board authority to review ALJ decisions in cases arising under the FRSA and issue final agency decisions in these matters.3  The Board reviews the ALJ’s factual determinations under the substantial evidence standard.4  The Board reviews anResponsibility to the Administrative Review Board), 77 Fed. Reg. 69,378 (Nov. 16, 2012); seeALJ’s conclusions of law de novo.5  The Board reviews an ALJ's grant of summary decision de novo, applying the same standard that ALJs employ under 29 C.F.R. Part 18.6  Pursuant to 29 C.F.R. § 18.72, an ALJ may enter summary judgment for either party if the pleadings, affidavits, material obtained by discovery, or matters officially noticed show that there is no genuine issue as to any material fact and that a party is entitled to summary decision.
+
+
+
+The FRSA prohibits a railroad carrier engaged in interstate or foreign commerce from discharging, demoting, suspending, reprimanding, or in any other way discriminating against an employee if such discrimination is due, in whole or in part, to the employee’s protected activity.7  The “election of remedies” provision of the Act prohibits a Complainant from bringing separate claims under two different provisions of law for the same allegedly unlawful act:  “[a]n employee may not seek protection under both this section and another provision of law for the same allegedly unlawful act of the railroad carrier.”8Montana law provides a cause of action to railway workers who suffer adverse actions because of a railroad’s mismanagement, negligence, or wrongdoing.9 It is “another provision of law” and it provides “protection” because it provides a remedy for wrongful discharge. Because Complainant has elected to seek protection under “another provision of law” in addition to the FRSA, the “election of remedies” (ARB Apr. 30, 2013) (citations omitted). 2003-ERA-013, slip op. at 3 (ARB Feb. 29, 2012). damages sustained by any employee of the person or corporation in consequence of the neglect of any other employee of the person or corporation or by the mismanagement of any other employee and in consequence of the willful wrongs, whether of commission or omission, of any other employee of the person or corporation when the neglect, mismanagement, or wrongs are in any manner connected with the use and operation of a railway or railroad on or about which the employee is employed. A contract that restricts the liability is not legal or binding.” Mont. Code Ann. § 39-2-703(1). provision of the Act renders withdrawal and dismissal of the instant action appropriate.
+
+
+
+Accordingly, Complainant’s motion to withdraw his petition for review in this appeal is GRANTED and his complaint is hereby DISMISSED.
+
+SO ORDERED.
+

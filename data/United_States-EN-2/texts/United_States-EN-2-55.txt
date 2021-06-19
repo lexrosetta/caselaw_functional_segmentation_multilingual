@@ -1,0 +1,65 @@
+U.S. Department of Labor Administrative Review Board 200 Constitution Avenue, N.W.
+
+Washington, D.C.  20210
+
+In the Matter of:
+
+TOWAKI KOMATSU, ARB CASE NO. 16-069
+
+COMPLAINANT, ALJ CASE NO. 2016-SOX-024 v.      DATE:  March 13, 2018NTT DATA, INC./ CREDIT SUISSE,RESPONDENTS.
+
+BEFORE:      THE ADMINISTRATIVE REVIEW BOARD
+
+Appearances:
+
+For the Complainant:
+
+Towaki Komatsu; pro se; New York, New York
+
+For the Respondent, NTT Data, Inc.:
+
+M. Todd Parker, Esq.; Moskowitz & Book, LLP; New York, New YorkFor the Respondent, Credit Suisse Securities (USA) LLC: Daniel Shternfeld, Esq.; Dewey Pegno & Kramarsky, LLP; New York, New YorkBefore:  Joanne Royce, Administrative Appeals Judge and Leonard J. Howie III, Administrative Appeals JudgeFINAL DECISION AND ORDER
+
+This case arises under the employee protection provision of the Sarbanes-Oxley Act of United States Department of Labor’s (DOL) Occupational Safety and Health Administration (OSHA) alleging that Respondents violated the SOX.  On May 27, 2016, a DOL Administrative Law Judge (ALJ) granted Respondents’ motion to dismiss on the grounds that the complaint was untimely filed and equitable modification was not warranted.  We affirm.
+
+BACKGROUND
+
+Komatsu, an Ikam corporation employee, performed work at Credit Suisse as a result of a contract NTT Data, Inc. (NTT) entered into with Ikam to provide production support work to Credit Suisse on an outsourcing basis through NTT.2  Respondents eliminated Komatsu’s position on April 27, 2012.3  Komatsu filed a SOX complaint with OSHA on October 29, 2015, stating that he had filed an earlier claim in 2012 with the Wage & Hour Division, DOL.  OSHA determined that Komatsu’s complaint was untimely filed because it was filed 1,280 days after the adverse action.  Komatsu objected to OSHA’s determination, and the case was assigned to an ALJ for hearing.
+
+Pursuant to Respondents’ motion to dismiss, the ALJ concurred with OSHA and granted Respondents’ motion on the grounds that Komatsu filed his complaint outside of the 180-day filing deadline under the SOX.4  The ALJ further held that Komatsu did not satisfy any of the criteria for equitable modification.  Komatsu appealed the ALJ’s order to the Board. after the date on which the violation occurs, or after the date on which the employee became aware of the violation.”); 29 C.F.R. § 1980.103(d) (“Time for filing.  Within 180 days after an alleged violation of the Act occurs or after the date on which the employee became aware of the alleged violation of the Act, any employee who believes that he or she has been retaliated against in violation of the Act may file, or have filed on the employee’s behalf, a complaint alleging such retaliation.”).
+
+JURISDICTION AND STANDARD OF REVIEW
+
+The Secretary of Labor has delegated to the Board authority to issue final agency decisions under the SOX.5  The Board reviews an ALJ’s conclusions of law, including whether to dismiss a complaint on a motion to dismiss, de novo.6DISCUSSION
+
+As noted above, the ALJ held that Komatsu’s claim was untimely and that he had not satisfied the criteria for equitable modification.  Komatsu does not appear to contest the ALJ’s finding that, on its face, his October 29, 2015 complaint to OSHA was untimely.  Instead, Komatsu argues that the filing deadline should be equitably modified.
+
+We conclude that the record supports the ALJ’s conclusion that Komatsu did not satisfy the criteria for equitable modification.  In determining whether the Board should toll a statute of limitations, we have been guided by the discussion of equitable modification of statutory time limits in School Dist. of Allentown v. Marshall, 657 F.2d 16, 19-21 (3d Cir. 1981).7  In that case, the court articulated three principal situations in which equitable modification may apply:  when the defendant has actively misled the plaintiff regarding the cause of action; when the plaintiff has in some extraordinary way been prevented from filing his action; and when “the plaintiff has raised the precise statutory claim in issue but has done so in the wrong forum.”8  But as the ARB has noted, the court in Allentown expressly left open the possibility that other situations might also give rise to equitable estoppel.9  The Board has recognized an additional ground giving rise to equitable estoppel, if “the employer’s own acts or omissions have lulled the plaintiff into foregoing prompt attempts to vindicate his rights.”10 the Administrative Review Board), 77 Fed. Reg. 69,378 (Nov. 16, 2012); 29 C.F.R. § 1980.110.
+
+020, slip op. at 4 (ARB Aug. 29, 2017) (citation omitted).
+
+U.S.C.A. § 2622 (Thomson Reuters 2009). are the principal situations where tolling is appropriate.” Allentown, 657 F.2d at 20.
+
+2010) (citing Bonham v. Dresser Indus. Inc., 569 F.2d 187, 193 (3d Cir. 1978)).
+
+Komatsu argues that his complaint should be equitably construed as timely because he asserts 1) that he lacked actual and constructive knowledge about the filing periods, 2) that he was diligent in pursuing his claims, 3) that Credit Suisse negligently misled him about SOX, 4) that it would not prejudice Respondents to toll the limitations period, 5) that he made timely complaints in the wrong forums in 2012 that “amounted to precise statutory claims against Respondents that are subject to SOX,” and 6) that Wage & Hour failed to accurately record his complaints (which would presumably prove that his Wage & Hour complaint was the precise claim in the wrong forum).11Applying the law to Komatsu’s case, we concur with the ALJ’s legal analysis and conclusion that Komatsu failed to satisfy any grounds for equitable modification.  The only two arguments Komatsu makes that relate to grounds for modification are that Credit Suisse negligently misled him about SOX and that Komatsu made the precise statutory claim in the wrong forum.  But neither of these reasons can justify equitable modification in this case. Komatsu’s other arguments do not provide a basis for equitable tolling.  Ignorance of the law is generally not a factor justifying equitable modification.12  Neither do Komatsu’s alleged diligence or lack of prejudice to Respondents provide grounds—equitable modification is granted for unusual or exceptional reasons and these do not qualify.
+
+With respect to the argument that Credit Suisse negligently misled Komatsu as to hisSOX claim, we note first that grounds for equitable modification generally require that the respondent have “actively,” not negligently, misled the complainant.  Credit Suisse apparently mandated that Komatsu take SOX training at some point before he was fired, but a pre-adverse action and pre-complaint training cannot mislead a complainant about a claim that had not yet arisen to justify equitable modification.  Komatsu has the burden to show that tolling should apply13 and this reason fails to support his case.  Further, a respondent has no obligation to inform a complainant about SOX filing requirements.14Next, Komatsu argues his communication with the Wage & Hour Division on October 10, 2012, was the precise statutory claim in the wrong forum.  The admissible evidence of record does not, however, support this argument.  In response to Komatsu’s Freedom of InformationJan. 25, 2005). (ARB Feb. 17, 2011). (ARB Sept. 30, 2010) (citing Daryanani v. Royal & Sun All., ARB No. 08-106, ALJ No. 2007-SOX- 079, slip op. at 6 (ARB May 27, 2010)).
+
+Act (FOIA) request, Wage & Hour sent him, on October 23, 2015, the complaint form which listed his October 10, 2012 complaint as an FLSA matter for failure to pay overtime at greater than the standard rate per hour.15  Wage & Hour’s summary of this complaint states as follows:
+
+[Complainant] alleged that the ER failed to pay hours worked over [Complainant] a [Independent Contractor] [Complainant] worked [full-time] at the company [Complainant] has no other client. [Complainant] worked the company website. . . . [Complainant] worked on a fixed schedule.
+
+As the ALJ explained, “[n]othing in this narrative indicates or suggests that the Complainant’s WHD complaint in any way implicates SOX.”  Further, in a November 3, 2015 email from Komatsu to a Ms. Warambo at the DOL, Komatsu described that what was missing from the complaint form Wage & Hour filled out for him was that NTT and Credit Suisse worked together and:  “a) den[ied] [him] the payment of overtime that [he] was owed for I.T. services rendered to Credit Suisse in 2012 that exceeded 40 hours per week and 8 hours per day; (b) misclassif[ied] [him] as an independent contractor by Credit Suisse’ control over the hours [he] worked as well as the manner and method in which [he] performed [his] work; and (c) retaliate[d] against [him] after [he] filed valid complaints to their representative about how [he] was fraudulently being denied the payment of overtime and fraudulently being classified as an independent contractor by terminating [his] contract to work at Credit Suisse on 4/27/12 and blacklist[ing] [him] from future opportunities to work for those firms again.”16  Again, none of this invokes the SOX.
+
+Before the ALJ and this Board, Komatsu describes his 2012 activity as “considering commencing litigation against NTT if it were to continue to violate the Contract” and that [he] felt at that time that Respondents were committing wire fraud to [his] detriment as part of a fraudulent compensation scheme and similar fraud against additional people that CS regarded as contingent workers.”17  Nevertheless, substantial evidence supports the ALJ’s finding that “at the time he filed his WHD complaint in October 2012, the Complainant did not have an objectively reasonable belief that SOX was at issue.”18  Komatsu’s October 10, 2012 complaint alleged a failure to compensate him for overtime wages; though Komatsu, before the Board, attempts to recharacterize his FLSA complaint as including SOX-protected activity, we concur with the ALJ that those communications were not “the precise statutory claim in issue” filed in the wrong forum to justify tolling SOX’s 180-day filing deadline.19  Equitable modification is not warranted for this or any other reason Komatsu has asserted.
+
+CONCLUSION
+
+Accordingly, we affirm the ALJ’s finding that Komatsu’s SOX complaint filed with OSHA against Respondents was untimely and that equitable modification is not warranted. Thus, we AFFIRM the ALJ’s order and DENY the complaint.
+
+SO ORDERED.
+
+LEONARD J. HOWIE III Administrative Appeals Judge
+
+JOANNE ROYCE Administrative Appeals Judge 	In the Matter of: 	NTT DATA, INC./ 	CREDIT SUISSE, 	RESPONDENTS. 	BEFORE:      THE ADMINISTRATIVE REVIEW BOARD 	Appearances: 	For the Complainant: 	Towaki Komatsu; pro se; New York, New York 	For the Respondent, NTT Data, Inc.: 	M. Todd Parker, Esq.; Moskowitz & Book, LLP; New York, New York 	For the Respondent, Credit Suisse Securities (USA) LLC: 	Daniel Shternfeld, Esq.; Dewey Pegno & Kramarsky, LLP; New York, New York 	FINAL DECISION AND ORDER 	Background 	Administrative Appeals Judge 	JOANNE ROYCE

@@ -1,0 +1,134 @@
+Právní věta:  Je-li popřeno právo na uspokojení pohledávky ze zajištění v poměrech předvídaných ustanovením § 196  odst. 2 insolvenčního zákona, pak bez ohledu na důvody popření  (tj. bez ohledu na to, zda je  popřena /jen/ pravost /existence/ pohledávky vůči osobnímu dlužníku /odlišnému od zástavního  dlužníka, ohledně jehož majetku je vedeno insolvenční řízení/, nebo zda je popřeno /jen/ právo na  uspokojení ze zajištění /aniž by byla zpochybněna existence pohledávky vůči osobnímu dlužníku/,  popř. zda je popřena jak existence pohledávky, tak i právo na uspokojení ze zajištění), podává  žalobu na určení práva na uspokojení pohledávky ze zajištění věřitel pohledávky.  Žalobu na popření práva na uspokojení pohledávky ze zajištění podanou insolvenčním správcem, jenž s  účinky podle ustanovení § 196 odst. 2 insolvenčního zákona popřel právo na uspokojení pohledávky ze  zajištění, soud jako podanou neoprávněnou osobou odmítne (§ 160 odst. 4, věta první, insolvenčního  zákona) ustanovení § 198 odst. 3 insolvenčního zákona v daných poměrech aplikovat nelze.  Skutečnost, že taková žaloba byla insolvenčním správcem podána dříve, než podal žalobu na určení  práva na uspokojení ze zajištění věřitel, tak není překážkou, která by bránila tomu, aby následně  podanou žalobu soud projednal a rozhodl o ní (není překážkou podle § 83 odst. 1 o. s. ř.). 
+
+
+
+ Soud: Nejvyšší soud 
+
+
+
+ Spisová značka: 29 ICdo 11/2012 
+
+
+
+ Datum rozhodnutí: 28. 2. 2013 
+
+
+
+ Typ rozhodnutí: USNESENÍ 
+
+
+
+  Heslo: Incidenční spory, Insolvence 
+
+
+
+ 
+
+
+
+  
+
+
+
+ Vrchní soud v Praze k odvolání žalobce v záhlaví označeným usnesením potvrdil  usnesení ze dne 22. září 2011, č. j. 41 ICm 1122/2011-34, jímž Krajský soud v  Praze (dále jen „insolvenční soud“) – odkazuje na ustanovení § 83 odst. 1, §  103 a § 104 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen  „o. s. ř.“) – zastavil řízení pro překážku litispendence.  
+
+
+
+ Odvolací soud přitakal insolvenčnímu soudu v závěru, podle něhož projednání  žaloby, jíž se žalobce po žalovaném domáhal určení, že jeho vykonatelná a  zajištěná pohledávka ve výši 22,155.821,92 Kč s právem na oddělené uspokojení  ze zajištění v žalobě specifikovanými nemovitostmi ve vlastnictví dlužníka  (dále jen „nemovitosti“), došlé insolvenčnímu soudu 2. května 2011, brání  řízení vedené u insolvenčního soudu pod sp. zn. 41 ICm 1036/2011 (zahájené dne  22. dubna 2011 – dále též jen „související řízení“), ve kterém se insolvenční  správce domáhá vůči žalobci určení, že pohledávka žalobce přihlášená do  insolvenčního řízení úpadce jako pohledávka vykonatelná a zajištěná v částce  22,155.821,92 Kč není po právu a není zajištěna majetkem dlužníka. Přitom zdůraznil, že v obou případech „jde o stejné účastníky, stejný skutkový  stav věci a stejný žalobní návrh“, s tím, že „obě řízení se liší pouze tím, že  žalobce v tomto sporu je ve sporu vedeném pod sp. zn. 41 ICm 1036/2011 v  postavení žalovaného a žalovaný v tomto sporu je v postavení žalobce“. Na  zmíněnou situaci – pokračoval odvolací             soud – „pamatuje“ ustanovení  § 198 odst. 3 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení  (insolvenčního zákona), podle něhož vyjde-li v průběhu řízení o žalobě na  popření nevykonatelné pohledávky najevo, že popřená pohledávka je pohledávkou  vykonatelnou, není to důvodem k zamítnutí žaloby, žalovaný je však v takovém  případě povinen prokázat důvod svého popření podle § 199 insolvenčního zákona.  To platí podle odvolacího soudu i v případě, že probíhá řízení o popření  vykonatelné pohledávky a v průběhu řízení o takové žalobě vyjde najevo, že  popřená pohledávka je pohledávkou nevykonatelnou. „I když je žalobní petit v  tomto sporu vymezen pozitivně, a v pořadí v prvním sporu je vymezen negativně,  rozhodnutí soudu o každém z nich má v insolvenčním řízení stejný právní  důsledek, a to určení, zda žalobce má či nemá za dlužníkem pohledávku ve výši  22,155.821.92 Kč s právem na uspokojení ze zajištění ze zastavených  nemovitostí“.  
+
+
+
+ Dále odvolací soud doplnil, že „právní postavení žalobce jako přihlášeného  zajištěného věřitele se v insolvenčním řízení nezmění v jeho neprospěch ani v  případě, že insolvenční správce svou žalobu na popření vykonatelné pohledávky  vezme zpět poté, kdy toto řízení bude již pravomocně zastaveno pro překážku  litispendence. Právním důsledkem zpětvzetí žaloby insolvenčním správcem bude  to, že jím popřená pohledávka je zjištěna. Také insolvenční správce má totiž v  insolvenčním zákoně stanovenou zákonnou hmotněprávní prekluzivní lhůtu k podání  žaloby na popření vykonatelné pohledávky, a to v § 199 odst. 1, a jestliže tato  lhůta správci marně uběhla (např. proto, že včas podanou žalobu vzal zpět),  platí, že v takovém případě je pohledávka zjištěna. Je právně nevýznamné, zda  ve skutečnosti jde o pohledávku vykonatelnou či nikoli. Ukáže-li se, že  fakticky je popřená pohledávka pohledávkou nevykonatelnou, neznamená to, že  neexistuje, ale má to jen procesní důsledek v eventuálně probíhajícím  incidenčním sporu v tom, který z účastníků má ohledně pohledávky důkazní  břemeno o svých skutkových tvrzeních. Jestliže však poběží pouze spor o žalobě  insolvenčního správce na popření vykonatelné pohledávky, a správce vezme svoji  žalobu zpět, bude se v insolvenčním řízení na pohledávku žalobce v tomto sporu  pohlížet jako na pohledávku zjištěnou a dojde k jejímu uspokojení bez ohledu na  to, zda jde o pohledávku vykonatelnou či nikoli“.  
+
+
+
+ Proti rozhodnutí odvolacího soudu podal žalobce dovolání, které má za přípustné  podle ustanovení § 237 odst. 1 písm. a) o. s. ř., namítaje existenci dovolacího  důvodu podle ustanovení § 241a odst. 2 písm. b) o. s. ř., tj. že rozhodnutí  odvolacího soudu spočívá na nesprávném právním posouzení věci.  Dovolatel akcentuje, že v projednávané věci se domáhá primárního určení, že  jeho pohledávka je pohledávkou zjištěnou (ve smyslu ustanovení § 201 odst. 2  insolvenčního zákona) a eventuálně (sekundárně) určení, že jeho pohledávka je  po právu, přičemž předmětem řízení vedeného u insolvenčního soudu pod sp. zn.  41 ICm 1036/2011 je pouze určení, že pohledávka žalobce po právu není; již z  tohoto důvodu rozhodnutí soudu nižších stupňů neobstojí. 
+
+
+
+ Dále dovolatel poukazuje na rozdíl mezi oběma řízeními v tom směru, že v  projednávané věci je žalobní návrh formulován „pozitivně“ a v související věci  „negativně“; předmět zmíněných věcí tudíž není „toutéž věcí“, a to ani při  posouzení „sekundárního“ žalobního návrhu a žalobního návrhu v souvisejícím  řízení. V této souvislosti současně upozorňuje na pro něho nepříznivé následky,  jež by mohlo vyvolat obstrukční jednání insolvenčního správce, vzal-li by  žalobu podanou v souvisejícím řízení zpět.  
+
+
+
+ Konečně dovolatel vyjadřuje přesvědčení, podle něhož při posouzení  vykonatelnosti pohledávky nelze vycházet pouze z toho, jak bude pohledávka  posouzena insolvenčním správcem, respektive z toho, zda insolvenční správce  věřitele vyzve k uplatnění nároku u soudu či nikoli.  
+
+
+
+ Proto požaduje, aby Nejvyšší soud rozhodnutí odvolacího soudu zrušil.             Pro incidenční spory jsou ustanovení občanského soudního řádu o  přípustnosti dovolání přiměřeně aplikovatelná podle ustanovení § 7 odst. 1  insolvenčního zákona. 
+
+
+
+             Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31.  prosince 2012) se podává z bodu 7., článku II., zákona č. 404/2012 Sb., kterým  se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších  předpisů, a některé další zákony. 
+
+
+
+             Dovolání žalobce je přípustné podle ustanovení § 239 odst. 2 písm.  a) o. s. ř. a je i důvodné.  
+
+
+
+             Právní posouzení věci je obecně nesprávné, jestliže odvolací soud  posoudil věc podle právní normy, jež na zjištěný skutkový stav nedopadá, nebo  právní normu, sice správně určenou, nesprávně vyložil, případně ji na daný  skutkový stav nesprávně aplikoval. 
+
+
+
+ Podle ustanovení § 83 odst. 1 o. s. ř. zahájení řízení brání tomu, aby o téže  věci probíhalo u soudu jiné řízení. 
+
+
+
+ Překážka věci zahájené brání tomu, aby byla projednána a rozhodnuta stejná věc,  o níž již bylo dříve zahájeno jiné řízení. O stejnou věc jde tehdy, jde-li v  pozdějším řízení o tentýž nárok nebo stav, o němž bylo již zahájeno jiné  řízení, a týká-li se stejného předmětu řízení a týchž osob; není přitom samo o  sobě významné, mají-li stejné osoby v různých řízeních rozdílné procesní  postavení, například vystupují-li v jednom řízení jako žalovaní a v druhém jako  žalobci. Tentýž předmět řízení je dán tehdy, jestliže tentýž nárok nebo stav  vymezený žalobním petitem vyplývá ze stejných skutkových tvrzení (ze stejného  skutku), jimiž byl uplatněn. Řízení se týká týchž osob i v případě, jestliže v  pozdějším řízení vystupují právní nástupci osob, které jsou (byly) účastníky  dříve zahájeného řízení (srov. např. důvody rozhodnutí Nejvyššího soudu ze dne  29. listopadu 2005, sp. zn. 21 Cdo 1002/2005, uveřejněného v časopise Soudní  judikatura č. 3, ročník 2006, pod číslem 32 nebo důvody rozhodnutí Nejvyššího  soudu ze dne 31. května 2011, sp. zn. 29 Cdo 328/2009, uveřejněného pod číslem  137/2011 Sbírky soudních rozhodnutí a stanovisek). 
+
+
+
+             Jak je zřejmé z obsahu spisu, v projednávané věci je předmětem  řízení požadavek na určení, že vykonatelná zajištěná pohledávka žalobce ve výši  22,155.821,92 Kč s právem na oddělené uspokojení ze zpeněžení nemovitostí,  přihlášená do insolvenčního řízení vedeného na majetek dlužníka, je pohledávkou  zjištěnou (ve smyslu ustanovení § 201 odst. 2 insolvenčního zákona), s tím, že  pro případ (in eventum), že soud nenalezne důvody pro vydání výše uvedeného  rozsudku, žalobce navrhuje vydání rozsudku, jímž bude určeno, že vykonatelná  zajištěná pohledávka ve výši 22.155.821,92 Kč je po právu s právem na oddělené  uspokojení ze zpeněžení nemovitostí. 
+
+
+
+ Předmětem souvisejícího řízení (vedeného u insolvenčního soudu pod sp. zn. 41  ICm 1036/2011) je žaloba insolvenčního správce proti přihlašovateli pohledávky  (žalobci v projednávané věci) o určení, že pohledávka věřitele přihlášená do  insolvenčního řízení dlužníka, jako pohledávka vykonatelná a zajištěná ve výši  22,155.821,92 Kč, není po právu a není zajištěna majetkem dlužníka. Právní závěr odvolacího soudu ohledně překážky litispendence neobstojí již  proto, že odvolací soud pominul skutečnost, že se žalobkyně (dle petitu žaloby)  domáhá určení pravosti (vykonatelné) pohledávky a práva na uspokojení ze  zajištění pouze pro případ, že nebude vyhověno „primárnímu“ požadavku na  určení, že vykonatelná zajištěná pohledávka s právem na uspokojení ze zajištění  je (ve smyslu ustanovení § 201 odst. 2 insolvenčního zákona) pohledávkou  zjištěnou. 
+
+
+
+ Přitom není pochyb o tom, že výše uvedený „primární“ žalobní požadavek je zcela  odlišný od předmětu řízení v souvisejícím řízení, jímž je žaloba insolvenčního  správce na určení, že pohledávka není po právu a není zajištěna majetkem  dlužníka. 
+
+
+
+ V této souvislosti nelze přehlédnout ani to, že na rozdíl od žaloby na určení  popřené pohledávky (§ 198 insolvenčního zákona), popřípadě žaloby na popření  vykonatelné pohledávky (§ 199 insolvenčního zákona), žalobu o „zjištění  vykonatelné pohledávky“ (odůvodněnou výslovným odkazem na ustanovení § 201  odst. 2 insolvenčního zákona) insolvenční zákon výslovně neupravuje a  skutečnost, že vykonatelná pohledávka je zjištěna, je – ve smyslu odkazovaného  ustanovení ? pouze důsledkem toho, že nebyla včas podána žaloba na její popření  nebo že taková žaloba byla zamítnuta anebo řízení o ní skončilo jinak než  rozhodnutím ve věci samé (srov. § 201 odst. 2 insolvenčního zákona). Konečně v poměrech projednávané věci je navíc zjevné, že insolvenční řízení je  vedeno ohledně majetku zástavního dlužníka (odlišného od osobního dlužníka). Podle ustanovení § 196 insolvenčního zákona popření výše pohledávky nemá vliv  na její pořadí. Popření pořadí pohledávky nemá vliv na pravost nebo výši  pohledávky (odstavec 1).  Popření práva na uspokojení pohledávky ze zajištění  má však u zajištěného věřitele, který může tuto pohledávku vůči dlužníku  uspokojit pouze z majetku poskytnutého k zajištění, tytéž účinky jako popření  pravosti pohledávky, a bylo-li toto právo popřeno jen zčásti, tytéž účinky jako  popření výše pohledávky (odstavec 2).  
+
+
+
+ Spor o právo na uspokojení přihlášené pohledávky ze zajištění je svou podstatou  sporem o výhodnější (přednostní) pořadí uspokojení přihlášené pohledávky a jako  takový je v úpadkovém právu tradičně vnímán jako spor o pořadí pohledávky;  srov. v režimu zákona č. 328/1991 Sb., o konkursu a vyrovnání, např. body I. a  XXXI. stanoviska občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne  17. června 1998, Cpjn 19/98, uveřejněného pod číslem 52/1998 Sbírky soudních  rozhodnutí a stanovisek (dále jen „stanovisko“), str. 169-170 (345-346) a str.  200-201 (376-377). Tomu pro insolvenční řízení odpovídá dikce ustanovení § 195  insolvenčního zákona, jež určuje, že o popření pohledávky co do jejího pořadí  jde i tehdy, je-li popíráno právo na uspokojení pohledávky ze zajištění. Spor o pořadí pohledávky pro účely jejího uspokojení v insolvenčním řízení je  přitom (bez ohledu na to, zda jde o pohledávku vykonatelnou) vždy sporem  zahajovaným věřitelem, který pohledávku přihlásil (přihlášeným věřitelem). To  platí i u vykonatelných pohledávek; rozhodnutím, popřípadě listinou, která je  exekučním titulem, na základě kterých se pohledávka stala vykonatelnou, byl  totiž stanoven jen základ a výše pohledávky. Pořadí ani právo na uspokojení ze  zajištění nejsou řešeny (pokryty) exekučním titulem, a proto v tomto směru  platí postup, jaký zákon určuje pro podání žalob v incidenčních sporech u  nevykonatelných pohledávek. Pro poměry založené zákonem o konkursu a vyrovnání  vyložil Nejvyšší soud tuto otázku opět již pod bodem XXXI. stanoviska (str. 203  /379/), přičemž jde o závěry plně uplatnitelné i na popření pořadí pohledávky,  včetně popření práva na uspokojení pohledávky ze zajištění, v insolvenčním  řízení vedeném podle insolvenčního zákona.  
+
+
+
+ Ustanovení § 196 odst. 2 insolvenčního zákona pak obsahuje pravidlo, které  respektuje zvláštní povahu pohledávky přihlášené do insolvenčního řízení nikoli  jako osobní pohledávka věřitele vůči jeho osobnímu dlužníku, nýbrž (jen) z  titulu zajištění  ? dlužník je pouze osobou, která svým majetkem zajišťuje  pohledávku věřitele vůči jinému (osobnímu) dlužníku (v poměrech „zástavní  pohledávky“ srov. k tomu v literatuře např. Bureš, J. - Drápal, L.: Zástavní  právo v soudní praxi, 2. vydání, Praha, C. H. Beck 1997, str. 16 a 17, a v  rozhodovací praxi soudů např. rozsudek Nejvyššího soudu ze dne 29. listopadu  2005, sp. zn. 29 Odo 396/2003, uveřejněný pod číslem 31/2007 Sbírky soudních  rozhodnutí a stanovisek, usnesení Nejvyššího soudu ze dne 29. dubna 1997, sp.  zn. 2 Cdon 1612/96, uveřejněné pod číslem 30/1998 Sbírky soudních rozhodnutí a  stanovisek a usnesení Nejvyššího soudu ze dne 18. prosince 1997, sp. zn. 2 Cdon  967/97, uveřejněné pod číslem 46/1998 Sbírky soudních rozhodnutí a stanovisek). V takovém případě totiž popření pořadí pohledávky spočívající v popření práva  na uspokojení pohledávky ze zajištění nutně vede i k zásahu do podstaty  přihláškou uplatněné pohledávky (co do její pravosti nebo výše), jelikož bez  práva na uspokojení pohledávky ze zajištění nemá věřitel důvod vůči dlužníku,  jenž není jeho osobním dlužníkem, cokoli přihlásit.  
+
+
+
+ Proto také ustanovení § 196 odst. 2 insolvenčního zákona pro tento případ  vysvětluje, že oproti obecnému pravidlu plynoucímu z dikce § 196 odst. 1 věty  druhé má popření pořadí pohledávky spočívající v popření práva na uspokojení  pohledávky ze zajištění u zajištěného věřitele, který může tuto pohledávku vůči  dlužníku uspokojit pouze z majetku poskytnutého k zajištění, tytéž účinky jako  popření pravosti pohledávky, a bylo-li toto právo popřeno jen zčásti, tytéž  účinky jako popření výše pohledávky. Na tom, že jde ve smyslu § 195  insolvenčního zákona o popření pořadí pohledávky, při kterém podává žalobu o  určení pořadí vždy přihlášený věřitel (lhostejno, zda zajištěná pohledávka je  pohledávkou vykonatelnou), ustanovení § 196 odst. 2 insolvenčního zákona ničeho  nemění.   
+
+
+
+ Uvedené přitom platí bez zřetele k tomu, zda popření práva na uspokojení  pohledávky ze zajištění je odůvodněno zánikem zajištěné (byť i vykonatelné)  pohledávky nebo (při nezpochybněné existenci zajištěné pohledávky) jen  neexistencí zajištění (např. námitkou neplatného vzniku zástavního práva).   
+
+
+
+             Jinými slovy, je-li popřeno právo na uspokojení pohledávky ze  zajištění v poměrech předvídaných ustanovením § 196 odst. 2 insolvenčního  zákona, pak bez ohledu na důvody popření [tj. bez ohledu na to, zda je popřena  (jen) pravost (existence) pohledávky vůči osobnímu dlužníku (odlišnému od  zástavního dlužníka, ohledně jehož majetku je vedeno insolvenční řízení), nebo  zda je popřeno (jen) právo na uspokojení ze zajištění (aniž by byla zpochybněna  existence pohledávky vůči osobnímu dlužníku), popř. zda je popřena jak  existence pohledávky, tak i právo na uspokojení ze zajištění], podává žalobu na  určení práva na uspokojení pohledávky ze zajištění věřitel pohledávky. Žalobu  na popření práva na uspokojení pohledávky ze zajištění podanou insolvenčním  správcem, jenž s účinky podle ustanovení § 196 odst. 2 insolvenčního zákona  popřel právo na uspokojení pohledávky ze zajištění, soud jako podanou  neoprávněnou osobou odmítne (§ 160 odst. 4 věta první insolvenčního zákona);  ustanovení § 198 odst. 3 insolvenčního zákona v daných poměrech aplikovat  nelze. Skutečnost, že taková žaloba byla insolvenčním správcem podána dříve,  než podal žalobu na určení práva na uspokojení ze zajištění věřitel, tak není  překážkou, která by bránila tomu, aby následně podanou žalobu soud projednal a  rozhodl o ní (není překážkou podle § 83 odst. 1 o. s. ř.). 
+
+
+
+ Jelikož právní posouzení věci, na němž rozhodnutí odvolacího soudu spočívá,  není správné a dovolací důvod podle ustanovení § 241a odst. 2 písm. b) o. s. ř.  byl dovolatelem uplatněn po právu, Nejvyšší soud rozhodnutí odvolacího soudu  zrušil. Důvody, pro které neobstálo rozhodnutí odvolacího soudu, dopadají i na  rozhodnutí insolvenčního soudu, proto Nejvyšší soud zrušil i je a věc vrátil  tomuto soudu k dalšímu řízení (§ 243b odst. 2 část věty za středníkem a odst. 3  o. s. ř.). 
+
+
+
+ Byť je žalobcem uplatněný požadavek „druhově“ podřaditelný incidenčním sporům  předvídaným ustanovením § 159 odst. 1 písm. a) insolvenčního zákona,  insolvenční soud v další fázi řízení nepřehlédne, že v rámci primárního petitu  se žalobce domáhání (i) určení toho, že (…) pohledávka je zjištěna, tj. určení,  se kterým insolvenční zákon výslovně nepočítá a u něhož bude nezbytné zkoumat i  to, zda žalobce má na požadovaném určení naléhavý právní zájem ve smyslu § 80  písm. c) o. s. ř.  
+
+
+
+ Právní názor Nejvyššího soudu je pro soudy nižších stupňů závazný. O náhradě  nákladů řízení, včetně nákladů dovolacího řízení soud rozhodne v novém  rozhodnutí o věci (§ 243d odst. 1 o. s. ř.). 
+
+
+
+  
+
+
+
+   
+

@@ -1,0 +1,42 @@
+U.S. Department of Labor Administrative Review Board Washington, DC 20210-0001In the Matter of:
+
+ANNECIA M. FORT,  ARB CASE NO. 2018-0026
+
+COMPLAINANT,  ALJ CASE NO. 2017-STA-00028 v.  DATE:  March 6, 2020LANDSTAR TRANSPORTATION, LOGISTICS, INC.,
+
+RESPONDENT.
+
+Appearances:
+
+For the Complainant: Annecia M. Fort; pro se; Jacksonville, FloridaFor the Respondent:
+
+G. Thomas Harper, Esq.; The Law and Mediation Offices of G. Thomas Harper, LLC; Jacksonville, FloridaBefore:  Thomas H. Burrell, Acting Chief Administrative Appeals Judge, James A. Haynes, and Heather C. Leslie, Administrative Appeals Judges.
+
+DECISION AND ORDER
+
+PER CURIAM. This case arises under the employee protection provisions of theSurface Transportation Assistance Act of 1982 (STAA) as amended.1 Annecia Fort (Complainant) was employed by Landstar Transportation Logistics, Inc. (Landstar or Respondent) as a Log Compliance Representative in Landstar’s Log Compliance Department from November 2004 until October 2015, when she was transferred to Landstar’s Carrier Qualification Department.2 Fort filed a complaint with the U.S. Department of Labor’s Occupational Safety and Health Administration (OSHA) on September 15, 2015. She alleged that the Respondent violated the terms of the STAA by discharging her from the Log Compliance Department in retaliation for raising safety concerns regarding three of the Business Capacity Owners (BOC or “drivers”). Following an investigation, OSHA dismissed the complaint on December 23, 2016. Complainant objected to OSHA’s determination and requested a hearing with the Office of Administrative Law Judges (OALJ).
+
+On January 6, 2018, Respondent filed a Motion for Summary Decision whichComplainant opposed. After considering the Respondent’s Motion for Summary Decision and Complainant’s Objection to Employer’s Motion, a Department of Labor Administrative Law Judge (ALJ) granted the Respondent’s motion under 29 C.F.R. § 18.72 (2016) and cancelled the hearing. Order Granting Summary Decision (Feb. 2, 2018) (Order). Complainant appealed. We agree with the ALJ and affirm.
+
+JURISDICTION AND STANDARD OF REVIEW
+
+The Administrative Review Board (ARB or Board) has jurisdiction to review the ALJ’s STAA decision pursuant to Secretary’s Order No. 01-2020 (Delegation of Authority and Assignment of Responsibility to the Administrative Review Board) (Feb. 21, 2020); 29 C.F.R. Part 1978.
+
+The ARB reviews an ALJ’s grant of summary decision de novo under the same standard the ALJ applies. Summary decision is permitted where “thereU.S.C. § 42121 (2000) (providing standards referenced in the STAA). the case was considered by the ALJ in February 2018. is no genuine dispute as to any material fact and the movant is entitled to decision as a matter of law.” 29 C.F.R. § 18.72(a) (2018). The ARB views the record on the whole in the light most favorable to the non-moving party. Micallef v. Harrah’s Rincon Casino & Resort, ARB No. 16-095, ALJ No. 2015- SOX-025, slip op. at 3 (ARB July 5, 2018).
+
+DISCUSSION
+
+STAA complaints are governed by the legal burdens of proof set forth in the employee protection provision of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century (AIR 21). 49 U.S.C. § 31105(b)(1); see 49 U.S.C. §42121 (2000). To prevail on a STAA claim, an employee must prove by a preponderance of the evidence that she engaged in protected activity that was a contributing factor in an unfavorable personnel action taken against her. 49 U.S.C. § 42121(b)(2)(B)(iii). In light of our disposition of this matter, we limit our discussion to the issue of whether the ALJ correctly granted summary decision on the issue that Complainant failed to establish a genuine issue of material fact by showing that prior to her discharge she had engaged in any activity that the STAA protects.
+
+In her complaint, Fort referenced three incidents as protected activity under the Act. First, on November 21, 2014, Fort recommended that Landstar disqualify a driver from driving for Landstar because he had accumulated 76 violations for log compliance issues. A Landstar agent requested Director of Compliance Mahal Cason consider that the driver was an older, long-time driver who did not understand electronic logs (ELD). Instead of disqualifying the driver based on the electronic log violations, Cason referred him for additional training on how to use the electronic logging system.3 The ALJ considered Fort’s allegation that Cason exhibited an improper motivation for retaining the driver, but concluded that a reasonable person would not believe that electronic logging problems would constitute a violation of a motor vehicle regulation. Further, viewing the evidence in the light most favorable to Fort, the ALJ was not able to find a regulation he had two separate minor accidents, which Fort reported to Vice-President Michael Cobb. The driver was then disqualified from driving with Landstar. implicated by Cason’s decision to retain the driver and give him retraining. ALJ Order at 4.
+
+Fort’s second allegation concerned an Hours of Service (HOS) alert from a second driver’s ELD in January 2015. Fort called the second driver to provide log compliance counseling but failed to reach him. When the second driver returned her call on January 28, 2015, requesting to be trained on the ELD, a supervisor advised another employee that Fort was in a meeting and instructed her to tell the second driver to call back the next day. When she learned what had happened, Fort reported her concerns to Director Cason. The ALJ concluded that while asking a driver to call back at a later time may be inconsistent with company policy and department practice, Complainant’s concern was not about a violation of any sort.4The third incident of alleged protected activity involved a third driver. InAugust 2015, Landstar underwent a mock Department of Transportation audit. During the audit, the auditors reviewed the logs of the third driver and noted that her log showed that she had been in her sleeper berth for three weeks. After an investigation, a Log Compliance Department employee confirmed with the third driver that she had taken her truck to the shop and had forgotten to change her duty status. The third driver verbally consented to Landstar changing her status remotely. Following a review of the applicable regulations, the ALJ concluded that there was no regulation that would forbid an employer from changing the duty status of a driver. Moreover, the ALJ concluded that no reasonable person would believe that Landstar falsified the log or that the third driver had been in the sleeper berth for three weeks.
+
+On appeal, Complainant does not identify errors of law that would show that the ALJ’s conclusions were wrong. Indeed, none of Complainant’s reports concerned violations of the STAA or safety related matters; rather, each complained-of- incident had to do with electronic logging device problems and not safety matters. Thus, upon de novo review of the ALJ’s conclusion that the Respondent was entitled she reported that the driver was in violation of Federal Motor Carrier Safety Administration Hours of Service regulations. However, the materials submitted to the ALJ reflect that Fort reported HOS alerts and did not specify that the second driver had violated a regulation. to summary decision as a matter of law, we hold that it is in accordance with law and the undisputed facts. 29 C.F.R. § 18.72.
+
+CONCLUSION
+
+The ALJ properly concluded that the Respondent was entitled to summary decision as a matter of law. Accordingly, the ALJ’s decision to GRANT the Respondent’s motion for summary decision is AFFIRMED and the complaint is hereby DENIED.
+
+SO ORDERED.
+

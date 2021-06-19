@@ -1,0 +1,74 @@
+
+
+
+This case arises under the employee protection provisions of the SurfaceTransportation Assistance Act of 1982 (STAA). 49 U.S.C. § 31105(a) (2007); 29C.F.R. Part 1978 (2019). Benjamin Heckman filed a complaint in 2010 alleging that his former employer and related companies, including M3 Transport, LLC, SLTExpress Way, Inc., Lyons Capital, LLC, Roadmaster Group, RoadmasterSpecialized, Inc., and Roadmaster Transportation, Inc. (Respondents) violated theSTAA by terminating his employment. On December 22, 2017, a Department ofLabor Administrative Law Judge (ALJ)1 issued an Order of Dismissal dismissingHeckman’s complaint. For the following reasons we affirm the ALJ’s dismissal.
+
+
+
+Heckman began working as a driver for Respondents on December 1, 2009.
+
+His employment ended on February 10, 2010. On June 21, 2010, he filed a complaint with the Occupational Safety and Health Administration (OSHA) alleging that he was discharged from employment in violation of the STAA. OSHA investigated the complaint and determined that Heckman engaged in STAA- protected activity that contributed to his discharge, and Respondents therefore violated the STAA. Respondents filed objections and requested a hearing before anALJ.
+
+This case was first assigned to ALJ William Dorsey on October 24, 2012.
+
+Ordinarily, when a respondent objects to OSHA’s findings, the Assistant Secretary for Occupational Safety and Health proceeds as the prosecuting party. 29 C.F.R. § 1978.108(a)(1). But the Assistant Secretary may withdraw as the prosecuting party “in the exercise of prosecutorial discretion.” 29 C.F.R. § 1978.108(a)(2). In a letter dated October 26, 2012, the Assistant Secretary declined to prosecute this case onHeckman’s behalf. In 2012 and 2013, Heckman attempted to retain counsel but has represented himself since September 11, 2013. In 2013, the parties attempted to engage in mediation and settle the complaint but those efforts were unsuccessful.
+
+Between 2013 and 2016, Heckman “began filing a great many motions– almost all without merit–and generally litigating in a vexatious manner.” Order ofDismissal at 1. Heckman filed motions to expedite the hearing and to change its location, two motions for summary decision, motions for default judgment and sanctions, and requests for hundreds of admissions. Judge Dorsey eventually issued a protective order relieving Respondents of the burden of responding to Heckman’s (unmeritorious) motions unless ordered otherwise.
+
+In 2015, Judge Dorsey learned that in February 2014, Heckman experienced a medical condition. On July 7, 2016, Judge Dorsey issued an order in which he concluded that it was unclear whether Heckman was “capable of presenting his case himself, even in short segments, over several sessions” and that conducting the hearing with Heckman appearing pro se might impair Respondents’ ability to defend themselves. He therefore ordered that Heckman file within 21 days “a indicated, the abbreviation “ALJ” refers to Judge Steven B. Berlin. statement from a physician or psychologist that explains the specific limitations his condition imposes on his physical or mental ability to travel, to present his case in one session, and to proceed without a lawyer.” Instead, Heckman submitted a letter from a physician’s assistant and documents from the Social Security Administration (SSA) representing that Heckman could no longer work as a truck driver or do any other substantial gainful activity and that he was entitled to Social SecurityDisability benefits. Id. at 7, 13.
+
+Judge Dorsey retired at the end of 2016, and this case was reassigned to ALJSteven B. Berlin. Heckman continued to file numerous motions and submit various accusations about the Respondents and their representatives. Id. at 7. The ALJ issued an Order to Show Cause on June 9, 2017, ordering Heckman to show that he was competent to testify and able to represent himself, and informing him that if he was not able to represent himself, he would need to proceed with a guardian ad litem. Heckman responded but, according to the ALJ, he did not adequately address the issue of his ability to represent himself.
+
+The ALJ next issued a Second Order to Show Cause on October 20, 2017. TheSecond Order to Show Cause included instructions and restrictions on whomHeckman could nominate to proceed on his behalf, and warned him that if he failed to comply with the requirement that he nominate a guardian ad litem, the ALJ would dismiss his complaint. Heckman responded but did not “nominate any person to be his guardian ad litem” or “submit any of the required statements to support such a nomination.” Id. at 10.
+
+On December 22, 2017, the ALJ issued an Order of Dismissal dismissing the complaint because “Complainant is not able to represent himself consistent withSupreme Court authority and with the due process rights of Respondents.” Id. at 16.
+
+Heckman appealed the ALJ’s ruling to the Board.
+
+
+
+The Secretary of Labor has delegated to the Board authority to review ALJ decisions in cases arising under the STAA and its implementing regulations at 29C.F.R. Part 1978. Secretary’s Order No. 01-2020 (Delegation of Authority andAssignment of Responsibility to the Administrative Review Board (Secretary’s discretionary review of ARB decisions)), 85 Fed. Reg. 13,186 (Mar. 6, 2020); 29C.F.R. § 1978.110(a). We review questions of law presented on appeal de novo, but are bound by the ALJ’s factual determinations as long as they are supported by substantial evidence.2 The ARB reviews an ALJ’s procedural rulings under an abuse of discretion standard.3
+
+The ALJ appears to have provided two overlapping bases for his dismissal:
+
+Complainant’s vexatious litigation and his failure to obtain a guardian ad litem.4Because we affirm the ALJ’s dismissal on Complainant’s vexatious litigation,5 we decline to address the ALJ’s order for Complainant to nominate a guardian ad litem.6The ALJ’s discussion of Heckman’s medical condition overshadows the ALJ’s findings concerning vexatious litigation and noncompliance. The record contains ample evidence supporting the ALJ’s findings that Heckman engaged in vexatious litigation. The ALJ wrote:
+
+I conclude that Complainant’s lengthy period of self- representation has been vexatious and costly for theNo. 2016-STA-00007, slip op, at 2 (ARB Apr. 30, 2019) (reissued May 9, 2019) (citation omitted).
+
+00001, slip op. at 3 (ARB June 16, 2010). representation of Complainant. Before he was impaired, Complainant elected to proceed into the litigation representing himself. Complainant is not able to represent himself consistent with Supreme Court authority and with the due process rights of Respondents.
+
+He refuses the appointment of a guardian ad litem as required in the applicable rules. As the rules and precedent provide no other options, and Complainant points to none, the litigation cannot go forward. Accordingly, this matter is DISMISSED in its entirety.”). differs from the district court’s rationale. Applied Underwriters, Inc. v. Lichtenegger, 913F.3d 884 (9th Cir. 2019) (affirming district court’s dismissal on alternate grounds despite district court’s error dismissing as a sanction). “[I]n reviewing the decision of a lower court, it must be affirmed if the result is correct although the lower court relied upon a wrong ground or gave a wrong reason.” Richison v. Ernest Group, Inc., 634 F.3d 1123, 1130 (10thCir. 2011), quoting S.E.C. v. Chenery Corp., 318 U.S. 80, 88 (1943). medical professional. Furthermore, the ALJ cited Indiana v. Edwards, 554 U.S. 164 (2008), but criminal cases involving a defendant’s life or liberty are distinguishable fromHeckman’s procedural rights under the STAA. See, e.g., Thompson v. Covenant Transp.,Inc., 2008 WL 2893521 (W.D.N.C. July 23, 2008) (not reported). defense and excessively expended the limited resources of this Office, has (for a long time) precluded the case from progressing to hearing, and will (according toComplainant) require accommodations that would place an undue hardship on this Office and on Respondents and that ultimately would deprive Respondent of due process.
+
+Under the circumstances, I conclude that, owing to
+
+Complainant’s recalcitrance, this matter cannot progress to a fair hearing, and I am left with no viable option but to dismiss it.
+
+Order of Dismissal at 2.
+
+As the ALJ noted, Heckman’s litigation history reveals “outrageous” and repetitive discovery requests despite multiple warnings to cease and comply with directives. Id. at 3. The ALJ cited Complainant’s multiple motions for summary decision which demonstrate that he failed to appreciate how summary decision works. Complainant filed multiple improper motions to compel despite several warnings and directives. The ALJ observed that “[the former ALJ] concluded thatRespondents had to be protected against the cost of responding to . . . Complainant’s many motions that were transparently without merit. [The ALJ] found that: ‘Pre- trial litigation in this matter has grown excessive.’ He ordered that Respondents need not respond to any of Complainant’s motions unless ordered to respond.” Id. at 6. Nonetheless, Complainant continued to file frivolous motions that failed to follow the requirements of the law and the ALJ’s directives. The case was assigned to a new ALJ and the frivolous motions continued. Id. at 7.
+
+Upon learning of Complainant’s medical condition, the ALJ explored the availability of a guardian ad litem before dismissing Complainant’s case, but this does not change the underlying vexatious case history supporting dismissal.
+
+Ultimately, the ALJ found that Complainant was unable to represent himself and had not taken measures to remedy that deficiency. Id. at 12. The ALJ wrote:
+
+The history of the litigation also supports an inference that Complainant is unable or at least is having difficulty complying with the administrative law judge’s orders, exercising judgment in deciding what motions to file and what discovery to seek, and preparing his case for a hearing.
+
+Id. at 13.
+
+In principal part, the ALJ’s dismissal was a sanction based on Complainant’s vexatious litigation and inability to represent himself. The ALJ wrote:
+
+Congress has authorized administrative law judges to regulate the course of hearings and act to assure the soundness of the factfinding. Administrative law judges also have inherent authority to control the cases before them. The “right of access to the courts is neither absolute nor unconditional, and conditions and restrictions on each person’s access are necessary to preserve judicial resources for all other persons.” “Vexatious law suits threaten the availability of a well-functioning judiciary to all litigants.” The authority to dismiss a case comes from an administrative law judge’s inherent authority to manage and control his or her docket and to prevent undue delays in the orderly and expeditious disposition of pending cases.
+
+Complainant’s pattern of vexatious litigation appeared at and after the time of his [medical condition]. It included so many, not only meritless, but actually frivolous motions that Judge Dorsey had to issue an extraordinary order relieving Respondents from any obligation to answer Complainant’s motions absent an order requiring them to answer.
+
+Id. at 15-16 (footnotes omitted). We conclude that the ALJ was within his discretion to dismiss the case for failure to follow ALJ directives. An ALJ’s power to dismiss a case for abusive litigation arises from the control necessarily vested in courts to manage their affairs so as to achieve the orderly and expeditious disposition of cases. 29 C.F.R. § 18.57(b)(v); James v. Suburban Disposal Inc., ARB No. 2010- 0037, ALJ No. 2009-STA-00071, slip op. at 5 (ARB Mar. 12, 2010). As the ALJ noted, he correctly considered the burdens Complainant’s litigation imposed on theRespondents.7 Pro se litigants, though at times receiving additional considerations, bear the same burdens and obligations as litigants represented by counsel. Fleming v. The Shaw Grp., ARB No. 2014-0070, ALJ No. 2013-ERA-00014 (ARB Aug. 19, 2015).
+
+
+
+1995) (Remand Order) (“More than five years have elapsed since Guity filed this complaint.… I find that this Department has reached the limits of its ability to delay the prosecution of this case to preserve Mr. Guity’s “day in court.” The rights of a respondent to have claims against it resolved in a timely fashion must also be considered.…”).
+
+The record and the ALJ’s findings permit affirming the ALJ’s dismissal on the basis of vexatious litigation and noncompliance. We therefore AFFIRM theALJ’s dismissal of Heckman’s complaint.
+
+SO ORDERED.
+
+

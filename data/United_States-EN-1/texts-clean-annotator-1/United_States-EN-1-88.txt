@@ -1,0 +1,206 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+Before the Court is Plaintiffs’ Motion for Partial Summary Judgment as to Successor Liability and Joint Employer Status.  ECF No. 147.  For the reasons set forth below, the motion is GRANTED IN PART and DENIED IN PART. 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+On November 9, 2012, Plaintiffs brought this case as a collective action under the Fair Labor Standards Act (“FLSA”) and as a class action pursuant to California’s Labor Code and Unfair Competition Law.  ECF No. 1, ¶ 1.  Plaintiffs allege that Defendant Velocity Express misclassified its delivery drivers as independent contractors when they were, in fact, employees.  Id., ¶ 3.  Because of the misclassification, Plaintiffs allege that Velocity Express failed to pay Plaintiffs minimum wages and overtime.  Id., ¶¶ 2, 4.   
+
+Velocity is now a defunct company that cannot satisfy a potential judgment.  See ECF No. 150 at 1.  Plaintiffs bring this motion in an attempt to establish that Defendants TransForce and Dynamex should be held responsible for Velocity’s potential liability under the successor liability and joint employer doctrines.  Construed in the light most favorable to Defendants, the evidence shows the following: 
+
+A few years before this litigation commenced, a private equity firm called ComVest 
+
+acquired Velocity for $22 million.  ECF No. 147 at 4.1  At that time, Velocity was “one of the nation’s leading same-day package and courier delivery companies.”  Id.  During ComVest’s ownership of Velocity, Velocity’s network grew to comprise 80 locations and 2,600 staff and independent contractors.  Id. at 4-5.   
+
+1 Where the Court has cited Plaintiffs’ motion, it relies upon the evidence cited by Plaintiffs for the point at issue.   
+
+In 2012, ComVest offered Velocity for sale at the price of $42 million.  Id. at 6.  Defendants TransForce, Inc., and its subsidiary, Dynamex Operations East, LLC, agreed to purchase Velocity for that price.  TransForce is a Canadian business that seeks “‘[t]o establish itself as a leader in the North American transportation and logistics industry . . . .’”  Id. at 3 (citing TransForce’s mission statement).  Dynamex is a “‘transportation services company, competing in Canada and the USA with a specific focus on same-day logistics and outsourced transportations services.’”  Id. at 5-6.   
+
+Before purchasing Velocity, TransForce engaged in a four-to-six-week due diligence process, the purpose of which was to determine whether Velocity was what it appeared to be and to ensure that it met “TransForce investment criteria.”  Id. at 10-11.  Specifically, TransForce sought to ascertain “whether there were ‘any situations that would be so harmful that TransForce wouldn’t touch the company’ and ‘to confirm the price.’”  Id. at 11 (internal alteration omitted).  The due diligence process included the creation of a “data room” that held information regarding Velocity’s business operations and resulted in the creation of a “Due Diligence Study,” which TransForce’s due diligence team reviewed.  Id.  The Due Diligence Study revealed that there were “several open issues” related to Velocity’s classification of its delivery drivers as independent contractors, rather than as employees.  Id. at 13.  The Study characterized these “open issues” as “a major risk for the company.”  Id.  Dynamex and TransForce were aware of the risk, but disagreed with the Study’s characterization of the risk and accepted any potential risk “as a normal course of business.”  Id.   
+
+A merger agreement was prepared in anticipation of the sale, and attached to the agreement was Velocity’s Company Disclosure Statement, which listed its outstanding liabilities and pending 
+
+litigation, including this matter.  Id.  Dynamex and TransForce knew of “all actions listed on the schedule of outstanding legal matters.”  Id.  Other than this litigation, the Disclosure Statement also listed regulatory actions in New York and Washington related to Velocity’s classification of its delivery drivers.  Id. at 13-14.  Dynamex and TransForce knew that these actions “could have material adverse effects on” Velocity’s financial status.  Id. at 14. 
+
+Based on these known risks, TransForce’s lead attorney for U.S. legal matters questioned whether the purchase price would “accommodate costs of resolving the outstanding litigation.”  Id.  Transforce attempted to negotiate an agreement whereby ComVest would assume liability for outstanding litigation against Velocity, but ComVest demurred.  Id. at 14-15.  The sale went forward and was completed in February 2013.  ECF No. 150 at 3 (citing Spurchise Decl.). 
+
+Immediately after TransForce and Dynamex acquired Velocity, TransForce Executive Vice-President Brian Kohut sent a memorandum to all of Velocity’s employees, informing them that “Velocity [would] continue to conduct it’s [sic] business as usual,” and asking Velocity employees to “continue to do the same fine job for Velocity Express that they always have.  Decl. of Timothy J. Becker, ECF No. 148 (“Becker Decl.”), Ex. 27.  In his deposition, Kohut agreed that “TransForce had no intention of stripping down the company and selling all its assets.”  Id., Ex. 3 at 57:11-15.  In the initial period, Dynamex and TransForce kept the same management, the same workforce, the same drivers, the same customers, the same equipment, the same terminal managers, and the same warehouses.  ECF No. 147 at 15-16. 
+
+In the meantime, Dynamex and TransForce formulated a formal Transition Plan whereby Velocity would be folded into Dynamex over a nine-to-twelve-month period.  Id. at 16.  The Plan for reorganization included “integration of both Velocity and Dynamex staff.”  Id. (emphasis omitted).  During the first months after acquisition, TransForce terminated Velocity’s CEO and its lead sales representative, the latter of whom took Velocity’s largest account with him.  Id. n.10.  Velocity’s CFO also resigned during this period.  Id.  By March 2013, TransForce formally decided to transition Velocity into Dynamex and to run both companies under the Dynamex name.  Id. at 16. 
+
+During the initial part of the transition, Velocity continued to operate as it had prior to the 
+
+acquisition, but “[a]s the company transitioned Velocity employees over to Dynamex, the business community began to recognize that Velocity was operating under the ‘Dynamex flag.’”  Id. at 17.  When Velocity submitted bids for new business, it began to use the Dynamex name.  Id.  Dynamex and TransForce began to take over day-to-day business operations, including transferring customer accounts to Dynamex’s system; hiring and firing Velocity personnel; and funding Velocity operations, such as paying rent and leases for Velocity warehouses and equipment.  Id. at 18.  By December 31, 2013, Velocity operations had been folded into Dynamex, with all “the remnants of Velocity . . . within the acquiring company—Dynamex.”  Id. at 19.   
+
+Defendants largely agree with this version of events, but add the following facts:  (1) after TransForce and Dynamex acquired Velocity, Velocity failed, and so “Dynamex and TransForce were faced with a stark choice: leave the business to crumble, or salvage what they could of the investment”; (2) TransForce is a parent company to Dynamex, and Dynamex is a parent company to Velocity, which in turn is a corporate entity distinct from both Dynamex and TransForce; (3) as of this year, “only 18 of 80 Velocity facilities that existed at the time of Velocity’s acquisition were in use by Dynamex,” and fewer than half of Velocity’s network vice presidents, terminal managers, and Velocity employees were employed by Dynamex; and (4) “[i]n all respects, only a fraction of the ‘old business’ was obtained by Dynamex and TransForce, the alleged successors.”  ECF No. 150 at 1-4, 6.   
+
+Defendants also dispute that Velocity Express and Dynamex have the same business model or operations, or that Velocity was ever “folded into” Dynamex.  In particular, Defendants explain that “Velocity’s business model and operations [were] focused on arranging retail store replenishment,” whereas Dynamex is focused on “end-customer delivery.”  ECF No. 150 at 3.  They also contend that, when it was still operating, Velocity operated as an entity “separate and distinct” from Dynamex.  Id. at 3, 12-14, 14-15, 19. 
+
+Plaintiffs bring this motion, asserting that TransForce or Dynamex should be held liable for Velocity’s actions on two bases.  First, Plaintiffs allege that TransForce and Dynamex are successors to Velocity’s business, and second, Plaintiffs contend that TransForce, Dynamex, and Velocity are joint employers of Velocity’s former employees. 
+
+
+
+
+
+
+
+Summary judgment is proper when the “pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law.”  Fed. R. Civ. P. 56(c).  An issue is “genuine” only if there is sufficient evidence from which a reasonable factfinder could find for the moving party, and “material” only if the fact may affect the outcome of the case.  Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248-49 (1986).  All reasonable inferences must be drawn in the light most favorable to the non-moving party.  Olsen v. Idaho State Bd. of Med., 363 F.3d 916, 922 (9th Cir. 2004).  Unsupported conjecture or conclusory statements, however, do not create a genuine dispute of material fact and will not defeat summary judgment.  Surrell v. Cal. Water Serv. Co., 518 F.3d 1097, 1103 (9th Cir. 2008).  The Court may grant summary judgment as to a “part of each claim or defense,” provided no genuine dispute of material fact exists and the movant is entitled to judgment as a matter of law as to that part of the claim or defense.  Fed. R. Civ. P. 56(a). 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Under the FLSA, a succeeding employer may be responsible for a predecessor’s liabilities where: (1) the alleged successor was a “bona fide” successor; (2) the alleged successor had notice of the potential FLSA liability; and (3) the predecessor employer is not able to provide complete relief.  Steinbach v. Hubbard, 51 F.3d 843, 845-46 (9th Cir. 1995).  The roots of the successor liability doctrine lie in equity.  Id. at 846.  “Consequently, ‘fairness is a prime consideration in [successorship’s] application.’”  Id. (citing Criswell v. Delta Airlines, Inc., 868 F.2d 1093, 1094 (9th Cir. 1989)).  “[C]ourts have recognized that extending liability to successors will sometimes be necessary in order to vindicate important statutory policies favoring employee protection.”  Steinbach, 51 F.3d at 845.  And “[w]here employee protections are concerned, ‘judicial importation of the concept of successor liability is essential to avoid undercutting Congressional purpose by parsimony in provision of effective remedies.’”  Id. (citing Wheeler v. Snyder Buick, Inc., 794 F.2d 1228, 1237 (7th Cir. 1986)).  Plaintiffs argue that the undisputed evidence shows 
+
+that all three elements of the successor liability test are met here.   
+
+Defendants oppose Plaintiffs’ motion for summary judgment as to successor liability on two grounds.  First, Defendants contend that successor liability does not apply here because corporate law does not permit parent corporations, generally, to be held responsible for the liabilities of their subsidiaries, and Velocity was a subsidiary of Dynamex and TransForce.  Second, Defendants assert that Dynamex and TransForce were not bona fide purchasers of Velocity.  
+
+ 
+
+
+
+
+
+
+
+
+
+Defendants first argue that successor liability applies only when one company buys the assets of another.  For example, Defendants argue that “[s]uccessor liability provides an exception to the general rule that, when one company buys the assets of another, the purchaser takes its ownership interest free and clear of the seller’s liabilities,” and “successor liability is an equitable doctrine intended to provide redress where the assets of an enterprise are sold by a distressed or a disappearing firm in an effort to avoid liability,” id. at 1.  Because that is not what happened here . neither Dynamex nor TransForce bought the assets of Velocity, but rather merged it into a separate entity that became a subsidiary . Defendants argue that successor liability cannot apply.  Our cases do not support such a cramped definition of this doctrine.   
+
+First, the distinction that Defendants attempt to draw regarding the form of their acquisition of Velocity is not supported in the law.  As the court explained in Steinbach, “the form of transfer from one business to another [is] of no consequence in the successorship inquiry.”  51 F.3d at 847.  That is because the relevant question in determining whether to extend successor liability is whether “the policies underlying the FLSA” are “better served,” and “the relevant policy analysis [is] unaffected by the type of transfer.”  Id.  This analysis counsels against Defendants’ proposed distinction, not in favor.  To draw successor liability as narrowly as Defendants suggest would defeat the FLSA’s remedial purposes by encouraging corporate employers to structure acquisitions so as to avoid responsibility for known potential liabilities to employees.  The FLSA is a remedial statute that is to be interpreted broadly, see Lambert v. Ackerley, 180 F.3d 997, 1012 (9th Cir. 1999), and Defendants’ construction of the successor 
+
+liability doctrine would not further its purposes.   
+
+Defendants next cite Steinbach, Sullivan v. Dollar Tree Stores, 623 F.3d 770 (9th Cir. 2010), Teed v. Thomas & Betts Power Solutions, L.L.C., 711 F.3d 763, 766 (7th Cir. 2013), and Resilient Floor Covering Pension Fund v. Michael’s Floor Covering, Inc., No. 11-5200 JSC, 2012 WL 8750444 (N.D. Cal. Nov. 1, 2012), as persuasive cases in which courts have declined to find successor liability.  But these cases are not helpful to Defendants.   
+
+In Steinbach, an entity called Care Ambulance began negotiations with Hubbard Ambulance about acquiring the latter company.  51 F.3d at 844.  The parties were never able to reach a deal, however.  Id.  Instead, they agreed to a one-year lease of assets at $600 per month, an employment contract for owner Steven Hubbard, and an agreement to buy the company conditioned on the bankruptcy court’s approval.  Id.  While the lease agreement was in effect, Care used the same offices, employees, and equipment that Hubbard had used.  Id.  When the bankruptcy court failed to approve the sale, Care moved its offices, terminated its lease, and returned all equipment to Hubbard.  Id. at 845.  Not surprisingly, the Steinbach court found that successor liability could not apply, because “no permanent transfer occurred.”  Id. at 846.  The court found that the temporary nature of the transaction . not its corporate form . meant that “FLSA’s policies would best be promoted by finding no liability.”  Id. 
+
+Likewise, Resilient,  2012 WL 8750444, did not involve the acquisition of one company by another.  Rather, in that case, the dissolution of a firm called Studer’s was followed by a former employee’s incorporation of a separate entity called Michael’s.  Id. at *1.  Michael’s purchased some of Studer’s equipment, opened in the same location, used the same phone number, and had some of the same employees and clients as Studer’s.  Id. at *3.  Nonetheless, the court found that Michael’s was not Studer’s successor for the purposes of ERISA liability, because “Michael’s did not purchase Studer’s business and did not hold itself out to Studer’s customers as a successor to Studer’s.”  Id. at *4-*7.  Despite the factors weighing in favor of finding successor liability, the court could not conclude there was a “continuity of business operations” between Michael’s and Studer’s because the individual who opened Michael’s did not purchase Studer’s.  Id. at *7-8. 
+
+Sullivan, 623 F.3d 770, involved Dollar Tree’s purchase of the lease of a facility where the 
+
+alleged predecessor store formerly operated, but had gone out of business.  As in Resilient, the alleged successor in Sullivan never purchased the alleged predecessor.  Id. at 784 (“Dollar Tree purchased the lease on the building, but absolutely nothing else.”). 
+
+Defendants also cite a sentence from Teed in support of their position that successor liability does not apply to parent-subsidiary relationships, but the sentence does not support Defendants’ argument.  See ECF No. 150 at 10 (citing Teed, 711 F.3d at 764 (“a parent corporation is not liable for violations of the Fair Labor Standards Act by its subsidiary . . . .”)).  Defendants omit the tail end of the quoted sentence, however, the relevant portion of which reads: “a parent corporation is not liable for violations of the Fair Labor Standards Act by its subsidiary unless it exercises significant authority over the subsidiary’s employment practices.”   Teed, 711 F.3d at 764 (emphasis added).  There is ample evidence here to show that TransForce and Dynamex did exercise significant authority over Velocity’s employment practices.   
+
+Finally, Defendants argue that courts should not impose successor liability in a way that impedes the free flow of capital.  ECF No. 150 at 11-12 (citing Steinbach, 51 F.3d at 846-47).  It is true that the Ninth Circuit has acknowledged that extending successor liability too far might have this effect, by forcing an already distressed enterprise to spend capital on parasitic claims, or by making the target unattractive to potential purchasers.  Steinbach, 51 F.3d at 846-47.  But these considerations are not present here.  TransForce and Dynamex were fully apprised of the lawsuit against Velocity, which was not . at that time . a struggling enterprise.  The claims against Velocity were filed long before the acquisition.  TransForce and Dynamex were so well aware of Velocity’s employees’ claims that they unsuccessfully attempted to negotiate a discount on those claims, and then decided to consummate the transaction anyway, presumably based on their evaluation of the merits of the lawsuit.  Defendants do not explain in their briefs, and the Court is unable to see, how applying successor liability here would impede the free flow of capital between other parties in other transactions.   
+
+Because Defendants have not shown that, as a matter of law, the successor liability doctrine does not apply to cases like the present one, the Court now examines whether the test for successor liability is met.   
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+The Court first notes that Plaintiffs are entitled to summary adjudication of the second and third factors in the successor liability analysis—whether the alleged successor had notice of potential FLSA liability, and whether the alleged predecessor is able to provide relief.  Steinbach, 51 F.3d at 845-46.   
+
+Defendants do not contest the adequacy of notice to them of Velocity’s potential liabilities, and the evidence conclusively establishes this factor.  This evidence includes:  (1) the Due Diligence Study TransForce prepared in anticipation of acquiring Velocity identified potential FLSA liability as a major risk; (2) TransForce’s lead attorney for U.S. matters asked whether the purchase price could be reduced as a result of those liabilities; (3) the merger agreement contained a schedule of all of Velocity’s assets and liabilities, including this matter; and (4) TransForce negotiated with ComVest seeking to have ComVest bear the cost of any liability in this case, but ComVest declined to take on that liability, and TransForce purchased Velocity anyway. 
+
+Defendants also do not dispute that Velocity cannot provide adequate relief.  Plaintiffs have submitted admissions by Defendants’ employees that Velocity, as an individual entity, is defunct—it no longer has any clients, revenue, or employees—and therefore would be unable to satisfy any judgment in this case.  ECF No. 147 at 9.  Defendants agree that Velocity is now “defunct.”  See ECF No. 150 at 1.   
+
+Thus, the Court finds that Plaintiffs have carried their burden to show that they are entitled to summary adjudication of these two issues.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 As to the first successor liability factor—whether the alleged successor was a “bona fide purchaser”—Plaintiffs argue that the Court should grant summary judgment without considering this issue at all, given that the two most important factors, which Plaintiffs have prevailed upon, are all that is necessary to resolve the question.  ECF No. 154 at 13 (citing Criswell, 868 F.2d at 1094).  While it is true that, in successor liability cases, “[t]he emphasis . . . is on the second and third factors listed above,” Criswell, 868 F.2d at 1094, the Court will also consider the parties’ arguments as to the first factor. 
+
+In assessing whether an alleged successor was a bona fide purchaser, courts in the Ninth 
+
+Circuit evaluate several factors:  (1) whether there was substantial continuity of business operations between the predecessor and successor; (2) the extent to which the alleged successor used the same plant and/or facilities that the predecessor used; (3) the extent of the successor’s use of the same or substantially the same workforce; (4) the existence of the same jobs under the same conditions; (5) whether the supervisors in the predecessor carried over to the successor; (6) the successor’s use of the same machinery, equipment, and methods of production; and (7) whether the alleged successor provided the same product or service to its customers.  See Steinbach, 51 F.3d at 846; Sullivan, 623 F.3d at 783-86; Resilient, 2012 WL 8750444, at *5. 
+
+As to the first factor—continuity of business operations—“Defendants do not dispute that Dynamex purchased Velocity with the intent of having Velocity operate independently, largely in the same way Velocity had operated prior to the acquisition.”  ECF No. 150 at 4.  And Defendants explain that “[i]mmediately following the acquisition, Velocity operated on its own, largely as it had before the acquisition.”  Id.  Further, Defendants describe the series of events that led to Velocity’s becoming part of Dynamex, rather than continuing to operate “as usual,” as “unexpected.”  Id. at 4-5.  In particular, these events included the loss of several large business contracts, several executives, and many employees.  Id.  Thus, it appears that Defendants intended Velocity’s business operations to continue “as usual” after the purchase, and the reasons it did not do so were outside of its control.  Despite its arguments to the contrary, see ECF No. 150 at 12-14, substantial evidence and Defendants’ own admissions support Plaintiffs’ argument that Velocity continued its operations immediately after being purchased, asDefendants intended.  Finally, while Velocity, as a separate entity, has since become “defunct,” there is no question that at least some of Velocity’s operations now continue under Dynamex’s aegis.  This factor weighs in favor of successor liability. 
+
+Defendants also argue that Dynamex and Velocity do not use all the same plants or facilities (factor two); that they do not use the same or substantially the same workforce or supervisors (factors three and five); and that the jobs at Dynamex do not exist in the same condition as they existed at Velocity (factor four).  ECF No. 150 at 14-17.   
+
+As to the use of the same facilities and plants, Defendants point out that, as of March 2014, 
+
+Dynamex is only using eighteen of eighty former Velocity facilities.  Defendants argue that, because “only about 20% of Velocity’s facilities are now Dynamex facilities,” this factor does not weigh in favor of successor liability.  ECF No. 150 at 15.  At least until June 1, 2013, however, most Velocity sites remained “in activity.”  ECF No. 148-41 at 2 (chart showing that, as of June 1, 2013, fifty-five of seventy-seven Velocity sites were “in activity”).  At best, this factor weighs only somewhat against a finding of successor liability. 
+
+With respect to the use of the same workforce and supervisors, Defendants point out that under half of Velocity’s workforce and supervisors continued to be employed by Dynamex in March 2014.  ECF No. 150 at 16.  Defendants also concede, however, that “in the months following the acquisition, Velocity operated as it had done before the acquisition.”  Id. at 15-16.  Given the mix of evidence on this point, the Court finds that these two factors are neutral. 
+
+As to whether the same jobs existed in the same condition post-acquisition, Defendants point to changes in two former Velocity employees’ positions to suggest that this factor has not been met.  Id. at 17.  Plaintiffs counter that, initially, all of the same jobs existed in the same conditions as they had prior to the acquisition.  ECF No. 147 at 27-28.  Later, say Plaintiffs, though operating under Dynamex’s name, many of the same delivery driver positions existed at Dynamex as they did at Velocity.  Id.  Thus, even considering the cited facts in the light most favorable to Defendants, this factor weighs only slightly against successor liability. 
+
+The remaining factors, which Defendants do not directly address, are the successor’s use of the same machinery, equipment, and methods of production, and whether the alleged successor provided the same product or service to its customers that the predecessor did.  In general, the parties agree that, at least immediately post-acquisition, Velocity’s operations remained “as usual.”  Plaintiffs also point out that Dynamex, and in particular the portion of Dynamex that represents Velocity’s former business, continues to provide the same general services—i.e., same-delivery services—that Velocity did prior to acquisition.  Defendants have not provided evidence to the contrary on these points, and so these factors weigh in favor of successor liability.   
+
+In sum, three factors (including the first, most comprehensive factor) weigh in favor of finding that TransForce and Dynamex were “bona fide purchasers” of Velocity; two factors weigh 
+
+at least somewhat against; and two factors are neutral.  Overall, Plaintiffs have established that the bona fide successor factor in the successor-liability analysis weighs in favor of finding that TransForce and Dynamex are successors to Velocity’s liability. 
+
+In sum, all three Steinbach factors weigh in favor of a finding of successor liability, some substantially so.  On these facts, and viewing the facts in the light most favorable to Defendants, the Court finds that Plaintiffs have carried their burden to show that TransForce and Dynamex are successors to Velocity’s potential FLSA liability in this case. 
+
+
+
+
+
+Plaintiffs also contend that Defendants should be considered joint employers for the purposes of the FLSA.  In the Ninth Circuit, joint-employer status exists where “(1) the employers are not ‘completely disassociated’ with respect to the employment of the individuals; and (2) where one employer is controlled by another or the employers are under common control.”  Chao v. A-One Med. Servs., Inc., 346 F.3d 908, 918 (9th Cir. 2003).  In order to assess whether a joint-employer relationship exists, the Court evaluates four factors bearing on the economic relationship between the alleged employers and employees: whether the alleged employer (1) had the power to hire and fire employees; (2) supervised and controlled employee work schedules or employment conditions; (3) determined the rate and method of payment; and (4) maintained employment records.  Bonnette v. Cal. Health & Welf. Agency, 704 F.2d 1465, 1470 (9th Cir. 1983), disapproved of on other grounds by Garcia v. San Antonio Metr. Transit Auth., 469 U.S. 528, 539 (1985).    
+
+Plaintiffs make only a half-hearted joint-employer argument.  They point to little joint-employer evidence in the motion, and in their reply brief relegate the argument to a footnote.  See ECF No. 147 at 29-30; ECF No. 154 at 18 n.12.  They provide no evidence at all regarding the second and fourth Bonnette factors.  And at the hearing on the motion, they presented no substantive argument to support their joint-employer claim.  See ECF No.    
+
+The Court will DENY Plaintiffs’ motion for partial summary judgment as to Defendants’ joint-employer status. 
+
+ 
+
+For the foregoing reasons, the Court hereby GRANTS Plaintiffs’ motion for summary judgment as to successor liability.  The Court also hereby DENIES Plaintiffs’ motion as to Defendants’ joint employer status.    
+
+
+
+
+

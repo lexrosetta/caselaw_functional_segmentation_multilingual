@@ -1,0 +1,406 @@
+
+
+
+
+Plaintiff Alicia Harris has filed a class action lawsuit against Defendant Vector Marketing Corporation, alleging violations of both federal and state employment law.  At present, no class has been certified. Currently pending before the Court is Vector’s motion for summary judgment or in the alternative, summary adjudication with respect to Ms. Harris’s individual claims.  Having considered the parties’ briefs and accompanying submissions, as well as the oral argument of counsel, the Court hereby GRANTS in part and DENIES in part Vector’s motion. 
+
+
+
+“Vector is a direct sales company that markets a line of high quality kitchen cutlery, accessories, and sporting knives manufactured by Cutco Cutlery Corporation.”  Matheson Decl. ¶ 2. “Vector sells and markets Cutco products . . . through the use of Sales Representatives.”  Matheson Decl. ¶ 4; see also Matheson Depo. at 20 (testifying that Vector also has a catalog program).  A significant number of its “Sales Reps” are college students.  See Matheson Depo. at 176. 
+
+The parties agree that, at one point, Vector hired Ms. Harris to be a Sales Rep to sell the Cutco knives. The parties dispute, however, when Ms. Harris was hired – i.e., before participating in a three-day training or after completing the training.  The parties also dispute whether, when hired, Ms. Harris was an employee (Ms. Harris’s position) or simply an independent contractor (Vector’s position). 
+
+Each of the claims asserted in Ms. Harris’s complaint are predicated on her being an employee.  Those claims are as follows: (1) failure to pay wages in violation of California Labor Code §§ 201 et seq.; (2) failure to pay minimum wages in violation of California Labor Code § 1197; (3) failure to pay minimum wages in violation of the Fair Labor Standards Act (“FLSA”), see 29 U.S.C. § 206; (4) failure to keep and provide accurate pay records in violation of California Labor Code § 226; (5) failure to pay wages owed in a timely fashion at the end of employment in violation of California Labor Code § 201 et seq.; (6) compelling or coercing an employee to patronize Vector’s business in violation of California Labor Code § 450; (7) failure to reimburse in violation of California Labor Code § 2802; (8) civil penalties based on violations of the California Labor Code Private Attorneys General Act, see Cal. Lab. Code § 2698 et seq.; and (9) unfair competition in violation of California Business & Professions Code § 17200. 
+
+
+
+
+
+As a preliminary matter, the Court addresses the parties’ evidentiary objections.  The Court addresses only the main objections that are relevant to resolution of the motion for summary judgment. 
+
+
+
+First, Ms. Harris objects that the declarations of other Sales Reps are irrelevant because the motion for summary judgment concerns only her individual claims, not any class claims.  The objection is overruled. If, for example, all of the Sales Reps testify that they were not hired until after the training while Ms. Harris testifies that she was hired before the training, then the trier of fact might conclude that Ms. Harris is not credible, at least as to this point.  Of course, at the summary judgment stage, the Court makes no credibility determinations. See Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255 (1986) (“Credibility determinations, the weighing of the evidence, and the drawing of legitimate inferences from the facts are jury functions, not those of a judge, whe[n] he is ruling on a motion for summary judgment . . . . The evidence of the non-movant is to be believed, and all justifiable inferences are to be drawn in his favor.”); Albarran v. New Form, Inc. (In re Barboza), 545 F.3d 702, 707 (9th Cir. 2008) (“A court ‘generally cannot grant summary judgment based on its assessment of the credibility of the evidence presented..’  ‘[A]t the summary judgment stage the judge’s function is not himself to weigh the evidence and determine the truth of the matter but to determine whether there is a genuine issue for trial.’”). 
+
+Second, Ms. Harris objects that the declarations of other Sales Reps, as well as the Arlie and Leahy declarations, contain legal conclusions because they purport to interpret the Sales Rep Agreement.  The objection is overruled. The Sales Reps and District Managers may testify as to what they understood the agreement to mean although, ultimately, the Court will be the one to interpret the agreement. 
+
+Third, Mr. Harris objects to a document attached to the Matheson declaration (“Standards for Advertising”) on the ground that it was not previously produced. The objection is essentially moot. Even without the document, Mr. Matheson may testify as to what Vector’s standards of advertising were. That being said, regardless of what Vector’s standards were, that does not mean that the standards were always complied with – i.e., it is still possible that an advertisement was composed which claimed that Sales Reps would be compensated on an hourly basis (as Ms. Harris contends). 
+
+Fourth, Ms. Harris objects to ¶ 8 of the Matheson declaration on the basis of hearsay. In ¶ 8, Mr. Matheson testifies that, based on his communications with Sales Managers, he believes that candidates who interview well are offered the opportunity to participate in the three-day training and that candidates are encouraged to participate in the training, but that candidates who do not participate in the training have still been offered positions as Sales Reps.  The objection is overruled. While “an affidavit that contains facts that could only be presented at trial through evidence that violates the proscriptions against hearsay and statements made without personal knowledge should not be admitted at the summary judgment stage[,] . . . an affidavit [that] points to the testimony of another witness or source of competent evidence” may be considered for purposes of summary judgment.  11-56 Moore’s Fed. Prac. – Civ. § 56.14[1][d].  Also, it should be noted that Mr. Matheson was deposed as Vector’s 30(b)(6) witness. Cf. id. § 56.14[1][c] (stating that “[t]he testimony of a Rule 30(b)(6) corporate agent deponent may be presented on motion for summary judgment, even though not based on personal knowledge, because a Rule 30(b)(6) witness need not have personal knowledge of the facts to which he or she testifies.”). Finally, the objection is essentially moot because District Managers have provided declarations to the same effect.  See Arlie Decl. ¶ 14 (“Candidates are not required to participate in the training program in order to be retained as a Sales Representative by Vector. One can become a Sales Representative without going through the training program.  Conversely, an individual may participate in the training program but not receive an offer to become a Sales Representative.”); Leahy Decl. ¶ 13 (“An individual may participate in the training program but not receive an offer to become a Sales Representative.”). 
+
+Finally, Ms. Harris argues that the declarations of the other Sales Reps should be stricken because Vector acted improperly in seeking out the declarations without fully informing the Sales Reps about the nature of the litigation (e.g., that it is a class action) and the possible consequences of their actions (e.g., that their own claims against Vector might be compromised should Ms. Harris prevail on the class action). The request is denied. First, the case authority that Ms. Harris cites is largely inapplicable. The cases largely concern motions to limit precertification communications between the defendant and the absent class members.  No such motion was made by Ms. Harris in the instant case. If the Court were to strike the declarations, that would likely have to be done as a sanction pursuant to the Court’s inherent authority. Second, and more important, the Sales Reps who were deposed indicated in their depositions that they would still have submitted the declarations and/or stood by their declarations. See Carrasco Depo. at 34; Lewis Depo. at 22-23. 
+
+s 
+
+First, Vector objects that, in numerous places, Ms. Harris has mischaracterized deposition testimony.  The objection is overruled as the Court is able to view the deposition testimony and evaluate the testimony on its own. 
+
+Second, Vector objects to Ms. Harris’s testimony that she saw a Vector advertisement (whether a flyer or an advertisement on craigslist.com) listing compensation as $16 an hour.  This objection is, in essence, moot.  The parties agree that Sales Representatives were not compensated on an hourly basis per se, and the Court’s analysis below assumes they were not. 
+
+Third, Vector argues that various statements that Ms. Harris claims were made by her Sales or District Managers are not admissible.  According to Vector, these statements do not qualify as admissions of a party-opponent because the Sales and District Managers are independent contractors. In support of this contention, Vector relies primarily on Merrick v. Farmers Insurance Group, 892 F.2d 1434, 1440 (9th Cir. 1990) (concluding that statements of insurance agents and district manager were properly rejected as hearsay because plaintiff “did not establish that [they] were ‘agents’ of [defendant] as opposed to independent contractors; nor did he show that their statements about the Christmas party concerned a matter within the scope of their agency”).  This objection is overruled. Agent and independent contractor are not mutually exclusive categories.  An employee can be an agent, as can an independent contractor.  See In re Coupon Clearing Service, Inc., 113 F.3d 1091, 1100 (9th Cir. 1997) (in bankruptcy proceeding, noting that “[i]t is well-established that one who contracts to act on another’s behalf and is subject to the other’s control, except with respect to his physical control, may still be acting as an agent and also as an independent contractor”); Bill A Duffy, Inc. v. Scott, No. C-08-00878 EDL, 2009 U.S. Dist. LEXIS 35667, at *12 (N.D. Cal. Apr. 27, 2009) (noting that, under California law, “‘[a]gency and independent contractorship are not necessarily mutually exclusive legal categories as independent contractor and servant or employee are[;] [i]n other words, an agent may also be an independent contractor”). For purposes of the instant motion, there is sufficient evidence of agency to invoke the party-opponent rule. 
+
+Fourth, Vector objects to Ms. Harris’s assertion that, during the three-day training, Sales Reps are trained about the concept “Personal Daily Interest” (i.e., PDI). This objection is overruled. Even if, as Vector contends, PDI was not specifically discussed during training, PDI is clearly mentioned in the Manual, which was undisputedly given to trainees.  See Harris Decl., Ex. A (Manual at 30). 
+
+Finally, Vector objects to various statements by Ms. Harris that she was told by Vector to do certain things – e.g., call if she was having a problem closing a sale or call to get authorization to make a deal with a customer.  According to Vector, such statements are hearsay because Ms. Harris has not identified who at Vector told her to do these things.  In support of this argument, Vector relies primarily on Zaken v. Boerer, 964 F.2d 1319, 1324 (2d Cir. 1992) (concluding that, “without identification of the declarant, the statement concerning the reason for [plaintiff’s] termination did not have a sufficient evidentiary foundation to establish the existence of an agency relationship as required under Rule 801(d)(2)(D)”). The objection is overruled. Zaken is not binding authority. Even if it were, the situation here is factually different from that in Zaken. In Zaken, there was understandably concern about the predicate for agency because many people could have discussed the reasons for the plaintiff’s termination.  Here, Ms. Harris is discussing instructions that she was given in order to perform her job as a Sales Rep.  It is highly unlikely that anyone but a Vector agent would have given her such instructions. 
+
+
+
+
+
+
+
+Federal Rule of Civil Procedure 56(c) provides that summary judgment shall be rendered “if the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law.”  Fed. R. Civ. P. 56(c). An issue of fact is genuine only if there is sufficient evidence for a reasonable jury to find for the nonmoving party.  See Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248-49 (1986). “The mere existence of a scintilla of evidence . . . will be insufficient; there must be evidence on which the jury could reasonably find for the [nonmoving party].”  Id. at 252. At the summary judgment stage, evidence must be viewed in the light most favorable to the nonmoving party and all justifiable inferences are to be drawn in the nonmovant’s favor.  See id. at 255. 
+
+Where the plaintiff has the ultimate burden of proof, the defendant may prevail on a motion for summary judgment simply by pointing to the plaintiff’s failure “to make a showing sufficient to establish the existence of an element essential to [the plaintiff’s] case.”  Celotex Corp. v. Catrett, 477 U.S. 317, 322 (1986). 
+
+
+
+In her complaint, Ms. Harris asserts claims pursuant to both state and federal law.  See page 2, supra. All of the claims, except one, are state law claims.  As stated above, Vector’s main argument is that it is entitled to summary judgment on all of Ms. Harris’ claims because no reasonable jury could conclude that she was an employee instead of an independent contractor. Ms. Harris does not dispute that, if she was an independent contractor rather than an employee, all of her claims must be dismissed.  Ms. Harris, however, contends that there is a genuine dispute of material fact as to whether she was an employee instead of an independent contractor. 
+
+ 
+
+Under state law, in particular, the California Labor Code, whether a person is an independent contractor or an employee largely turns on whether the employer controls the details of the person’s work. See Cal. Lab. Code § 3353 (defining independent contractor as “any person who renders service for a specified recompense for a specified result, under the control of his principal as to the result of his work only and not as to the means by which such result is accomplished”); S.G. Borello & Sons, Inc. v. Department of Indus. Relations, 48 Cal. 3d 341, 350 (1989) (in workers’ compensation case, noting that “‘[the] principal test of an employment relationship is whether the person to whom service is rendered has the right to control the manner and means of accomplishing the result desired’”); Estrada v. FedEx Ground Package System, Inc., 154 Cal. App. 4th 1, 10 (2007) (in discussing claim for failure to reimburse under the California Labor Code, noting that the common law test of employment applies and that “[t]he essence of the test is the ‘control of details’ 
+
+– that is, whether the principal has the right to control the manner and means by which the worker accomplishes the work”); Reynolds v. Bement, 36 Cal. 4th 1075, 1086-87 (2005) (in discussing claim for unpaid overtime under the California Labor Code, applying the common law test of employment); see also In re Brown, 743 F.2d 664, 667 (9th Cir. 1984) (stating that, under California law, “the most significant factor is the right to control the means by which the work is accomplished”). 
+
+There are, however, additional factors that are considered, including: 
+
+(1)
+
+ whether the worker is engaged in a distinct occupation or business,
+
+
+
+(2)
+
+ whether, considering the kind of occupation and locality, the workis usually done under the principal’s direction or by a specialistwithout supervision, (3) the skill required, (4) whether the principal orworker supplies the instrumentalities, tools, and place of work, (5) thelength of time for which the services are to be performed, (6) themethod of payment, whether by time or by job, (7) whether the work 
+
+
+
+
+
+is part of the principal’s regular business, and (8) whether the partiesbelieve they are creating an employer-employee relationship. 
+
+Estrada, 154 Cal. App. 4th at 10 (noting that “there are a number of additional factors in the modern equation”). 
+
+Under California law, “[t]he determination of employee or independent-contractor status is one of fact if dependent upon the resolution of disputed evidence or inferences . . . . [But] [i]f the evidence is undisputed, the question becomes one of law . . . .”  See S.G. Borello, 48 Cal. 3d at 349. 
+
+
+
+Under federal law, in particular, the FLSA, a court considers the following factors in determining whether a person is an independent contractor or an employee1: 
+
+1) The degree of the alleged employer’s right to control the manner inwhich the work is to be performed; 2) the alleged employee’sopportunity for profit or loss depending upon his managerial skill; 3)the alleged employee’s investment in equipment or materials requiredfor his task, or his employment of helpers; 4) whether the servicerendered requires a special skill; 5) the degree of permanence of theworking relationship; 6) whether the service rendered is an integralpart of the alleged employer’s business. 
+
+Donovan, 656 F.2d at 1370. The Ninth Circuit has instructed that “[n]either the presence nor the absence of any individual factor is determinative.  Whether an employer-employee relationship exists depends ‘upon the circumstances of the whole activity,’ and ultimately, whether, as a matter of economic reality, the individuals ‘are dependent upon the business to which they render service.’” 
+
+Id. 
+
+Under federal law, as under state law, “‘[t]he existence and degree of each factor [regarding the status of a person as an independent contractor or employee] is a question of fact while the legal conclusion to be drawn from those facts – whether workers are employees or independent contractors – is a question of law.’” Berger Transfer & Storage v. Central States Pension Fund, 85 F.3d 1374, 1378 (8th Cir. 1996); see also Herr v. Heiman, 75 F.3d 1509, 1513 (10th Cir. 1996) (“Whether an individual is an employee or an independent contractor is generally a question of fact 
+
+1 The factors are not exhaustive. See Donovan v. Sureway Cleaners, 656 F.2d 1368, 1370 (9thCir. 1981). 
+
+for the jury to decide. Under the Fair Labor Standards Act, even though the question of whether a worker is an independent contractor or an employee is a question of law, the existence and degree of each factor is a question of fact.”) (internal quotation marks omitted); Brock v. Superior Care, Inc., 840 F.2d 1054, 1059 (2d Cir. 1988) (“The existence and degree of each factor is a question of fact while the legal conclusion to be drawn from those facts -- whether workers are employees or independent contractors -- is a question of law.”). 
+
+
+
+Although Vector contends otherwise, the Court concludes that there is sufficient evidence to raise a genuine dispute of material fact as to whether Ms. Harris was an employee rather than an independent contractor. Most significant is the evidence concerning the control allegedly exercised by Vector over Ms. Harris. 
+
+In its motion, Vector argues that it did not have sufficient control over Ms. Harris to make her an employee based on the following: 
+
+(1) 
+
+Vector does not provide Sales Reps with a list of names or other contact information for prospective customers.  See Matheson Decl. ¶ 19; see also Arlie Decl. ¶ 22; Leahy Decl. ¶ 21 (both stating that Sales Reps are expected to develop their own list and leads). 
+
+
+
+(2) 
+
+Vector does not assist Sales Reps in scheduling appointments with prospective customers. See Matheson Decl. ¶ 23; see also Arlie Decl. ¶ 25; Leahy Decl. ¶ 24 (both stating that Sales Reps schedule their own appointment). 
+
+
+
+(3) 
+
+“Vector does not require any of its Sales Representatives to meet a sales quota.”  Matheson Decl. ¶ 23; see also Arlie Decl. ¶ 25 (stating the same and adding that there is no requirement that a Sales Rep meet an appointment quota either); Leahy Decl. ¶ 24 (same). 
+
+
+
+(4) 
+
+Vector does not provide Sales Reps with, e.g., offices, computers, telephones, fax machines, or vehicles to assist them in their sales activities.  See Matheson Decl. ¶ 20; Arlie Decl. ¶ 23; Leahy Decl. ¶ 22. 
+
+
+
+(5) 
+
+Under the Sales Rep Agreement, Sales Reps “reserve[] the right to approach [their] business in any way that [they] see[] fit in the pursuit of sales and profits except as precluded [by the Agreement].”  Matheson Decl., Ex. F (Sales Rep Agreement ¶ 6).  
+
+
+
+(6) 
+
+Under the Sales Rep Agreement, Sales Reps have the right to determine which marketing methods to use, with some exceptions.  See Matheson Decl., Ex. F (Sales Rep Agreement ¶ 
+
+
+
+1) (“The Sales Rep shall personally solicit orders from time to time for the Company’s consumer products through various marketing methods to be determined by the Sales Rep . . . .”). Exceptions include: Sales Reps may not sell Cutco products in retail establishments and may not advertise or sell Cutco products online.  See Matheson Decl. ¶ 16; Matheson Depo. at 87-88; Matheson Decl., Ex. F (Sales Rep Agreement ¶ 1).  Advertising in, e.g., a newspaper would be permitted but only if approved first by Vector.  See Matheson Depo. at 168. 
+
+
+
+(7) 
+
+The techniques taught by Vector during the three-day training program are simply guidelines. See Arlie Decl. ¶ 12; Leahy Decl. ¶ 11; see also Bartolini Decl. ¶ 6; Carrasco Decl. ¶ 6; Casanova Decl. ¶ 6; Hedrick Decl. ¶ 6; Lewis Decl. ¶ 6 (all stating that they understood the techniques to be guidelines). 
+
+
+
+(8) 
+
+Vector does not discipline and does not even have a system to discipline a Sales Rep for not following or integrating the techniques offered in the training program.  See Matheson Decl. ¶¶ 24-25. 
+
+
+
+(9) 
+
+Sales Reps are encouraged, but not required, to contact their Sales or District Managers.  See Arlie Decl. ¶ 27; Leahy Decl. ¶ 26; see also Bartolini Decl. ¶ 21; Casanova Decl. ¶ 21; Hedrick Decl. ¶ 21; Carrasco Decl. ¶ 21; Lewis Decl. ¶ 21 (all stating that they did not suffer any consequences for not contacting their managers). Although such evidence certainly weighs in Vector’s favor, Ms. Harris has submitted 
+
+
+
+evidence from which a reasonable jury could find that Vector exercised sufficient control over Ms. Harris to make her an employee.  For example: 
+
+
+
+(1) 
+
+Sales Reps are not allowed to post any advertisements or otherwise use the Vector or Cutco names (e.g., on a business card) without getting approval from Vector.  See Matheson Depo. at 98-99, 168. 
+
+
+
+(2) 
+
+Sales Reps are not able to set their own prices for the Cutco knives.  See Matheson Depo. at 137-38, 183-84. Vector sets the price from which Sales Reps may not deviate. 
+
+
+
+(3) 
+
+Vector dictates what constitutes a qualified presentation for purposes of a Sales Rep being compensated for an in-home demonstration.  See Matheson Decl., Ex. F (Sales Rep Agreement § 2). 
+
+
+
+(4) 
+
+Although Vector claims that the techniques taught at the training program are only guidelines, the Manual distributed to trainees states: “You are encouraged to use your own words and phrases to express the ideas of the presentation. But be careful no to stray too far from the basic outline or to change the sequence.  Our sales program has been developed through many years of sales experience with CUTCO.  It works! Stay within the guidelines, but be yourself.” Harris Decl., Ex. A (Manual at 28) (emphasis added).  In addition, Ms. Harris states in her deposition and declaration that she was instructed to follow the Manual word for word. See Harris Decl. ¶¶ 15-17; Harris Depo. at 75, 85. 
+
+
+
+(5) 
+
+Sales Reps are effectively required to use Vector’s prospectus (i.e., brochure) to do the in-home demonstrations since Sales Reps are not allowed to create and use their own brochures without approval from Vector.  See Matheson Depo. at 188 (stating that, if a Sales Rep were to use an intellectual property, then he or she would need to get approval). 
+
+
+
+(6) 
+
+Sales Reps are required to obtain and use a sample kit for in-home demonstrations.  See Matheson Decl., Ex F (Sales Rep Agreement ¶ 6).  
+
+
+
+(7) 
+
+Vector provides Sales Reps with rope and leather to use for in-home demonstrations.  See Carrasco Depo. at 71-72 (indicating that managers set up the rope and leather for Sales Reps to use); Lewis Depo. at 106 (testifying that the rope and leather were provided by Vector) 
+
+
+
+(8) 
+
+Per Vector’s own materials, Sales Reps are effectively required to call their Sales or District Managers every day under the principle of “PDI,” i.e., Personal Daily Interest. See Manual at 30 (“Daily contact with the office is essential for your success. We also encourage you to stop in to the office as much as possible.  At a minimum, you should call in daily. . . . Be sure to call in on time.  If the line is busy, try again. PDI is one of the most important aspects of working with Vector.”); see also Lee Decl., Ex. G (Outline, Day 3, at V0127-28) (“[PDI] is to ensure your success[;] if we’re going to pay you so much we have to be able to have daily influence with you. . . . Not calling in for PDI is like not showing up for work. . . . We have 
+
+
+
+
+
+to here [sic] from everyone every day so we know what’s going on.”).  Ms. Harris also states in her deposition testimony and declaration that she was in fact required to call her managers each day. See Harris Decl. ¶ 22; Harris Depo. at 87, 89. She further states that, if she was having a problem closing a sale, she was required to call her managers during the presentation for further instructions. See Harris Decl. ¶ 24; Harris Depo. at 28, 32, 90. Other Sales Reps also testified as to communications they had with managers during sales efforts. See, e.g., Carrasco Depo. at 132-33 (indicating that, if she had a big order, she would call in and ask if it was acceptable for her to offer a particular product for free to help close the deal); Lewis Depo. at 74 (testifying that, if he was close to making a sale, he would call his manager to see what else he could offer). The Court notes that the critical evidence presented by Ms. Harris is that related to PDI.  If it 
+
+was effectively a requirement that Ms. Harris engage in PDI, and if during these PDI sessions Sales or District Managers effectively supervised or monitored Ms. Harris’s work, then a reasonable jury could conclude that Vector exercised sufficient control over Ms. Harris to make her an employee instead of an independent contractor. 
+
+
+
+At the hearing, Vector contended that, even if there were a genuine dispute of material fact regarding control, the other factors considered under federal and state law (identified above) dictate the legal conclusion that Ms. Harris must be an independent contractor and not an employee.  The Court cannot agree. First, particularly under state law, control is the most significant factor.  See Estrada, 154 Cal. App. 4th at 10 (stating that the essence of the common law test of employment is whether the principal has the right to control). Thus, the fact that there is a genuine dispute of material fact regarding control alone is enough to preclude summary judgment. 
+
+Even if that were not the case, the Court does not find the remaining factors overwhelmingly weigh in its favor. Although some factors favor Vector, others favor Ms. Harris – and most factors do not clearly weigh in favor of either. This last point in particular underscores that a summary judgment ruling in favor of Vector would not be proper since the existence and degree of each factor is a question of fact for the trier of fact to resolve. See Berger, 85 F.3d at 1378. The Court addresses the factors briefly below. 
+
+Whether the worker is engaged in a distinct occupation or business. If a worker is engaged in a distinct occupation or business, then that would suggest that the worker is an independent contractor rather than an employee.  Here, there is no evidence that, while working as a Sales Rep and selling knives, Ms. Harris held herself out as a separate occupation or business. See S.G. Borello, 48 Cal. 3d at 357 (noting that sharefarmers and their families “engage in no distinct trade or calling” and that “[t]hey do not hold themselves out in business”); Antelope Valley Press v. Poizner, 162 Cal. App. 4th 839, 854-55 (2008) (stating that “the evidence does not show that in making deliveries for AVP, the carriers are engaged in a distinct occupation or business of their own”; adding that “[t]here was no evidence that any of AVP’s carriers hold themselves out as being an independent delivery service that happens to have AVP as one of its customers”); Air Couriers Intl’l 
+
+v. Employment Development Dep’t, 150 Cal. App. 4th 923, 938 (2007) (noting that “the drivers were not engaged in a separate profession or operating an independent business”).  That being said, it does not appear that Vector precluded Ms. Harris from doing so.  See Matheson Decl. ¶ 15 (noting that Sales Rep Agreement does not prohibit Sales Reps “from selling and marketing other products or preclude them from working elsewhere”); Arlie Decl. ¶ 19 (noting the same; adding that “[m]any Sales Representatives maintain full time jobs at the same time they are performing services for Vector”). 
+
+Whether, considering the kind of occupation and locality, the work is usually done under the principal’s direction or by a specialist without supervision.  In this case, this factor is largely duplicative of the control factor. Vector argues that this factor also requires consideration of sales representative positions in the direct sales industry generally and points to the Mariano declaration which states that “[p]erson-to-person sellers typically specialize in sales for their company and operate with minimal or no supervision by the direct selling company.”  Mariano Decl. ¶ 13. However, it is notable that Mr. Mariano used the word “typically.” “Typically” does not preclude supervision in the instant case. Moreover, it is not necessarily unusual for sales employees to work under minimal supervision. 
+
+The skill required, i.e., whether the service rendered requires a special skill.  Where no special skill is required of a worker, that fact supports a conclusion that the worker is an employee instead of an independent contractor. See Antelope Valley Press, 162 Cal. App. 4th at 855 (stating that the fact that “[d]elivering papers requires no particular skill” indicated that carriers were employees); Air Couriers, 150 Cal. App. 4th at 934 (noting the same).  In the instant case, Vector argues that being a Sales Rep requires special skill, as evidenced by the fact that Vector training materials are used in college courses to teach sales skills and techniques.  But, as Ms. Harris points out, Vector’s contention that special skill is required is problematic given its admission that many of its Sales Reps are college students or other first-time sales people, see Matheson Decl. ¶ 9, and its claim that training is not required to become a Sales Rep.  See Matheson Decl. ¶ 8; Arlie Decl. ¶ 14. 
+
+Whether the principal or worker supplies the instrumentalities, tools, and place of work; also the alleged employee’s investment in equipment or materials required for his task, or his employment of helpers. Vector does not provide Sales Reps with, e.g., offices, computers, telephones, fax machines, or vehicles to assist them in their sales activities.  See Matheson Decl. ¶ 20; Arlie Decl. ¶ 23; Leahy Decl. ¶ 22. In addition, there is no evidence that a Sales Rep may not employ any helpers.  On the other hand, Vector does supply Sales Reps with the key tool needed to sell the Cutco knives – i.e., the knives themselves (upon payment of a discounted price) – as well rope and leather to use for in-home demonstrations.  See Carrasco Depo. at 71-72; Lewis Depo. at 
+
+106. Also, as noted above, Sales Reps are arguably effectively required to use Vector’s brochures to sell the knives. 
+
+The length of time for which the services are to be performed; also the degree of permanence for the working relationship.  Where a worker is employed for a lengthy period of time, the relationship with the employer looks more like an employer-employee relationship.  See Antelope Valley Press, 162 Cal. App. 4th at 855 (concluding that newspaper carriers were employees because, inter alia, the length of a carrier’s service was twelve months by contract); Air Couriers, 150 Cal. App. 4th at 934 (noting that, in a different case, newspaper carriers were deemed employees because, inter alia, they were employed for lengthy periods of time).  The same is true where a worker may be discharged at will without cause.  See Antelope Valley Press, 162 Cal. App. 4th at 854. Here, there seems to be little dispute that Sales Reps generally work for a short period of time, which suggests an employer-independent contractor relationship.  See Matheson Decl. ¶ 18. On the other hand, the Sales Rep Agreement gives Vector the right to terminate the relationship “at any time for good cause,” which suggests an employer-employee relationship.  Matheson Decl., Ex. F (Sales Rep Agreement). 
+
+The method of payment, whether by time or job. Here, it is undisputed that Sales Reps were not paid by the hour, which suggests that they were not employees.  That being said, Vector compensated Sales Reps not only a commission basis but also on a “qualified sales presentation” basis, which, as Ms. Harris argues, could be analogized to payment on a piece rate basis.  See Antelope, 162 Cal. App. 4th at 855-56 (concluding that newspaper carriers were employees based on, inter alia, the fact that they were paid based on the number of papers they delivered per day). 
+
+Whether the work is part of the principal’s regular business or whether the service rendered in an integral part of the alleged employer’s business. On the one hand, the work of the Sales Reps is clearly part of Vector’s regular business and is an integral part of that business. Vector admits such. See Mot. at 12. On the other hand, as Vector notes, this is the case in any direct sales business. This factor is not dispositive. 
+
+Whether the parties believe they are creating an employer-employee relationship. In the instant case, the Sales Rep Agreement expressly provides that a “Sales Rep agrees that he/she shall not, at any time, represent himself/herself to be an employee of [Vector]” and that “[t]he Sales Rep agrees to conduct his/her business on an independent contractor basis.”  Matheson Decl., Ex. F (Sales Rep Agreement ¶ 4).  Documents provided to trainees are consistent, see, e.g., Matheson Decl., Ex. C (“Skills for Life” brochure) (stating that Sales Reps work as independent contractors), and trainees are also told during the three-day training program that they are independent contractors. See Arlie Decl. ¶ 13. Notwithstanding the above, the context of the contractual relationship must be taken into account – i.e., that Vector was largely contracting with young people with little to no business experience – and there is no evidence that the implications of the independent contractor status were explained to trainees or Sales Reps.  See Antelope Valley Press, 162 Cal. App. 4th at 854 n.14 (recognizing that contract language showed that “AVP intended for the carriers to believe they have an independent contractor relationship with AVP,” but pointing out that “it was not clear to the ALJ that the carriers fully understood what such a relationship would mean for themselves”); Air Couriers, 150 Cal. App. 4th at 938 (taking into account terms of contract but concluding that this did not preclude worker from being an employee since, inter alia, workers testified that employer failed to explain the legal and practical impacts of the contract).  On the other hand, Vector argues that Ms. Harris never asserted rights as an employee while acting as a Sales Rep. Hence, there are factual disputes. 
+
+The alleged employee’s opportunity for profit or loss depending upon his managerial skill. Although Vector contends that how much a Sales Rep earns is entirely dependent on his or her skills, Ms. Harris legitimately points out that Sales Reps are somewhat insulated against the risk of loss because they may be compensated on the “qualified sales presentation” basis instead of the commission basis.  In addition, Sales Reps are somewhat restricted from full opportunity for profit because they are not able to set the prices for the Cutco knives. See Matheson Depo. at 137-38, 183­84. 
+
+In short, based on the genuine dispute of material fact regarding control, the Court rejects Vector’s argument that it is entitled to summary judgment on all claims (state and federal) because Ms. Harris was clearly an independent contractor rather than an employee.2 
+
+
+
+In its motion for summary judgment, Vector argues that, regardless of how the issue above is decided, at the very least, the claims for failure to pay minimum wages (under federal and state law) 
+
+2 Ms. Harris has cited Mary Kay, Inc. v. Woolf, 146 S.W.3d 813 (Tex. Ct. App. 2004), in supportof her position that she was an employee of Vector rather than an independent contractor.  In Mary Kay,the trial court concluded that a Mary Kay sales director was an employee under California law but theappellate court held that Texas law, not California law, governed and ruled that she was not an employeeunder Texas law. Some of the facts in Mary Kay are similar to those in the instant case – e.g., there, as here, the worker had “broad discretion in how she operated her business,” her only limitations being thatthe product had to be sold to end users (not retail establishments) and that she had circumscribed useof the Mary Kay trademarks.  Id. at 818. Also, the worker “did not work any particular hours; she could work as much or as little as she chose.”  Id.  But, as Ms. Harris points out, some of the facts in Mary Kayare distinguishable. Most notably, the worker was able “set her own prices for the cosmetics, thuscontrolling the profit she made from the sales aspect of her business”; “[s]he could (and did) choose torecruit more consultants” to assist her; and “[s]he consistently represented to the Internal RevenueService that she was self-employed.”  Id. 
+
+should be dismissed.  Vector’s main argument is that, even assuming that Ms. Harris was an employee, it should not be held liable for failure to pay minimum wages because of the outside sales exemption, which is found in both federal and state law. 
+
+Under federal law, the requirement that an employer pay a minimum wage pursuant to 29 
+
+U.S.C. § 206 is not applicable with respect to, inter alia, any employee employed in the capacity of an “outside salesman.”  See 29 U.S.C. § 213(a) (stating that “[t]he provisions of sections 6 (except section 6(d) in the case of paragraph (1) of this subsection) and 7 [29 U.S.C. §§ 206, 207] shall not apply with respect to – (1) any employee employed . . . or in the capacity of outside salesman (as such terms are defined and delimited from time to time by regulations of the Secretary . . . )”). “Outside salesperson” is defined in 29 C.F.R. § 541.500 as one: 
+
+(1) 
+
+Whose primary duty is: 
+
+
+
+(i) 
+
+making sales within the meaning of section 3(k) of theAct, or 
+
+
+
+(ii) 
+
+obtaining orders or contracts for services or for the useof facilities for which a consideration will be paid bythe client or customer; and 
+
+
+
+
+
+
+
+(2) 
+
+Who is customarily and regularly engaged away from theemployer’s place or places of business in performing suchprimary duty. 
+
+
+
+
+
+29 C.F.R. § 541.500. 
+
+Like federal law, “state minimum wage laws specifically exclude outside salesmen from coverage.” Grubb & Ellis Co. v. Spengler, 143 Cal. App. 3d 890, 897 (1983); see also Cal. Lab. Code § 1171 (stating in relevant part that “[t]he provisions of this chapter shall apply to and include men, women and minors employed in any occupation, trade, or industry, whether compensation is measured by time, piece, or otherwise, but shall not include any individual employed as an outside salesman”); Reynolds v. Bement, 36 Cal. 4th 1075, 1084 (2005) (noting that the Industrial Welfare Commission (“IWC”) is empowered to formulate regulations, known as wage orders, governing employment in California and that the IWC was promulgated a general minimum wage order that applies to all employers and employees, excluding, inter alia, outside salespersons). The IWC has defined outside salesperson as “‘any person, 18 years of age or over, who customarily and regularly works more than half the working time away from the employer’s place of business selling tangible or intangible items or obtaining orders or contracts for products, services or use of facilities.’” Ramirez v. Yosemite Water Co., 20 Cal. 4th 785, 795 (1999) (quoting Wage Order No. 7-80, 2(I)). The California Supreme Court has indicated that the state law definition of outside salesperson differs from the federal law definition in that “the federal exemption focuses on defining the employee’s ‘primary function,’ not on how much work time is spent selling.”  Id. at 797. 
+
+Vector contends that, whether under federal or state law, there is no genuine dispute of material fact that Ms. Harris qualified as an outside salesperson.  In her opposition and supplemental opposition, Ms. Harris failed to make any challenge to this claim.  Furthermore, at the hearing, Ms. Harris conceded that she was an outside salesperson. Notwithstanding such, Ms. Harris argued in her papers and at the hearing that outside salespersons are still entitled to compensation for training,3 and therefore she should have been compensated for the time that she spent in the three-day training. 
+
+Ms. Harris points out that, under federal law, the outside sales exemption “do[es] not apply to employees training for employment in an . . . outside sales . . . capacity who are not actually performing the duties of an . . . outside sales . . . employee.”  29 C.F.R. § 541.705. There is no evidence in the record indicating that, during the three-day training program, Ms. Harris or even any other person actually set up an appointment with a customer or otherwise tried to make a sale. Therefore, the Court rejects Vector’s contention that the outside sales exemption dictates dismissal of the entire federal claim.  The exemption does not, in and of itself, warrant denial of compensation for training. 
+
+However, Ms. Harris is not automatically eligible for compensation for the time spent in training. The Ninth Circuit has stated that “[i]t is axiomatic, under the FLSA, that employers must pay employees for all ‘hours worked.’  The threshold question in [a] case is whether the activities cited by the plaintiff[] . . . constitute ‘work’ under the FLSA.” See Alvarez v. IBP, Inc., 339 F.3d 
+
+3 She also argues that outside salespersons are still considered employees deserving of otherprotections under the California Labor Code – i.e., §§ 203, 226, 450, 2802, and 2698. See Supp. Opp’nat 5. 
+
+894 (9th Cir. 2003). “[A]ll hours are hours worked which the employee is required to give his 
+
+employer . . . .”  29 C.F.R. § 785.7. Federal regulations, however, specifically provide that 
+
+[a]ttendance at lectures, meetings, training programs and similaractivities need not be counted as working time if the following four criteria are met: 
+
+(a)  Attendance is outside of the employee’s regular working hours;  
+
+(b)  Attendance is in fact voluntary;  
+
+(c)  The course, lecture, or meeting is not directly related to theemployee’s job; and  
+
+(d)  The employee does not perform any productive work duringsuch attendance.[4]  
+
+
+
+29 C.F.R. § 785.27 (emphasis added). 
+
+In the instant case, there is a genuine dispute of material fact as to at least one of the criteria above – i.e., (b). For example, Ms. Harris states in her declaration and deposition testimony that she was told the training was mandatory.  See Harris Decl. ¶ 8; Harris Depo. at 59. Also, an inference could be made that, even if Vector did not formally require participation in the training, the implicit message was that the training should be done as reflected by Vector’s admission that a high percentage of persons do participate in the training. See Matheson Depo. at 76 (sating that over 75% participate); see also Arlie Depo. at 112-13 (initially stating that close to 99% participate, although later backtracking and stating that he did not know the exact percentage). Furthermore, it appears doubtful whether criteria (c) applies: The training appears to be related to the job. Indeed, the training is keyed to the specifics of the Vector sales program and Cutco knives. 
+
+In its papers, Vector seems to challenge the applicability of the above authority and argues that other authority is on point. However, the authority cited by Vector is actually inapplicable. For example, the main authority cited by Vector, Atkins v. General Motors Corp., 701 F.2d 1124 (5th Cir. 1983), addresses the issue of when trainees should be considered employees.  See id. at 1127. But the outside sales exemption is applicable only where a person is already considered an 
+
+4 At least one court has suggested that “‘productive work’ may be measured by comparing theduties of the employee while in training to the duties that the employee is normally expected to perform.”  Seever v. Carrols Corp., 528 F. Supp. 2d 159, 168 (W.D.N.Y. 2007). 
+
+employee; thus, Atkins is not on point. See id. at 1128 n.2 (stating that the test articulated in 29 
+
+C.F.R. § 785.27 – the regulation cited by Ms. Harris in the instant case – “applies to trainees who are 
+
+already employees”; “[s]ince employment is the question we must decide, this test is inapposite”). To the extent Vector argues that, at the time of the training, Ms. Harris was not an employee 
+
+– thus making Atkins relevant authority – that is a genuine dispute of material fact.  Ms. Harris states in her declaration and deposition testimony that she was hired before the training started.  See Harris Decl. ¶ 8; Harris Depo. at 45, 53. Mr. Lewis indicates the same in his deposition testimony.  See Lewis Depo. at 52-53 (stating that, after the interview but before training, he was told something along the lines of “You got the position” and that he accepted the position). Also, the Manual which was distributed to the trainees states: “Welcome to the VECTOR team!”  Harris Decl., Ex. A (Manual at 1). 
+
+Furthermore, even if Atkins applied, two of the criteria used in Atkins to determine whether a trainee should be considered an employee is (1) whether the training is for the benefit of the trainees and (2) whether the employer derives no immediate advantage from the activities of the trainees. See id. at 1127 (listing six criteria developed by Wage and Hour Administrator to determine if a trainee is an employee under FLSA).  Here, there is a genuine dispute of material fact as to whether Vector or the trainees principally benefitted from the training.  See McLaughlin v. Ensley, 877 F.2d 1207, 1209-10 (4th Cir. 1989) (evaluating whether employer or individual principally benefitted from training; noting that workers received very little benefit – “the skills learned were either so specific to the job or so general to be of practically no transferable usefulness”); see also Reich v. Parker Fire Protection Dist., 992 F.2d 1023, 1027 (10th Cir. 1993) (noting that “determinations of employee status under FLSA in other contexts [e.g., employee v. independent contractor] are not subject to rigid tests but rather to consideration of a number of criteria in their totality” and that the economic realities of the relationship must be considered).  Although Vector argues that the trainees largely benefitted by learning general sales skills, a reasonable jury might conclude otherwise because a significant part of the training was very specific to Vector and the Cutco knives.  For example, during the training, trainees learn how to do demonstrations, see Lee Decl., Ex. E (Outline, Day 1, at V0066, V0073); are educated about Cutco knives and the knives of competitors, see Lee Decl., Ex. F (Outline, Day 2, at V0084-87); and learn how to take orders. See Lee Decl., Ex. G (Outline, Day 3, at V0115). 
+
+For the foregoing reasons, Ms. Harris’s federal claim for failure to pay minimum wages should not be dismissed.  There is a genuine dispute of material fact as to whether, at the time of the three-day training, Ms. Harris was an employee.  If so, then the outside sales exemption would not be applicable because the exemption does not apply to training time and there is a genuine dispute of material fact as to whether the training time constituted “hours worked,” although the above analysis suggests Ms. Harris’s claim on this issue is persuasive. 
+
+As for Ms. Harris’s state claim, Vector does not argue that the legal standards are any different. Therefore, summary judgment on the state law claim for failure to pay minimum wages is also denied. 
+
+
+
+In its summary judgment motion, Vector also challenges Ms. Harris’s claim that Vector violated California Labor Code § 450. Section 450 provides that “[n]o employer, or agent or officer thereof, or other person, may compel or coerce any employee, or applicant for employment, to patronize his or her employer, or any other person, in the purchase of any thing of value.”  Cal. Lab. Code § 450. According to Ms. Harris, Vector violated this statute by compelling Sales Reps to buy sample kits. 
+
+Vector contends that it is entitled to summary judgment on this claim because a Sales Rep could obtain a refund if he or she returned a sample kit; thus, no “purchase” actually took place.  See Mot. at 22 (characterizing the transaction as a “deposit” instead of a “purchase”). Vector also argues that, even if there was a purchase, Sales Reps were not required to purchase the sample kit but rather could have sold the knives without having any samples at all.  See Matheson Depo. at 82 (testifying that a sample kit was helpful but not necessary and that other sales aids could be used). 
+
+The Court rejects both of Vector’s arguments.  As to the first argument, the term “purchase” means, in essence, to buy.5 See Black’s Law Dictionary 1248 (7th ed. 1999) (defining “purchase” as “[t]he act or an instance of buying”); http://www.merriam-webster.com/dictionary/purchase (defining “purchase” as “to obtain by paying money or its equivalent” or “buy”).  Under this definition, there is ample evidence that Sales Reps were required to “purchase” sample kits.  The Sales Rep Agreement specifically provides that “Sales Reps shall obtain a sample kit for demonstration purposes.  The company reserves the right to convert checks provided by sales representatives for payment of the sample kit to ACH transactions (Electronic Funds Transfers) . . . .” Matheson Decl., Ex. F (Sales Rep Agreement ¶ 6) (emphasis added).  Vector has failed to provide any authority suggesting that the possibility of a refund negates a purchase. 
+
+As to the second argument, the same provision of the Sales Rep Agreement quoted above constitutes evidence that Sales Reps were required to purchase the sample kits.  See id. (using the term “shall”).  Vector’s attempt to argue that a Sales Rep could perform a demonstration without a sample kit also fails to take into account that, in order to be compensated for a qualified sales presentation, a Sales Rep had to do a visual demonstration with the Cutco knives.  See Matheson Depo. at 92-92 (admitting that a visual demonstration involves hands-on using of the tools and the cutting performance; also stating that if a Sales Rep does not have a sample kit then he or she would not qualify for the minimum commission, i.e., the qualified sales presentation commission). 
+
+For the above-stated reasons, the Court denies Vector’s motion for summary adjudication on the § 450 claim. 
+
+
+
+In her complaint, Ms. Harris alleges that Vector violated California Labor Code § 226, which requires an employer to keep and provide accurate pay records.  See Cal. Lab. Code § 226(a) (providing that “[e]very employer shall, semimonthly or at the time of each payment of wages, furnish each of his or her employees, either as a detachable part of the check, draft, or voucher 
+
+5 “In engaging in statutory interpretation we are to accord words their usual, ordinary, andcommon sense meaning based on the language the Legislature used and the evident purpose for whichthe statute was adopted.” In re Rojas, 23 Cal. 3d 152, 155 (1979). 
+
+paying the employees wages, or separately when wages are paid by personal check or cash, an accurate itemized statement in writing showing [inter alia] gross wages earned”); Cornn v. UPS, Inc., No. C03-2001 TEH, 2006 U.S. Dist. LEXIS 9013, at *4 (N.D. Cal. Feb. 22, 2006) (stating that, “[u]nder California Labor Code section 226, employers must provide accurate itemized statements of wages to their employees”).  In its summary judgment motion, Vector argues that this claim should be dismissed because, “in order for Section 226 penalties to be imposed, the failure to provide accurate wage statements to employees must have been knowing and intentional.” Mot. at 22 (emphasis in original). 
+
+Section 226(e) does provide that “[a]n employee suffering injury as a result of a knowing and intentional failure by an employer to comply with subdivision (a) is entitled to recover” damages, as well as costs and reasonable attorney’s fees. Cal. Lab. Code § 226(e) (emphasis added); see also Hoffman v. Construction Protective Servs., Nos. 06-56380, 06-56381, 06-56382, 07-55135, 2008 
+
+U.S. App. LEXIS 19055, at *3 (9th Cir. Sept. 4, 2008) (stating that California law requires that there be a knowing and intentional violation of § 226); Amaral v. Cintas Corp. No. 2, 163 Cal. App. 4th 1157, 1195 (2008) (noting that, “[w]hen proven, Labor Code violations give rise to civil penalties” and that “[s]ome statutory penalties are imposed only if an employers’ violation was ‘willful’ or ‘knowing’” – for example, “section 226, subdivision (e) penalizes an employer’s ‘knowing and intentional’ failure to provide itemized wage statements under section 226, subdivision (a)”).  
+
+Vector is entitled to summary adjudication on the damages claim. There is no evidence that Vector’s conduct was a knowing or willful violation of § 226(a). See, e.g., Reber v. AIMCO, No. SA CV07-0607 DOC (RZx), 2008 U.S. Dist. LEXIS 81790, at *25 (C.D. Cal. Aug. 25, 2008) (noting that § 226 does not apply if an employee falls under an administrative exception and that, in the case under consideration, there was a “good faith dispute” as to whether employees were exempt; thus, employer did not knowingly and intentionally fail to provide itemized wage statements and employer was awarded summary judgment); Wang v. Chinese Daily News, Inc., 435 F. Supp. 2d 1042, 1051 (C.D. Cal. 2006) (taking note that “[d]efendants concede that they knew their wage statements did not comply with California law” and so defendants’ failure to ameliorate the problem “and their stance that the violations are merely technical also demonstrate that the violations were knowing and intentional”). 
+
+However, Ms. Harris seeks not only damages for the violation of § 226 but also injunctive relief. See Compl. ¶¶ 61-62.  Under § 226(g), there is no requirement of knowing and intentional failure to comply with the statute in order to justify injunctive relief. See id. § 226(g) (providing that “[a]n employee may also bring an action for injunctive relief to ensure compliance with this section, and is entitled to an award of costs and reasonable attorney’s fees”).  Therefore, Ms. Harris’s § 226 claim should not be dismissed in its entirety.  She may seek injunctive relief. 
+
+ 
+
+In her complaint, Ms. Harris claims that Vector also violated the California Labor Code by failing to pay wages in a timely fashion.  Section 201 of the Labor Code provides:  “If an employer discharges an employee, the wages earned and unpaid at the time of discharge are due and payable immediately.”  Cal. Lab. Code § 201(a). Section 202 provides: “If an employee not having a written contract for a definite period quits his or her employment, his or her wages shall become due and payable not later than 72 hours thereafter . . . .” Id. § 202(a). Finally, § 203(a) of the Labor Code provides: 
+
+If an employer willfully fails to pay, without abatement or reduction,in accordance with Sections 201, 201.3, 201.5, 202, and 205.5, anywages of an employee who is discharged or who quits, the wages ofthe employee shall continue as a penalty from the due date thereof atthe same rate until paid or until an action therefor is commenced; butthe wages shall not continue for more than 30 days. 
+
+Cal. Lab. Code § 203(a). Similar to above, Vector argues that this claim should be dismissed because there is no evidence that it willfully failed to pay Ms. Harris wages in a timely manner. 
+
+Because Ms. Harris’s claim here does appear to seek only the civil penalties provided for in § 203(a), the Court agrees with Vector’s position and dismisses the claim in its entirety.  See Amaral, 163 Cal. App. 4th at 1195 (stating that, “[w]hen proven, Labor Code violations give rise to civil penalties” and that “[s]ome statutory penalties are imposed only if an employers’ violation was ‘willful’ or ‘knowing’” – e.g., “section 203 penalizes an employer that ‘willfully’ fails to pay wages due under sections 201 or 202”). 
+
+
+
+California Labor Code § 2698 et seq. is known as the Labor Code Private Attorneys General Act.  The Act provides that, “[f]or all provisions of this code except those for which a civil penalty is specifically provided, there is established a civil penalty for a violation of these provisions, as follows . . . .” Cal. Lab. Code § 2699(f). In the instant case, Vector moves for summary judgment on the basis that “virtually all of the California Labor Code provisions sued under by plaintiff already provide a civil penalty.” Mot. at 23. However, Vector does not claim that either California Labor Code § 450 or § 2802 provide for a civil penalty. These are the only claims for which Ms. Harris seeks a penalty under the Act. See Compl. ¶ 81 (stating that “the members of all classes seek recovery of all applicable civil penalties for Defendants’ violation of Labor Code §§ 450 and 2802”). Accordingly, the Court denies Vector’s motion for summary adjudication on this claim. 
+
+
+
+California Business & Professions Code § 17200 prohibits unfair competition, i.e., “any unlawful, unfair or fraudulent business act or practice and unfair, deceptive, untrue or misleading advertising.” Cal. Bus. & Prof. Code § 17200. In its motion, Vector asserts that it is entitled to summary judgment because there has been no unlawful business practice – that is, “there has been no violation of any of the statutes pled in plaintiff’s complaint” and thus “the predicate wrongful act necessary for a 17200 claim is absent.”  Reply at 15. Because most of the claims have survived summary judgment for the reasons discussed above, the Court rejects Vector’s argument and allows the § 17200 claim to proceed as well. /// /// /// /// /// /// /// /// 
+
+
+
+
+
+
+
+For the foregoing reasons, the Court grants in part and denies in part Vector’s motion for summary judgment or summary adjudication.  Vector is entitled to summary adjudication on (1) the § 226 damages claim (but not the § 226 injunctive relief claim) and (2) the § 201 claim. On all other claims, Vector’s request for summary adjudication is denied. 
+
+This order disposes of Docket No. 35. 
+
+IT IS SO ORDERED. 
+
+
+

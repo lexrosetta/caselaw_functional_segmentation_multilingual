@@ -1,0 +1,62 @@
+U.S. Department of Labor Administrative Review Board 200 Constitution Avenue, N.W.
+
+Washington, D.C.  20210
+
+IN THE MATTER OF:
+
+THOMAS RIMINI, ARB CASE NOS. 2018-0039 2018-0070 COMPLAINANT,      2019-0073 v.  ALJ CASE NOS. 2018-SOX-00010 2018-SOX-00023 2019-SOX-00033 J.P. MORGAN CHASE & COMPANY, DATE:  July 31, 2019 RESPONDENT.
+
+Appearances:
+
+For the Complainant:
+
+Thomas Rimini; pro se; Winchester, Massachusetts
+
+For the Respondent:
+
+Steven J. Pearlman, Esq., and Edward C. Young, Esq.; Proskauer Rose, LLP; Chicago, IllinoisBEFORE:  William T. Barto, Chief Administrative Appeals Judge; James A. Haynes and Daniel T. Gresh, Administrative Appeals JudgesFINAL DECISION AND ORDER
+
+PER CURIAM: The Complainant, Thomas Rimini, filed retaliation complaints under Section 806 of the Corporate and Criminal Fraud Accountability Act of 2002, Title VIII of the Sarbanes-Oxley Act of 2002, 18 U.S.C. § 1514A (2010) (SOX), as amended, and its implementing regulations at 29 C.F.R. Part 1980 (2017, 2018). Section 806 prohibits certain covered employers from discharging, demoting, suspending, threatening, harassing, or in any other manner discriminating against employees who provide information to a covered employer or a federal agency or Congress regarding conduct that the employee reasonably believes constitutes a violation of 18 U.S.C. §§ 1341 (mail fraud), 1343 (wire, radio, TV fraud), 1348 (securities fraud), or any rule or regulation of the Securities and Exchange Commission, or any provision of Federal law relating to fraud against shareholders. SOX complaint “shall be commenced not later than 180 days after the date on which the violation occurs, or after the date on which the employee becomes aware of the violation.”  Id. § 1514A(b)(2)(D). Rimini appeals to the Administrative Review Board (ARB or Board) from two decisions of two Department of Labor Administrative Law Judges (ALJ) dismissing his SOX complaints as untimely filed. J.P. Morgan Chase & Company (the Respondent) opposes these appeals, and gives notice of supplemental authority regarding an adjudication of this same matter between these same parties which it argues forecloses these appeals. Respondent’s Notices of Supplemental Authority (Nov. 9, 2018). Because these complaints are time-barred, we affirm the ALJs decisions.
+
+JURISDICTION AND STANDARD OF REVIEW
+
+The Secretary of Labor has delegated to the ARB the authority to issue final agency decisions in review or on appeal of matters arising under the SOX. Secretary’s Order 01-2019 (Delegation of Authority and Assignment of Responsibility to the Administrative Review Board), 84 Fed. Reg. 13072-73, § (5)(b)(50) (April 3, 2019).
+
+DISCUSSION
+
+Rimini appeals (ARB No. 2018-0039) from an ALJ’s Order Dismissing Complaint (ALJ No. 2018-SOX-00010) (Order). The ALJ ruled that the complaint filed in December 2017 was untimely filed and that equitable tolling of the 180-day limitations period was inapplicable. Order at 3, n.5. Rimini generally argues that equitable tolling of the statutorily-imposed 180-day limitations period should apply and asserts that he did not discover evidence of adverse action taken against him in November 2011 until receiving the evidence in October 2016 during the adjudication of a previous SOX complaint he had filed.1  Thus, Rimini urges the Board to reverse the ALJ’s Order and also alleges bad conduct on the part of the Respondent and seeks relief.
+
+Rimini also appeals (ARB No. 2018-0070) from an ALJ’s Decision and Order Granting Respondent’s Motion for Summary Decision and Denying Other Pending Motions as Moot)(ALJ Case No. 2018-SOX-00023) (D. & O.) on a complaint filed in April 2018. The ALJ’s D. & O. memorialized a bench decision the ALJ made during a prior conference call with the parties in which the ALJ ruled that the complaint was untimely filed and there was no showing that equitable tolling of the statutorily-imposed 180-day limitations period applied. Conference Call Transcript (Aug. 29, 2018) at 26-27, 30-31, 33-34, 41–42. Rimini alleges bad conduct on the part of the Respondent and seeks relief, but does not address the ALJ’s statute of limitations ruling.
+
+In both appeals, the Respondent urges the Board to affirm the ALJs’ decisions dismissing the complaints as untimely filed and to enjoin Rimini from filing additional related complaints against the Respondent. In addition, the Respondent  has filed Notices of Supplemental Authority regarding a Judgment of the United States Court of Appeals for the First Circuit in Rimini v. JP Morgan Securities, LLC, No. 18-1031 (1st. Cir., Nov. 7, 2018)(unpub.). The First Circuit Court’s Judgment affirmed a decision of the United States District Court for the District of Massachusetts in Rimini v. J.P. Morgan Securities LLC, Civil No. 17-cv- 10392-LTS (D. Mass. Dec. 13, 2017) that the allegations in Rimini’s complaint at issue in that case “were insufficient to state a SOX claim because [Rimini] failed to identify any adverse employment action that occurred within the 180-day statutory window.”.2 Based on the First Circuit’s Judgment, the Respondent argues that res judicata bars consideration of whether Rimini’s complaints at issue here are time- barred.
+
+2017) (Decision and Order Granting Respondent’s Motion for Summary Decision) and (ALJ Feb. 24, 2017) (Order Denying Complainant’s Motion for Reconsideration) (Rimini I). issued on November 7, 2018, issued a Mandate on July 25, 2019. See Rimini v. JP Morgan Securities, LLC, No. 18-1031 (1st. Cir., July 25, 2019)(unpub. Mandate).
+
+The relevant timeline is as follows:
+
+November 8, 2011 Respondent’s employees exchange emails about RiminiJuly 2015 Rimini files a SOX complaint (Rimini I)October 25, 2016 Respondent produces the November 8, 2011, email exchange during discovery in Rimini I. Rimini relies on the email exchange to allege he suffered adverse employment actionJanuary 18, 2017 ALJ in Rimini I finds no actionable adverse action and grants motion for summary decision as July 2015 complaint is time-barred (ALJ No. 2015-SOX-00034)March 8, 2017 Rimini removes matter in Rimini I to United StatesDistrict CourtDecember 13, 2017 United States District Court dismisses July 2015 complaint as time-barredDecember 13, 2017 Rimini files SOX complaint (Rimini II) 414 days afterOctober 25, 2016, discovery of November 8, 2011, email exchangeNovember 7, 2018 First Circuit Court affirms United States District Court dismissal of July 2015 complaint (Rimini I)April 3, 2018 ALJ in Rimini II issues Order finding no actionable adverse action and dismissing December 2017 complaint as time-barred (ALJ No. 2018-SOX-00010)April 3, 2018   Rimini appeals (ARB No. 2018-0039) (Rimini II).
+
+April 13, 2018 Rimini files SOX complaint (Rimini III)
+
+August 29, 2018 ALJ in Rimini III issues D. & O. granting summary decision finding no actionable adverse action and AprilAugust 30, 2018  Rimini appeals (ARB No. 2018-0070) (Rimini III)April 2, 2019 Rimini files a SOX complaint (Rimini IV) in order to amend his “earlier complaints” or to “make a new complaint” that the Respondent made false statements in its Notices of Supplemental Authority filings to the ARBJune 24, 2019 ALJ in Rimini IV transmits the case (ALJ No. 2019-SOX- 00033) to the ARB to be consolidated with Rimini’s appeal in Rimini III (ARB No. 2018-0070) as Rimini’s complaint “counter[s] the Respondent’s filings” submitted to the ARB in Rimini III “and do not allege any new facts outside of the administrative appealJuly 26, 2019 ALJ in Rimini IV denies Rimini’s request for reconsideration as there has been no mistake of law or fact, nor any other sufficient ground to warrant reconsiderationWe consider the threshold determination of timeliness based on the statutorily-imposed 180-day limitations period. An employee alleging employer retaliation in violation of the SOX must demonstrate that he suffered an adverse employment action which occurred within the statutorily-imposed 180-day limitations period preceding the filing of the complaint alleging such a violation. Therefore, an employee must file a complaint within 180-days after the occurrence of the SOX violation or when the employee becomes aware of it. 18 U.S.C. § 1514A(b)(2)(D).
+
+Application of the 180-day statutory limitations period bars relief for Rimini.
+
+In neither of Rimini’s 2017 or 2018 complaints did Rimini demonstrate that he suffered an adverse employment action which occurred either within 180-days of the filing of his complaints alleging a SOX violation or within 180-days of his becoming aware of the violation.
+
+Moreover, the ALJs took into consideration not only that Rimini was appearing pro se but also that the statutory limitations period is subject to equitable tolling when the untimeliness of the complaint is the result of circumstances beyond the complainant's control. But ultimately the ALJs held that Rimini failed to put forth or establish any basis that he was entitled to equitable tolling of the statutory limitations period. Our review of the record discloses no ground for equitable tolling of the statutory limitations period deadline of 180 days.3In addition, Rimini’s most recent 2019 complaint arose in light of the pleadings filed in conjunction with his appeals at issue here involving his prior 2017 and 2018 complaints. Thus, in the interest of judicial and administrative economy, and to avoid the inefficient piecemeal litigation of SOX complaints,4 we consolidate Rimini’s 2019 complaint in Rimini IV (ALJ No. 2019-SOX-00033) with Rimini’s appeal in Rimini III (ARB No. 2018-0070) pursuant to the ALJ’s transmittal of that complaint to the Board.5 For the reasons stated above, Rimini’s 2017 and 2018 complaints fail as a matter of law as they are time-barred under 18 U.S.C. § 1514A(b)(2)(D).6 Accordingly, we AFFIRM the decisions below and, therefore, Rimini’s 2017 and 2018 complaints are DISMISSED as untimely filed.
+
+As to the complaint in Rimini IV, the procedures for the handling of discrimination complaints under Section 806 of the SOX, 29 C.F.R. § 1980.115 provide the following:
+
+In special circumstances not contemplated by the provisions of this part, or for good cause shown, the . . . Board on review may, upon application, after three days’ notice to all parties and interveners, waive any rule or issue any orders that justice or the administration of the Act requires. slip op. at 2-3 (ARB Feb. 14, 2019).
+
+2006-SOX-098, 2010-SOX-050, slip op. at 4-5 (ARB June 29, 2012).
+
+SOX-020, -036; slip op. at 6 (ARB June 2, 2006). See also Federal Rule of Civil Procedure 42(a):
+
+If actions before the court involve a common question of law or fact, the court may: 1) join for hearing or trial any or all matters at issue in the actions; (2) consolidate the actions; or 3) issue any other orders to avoid unnecessary cost or delay.
+
+Notices of Supplemental Authority that res judicata bars consideration of Rimini’s 2017 and under 29 C.F.R. § 1980.115, and for good cause shown, we hereby place the parties on notice that because Rimini’s 2019 complaint in Rimini IV arises from pleadings filed in conjunction with his appeals at issue here involving his prior 2017 and 2018 complaints, and as those complaints are time-barred under 18 U.S.C. § 1514A(b)(2)(D), Rimini’s 2019 complaint is also DISMISSED three days from the issuance of this decision and order.
+
+SO ORDERED.
+

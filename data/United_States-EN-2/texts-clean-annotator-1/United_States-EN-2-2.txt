@@ -1,0 +1,61 @@
+
+
+ This case arises under the employee protection provisions of theSeaman’s Protection Act, 46 U.S.C. § 2114 (SPA or the Act) (2010), as amended bySection 611 of the Coast Guard Authorization Act of 2010, P.L. 111-281. SPA’s implementing regulations can be found at 29 C.F.R. Part 1986 (2015).
+
+Cruise Lines.” The ALJ amended the caption to reflect Carnival Corporation as the properRespondent.
+
+U.S. Department of Labor Administrative Review Board Washington, DC 20210-0001In June 2014, the Complainant, Devendra Gummala, filed a complaint with the Occupational Safety and Health Administration (OSHA) alleging that his former employer, Carnival Cruise Lines, a division of Carnival Corporation, violated the SPA by discharging him for engaging in activity that the SPA protects. OSHA concluded that Gummala was not a seaman covered under the SPA. Gummala requested a hearing. A Department of Labor (DOL) Administrative Law Judge (ALJ) also concluded that Gummala was not a seaman under the SPA. Gummala appealed to the Administrative Review Board (ARB). The ARB vacated and remanded the matter back to the ALJ for consideration as to whether CarnivalCruise Lines was a “vessel owner” under the implementing regulations. On remand, the ALJ held that neither Carnival Cruise Lines nor Carnival Corporation were covered entities and dismissed Gummala’s claim. We affirm.
+
+
+
+Devendra Gummala, a citizen of India residing in Chile, was employed as a photographer aboard the Carnival vessel Fascination. Carnival Fascination is operated by Carnival Cruise Lines and flies a Bahamian flag. Carnival Cruise Lines is a brand or division of Carnival Corporation, which is incorporated in Panama but has its principal place of business in Miami, Florida.
+
+Gummala was terminated on or about June 12, 2014. He claims that he was fired for making safety related complaints. On or about June 22, 2014, Gummala brought a claim under the SPA. OSHA dismissed the case for lack of jurisdiction onDecember 24, 2014, and Gummala filed objections with the Office of AdministrativeLaw Judges.
+
+The ALJ issued a show cause order asking the parties to address the issue of coverage under the SPA. Thereafter, on August 6, 2015, the ALJ dismissedGummala’s claim. The ALJ held that Gummala failed to establish that he was a covered “seaman” under the SPA because the vessel was not owned by a citizen of the United States, Carnival Corporation being the vessel owner. The ARB remanded to the ALJ to address the question of Carnival Cruise Line’s status as a vessel owner. On remand, the parties stipulated that Carnival Cruise Lines is not a stand-alone legal entity. The ALJ concluded that neither Carnival Corporation, nor its brand or division, Carnival Cruise Lines, were citizens of the United States for purposes of SPA’s coverage. Gummala again appealed the ALJ’s decision to theARB.
+
+
+
+The Secretary of Labor has delegated to the Administrative Review Board the authority to issue final decisions under the Seaman’s Protection Act. 29 C.F.R. § 1986.110(a); Secretary’s Order No. 01-2020 (Delegation of Authority andAssignment of Responsibility to the Administrative Review Board (Secretary’s discretionary review of ARB decisions)), 85 Fed. Reg. 13,186 (Mar. 6, 2020).
+
+The ARB reviews an ALJ’s grant of summary decision de novo, applying the same standard that ALJ’s employ under 29 C.F.R. Part 18. Siemaszko v. FirstEnergy Nuclear Operating Co., Inc., ARB No. 09-123, ALJ No. 2003-ERA-013, slip op. at 3 (ARB Feb. 29, 2012). Pursuant to 29 C.F.R. § 18.72, an ALJ may enter summary judgment for either party if the pleadings, affidavits, material obtained by discovery, or matters officially noticed show that there is no genuine issue as to any material fact and that a party is entitled to summary decision. On summary decision, we review the record on the whole in the light most favorable to the non- moving party. Micallef v. Harrah’s Rincon Casino & Resort, ARB No. 2016-0095,ALJ No. 2015-SOX-00025, slip op. at 3 (ARB July 5, 2018).
+
+
+The SPA prohibits a person from retaliating against a “seaman” who makes safety complaints. 46 U.S.C. § 2114(a). “Person” is defined in the 2013 interim final regulations as “one or more individuals or other entities, including but not limited to corporations, companies, associations, firms, partnerships, societies, and joint stock companies.” 29 C.F.R. § 1986.101(j).
+
+SPA’s implementing regulations define “seaman” by means of “vessel ownership” and United States citizenship. (m) Seaman means any individual engaged or employed in any capacity on board a vessel owned by a citizen of theUnited States.
+
+The ALJ held that Gummala failed to establish that he was a covered seaman under the SPA because he was not employed by a “citizen of the UnitedStates.” Regulation § 1986.101(d) provides: (d) Citizen of the United States means: (1) An individual who is a national of the United States as defined in section 101(a)(22) of the Immigration andNationality Act (8 U.S.C. 1101 (a)(22)) or a corporation, partnership, association, or other business entity if the controlling interest is owned by citizens of the UnitedStates. The controlling interest in a corporation is owned by citizens of the United States if: (i) Title to the majority of the stock in the corporation is vested in citizens of the United States free from any trust or fiduciary obligation in favor of a person not a citizen of the United States; (ii) The majority of the voting power in the corporation is vested in citizens of the United States; (iii) There is no contract or understanding by which the majority of the voting power in the corporation may be exercised, directly or indirectly, in behalf of a person not a citizen of the United States; and (iv) There is no other means by which control of the corporation is given to or permitted to be exercised by a person not a citizen of the United States.
+
+Furthermore, a corporation is only a citizen of the United
+
+States if: (i) It is incorporated under the laws of the UnitedStates or a State; (ii) Its chief executive officer, by whatever title, and the chairman of its board of directors are citizens of theUnited States; and (iii) No more of its directors are noncitizens than a minority of the number necessary to constitute a quorum.
+
+On remand, the ALJ asked parties to admit or deny several facts. In response, parties stipulated that Carnival Cruise Lines is not a stand-alone corporate entity, but is, instead, a brand and division of Carnival Cruise Lines.
+
+June 12 ALJ D. & O. II at 4. With this clarification, the status of Carnival CruiseLines under the applicable regulations is no longer an issue.
+
+With respect to Carnival Corporation, the ALJ found that it is not incorporated in the United States or any state thereof. Id. The ALJ observed thatCarnival Corporation may be covered under the 2016 regulations because it has its principal place of business in Miami, Florida.2 However, the ALJ further concluded (d) Citizen of the United States means an individual who is a national of the United States as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101 (a)(22)); a corporation incorporated under the laws of the United States or a State; a corporation, partnership, association, or other that the 2016 regulations do not apply to this matter as the alleged retaliation took place in 2014 when the 2013 interim final regulations were in effect. The ALJ reasoned that applying the 2016 regulations to Carnival Corporation would attach new legal consequences to prior acts. ALJ June 12 D. & O. II at 4.n.2; ALJ May 8,Energy, 118 F.3d 1531 (Fed. Cir. 1997); Landgraf v. USI Film Prods,  511 U.S. 244 (1994).
+
+Under the 2013 interim final regulations in effect when Gummala was terminated, the definition of a corporate citizen of the United States did not include “principal place of business” in a state as a factor. Because Carnival Corporation, the vessel owner, was not a citizen of the United States, Gummala was not a covered “seaman.” Accordingly, the ALJ dismissed Gummala’s case for lack of coverage.
+
+On appeal, Gummala argues that the ALJ erred in ruling that the 2016 final rule does not apply retrospectively to his case. In support, Gummala relies on the provision 29 C.F.R. § 1986.101(r), which provides “[a]ny future amendments to SPA that affect the definition of a term or terms listed in this section will apply in lieu of the definition stated herein.” The ALJ rejected the implication that § 1986.101(r) allows for the application of the 2016 definition. We agree. Section 1986.101(r) addresses the relationship between the SPA and the implementing regulations and does not address whether the 2016 regulation can be applied retroactively toGummala’s complaint.
+
+Secondly, Gummala characterizes the SPA regulations as procedural rather than substantive. Gummala further claims that the ALJ’s application of the 2016 definition of “seaman” and “citizen of the United States” to Gummala’s claim would regulate secondary conduct and thus would not create retroactive effects. The application of procedural regulations and changes regulating secondary conduct may be applied retrospectively because they do not create retroactive effects disrupting the rights or expectations associated with past transactions and primary conduct. Landgraf, 511 U.S. at 273–78. Although the SPA’s implementing regulations may be characterized as procedural, we agree with the ALJ that applying the 2016 definition’s “principal place of business” in this case would create retroactive effects by attaching new legal consequences to Respondent’s alleged conduct occurring in 2014 and giving rise to this claim. business entity if the controlling interest is owned by citizens of the United States or whose principal place of business or base of operations is in a State; or a governmental entity of theFederal Government of the United States, of a State, or of a political subdivision of a State. The controlling interest in a corporation is owned by citizens of the United States if a majority of the stockholders are citizens of the United States.
+
+Finally, Gummala characterized the 2016 regulation at issue as a “clarification” rather than a substantive alteration of the regulatory framework.
+
+“Clarifying” amendments may be applied retrospectively when certain conditions are met. Johnson v. Siemens Bldg. Techs. Inc., ARB No. 08-032, ALJ No. 2005-SOX- reference to the explanation given for the change from the 2013 interim final rule [IFR] to the 2016 final rule. OSHA viewed the 2013 interim final regulations as excessively restrictive and based on a non-analogous statute. The section-by-section explanation provides:
+
+. . . OSHA has decided to substantially simplify the description of what it means for U.S. citizens to own a “controlling interest” in a corporation, partnership, association, or other business entity. The lengthy provisions of the IFR setting forth these criteria have been replaced with a straightforward explanation that the controlling interest in a corporation is owned by citizens of the United States if a majority of the stockholders are citizens of theUnited States.
+
+Finally, OSHA has expressly included corporations “incorporated under the laws of the United States or a State,” any corporation, partnership, association, or other business entity “whose principal place of business or base of operations is in a State,” and federal and state governmental entities within definition of “Citizen of the United States.”OSHA decided to make these changes for a number of reasons. First, the IFR definition of “Citizen of United States” with respect to corporate and other juridical entities was derived from a subtitle of Title 46 of the United StatesCode, which is not as closely related to the purposes of SPA as the subtitle in which SPA is located. . . .
+
+Gummala’s argument, OSHA indicated that it was changing the definition rather than clarifying the 2013 definitions.
+
+
+
+Accordingly, we AFFIRM the ALJ’s finding that Carnival Cruise Lines is not a stand-alone legal entity and that Carnival Corporation is not a coveredRespondent under the SPA because it is not a citizen of the United States under the applicable regulations.
+
+SO ORDERED.
+

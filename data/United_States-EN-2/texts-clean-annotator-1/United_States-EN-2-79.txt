@@ -1,0 +1,50 @@
+
+
+This case arises under the employee protection provisions of the FederalFood, Drug, and Cosmetic Act (FFDCA), as amended by Section 402 of the FoodSafety and Modernization Act of 2011 (FSMA),1 and its implementing regulations at employee who has engaged in protected activity pertaining to a violation or alleged violation of the FFDCA, or any order, rule, regulation, standard, or ban under theFFDCA.  Craig Watts, the owner of C&A Farms, filed a complaint with theDepartment of Labor’s Occupational Safety and Health Administration (OSHA) alleging that Perdue Farms, Inc. (Perdue) retaliated against him for engaging inFSMA-related protected activities.  OSHA dismissed the claim.  Watts asked for a hearing, and the Administrative Law Judge (ALJ) assigned to the case also dismissed the claim.  The ARB affirmed the ALJ’s decision on March 5, 2019.  Watts appealed the case to the United States Court of Appeals for the Fourth Circuit.  OnSeptember 24, 2019, the Department of Labor moved that the Court remand the matter back to the ARB for additional consideration in light of briefing from theU.S. Food and Drug Administration (FDA).  The Fourth Circuit granted that motion on January 7, 2020.  Watts v. U.S. Dept. of Labor, Case No. 19-1487 (4th Cir. Jan. 7, 2020).  Upon further briefing, the ARB vacates its March 5, 2019 Order and remands the matter back to the ALJ for further proceedings.
+
+
+
+Craig Watts contracted with Perdue Farms, Inc., to raise chickens which he received from Perdue as chicks.  After a period of several weeks, Perdue would then collect them for processing.  Watts claims that the flocks raised on his farm followPerdue’s specifications but suffer from overcrowdedness and improper hygiene.
+
+Watts, with a third-party, recorded a video to illustrate conditions of his flock. at 21 U.S.C. § 301 et seq. (1938).
+
+Perdue counters that Watts wanted more money, became disgruntled, and kept sick and injured chickens alive to smear Perdue’s reputation.  Upon learning of the video, Perdue required Watts to complete biosecurity training before a new flock would be placed with his farm.  On February 19, 2015, Watts filed a whistleblower complaint claiming that the additional training requirement was retaliation for having produced the film and complained of alleged violations.
+
+On February 8, 2016, OSHA determined that Perdue was covered underFSMA but also that Watts was not an employee of Perdue.  Watts objected, and the case was assigned to an ALJ for hearing.  Before the ALJ, Perdue moved to dismiss for lack of subject matter jurisdiction.  The ALJ agreed and held that he lacked jurisdiction to hear Watts’s claim because Watts raised chickens for Perdue.  Being part of the poultry products industry, Perdue’s chicken business was exempt from the FFDCA via the Poultry Products Inspection Act (PPIA), 21 U.S.C. § 451, and thus exempt from the FSMA amendments adding the whistleblower protection provision to the FFDCA.  Watts appealed to the Administrative Review Board (ARB or Board).  The ARB affirmed the ALJ’s decision on March 5, 2019, finding thatPerdue was not covered under the FFDCA.  Watts appealed the ARB’s decision to the Fourth Circuit.  Upon further briefing, the Fourth Circuit granted DOL’s motion for voluntary remand back to the ARB for further consideration. This Order ofRemand follows.
+
+
+
+The Secretary of Labor has delegated authority to the ARB to issue final agency decisions for the Department of Labor in cases brought under the FSMA.2The ARB reviews an ALJ’s dismissal de novo, applying the same standard that theALJ employed under 29 C.F.R. Part 18 (2017).  Pursuant to 29 C.F.R. § 18.70, theALJ dismissed Watts’s appeal for lack of subject matter jurisdiction.3  In assessing this dismissal, we view the pleadings in a light favorable to the complainant, accepting well pled factual allegations as true provided they rise above the speculative level.  The ARB does not, however, accept conclusions of law or unwarranted inferences which are presented as fact.
+
+
+
+The FFDCA authorizes the FDA to regulate the safety of food in interstate commerce.  21 U.S.C. §§ 301 et seq.  Chapter 9 of the FFDCA regulates food safetyResponsibility to the Administrative Review Board, 85 Fed. Reg. 13,186 (Mar. 6, 2020). often interchange “subject matter jurisdiction” with claim-processing rules.  Arbaugh v. Y&HCorp., 546 U.S. 500, 503-08 (2006). from the time it is imported, manufactured, or processed until it is packaged and distributed for public consumption.  On January 4, 2011, Congress enacted the FoodSafety Modernization Act to add employee protection to the FFDCA.4  Section 402 of the FSMA provides that: (a) In generalNo entity engaged in the manufacture, processing, packing, transporting, distribution, reception, holding, or importation of food may discharge an employee or otherwise discriminate against an employee with respect to compensation, terms, conditions, or privileges of employment because the employee, whether at the employee's initiative or in the ordinary course of the employee's duties (or any person acting pursuant to a request of the employee)-- (1) provided, caused to be provided, or is about to provide or cause to be provided to the employer, the FederalGovernment, or the attorney general of a State information relating to any violation of, or any act or omission the employee reasonably believes to be a violation of any provision of this chapter or any order, rule, regulation, standard, or ban under this chapter, or any order, rule, regulation, standard, or ban under this chapter; . . . language provides:
+
+No entity engaged in the manufacture, processing, packing, transporting, distribution, reception, holding, or importation of food “Food” is the operative word that conveys the whistleblower provision’s coverage.
+
+“Food” is defined in the FFDCA: (f) The term “food” means (1) articles used for food or drink for man or other animals, (2) chewing gum, and (3) articles used for components of any such article. containing identical language).
+
+Congress enacted the PPIA to protect the public from “unwholesome, adulterated, or misbranded” poultry products.  21 U.S.C. § 451 et seq. (1968).
+
+Section 467f of the PPIA generally exempts poultry and poultry products from theFFDCA. (a) Exemptions; authorities under food, drug, and cosmetic provisions unaffected:
+
+Poultry and poultry products shall be exempt from the provisions of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 301 et seq.] to the extent of the application or extension thereto of the provisions of this chapter, except that the provisions of this chapter shall not derogate from any authority conferred by the Federal Food, Drug, andCosmetic Act prior to August 18, 1968. . . .
+
+Nothing in [the FSMA], or an amendment made by this
+
+Act, shall be construed to—
+
+… (4) alter or limit the authority of the Secretary of
+
+Agriculture under the laws administered by such
+
+Secretary, including--- … (B) the Poultry Products Inspection act…If the PPIA covers the employer’s poultry activity at issue, then the activity is exempt from the FFDCA.  FDA argues that the PPIA does not kick in to exempt poultry from the FFDCA until the poultry arrives at an official establishment, meaning a slaughterhouse or processing facility.5  Because the PPIA does not apply to on-farm poultry, FDA argues that poultry is still “food” and covered by theFFDCA.  FDA identifies, for example, its regulation of edible tissues of food- producing animals that contain unsafe levels of animal drugs, causing the food to be adulterated.  FDA also notes that Perdue supplies the feed, fuel, medications, vaccinations, and other supplies for the chicks on Watts’s farm. FDA claims that there is no question that animal feed is covered as food under the FDCA.  FDA Br. at 23, citing § 321(f). the Secretary at which inspection of the slaughter of poultry, or the processing of poultry products, is maintained under the authority of this chapter.”  21 U.S.C. § 453(p).
+
+Upon further briefing, we grant the request to reconsider our March 5, 2019 ruling.  The question before the Board is whether Perdue is an “entity engaged in the manufacture, processing, packing, transporting, distribution, reception, holding, or importation of food.”  21 U.S.C. § 321(f).6  FDA argues and Perdue does not dispute that Perdue supplied the poultry animal feed for poultry on Watts’s farm.
+
+Accordingly, Perdue is an entity who manufactures, process, transports, or distributes “food” within the meaning of the Act and thus is a covered entity.
+
+In conclusion, the ARB VACATES its March 5, 2019 Order affirming theALJ’s decision and REMANDS the matter back to the ALJ for further proceedings.
+
+SO ORDERED. on appeal.
+

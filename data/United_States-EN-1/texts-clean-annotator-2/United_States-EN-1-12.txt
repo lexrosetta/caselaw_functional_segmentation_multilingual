@@ -1,0 +1,233 @@
+
+Joseph Timbang Angeles and Noe Lastimosa (collectively, “Plaintiffs”) brought this putative class action suit against Defendant US Airways, Inc. and Does 1-50 (“Defendant”) in the Superior Court of the State of California, County of San Francisco, alleging wage and hour violations in connection with their previous employment as Fleet Service Agents (“FSAs”), specifically ramp agents, for Defendant. Plaintiffs bring eight claims against Defendant. The thrust of Plaintiffs’ case is that Defendant failed to provide proper compensation for all hours worked, failed to provide meal periods and rest breaks, failed to provide accurate wage statements, and failed to reimburse Plaintiffs for work related expenses. Plaintiffs also request penalties based on these alleged wage and hour violations, claiming they constitute unlawful business practices. Defendant argues that it is exempt from California wage and hour laws due to its collective bargaining agreement (“CBA”) with Plaintiffs, that Plaintiffs’ claims are preempted by the Railway Labor Act (“RLA”), the Airline Deregulation Act (“ADA”), or both, and that Plaintiffs’ inaccurate wage statements and unlawful business practices claims are dependent on deficient claims.  As set forth below, the Court GRANTS in part and DENIES in part Defendant’s Motion to Dismiss. 
+
+
+Angeles worked for Defendant as a part-time FSA at San Francisco International Airport for about four years, ending in June 2012. Notice of Removal (dkt. 1), Ex. A (First Am. Compl.  (“FAC”) ¶ 8). Lastimosa has worked for Defendant as an FSA on a part-time and full-time basis since 2007 and continues to work in that capacity.  Id. ¶ 9. FSAs are scheduled for a morning or an afternoon shift, but are permitted to trade or pick up the shifts of other FSAs. Id. ¶ 20. An FSA picks up a shift when she adds a shift to her pre-assigned daily schedule and therefore increases her total hours worked. Id. A shift trade occurs when an FSA exchanges all or some of her working hours with another FSA.  See Harbinson Decl. (dkt. 6) Ex. A at 20-22 (“IAM CBA”), Ex. B § 5(D) (“TWU CBA”). A shift trade may also refer to a one-way trade, such that a shift trade is akin to picking up a shift. TWU CBA § 5(D). FSAs often work more than 8 or 12 hours in one day, and more than 40 hours in one week. FAC ¶¶ 22-23. 
+
+Defendant operates flights in several airports throughout California and employs FSAs to assist with cleaning, fueling, and other ramp-related services.  Id. ¶¶ 18, 12. FSAs are employed subject to a CBA.1 See Harbinson Decl. Plaintiffs allege that Defendant’s conduct violated, and continues to violate, numerous wage and hour laws codified in the California Labor Code, Industrial Welfare Commission (“IWC”) Wage Order No. 9-2001, and provisions of the California Business and Professions Code. Plaintiffs filed, but did not serve, a Complaint in this matter on June 22, 2012.  On October 4, 2012, Plaintiffs filed and served a First Amended Complaint stating eight causes of action in the Superior Court of California, County of San Francisco. Defendant removed to this Court on November 15, 
+
+1There are two CBAs at issue in this case because of a 2005 merger between US Airways, Inc.and America West, Inc.  See generally Harbinson Decl. Ex. A (IAM CBA), Ex. B (TWU CBA).  The CBAs contain similar language with respect to the provisions that are pertinent to this motion. 
+
+2012, invoking jurisdiction under 28 U.S.C. §§ 1332(d) and 1441(a). On November 26, 2012, Defendant filed a Motion to Dismiss claims one through four and six through eight under Federal Rules of Civil Procedure 12(b)(1) and (6). 
+
+Plaintiffs’ Complaint sets forth eight causes of action.  See generally FAC. First, Plaintiffs allege Defendant failed to schedule meal periods for FSAs, or failed to relieve them of all duties to allow them to take a proper meal period, but automatically deducted thirty-minutes from their working hours daily for a meal period.  Id. Plaintiffs also allege that Defendant failed to pay FSAs for overtime hours worked pursuant to shift trades.  Id. Plaintiffs allege that Defendant’s actions resulted in the underpayment of wages in violation of California Labor Code section 510 and IWC Wage Order No. 9-2001 section 3. Id. ¶¶ 31, 33, 59. 
+
+Second, Plaintiffs allege that Defendant does not have a uniform policy in place to provide proper meal periods and allege that Defendant failed to provide or compensate FSAs who involuntarily missed such meal periods in violation of California Labor Code sections 
+
+226.7 and 512, and IWC Wage Order No. 9-2001 section 11(B). Id. ¶¶ 62-67. 
+
+Third, Plaintiffs allege that Defendant does not have a uniform policy in place to provide proper rest breaks, and allege that Defendant failed to provide or compensate FSAs who involuntarily missed such breaks in violation of California Labor Code sections 226.7 and 512, and IWC Wage Order No. 9-2001 section 11(B). Id. ¶¶ 69-73. 
+
+Fourth, Plaintiffs allege that Defendant failed to provide accurate wage statements itemizing, among other things, the employees’ total actual hours worked, in violation of California Labor Code section 226(a) and IWC Wage Order No. 9-2001 section 7(B). Id. ¶ 78. 
+
+Fifth, Plaintiffs allege that Defendant required them to use their cell phones for business use while at work without reimbursing them for this business expense in violation of California Labor Code section 2802. Id. ¶¶ 83-85. This claim is not challenged in Defendant’s Motion to Dismiss.  
+
+Sixth, Plaintiffs claim that Defendant failed to pay all compensation due upon termination of employment, including unpaid meal, rest, and overtime compensation, in violation of California Labor Code sections 201, 202, and 203. Id. ¶¶ 91-92. 
+
+Seventh, Plaintiffs allege that Defendant has committed unlawful, unfair, or fraudulent business acts and practices, as defined by California Business and Professions Code section 17200, by failing to provide: all wages due, meal and rest periods or compensation therefore, business expense reimbursement, and accurate wage statements, as alleged in claims one through six. Id. ¶ 97. 
+
+Finally, Plaintiffs allege that Defendant’s violations of California wage and hour laws enable them to recover civil penalties under California Labor Code section 2699.3.  Id. ¶ 114. Angeles has exhausted all administrative procedures required under Labor Code sections 2698, 2699, and 2699.3.2 Id. ¶ 114. Angeles, through counsel and pursuant to the Labor Code Private Attorneys General Act of 2004, sent via certified mail a letter-notice of violations to the Labor and Workforce Development Agency and did not receive notice of intent to investigate within thirty-three calendar days of the letter’s postmark date.  Id. ¶¶ 115-116, Uriarte Decl. (dkt. 16), Ex. B. 
+
+
+Federal Rule of Civil Procedure 12(b)(1) authorizes a party to seek dismissal of an action for lack of subject matter jurisdiction.  Though the defendant makes the motion, the plaintiff bears the burden of establishing subject matter jurisdiction.  See Kokkonen v. Guardian Life Ins. Co. of Am., 511 U.S. 375 (1994); Stock W., Inc. v. Confederated Tribes of the Colville Reservation, 873 F.2d 1221, 1225 (9th Cir. 1989). A Rule 12(b)(1) jurisdictional attack may be facial or factual.  See Safe Air for Everyone v. Meyer, 373 F.3d 1035, 1039 (9th Cir. 2004). When resolving a factual attack, the court “may review evidence beyond the complaint without converting the motion to dismiss into a motion for summary judgment.”  Id. 
+
+2Angeles’s exhaustion of administrative procedures is undisputed by the parties. 
+
+
+
+
+A motion to dismiss pursuant to Rule 12(b)(6) tests the legal sufficiency of the complaint.  Ileto v. Glock, Inc., 349 F.3d 1191, 1199-1200 (9th Cir. 2003). Dismissal is proper where a cause of action fails to state a claim upon which relief can be granted.  Fed. 
+
+R. Civ. P. 12(b)(6). To survive a Rule 12(b)(6) motion, the complaint must contain sufficient factual matter to “state a claim to relief that is plausible on its face.”  Ashcroft v. Iqbal, 556 
+
+U.S. 662, 678 (2009) (quoting Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555 (2007)). On a Rule 12(b)(6) motion to dismiss, all well-pleaded allegations of material fact are taken as true and construed in the light most favorable to the non-moving party.  Wyler-Summit P’ship v. Turner Broad. Sys., Inc., 135 F.3d 658, 661 (9th Cir. 1998). A complaint should not be dismissed without leave to amend unless it is clear that the claims could not be saved by amendment.  Swartz v. KPMG LLP, 476 F.3d 756, 760 (9th Cir. 2007). 
+
+
+Defendant urges dismissal of Plaintiffs’ claims for three primary reasons.  First, Defendant argues that IWC Wage Order 9-2001 exempts Defendant from many of the provisions Plaintiffs rely upon, specifically with respect to Defendant’s alleged failure to pay overtime wages and alleged disbursement of inaccurate wage statements.  Mot. (dkt. 6) at 5, 
+
+13. Second, Defendant argues that some of Plaintiffs’ claims are preempted by either the RLA, the ADA, or both. Id. at 6-12. Finally, Defendant urges dismissal of four of Plaintiffs’ claims (claims 4, 6-8) because they are predicated on Plaintiffs’ purportedly preempted claims one through three.  Id. at 13-15. 
+
+As a preliminary matter, Plaintiffs first contend that Defendant’s reliance on matters outside the pleadings requires the Court to treat their Motion to Dismiss as a motion for summary judgement.  Opp’n (dkt. 15) at 8. Plaintiffs are incorrect. First, to the extent Defendant relies on materials outside the pleadings in support of its preemption arguments, such reliance is permissible as part of a Rule 12(b)(1) factual attack on subject matter jurisdiction. Second, while Plaintiffs are correct that a district court must normally convert a Rule 12(b)(6) motion into a summary judgement motion when it considers evidence outside the pleadings, a court may consider certain materials if they are incorporated by reference into the complaint.  United States v. Ritchie, 342 F.3d 903, 907-08 (9th Cir. 2003). A district court may consider a document not attached to the plaintiff’s complaint if the authenticity of the document is not contested and the complaint necessarily relies on the document.  Parrino 
+
+v.
+
+ FHP, Inc., 146 F.3d 699, 706 (9th Cir. 1998) superseded by statute on other grounds as recognized in Abrego Abrego v. Dow Chem. Co., 443 F.3d 676, 681 (9th Cir. 2006). A district court may assume the contents of such a document are true for the purposes of a Rule 12(b)(6) motion.  Ritchie, 342 F.3d at 908. Plaintiffs’ claims are based on an alleged employment relationship between Plaintiffs and Defendant, a relationship that is governed by a CBA. Defendant has attached the operative CBAs as exhibits in support of its Motion. The authenticity of these documents is not disputed by Plaintiffs.  Despite Plaintiffs’ omission of any mention of such agreements in their Complaint, they were “obviously . . . on notice of the contents of the document,” due to their employment relationship with Defendant, and therefore “the need for a chance to refute [the] evidence is greatly diminished.”  Parrino, 146 F.3d at 706 n.4 (9th Cir. 1998) (quoting Pension Ben. Guar. Corp. 
+
+
+
+v.
+
+ White Consol. Indus., Inc., 998 F.2d 1192, 1196-97 (3d Cir. 1993)). Whether this motion is treated as one under Rule 12(b)(1) or 12(b)(6), this Court may consider the CBAs without converting this motion into one for summary judgement. 
+
+
+
+
+
+The Court now turns to the substance of the motion. 
+
+
+Plaintiffs assert that Defendant has failed, and continues to fail, to pay proper overtime wages in violation of both IWC Wage Order 9-2001 and California Labor Code section 510. Plaintiffs base this claim on two theories.  First, Plaintiffs claim that Defendant automatically deducts a thirty-minute meal period from FSAs’ total hours worked regardless of whether an actual meal period was taken.  FAC ¶ 35. Plaintiffs’ second theory is that Defendant failed to pay FSAs overtime when they earned their overtime hours through shift trades or pick-up shifts. See FAC ¶ 20. 
+
+With respect to Plaintiffs’ first theory, relating to automatic meal period deductions, Plaintiffs have conceded that the RLA preempts such claims by failing to respond meaningfully to Defendant’s RLA preemption challenge.  Defendant has argued that the RLA preempts Plaintiffs’ overtime claim with respect to both Plaintiffs’ meal period and shift trade theories. Plaintiffs, however, have failed to respond to the argument, either in their briefing or at oral argument.  See Mot. at 6-7; Opp’n at 10-12 (only discussing shift trade theory). The failure to respond amounts to a concession.  See, e.g., Scognamillo v. Credit Suisse First Boston LLC, C03-2061 TEH, 2005 WL 2045807, at *3 (N.D. Cal. Aug. 25, 2005) aff’d sub nom. Scognamillo v. Credit Suisse First Boston, 254 F. App’x 669 (9th Cir. 2007) (failure to respond to argument at oral argument was a concession); In re Online DVD Rental Antitrust Litig., M 09-2029 PJH, 2011 WL 5883772, at *12 (N.D. Cal. Nov. 23, 2011) (absent unusual circumstances, failure to respond to argument on merits “viewed as grounds for waiver or concession of the argument”).  The Court GRANTS Defendant’s Motion to Dismiss Plaintiffs’ overtime claim with respect to automatic meal period deductions and DISMISSES that portion of the claim with prejudice. 
+
+
+Defendant correctly urges dismissal of Plaintiffs’ overtime claim because IWC Wage Order 9-2001 exempts Defendant from its overtime provisions.  See Mot. at 5. The California IWC formulates regulations, or orders, governing employment relationships in the state. Fitz-Gerald v. SkyWest Airlines, Inc., 155 Cal. App. 4th 411, 416 (Cal. Ct. App. 2007). IWC Wage Orders are “‘presumptively valid’ legislative regulations” and are given effect separately from statutes.  Brinker Rest. Corp. v. Superior Court, 53 Cal. 4th 1004, 1027 (Cal. 2012) (quoting Martinez v. Combs, 49 Cal. 4th 35, 65 (Cal. 2010)). IWC Wage Order 9-2001 regulates permissible hours and days worked, overtime compensation, meal and rest breaks, and wage statements for employees working in the transportation industry. See Cal. Code Regs. tit. 8 § 11090. However, it provides an exception to some of its provisions, including its overtime provisions, for those employees who entered into a CBA in accordance with the provisions of the RLA. See Cal. Code Regs. tit. 8 § 11090(1)(E). Here, both of the operative CBAs contain provisions indicating that they were entered into in accordance with the provisions of the RLA. IAM CBA at 2; TWU CBA § 1(A)(1). Therefore, by its express terms, the overtime provisions of IWC Wage Order 9-2001 do not apply to Defendant. The Court GRANTS Defendant’s Motion to Dismiss Plaintiffs’ overtime claim and dismisses that claim WITH PREJUDICE insofar as the overtime claim is premised on a violation of Wage Order 9-2001. 
+
+
+The Court disagrees with Defendant that Plaintiffs’ overtime claim should be dismissed with respect to California Labor Code section 510.  Mot. at 6 n.4. Defendant is not excepted from complying with section 510 because the CBAs governing Plaintiffs’ employment do not meet all of the requirements set forth in section 514. 
+
+Section 510 regulates overtime hours worked and provides pay requirements for such hours. See Cal. Lab. Code § 510. However, the statute expressly states that “the requirements of this section do not apply to the payment of overtime compensation to an employee working pursuant to . . . an alternative workweek schedule adopted pursuant to a collective bargaining agreement pursuant to Section 514.”  Id. Section 514 reiterates that section 510 does not apply to employees subject to a valid collective bargaining agreement, provided that their CBA meets certain requirements: 
+
+Sections 510 and 511 do not apply to an employee covered by a valid
+
+collective bargaining agreement if the agreement expressly provides
+
+for the wages, hours of work and working conditions of the
+
+employees, and if the agreement provides premium wage rates for all
+
+overtime hours worked and a regular hourly rate of pay for those
+
+employees of not less than 30% more than the state minium wage. Cal. Lab. Code § 514 (emphasis added).  While Defendant is correct that Plaintiffs are covered by valid collective bargaining agreements, the agreements do not provide premium wage rates for all overtime hours worked.3  The CBAs explicitly deny premium compensation for overtime hours worked pursuant to a shift trade.  IAM CBA at 21; TWU CBA § 5(D)(2). While both agreements suggest that a request for a shift trade should not be 
+
+3The parties do not dispute, so the Court assumes,  that employees are paid a regular hourly rateof pay of not less than 30% more than the state minimum wage, as required by Labor Code section 514. 
+
+approved if applicable law requires overtime payment, they clearly envision situations where shift trades will result in overtime hours without overtime pay.  Indeed, that is what Plaintiffs allege happened here. Because the CBAs provide premium wage rates for only some overtime hours worked, the Court finds that Labor Code section 514 does not exempt Defendant from compliance with Labor Code section 510. 
+
+
+Defendant further argues that Plaintiffs’ overtime claim should be dismissed because it is preempted by the Railway Labor Act.  The Court disagrees. Plaintiffs’ shift trade overtime claim is not preempted because it is based on a right independent of the CBA and does not require interpretation of any ambiguous terms in the CBA.  
+
+The RLA provides “a mandatory arbitral mechanism to handle disputes ‘growing out of grievances or out of the interpretation or application of agreements concerning rates of pay, rules, or working conditions . . . .’” Hawaiian Airlines, Inc. v. Norris, 512 U.S. 246, 248 (1994) (quoting 45 U.S.C. § 153). There are two classes of disputes covered by the RLA, “major” disputes and “minor” disputes.  Id. at 252; 45 U.S.C. § 151a. Major disputes concern the formation of a collective bargaining agreement while minor disputes involve the interpretation or application of the agreement in a particular instance.  See Hawaiian Airlines, 512 U.S. at 252-53. Purely factual questions about an employee’s or an employer’s conduct do not require interpretation of any terms of an agreement, and are therefore not considered minor disputes covered by the RLA or subject to its preemption.  See id. at 261-62. 
+
+In determining whether or not RLA preemption applies, courts must inquire into the source of the right asserted by the plaintiff. Espinal v. Nw. Airlines, 90 F.3d 1452, 1456 (9th Cir. 1996). When a plaintiff’s right is grounded in the CBA, meaning that resolving the dispute requires interpretation or application of the CBA, the claim is preempted.  See Hawaiian Airlines, 512 U.S. at 256. In contrast, when the right asserted is independent of the CBA, the RLA’s mechanism for resolving disputes does not preempt the cause of action.  Id. Therefore, the RLA preempts a state law claim “if it is dependent on the interpretation of a [CBA].”  Espinal, 90 F.3d at 1456 (citing Lingle v. Norge Div. of Magic Chef, Inc., 486 U.S. 
+
+399 (1988)).4  The Ninth Circuit has further clarified that simply consulting a CBA does not 
+
+require preemption if the meaning of a contract term is not in dispute.  Gregory v. SCIE, 
+
+LLC, 317 F.3d 1050, 1052 (9th Cir. 2003). Furthermore, referring to a CBA to ascertain 
+
+bargained-for wage rates does not warrant preemption.  Burnside v. Kiewit Pac. Corp., 491 
+
+F.3d 1053, 1060 (9th Cir. 2007). 
+
+The issue presented is whether resolving Plaintiffs’ overtime claim requires 
+
+interpretation of the terms of the CBA.  The Court determines that it does not.  “Although the 
+
+line between reference to and interpretation of an agreement may be somewhat hazy, merely 
+
+referring to an agreement does not threaten the goal that prompted preemption—the desire 
+
+for uniform interpretation of labor contract terms.”  Ramirez v. Fox Television Station, Inc., 
+
+998 F.2d 743, 749 (9th Cir. 1993). Plaintiffs’ claim requires reference to the CBA, not 
+
+interpretation. 
+
+This is for two reasons. First, Defendant allegedly violated a state law obligation to 
+
+provide proper overtime compensation independent of its obligation under the CBA, and 
+
+therefore preemption is not appropriate.5 See Espinal, 90 F.3d at 1456. Second, determining 
+
+whether or not Plaintiffs worked overtime-eligible hours, and were paid the specified rates, 
+
+4The Supreme Court has concluded that the framework established in Lingle to analyzepreemption under § 301 of the Labor Management Relations Act (LMRA) is appropriate for addressingpreemption under the RLA.  Hawaiian Airlines, 512 U.S. at 263. 
+
+5The parties both discuss whether the CBA has bargained away a non-negotiable state law right,and, if so, what the import of that is.  See Opp’n at 11; Reply (dkt. 21) at 8-10. Courts have used theconcept of a non-negotiable state law right to assist in explaining when preemption applies in a disputewith an underlying CBA. See Livadas v. Bradshaw, 512 U.S. 107, 123 (1994) (explaining that § 301[of LMRA] does not broadly preempt non-negotiable rights conferred as a matter of state law and thatthe legal character of a claim as independent from a CBA determines whether the state action proceeds);Miller v. AT & T Network Sys., 850 F.2d 543, 545-46 (9th Cir. 1988) opinion amended on denial of reh’g, No. 86-4074, 1988 WL 1532583 (9th Cir. Aug. 24, 2008) (explaining that non-negotiable statelaw rights independent of a contract are not preempted and a contrary rule would allow unions and employers to exempt themselves from state labor standards, a result Congress did not intend).Defendant argues that California’s overtime provisions are not non-negotiable because California lawexcepts collective bargaining agreements entered into in accordance with the RLA from its overtimerequirements.  Reply at 9. In Burnside, the Ninth Circuit discussed an opt-out provision similar to theone found in Labor Code section 514 and determined that it did not constitute a waiver of the state law right or necessitate preemption under the LMRA.  491 F.3d at 1063-67. Whether or not Plaintiffs are correct that the CBA forfeits their non-negotiable rights, Defendant’s preemption argument fails, andso the Court need not reach the non-negotiable rights argument. 
+
+are factual questions that do not require the interpretation of any terms of the CBA.  See Lingle, 486 U.S. at 407 (explaining that retaliatory discharge claim was not preempted because it required sufficient facts to infer the employee was discharged and the employer’s motive was to deter him from exercising his rights, which are factual questions regarding conduct); see also Burnside, 491 F.3d at 1072 (explaining that a determination of whether employees were required to travel on employer owned vehicles was a “purely factual inquiry” not requiring interpretation of the CBA). 
+
+Defendant contends that resolving Plaintiffs’ overtime claim will require the Court to interpret Article 6 of the IAM CBA, specifically to determine how overtime qualifiers6 are calculated and whether a Lead Agent premium7 is applicable. Mot. at 7. Not so. Labor Code section 510 clearly defines when additional compensation is due, without reference to whether the hours worked are classified as “overtime,” therefore reference to overtime qualifiers in the CBA is unnecessary. As discussed further below, the CBA states that overtime will not be paid for hours worked from shift trades, which does not require any additional interpretation or lead to interpretation of any other provisions of the CBA. See IAM CBA at 21; TWU CBA § 5(D)(2). Furthermore, whether a Lead Agent premium is applicable depends not on interpreting any part of the agreement, but on determining whether FSAs were classified as Lead Agents at the time of the hours worked.  See IAM CBA at 4. There is no dispute over the meaning of the term Lead Agent and application of this provision amounts to calculating wages.  Such calculations are permissible for the Court. See Livadas, 512 U.S. at 125 (looking to CBA for damages computation for willfully failing to pay wages does not amount to preemption under § 301 of LMRA). 
+
+6The term “overtime qualifiers,” as used in the IAM CBA, refers to preconditions that must bemet before overtime compensation applies.  For example: “There will be a weekly forty (40) hourovertime qualifier which must be satisfied prior to being eligible for overtime rates on any day off.”IAM CBA at 30. 
+
+7The term “Lead Agent Premium” refers to an increase in hourly wage of $1.01 or $1.00(depending on which CBA is used) above an FSA’s hourly rate.  See IAM CBA at 115; TWU CBA § 3(c). 
+
+Defendant also contends that the provision of the CBA stating that shift trades will not be granted if found to violate state law requires interpretation and therefore a finding of RLA preemption.  This argument is unconvincing.  It is not necessary for the Court to interpret this provision to determine if Defendant failed to pay proper overtime wages to FSAs.  Whether or not Defendant complied with this provision, or even what this provision means in relation to state law, is immaterial to the Court’s determination of proper overtime compensation. Resolving Plaintiffs’ overtime claim only requires the Court to determine how many hours Plaintiffs worked and what Plaintiffs’ wages were in relation to those set forth by state law. 
+
+Finally, Defendant relies on Blackwell v. SkyWest Airlines to support its argument that Plaintiffs’ overtime claim requires interpretation of the CBA.  Mot. at 8; No. 06-0307, 2008 WL 5103195 (S.D. Cal. Dec. 3, 2008). But Blackwell is distinguishable. First, the CBAs in this case contain a simple compensation scheme that does not require interpretation, unlike the multi-category scheme in Blackwell, and the cases cited therein. See id. at *11­12; Fitzgerald, 155 Cal. App. 4th at 420-22 (finding RLA preemption for minimum wage, and meal and rest break violations because the determination of the regular rate of compensation required interpretation of the CBA to address block time, overtime, flight standbys and layovers etc.); Adames v. Exec. Airlines, Inc., 258 F.3d 7, 13 (1st Cir. 2001) (finding RLA preemption for flight attendants’ overtime claim because CBA interpretation was required to calculate their hourly salaries based on on-duty time and flight time for the week and month, base and overtime pay, total pay and their guarantees).  
+
+Second, in Blackwell, employees were paid overtime for “covering” another employee’s shift through a shift trade.  2008 WL 5103195, at *14. Therefore, the CBA’s overtime provisions applied when determining overtime compensation earned through shift trades. See id.  Here, however, the CBAs expressly prohibit overtime compensation for hours accrued from a shift trade, so there is no need to determine if or how the overtime provisions were applied to shift trades in determining compensation due.  See IAM CBA at 21; TWU CBA § 5(D)(2). Additionally, the undefined and ambiguous overtime provisions in Blackwell are not present here. See 2008 WL 5103195, at *14. 
+
+Gregory v. SCIE is more instructive.  317 F.3d 1050 (9th Cir. 2003). In Gregory, an employee brought an overtime claim against his employer under Labor Code section 510.  Id. at 1051. The issue in that case was not the method of calculation for overtime wages, as in Blackwell, but whether the result of the calculation complied with the law.  Id. at 1053. Gregory claimed that he was not paid a premium wage for work performed on different productions that exceeded eight or forty hours in aggregate and therefore was not paid a premium wage for any work in excess of eight or forty hours. Id.  In defense, SCIE claimed, as does Defendant in this case, that Labor Code section 510 did not apply because of Labor Code section 514 and Gregory’s CBA. Id.  The court explained that, even assuming that the CBA provides for premium wage rates for overtime, the question was still “whether when overtime is paid under the CBA it is paid for all overtime hours worked.” Id. (emphasis in original). In Gregory, the court found that all that was needed to evaluate the claim was a report documenting hours worked and wages paid per hour.  See id. 
+
+Here, Plaintiffs’ overtime claim is more similar to that in Gregory than that in Blackwell and the other cases on which Defendant relies. Those cases focus on the method of calculating premium wages rather than determining if the hours worked constituted overtime hours.  This claim is “plainly based on state law” and “preemption is not mandated simply because the defendant refers to the CBA in mounting a defense.”  Gregory, 317 F.3d at 1054 citing Cramer v. Consol. Freightways, Inc., 255 F.3d 683, 691 (9th Cir. 2001)). 
+
+The Court DENIES Defendant’s Motion to Dismiss Plaintiffs’ overtime claim insofar as that claim is premised on shift trades or shift pick-ups.  Insofar as it is premised on meal period overtime wages, the claim is DISMISSED WITH PREJUDICE. 
+
+
+
+
+
+ 
+
+Plaintiffs’ second and third claims allege that Defendant failed to provide meal periods and rest breaks in compliance with California Labor Code section 226.7 and IWC Wage Order No. 9-2001 sections 11(B) and 12, respectively. FAC ¶¶ 64- 76. Generally, these provisions require an employer to provide an employee with a thirty-minute meal period if the employee works at least five hours and a ten-minute break for every four hours the employee works.  See Wage Order No. 9-2001 §§ 11(B), 12. The meal periods and rest breaks must be duty free, or an employee must be compensated for them.  Id.; see Cal. Lab. Code § 226.7. 
+
+In response, Defendant argues that both claims are preempted by either the RLA, the ADA, or both. Mot. at 9. The Court GRANTS Defendant’s Motion to Dismiss Plaintiffs’ meal period and rest break claims with prejudice because they are preempted by the ADA.8 The Court does not reach Defendant’s RLA argument. 
+
+Congress’s goal in enacting the ADA was to “[help] to assure transportation rates, routes, and services . . . reflect ‘maximum reliance on competitive market forces,’ thereby stimulating ‘efficiency, innovation and low prices,’ as well as ‘variety’ and ‘quality.’”  Rowe 
+
+v. N.H. Motor Transp. Ass’n, 552 U.S. 364, 370-71 (2008) (quoting Morales v. TransWorld Airlines, Inc., 504 U.S. 374, 381 (1992)). Congress enacted § 41713(b)(1) of the ADA to prevent states from “undoing federal deregulation with regulation of their own.”  See Charas v.TransWorld Airlines, Inc., 160 F.3d 1259, 1263 (9th Cir. 1998) opinion amended on denial of reh’g, 169 F.3d 594 (9th Cir. 1999) (quoting Morales, 504 U.S. at 384). Section 41713(b)(1) of the ADA states that “a state . . . may not enact or enforce a law, rule, regulation, or other provision having the force and effect of law related to a price, route, or service of an air carrier . . . .” 49 U.S.C. § 41713(b)(1). ADA preemption applies to “‘state enforcement actions having a connection with, or reference to’ carrier rates, routes or services . . . even if a state law’s effect on rates, routes or services is ‘only indirect.’” Rowe, 552 U.S. at 370 (alteration added) (quoting Morales, 504 U.S. at 384-86). However, federal law may not preempt state laws that affect fares in “only a ‘tenuous, remote or peripheral . . . manner,’ such as state laws forbidding gambling.”  Id. at 371 (alteration to original) (quoting Morales, 504 U.S. at 390). 
+
+8 Additionally, Plaintiffs claim that Defendant failed to maintain records pertaining to mealperiods in violation of California Labor Code section 1174 and IWC Wage Order No. 9-2001 section
+
+7. FAC ¶ 68. This assertion is dependent on the meal period and rest break violation claims found to be preempted.  Additionally, Wage Order No. 9-2001 section 7 does not apply to Defendant because Plaintiffs entered into a collective bargaining agreement subject to the RLA.  Cal. Code Regs. tit. 8§ 11090(1)(E). 
+
+The main contention between the parties is the meaning of the word “service” in        § 41713(b)(1). Defendant argues that FSAs’ duties, including cleaning, fueling and ramp-related services to airplanes that serve passengers, directly impact airline schedules and the point-to-point transportation of passengers and cargo, and therefore are “services” under § 41713(b)(1). Mot. at 12. Thus, Defendant contends, applying California meal and rest break laws regulating when FSAs may work would have the effect of impermissibly regulating Defendant’s services. Id. In response, Plaintiffs argue that none of the California Labor Code statutes at issue facially regulate rates, routes or services of an air carrier. Opp’n at 14. Additionally, they contend that the same or similar FSA responsibilities that Defendant cites, cleaning, fueling and baggage handling, fall outside the definition of services in § 41713(b)(1). Id. 
+
+The Ninth Circuit addressed the meaning of “services” directly in Charas and held that the “ADA preemption clause . . . refer[s] to the prices, schedules, origins and destinations of the point-to-point transportation of passengers, cargo or mail.”  160 F.3d at 1263. In contrast, the court explained that “services” does not describe “an airline’s provision of in-flight beverages, personal assistance to passengers, the handling of luggage and similar amenities.”  Id.  The ADA was designed to preempt state lawsuits “that would adversely affect the economic deregulation of the airlines and the forces of competition within the airline industry,” as opposed to insulating airlines from, for example, personal injury claims. Id. 
+
+FSAs’ responsibilities directly impact the transportation of passengers and cargo, and therefore enforcing state meal period and rest break regulations would impermissibly regulate an air carrier’s service. According to the IAM CBA, ramp service work includes transporting luggage, loading aircraft, sorting and transporting mail, servicing aircraft, cleaning aircraft interiors, performing minor preventative maintenance on ground equipment, moving aircraft, and operating jetways.  IAM CBA at 11-12. It is easy to imagine a situation in which an FSA must, by law, be relieved of duty, but doing so would prevent an aircraft from being fueled or serviced, or cargo from being unloaded such that it would impact the schedule of the point-to-point transportation of passengers or cargo. See Blackwell, 2008 WL 5103195, at *15-17. This would obviously impact Defendant’s rates, routes, or services and warrant preemption.  See id. 
+
+While Plaintiffs are correct that the state laws and regulations do not directly regulate Defendant’s rates, routes or services, preemption may apply even if the state law’s impact is indirect. See Rowe, 552 U.S. at 370. Accordingly, the Court determines that the state laws on which Plaintiffs’ second and third claims rely are preempted.  Thus, Plaintiffs’ meal period and rest break claims are DISMISSED WITH PREJUDICE.  
+
+
+
+
+
+Plaintiffs assert that Defendant violated California Labor Code section 226 and Wage Order No. 9-2001 section 7(B) by failing to provide a statement itemizing, among other items, total actual hours worked.  FAC ¶¶ 78-79. Defendant argues that Wage Order No. 9­2001 exempts Defendant from its record-keeping provisions and that Plaintiffs’ wage statement claims are deficient because they are predicated on Plaintiffs’ deficient overtime, meal period, and rest break claims.  Mot. at 13. The Court GRANTS Defendant’s Motion to Dismiss with respect to Wage Order No. 9-2001 with prejudice because section 7 does not apply to Defendant. See Section III.B. n.8, supra. The Court GRANTS Defendant’s Motion to Dismiss with respect to California Labor Code section 226 without prejudice because Plaintiffs have failed to sufficiently plead their claim. 
+
+A penalty may be awarded to an employee who suffers an injury as a result of an intentional failure by an employer to provide wage statements that include various employment related items, including, for example, gross wages, total hours worked, and deductions taken. See Cal. Labor Code §§ 226(a), (e)(1). A plaintiff must adequately plead an injury arising from an employer’s failure to provide full and accurate wage statements, and the omission of the required information alone is not sufficient.  See Johnson v. Sky Chefs, Inc., No.11-05619, 2012 WL 4483225, *9-10 (N.D. Cal. Sept 27, 2012) (citing Price 
+
+v. Starbucks Corp., 192 Cal. App. 4th 1136, 1142-44 (Cal. Ct. App. 2011), review denied (May 11, 2011), reh’g denied (Feb. 17, 2011) (finding Price failed to allege a cognizable injury when he claimed his injury was the deprivation of information causing confusion, possible underpayment of wages, and forced attempts to reconstruct time records without providing evidence)). Plaintiffs failed to identify or suggest any injury from Defendant’s allegedly inaccurate wage statements.  Therefore, the Court GRANTS Defendant’s Motion to Dismiss.  Plaintiffs have leave to amend their wage statement claim in a manner consistent with this Order. 
+
+
+
+ 
+
+Plaintiffs allege Defendant violated California Labor Code sections 201, 202, and 203 by failing to pay timely compensation for unpaid meal and rest breaks and overtime hours to employees whose employment terminated.  FAC ¶¶ 89-92. California Labor Code sections 201 and 202 require employers to pay employees unpaid earned wages at the time their employment ends, whether due to dismissal or because the employee quit.  Cal. Lab. Code §§ 201, 202. California Labor Code section 203 awards a penalty to an employee who is discharged or who quits if the employer willfully failed to pay unpaid wages, inter alia, under sections 201 or 202. Cal. Lab. Code § 203. 
+
+ Defendant moves to dismiss this claim because it is dependent on Plaintiffs’ other purportedly deficient causes of action. Mot. at 14. To the extent this claim is based on Plaintiffs’ meal period and rest break claims, it should be dismissed because those claims are preempted by the ADA.  See Blackwell, 2008 WL 5103195, at *20 (finding preempted causes of action unavailable for waiting time penalties under section 203, but finding Plaintiff eligible for penalties under non-preempted wage claims); see also Fitz-Gerald, 155 Cal. App. 4th at 421 (affirming trial court’s ruling that plaintiffs’ cause of action for waiting time penalties was barred because their first three causes of action, on which it depended, were preempted by the RLA).  However, Plaintiffs’ overtime claim was only partly dismissed and hence provides a predicate for Plaintiffs’ waiting time penalty claim. Therefore, Defendant’s Motion to Dismiss is GRANTED and Plaintiffs’ claim is DISMISSED WITH PREJUDICE insofar as the claim is based on Plaintiffs’ meal period overtime, meal period, and rest break claims. The Motion is DENIED insofar as the claim is based on Plaintiffs’ shift trade overtime claim. 
+
+
+
+
+Plaintiffs’ seventh cause of action alleges that Defendant violated the UCL, Cal. Bus. & Prof. Code § 17200, by failing, among other things, to pay all wages due, to pay overtime compensation, to pay one hour compensation for improper or missed meal periods, and to reimburse employees for work related expenses.  FAC ¶¶ 95-110. The UCL prohibits unfair competition in the form of any unlawful, unfair, or fraudulent business act or practice.  Cal. Bus. & Prof. Code § 17200. As such, it establishes three separate and distinct theories of liability. See Lozano v. AT&T Wireless Servs., Inc., 504 F.3d 718, 731 (9th Cir. 2007). Defendant moves to dismiss the UCL claim, asserting that it is dependent on Plaintiffs’ other allegedly deficient causes of action. While Plaintiffs’ UCL claim is predicated on claims two and three, which are preempted by federal law, and claim four, which was dismissed for failure to state a claim, Plaintiffs also allege violations of California Labor Code sections 510, 201, 202, 203, and 2802. See generally FAC. Defendant has not moved to dismiss Plaintiffs’ fifth cause of action alleging violation of California Labor Code section 2802 for failure to reimburse for business expenses, and therefore, Plaintiffs’ UCL claim clearly survives to the extent it is predicated on that claim.  Additionally, Plaintiffs’ claims regarding California Labor Code sections 510, 201, 202, and 203 also remain.  Accordingly, Plaintiffs’ UCL claim is DISMISSED WITH PREJUDICE insofar as it is predicated on Plaintiffs’ meal period overtime, meal period, and rest break claims.  Plaintiffs’ UCL claim is DISMISSED WITHOUT PREJUDICE and Plaintiffs have leave to amend the claim insofar as it is based on Plaintiffs’ inaccurate wage statement claims.  Defendant’s Motion to Dismiss Plaintiffs’ UCL claim is DENIED insofar as it is based on Plaintiffs’ failure to reimburse for business expenses, failure to pay overtime from shift trades and failure to pay waiting time penalties.   
+
+
+
+
+Finally, Plaintiffs allege that they are entitled to recover a civil penalty for Defendant’s alleged violations of the California Labor Code pursuant to California Labor Code section 2699. FAC ¶ 112-19. California Labor Code section 2699(a) states: 
+
+Notwithstanding any other provision of law, any provision of this codethat provides for a civil penalty to be assessed and collected by theLabor and Workforce Development Agency or any of its departments,divisions, commissions, boards, agencies, or employees, for a violationof this code, may, as an alternative, be recovered through a civil actionbrought by an aggrieved employee on behalf of himself or herself andother current or former employees pursuant to the procedures specifiedin Section 2699.3. 
+
+Cal. Labor Code § 2699(a). Defendant moves to dismiss this cause of action, arguing it is dependent on Plaintiffs’ other allegedly deficient causes of action. Mot. at 14. As discussed above, Plaintiffs have adequately stated a claim for violations of California Labor Code sections 510, 201, 202, and 203, and Defendant has not challenged Plaintiffs’ claimed violation of California Labor Code section 2802. Accordingly, Plaintiffs’ claim is DISMISSED WITH PREJUDICE insofar as it is predicated on Plaintiffs’ meal period overtime, meal period, and rest break claims.  Plaintiffs’ claim is DISMISSED WITHOUT PREJUDICE and Plaintiffs have leave to amend the claim insofar as it is based on Plaintiffs’ inaccurate wage statement claim.  Defendant’s Motion to Dismiss Plaintiffs’ claim is DENIED insofar as it is based on Plaintiffs’ failure to reimburse for business expenses, failure to pay overtime from shift trades and failure to pay waiting time penalties.  
+
+
+
+
+
+
+For the foregoing reasons, the Court GRANTS Defendant’s Motion to Dismiss claim one with respect to IWC Wage Order 9-2001 and DISMISSES that claim WITH PREJUDICE. However, the Court DENIES Defendant’s Motion to Dismiss claim one with respect to California Labor Code section 510. The Court GRANTS Defendant’s Motion to Dismiss claims two and three and DISMISSES those claims WITH PREJUDICE.  // // The Court GRANTS Defendant’s Motion to Dismiss claim four and DISMISSES that claim WITHOUT PREJUDICE. Finally, the Court DENIES in part and GRANTS in part Defendant’s Motion to Dismiss claims six through eight insofar as those claims are predicated on viable claims. 
+
+
+
+IT IS SO ORDERED. 
+
+
+
+
+
+

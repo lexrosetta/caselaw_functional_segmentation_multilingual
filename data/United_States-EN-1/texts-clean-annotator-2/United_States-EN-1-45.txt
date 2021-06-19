@@ -1,0 +1,246 @@
+
+
+Before the Court are Defendant’s Motion for Summary Judgment (Dkt. 31), Defendant’s Motion to Strike the Affidavit of Ronald Wood (Dkt. 40), and Plaintiff’s Motion to Strike (Dkt. 44). The Court is asked to decide whether, as a matter of law, Plaintiff Ronald Wood’s (“Wood”) employment as a Labor Manager, or in any other position held at Kinetic Systems, Inc. (“KSI”) during his term of employment, is exempt from the overtime compensation provisions of the Fair Labor Standards Act pursuant to the executive employee exemption. In addition, KSI asserts the statute of limitations bars Wood’s alternative claims under Idaho state law for overtime compensation and wages in the form of vacation pay. 
+
+The Court conducted a hearing on the pending motions on February 3, 2011, at which all parties appeared represented by counsel. After considering the parties’ arguments, briefing, and the relevant authorities, the Court will deny Defendant’s Motion to Strike; partially grant Plaintiff’s Motion to Strike; and grant in part and deny in part Defendant’s Motion for Summary Judgment. 
+
+
+
+
+Wood contends he entered into a written employment contract with KSI on November 30, 2003, pursuant to which he alleges he was promised an hourly wage of $62.50 and vacation pay equivalent to four weeks each year, among other benefits.2 Wood’s employment with KSI was terminated on January 20, 2009. (Decl. of Koontz ¶ 20, Dkt. 31-8; Aff. of Wood ¶ 21, Dkt. 35-2.) Wood was paid on a weekly basis for at least forty hours of work per week from November of 2003 through the date of his termination from employment. (Decl. of Koontz ¶ 13, Dkt. 31-8; Aff. of Wood ¶ 6, Dkt. 35-2.) KSI’s payroll department calculated Wood’s payout for accrued wages and vacation pay, and paid Wood on January 22, 2009, via direct deposit. (Decl. of Koontz 
+
+1 The following facts are undisputed unless otherwise noted. Additional factual findings will be discussed in the context of this Memorandum once the Court determines the evidentiary issues raised by the parties’ motions to strike.  
+
+2 The interpretation of this November 3, 2003 agreement, and whether it applied to Wood throughout his employment with KSI, is disputed. 
+
+¶ 20, Dkt. 31-8; Aff. of Wood ¶ 21, Dkt. 35-2.) Wood requested review of the vacation pay calculation, claiming he was owed for additional unused vacation time. KSI decided to grant an additional 97.23 hours of vacation pay and paid Wood $6,509.55. (Decl. of Koontz ¶ 20, Dkt. 31-8.) However, Wood contends that he is owed additional wages in the form of unpaid but accrued vacation pay in the amount of $64,472.85, as well as wages owed as overtime in the amount of $343,261.60. (Aff. of Wood ¶¶ 6, 21, Dkt. 35­2; Compl. ¶ 38, Dkt. 1-3.) 
+
+Wood filed the Complaint in this matter on October 8, 2009, in the Fourth Judicial District of the State of Idaho. The Complaint asserts a wage claim under Idaho Code § 45-606 and a breach of contract claim for unpaid wages owed as overtime and wages owed as vacation pay from January 1, 2000 through January 20, 2009. In addition, Wood asserts two claims under the Fair Labor Standards Act (“FLSA”), both for failure to pay overtime during the two year period immediately preceding the filing of the complaint, or alternatively during the three year period immediately preceding the filing of the complaint. Wood stipulated to dismissal of the fifth and final count for defamation. (Pl. Mem. at 20, Dkt. 35.) 
+
+KSI removed the matter to this Court on diversity grounds on November 10, 2009. KSI filed a motion to dismiss for lack of jurisdiction, which motion was denied on March 9, 2010, (Dkt. 15), and thereafter KSI filed an answer on March 17, 2010. KSI’s answer does not specifically assert the statute of limitations as an affirmative defense. 
+
+The Case Management Order entered in this case on March 29, 2010, and amended on September 3 and 7, 2010, required amended pleadings to be filed on or before June 4, 2010, and dispositive motions to be filed by December 1, 2010. (Dkt. 21, 29, 30.) KSI filed its motion for summary judgment on October 12, 2010. Trial is set to commence on April 4, 2011.    
+
+
+
+
+Motions for summary judgment are governed by Fed. R. Civ. P. 56(c)(2)3, which provides, in pertinent part, that judgment “should be rendered if the pleadings, the discovery and disclosure materials on file, and any affidavits show that there is no genuine issue as to any material fact and that the movant is entitled to a judgment as a matter of law.” Fed. R. Civ. P. 56(c)(2). A moving party may show that no genuine issue of material fact exists by demonstrating that “there is an absence of evidence to support the non-moving party’s case.” Celotex Corp. v. Catrett, 477 U.S. 317, 325 (1986). Once the moving party meets the requirement of Rule 56 by either showing that no genuine issue of material fact remains or that there is an absence of evidence to support the non-moving party’s case, the burden shifts to the party resisting the motion who “must set forth specific facts showing that there is a genuine issue for trial.” Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 256 (1986). It is not enough for the [nonmoving] party to “rest 
+
+3 The motion was filed prior to the amendments to the Federal Rules of Civil Procedure, which became effective on December 1, 2010. Therefore, the Court cites to the prior version of Rule 56. The standard for granting summary judgment remains unchanged in the amended rule. 
+
+on mere allegations or denials of his pleadings.” Id. Genuine factual issues must exist that “can be resolved only by a finder of fact because they may reasonably be resolved in favor of either party.” Id. at 250. 
+
+In determining whether a genuine issue of material fact exists, facts and inferences must be viewed most favorably to the non-moving party. To deny the motion, the Court need only conclude that a result other than that proposed by the moving party is possible under the facts and applicable law. Aronsen v. Crown Zellerbach, 662 F.2d 584, 591 (9th Cir. 1981). The Ninth Circuit has emphasized that summary judgment may not be avoided merely because there is some purported factual dispute, but only when there is a “genuine issue of material fact.” Hanon v. Dataproducts Corp., 976 F.2d 497, 500 (9th Cir. 1992). The Ninth Circuit has found that, to resist a motion for summary judgment, the non-moving party: 
+
+(1) must make a showing sufficient to establish a genuine issue of fact with respect to any element for which it bears the burden of proof; (2) must show that there is an issue that may reasonably be resolved in favor of either party; and (3) must come forward with more persuasive evidence than would otherwise be necessary when the factual context makes the nonmoving party’s claim implausible. 
+
+British Motor Car Distrib. Ltd. v. San Francisco Automotive Indus. Welfare Fund, 882 
+
+F.2d 371, 374 (9th Cir. 1989). 
+
+ 
+
+Count I of the Complaint alleges violation of Idaho’s Wage Claim statute, Idaho Code § 45-606(1), while Count II of the Complaint alleges KSI breached the employment agreement with Wood under Idaho law by failing to pay overtime, double time, vacation, and other benefits. KSI contends that both claims under Idaho state law are barred by the six month statute of limitations contained in Idaho Code § 45-614. Wood does not dispute the factual contentions KSI makes in support of its statute of limitations argument, contending instead that by failing to plead the statute of limitations as a defense in its answer, KSI waived its right to assert the defense upon summary judgment. Wood argues alternatively that KSI cannot establish good cause under Dist. Idaho Loc. Civ. R. 16 to amend its answer to include a statute of limitations defense. In response, KSI asserts that Wood has misapplied Idaho law, specifically the holding of Callenders, Inc. v. Beckman, 814 P.2d 429, 434–35 (Idaho 1991), and that its answer sufficiently raised four affirmative defenses4 encompassing Wood’s inability to assert claims for additional wages due to the expiration of the statute of limitations. 
+
+
+
+
+Idaho Code § 45-614 requires any action to “collect wages, penalties and liquidated damages provided . . . pursuant to a contract of employment” to be filed 
+
+4 These defenses are: (1) failure to state a claim upon which relief can be granted; (2) estoppel; 
+
+(3) waiver; and (4) laches. 
+
+within two (2) years after the cause of action accrued, provided, however, that in the event salary or wages have been paid to any employee and such employee claims additional salary, wages, penalties or liquidated damages, because of work done or services performed during his employment for the pay period covered by said payment, any action therefor shall be commenced within six (6) months from the accrual of the cause of action. It is further provided that if any such cause of action has accrued prior to the effective date of this act, and is not barred by existing law, action thereon may be commenced within six (6) months from the effective date of this act. In the event an action is not commenced as herein provided, any remedy on the cause of action shall be forever barred. 
+
+A cause of action for the collection of wages accrues when an employee has a right to 
+
+collect the wages that are allegedly owed to him. Callenders, Inc. v. Beckman, 814 P.2d 
+
+429, 434 (Idaho Ct. App. 1991). 
+
+Wood does not dispute that he was paid on a weekly basis during the course of his 
+
+employment, or that he was paid final wages as well as wages in the form of unpaid but 
+
+accrued vacation pay at the time his employment was terminated. The complaint 
+
+explicitly requests “additional” wages for specified periods of employment in the form of 
+
+overtime and double time, as well as additional accrued vacation pay, which is 
+
+characterized as wages owed but unpaid. (Compl. ¶¶ 13–27, Dkt. 1-3.) Wood’s claims 
+
+under Idaho Code § 45-606(1) specifically relate to claims for additional salary or wages 
+
+and accrued but unpaid vacation pay characterized as additional wages for identified pay 
+
+periods for which Wood already received payment of salary or wages. The same is true 
+
+for Wood’s breach of contract claim for unpaid wages and accrued vacation pay in the form of wages. Accordingly, the six month limitations period applies to both claims. See Johnson v. Allied Stores Co., 679 P.2d 640, 644 (Idaho 1984) (explaining the application of the limitations period in Idaho Code § 45-614, and holding that a claim for unpaid wages under a breach of contract theory falls within the parameters of Idaho Code § 45­608); Callenders, Inc., 814 P.2d at 434 (finding wage claim for unpaid “additional wages” to be subject to six month period of limitation in Idaho Code § 45-614).   
+
+Wood’s claim under Idaho’s Wage Claim statute and his breach of contract claim based upon the alleged employment agreement are untimely. Wood’s employment was terminated on January 20, 2009, but he delayed filing the Complaint until ten months later, on October 8, 2009. Accordingly, the six month statute of limitations contained within Idaho Code § 45-614 bars the claims for unpaid overtime and vacation pay in Counts I and II of the Complaint.5 
+
+Wood does not contest the arguments made by KSI, or otherwise refute the applicability of the six month statute of limitations. Instead, Wood argues that by failing to affirmatively assert the statute of limitations in its answer, KSI waived the defense under Fed. R. Civ. P. 12(b) and 8(c) and may not assert the statute of limitations in its motion for summary judgment. Rules 8(c) and 12(b) require every defense to be 
+
+5 Wood reserved the right to assert that the statute of limitations was tolled under Idaho Code § 5­229 for the period of time KSI was out of the state of Idaho and not subject to personal jurisdiction or service of process. (Pl. Mem. at 6 n.2, Dkt. 35.) However, Wood did not present any facts or argument in support of his tolling argument. Moreover, the tolling issue would be relevant to service of the Complaint, not the commencement of the action within the limitations period, which is all that is required under Idaho Code § 45-614. There is no dispute that Wood failed to commence this action within six months as required by Idaho Code § 45-614.   
+
+affirmatively asserted in any responsive pleading, and such practice is generally preferred. However, under federal law, absent a showing of prejudice to the plaintiff, a defendant may raise an affirmative defense for the first time in a motion for summary judgment, including the defense of the statute of limitations. Rivera v. Anaya, 726 F.2d 564, 566 (9th Cir. 1984). Idaho courts are in accord. Callenders, Inc., 814 P.2d at 434 (holding that a statute of limitations defense under Idaho Code § 45-614 not asserted in an answer may be pled for the first time in a motion for summary judgment). 
+
+In the instant case, Wood based his wage claim upon Idaho Code § 45-608(1) and sought unpaid wages pursuant to the terms of his contract. The statute of limitations applicable to wage claims and to claims for wages pursuant to a contract of employment is clearly set forth in Idaho Code § 45-614. Wood does not mention the court’s holding in either Rivera or Callenders, Inc., or otherwise argue that Rivera is inapplicable in this matter. The authorities Wood did cite in support of his waiver argument, Grabner v. Willys Motors, Inc., 282 F.2d 644, 647 n.2, n.5 (9th Cir. 1960) and 389 Orange Street Partners, 179 F.3d 656, 663 n.3 (9th Cir. 1999), are inapposite. Grabner interpreted Oregon law concerning the limitations period applicable to personal service, while 389 Orange Street interpreted Connecticut’s statute of limitations applicable to claims under its fraudulent concealment statute. Moreover, in 389 Orange Street, the court did not consider the argument of failure to plead the defense of the statute of limitations in defendant’s answer, because the issue was not before it on appeal. 389 Orange Street Partners, 179 F.3d at 663 n.3. 
+
+At the hearing, Wood was given an opportunity to address the implications of Rivera and demonstrate prejudice. In the Court’s view, Wood did not demonstrate prejudice, other than the prejudice from the inability to assert his claims under state law. The Court presumes Wood was aware of the applicable statute of limitations contained in Idaho Code § 45-614, because he specifically pled the right to recover under Idaho’s Wage Claim Act. There is no assertion in the Complaint that the two year statute of limitations applies, and it is apparent from the face of the Complaint that the periods for which Wood claims wages refer to specific pay periods for which he already received payment. See Johnson v. Allied Stores Co., 679 P.2d 640, 644 (Idaho 1984) (“the term pay period does not refer to the entire course of an employment relationship. . .”). 
+
+Concerning Wood’s final check, that payment encompassed both wages and accrued but unpaid vacation pay in an unknown amount. KSI then paid Wood an additional $6,509.55 in vacation pay for 97.23 hours, representing slightly more than two weeks of paid vacation. Wood contends that he accrued four weeks of vacation pay each year. Presumably, Wood therefore had the right to demand his accrued but unused vacation pay at the conclusion of each year, again mandating application of the six month statute of limitations period. 
+
+Accordingly, there is no dispute of material fact and the Court will grant KSI’s motion for summary judgment with respect to Counts I and II of the Complaint.6 
+
+6 Because of the Court’s findings, it did not reach the arguments Wood advanced under Fed. R. Civ. P. 16(b) pertaining to amendment of the pleadings and lack of good cause. Nor did the Court consider the arguments concerning applicability of the cap on vacation pay set forth in KSI’s employee handbook, which Wood argued did not apply to him based upon the 2003 Employment Agreement. The MEMORANDUM DECISION AND ORDER - 10 
+
+
+
+
+
+
+Counts III and IV of the Complaint allege violation of the FLSA for failure to pay overtime for hours worked in any week over forty hours during either the two year or three year period immediately preceding the filing of the Complaint. KSI contends the executive exemption applies to Wood’s employment positions at KSI, and therefore it did not have to pay him overtime.  
+
+
+Congress enacted the FLSA in 1938 to protect workers from substandard wages. Barrentine v. Arkansas-Best Freight Sys., Inc., 450 U.S. 728, 739 (1981). Section 207(a)(1) of the FLSA sets forth the right of employees to receive overtime pay “at a rate not less than one and one-half times the regular rate” for any hours worked in excess of 40 hours in any work week. 29 U.S.C.S. § 207(a)(1). Simultaneously, however, Section 213 of the FLSA specifically exempts certain employers and employees from Section 207 coverage. Specifically, an exemption from overtime payment exists for persons “employed in a bona fide executive, administrative, or professional capacity.” 29 U.S.C. § 213(a)(1). 
+
+To fall within the executive exemption, an employer must establish that the employee is 1) paid on a salary basis of not less than $455 per week exclusive of board 
+
+vacation pay claim based upon Wood’s claim for breach of contract is foreclosed by the statute of limitations, and is not asserted in, nor would it be covered by, the claims under the FLSA, which applies only to overtime. See 29 U.S.C. § 207(a)(1). 
+
+MEMORANDUM DECISION AND ORDER - 11 
+
+and lodging,7 2) whose primary duty is management of the enterprise or of a recognized department or subdivision, 3) who regularly directs two or more employees, and 4) who has the authority to hire or fire other employees, or whose suggestions and recommendations as to hiring, firing, or promotions are given particular weight. Barner v. City of Novato, 17 F.3d 1256, 1260 (9th Cir. 1994); 29 C.F.R. § 541.100(a). The first two elements of the test are called the “salary test” and the second two make up the “duties test.” Barner, 17 F.3d at 1260. An employee is entitled to overtime pay if the employer cannot satisfy both tests. Service Employees Int’l Union v. County of San Diego, 60 F.3d 1346, 1350 (9th Cir. 1994). 
+
+Notwithstanding the exemption, to ensure an employee’s maximum coverage under the FLSA, exemptions are construed narrowly against the employer asserting their applicability, and the employer carries the burden of proving that an exemption applies. 
+
+A.H. Phillips, Inc. v. Walling, 324 U.S. 490, 493 (1945). Employers who claim that an exemption applies to an employee or group of employees must show that “the employees fit plainly and unmistakably within its terms.” Worthington v. Icicle Seafoods, Inc., 774 F.2d 349, (9th Cir. 1984), cert. granted in part, 474 U.S. 900 (1985), and judgment vacated on other grounds, 475 U.S. 709 (1986). 
+
+
+
+
+
+
+7 It appears between the years 2003 and 2005 the weekly amount stated in the Code of Federal Regulations was raised from $250 to $455. Compare 29 C. F. R. §§ 541.600 (2005) and 29 C. F.R. § 541.601 (2003). 
+
+Before the Court can determine the undisputed facts relevant to Wood’s claims under the FLSA, it must resolve the competing motions to strike, both of which obscure the issues in this case. Each of the evidentiary issues contained within the motions to strike will be dealt with in turn. 
+
+ 
+
+First, Wood moves to strike portions of the Declaration of Michelle Koontz, an employee of KSI in the Human Resources Department. Wood argues the statements contained within paragraphs five through eleven of the Declaration constitute inadmissible parole evidence that may not be considered to alter the terms of Wood’s written employment agreement. Within those paragraphs, Ms. Koontz describes Wood’s employment positions and the duties he was expected to perform. Ms. Koontz also sets forth her understanding of Wood’s employment classification as “exempt” and therefore her understanding that Wood was not entitled to overtime.  Wood contends he signed an agreement on November 4, 2003, which sets forth he would be paid “$62.50/hour” and his employment classification was “non-exempt.” Wood asserts he understood that phrase meant he was entitled to overtime. Wood argues that Ms. Koontz’s testimony cannot be considered to contradict the plain and unambiguous terms of his employment agreement. 
+
+However, contractual agreements that purport to classify an employee as exempt or non-exempt contrary to the provisions of the FLSA are not conclusive. Real v. Driscoll Strawberry Assoc., Inc., 603 F.2d 748, 755 (9th Cir. 1979). “Economic realities, not contractual labels, determine employment status for the remedial purposes of the FLSA.” 
+
+Real, 603 F.2d at 755. Nor can the subjective intent of the parties to an employment contract override the economic realities of the employment relationship. Real, 603 F.2d at 
+
+755. Therefore, the contract Wood signed, and the subjective intent of both KSI and Wood as to their understanding of his exempt or non-exempt status is irrelevant.8 The motion to strike Ms. Koontz’s testimony, specifically her description of Wood’s duties, will therefore be denied. 
+
+Next, Wood seeks to strike paragraphs sixteen and nineteen of Ms. Koontz’s affidavit as inadmissible hearsay. Paragraph sixteen describes the KSI vacation policy as set forth in the written vacation policy contained in the KSI employee handbook, and attaches the relevant section of the handbook. Paragraph nineteen describes what Ms. Koontz learned as a result of the investigation conducted after an injury occurred on the jobsite involving Wood, and the decision to terminate his employment as a result of the accident. Paragraph nineteen purports also to introduce the accident investigation report as Exhibit F. 
+
+Hearsay is a statement, either oral or written, other than one made by the declarant while testifying at trial offered in evidence to prove the truth of the matter asserted. Fed. 
+
+R. Evid. 801(c). Reports, if kept in the course of a regularly conducted business activity, are exceptions to the hearsay rule. Fed. R. Evid. 803(6). Wood does not explain how the employee handbook, which Ms. Koontz stated was maintained in the corporate office and 
+
+8 Therefore, to the extent Wood relies upon the November 4, 2003 letter agreement as determinative of the issues before the Court, the arguments are not well taken. The parties are not bound by the terms of the November 4, 2003 employment agreement to the extent that the agreement classifies Wood as non-exempt and not entitled to overtime. MEMORANDUM DECISION AND ORDER - 14 
+
+“available to any interested employee on the company’s website or in the office,” (Aff. of Koontz ¶ 17, Dkt. 31-8), is anything other than an excepted business record. Therefore, the motion to strike paragraph sixteen will be denied.9 
+
+But the motion is well taken with respect to paragraph nineteen regarding the jobsite injury, which sets forth observations and statements made by others. Although the report may have been compiled in the regular course of KSI’s business, it contains hearsay statements of others. Nevertheless, paragraph nineteen is no longer relevant to the issues before the Court, as the circumstances surrounding Wood’s termination from employment are not at issue. Wood withdrew his defamation claim, which was based upon the reasons expressed for the termination of his employment. Nor did the Court consider the evidence in making its determination under the applicable portions of the FLSA. Therefore, although the objection to paragraph nineteen is well taken, the issue is rendered moot by the withdrawal of Wood’s defamation claim. Accordingly, Wood’s Motion to Strike as it pertains to the Declaration of Koontz will be denied. 
+
+Next, Wood seeks to strike the Declaration of Katherine Black (Dkt. 40-2, 41) and the exhibits attached thereto. Ms. Black performed a detailed analysis of Wood’s overtime and double time, and examined 394 pages of emails. Purportedly, Ms. Black’s testimony is relevant because she asserts Wood signed his emails as “Labor Manager” 
+
+9 Nevertheless, the Court did not consider the arguments, submissions, and evidence concerning the applicability of the Employee Handbook and KSI’s vacation cap policy to the terms of Wood’s employment. Wood asserted the right to claim wages in the form of accrued but unpaid vacation pay in Count II, which the Court determined is barred by the six month statute of limitations in Idaho Code § 45­614. MEMORANDUM DECISION AND ORDER - 15 
+
+and not “Project Superintendent.” However, for the same reasons Ms. Koontz’s testimony is not subject to exclusion under Real, Ms. Black’s conclusions as to Wood’s job title are not determinative. “A job title alone is insufficient to establish the exempt status of an employee” and an employee’s status must instead be determined based upon the employee’s salary and duties. 29 C.F.R. § 541.2. The Court did not consider Ms. Black’s affidavit, or the emails attached thereto, and therefore will grant Wood’s motion to strike in that regard. 
+
+Finally, Wood moves to strike the Declaration of Steve Cvitanovic, the lawyer representing KSI in this case. Specifically, Wood objects to the introduction of Exhibit B, which are selected exhibits from the deposition of Wood taken on June 29, 2010. Wood contends that the exhibits lack foundation, and the portions of the deposition transcript attached as Exhibit A to the Cvitanovic Declaration do not provide the necessary foundation. 
+
+The Court agrees with KSI’s argument that the exhibits are admissible pursuant to Fed. R. Civ. P. 56(e). Rule 56(e) permits affidavits that set out facts “that would be admissible in evidence.” It is sufficient if the evidence is ultimately admissible at trial, but a party does not have to produce evidence in a form that would ultimately be admissible at trial. Fraser v. Goodale, 342 F.3d 1032, 1036 (9th Cir. 2003). The exhibits attached as Exhibit B to the Cvitanovic Declaration purport to be emails received by or written by Wood, Wood’s time cards, an unpaid vacation pay calculation prepared by Wood, and employment records maintained by KSI. The Court can envision various ways the documents would be admissible at trial, either through Mr. Wood’s testimony about the documents he authored or received, or through KSI’s human resource department as to the records it maintained in the regular course of its business. The documents satisfy Rule 56(e). Wood’s motion to strike the Cvitanovic Declaration will be denied. 
+
+
+KSI requests that the entirety of Ronald Wood’s Affidavit (Dkt. 35-2) be stricken as a sham affidavit that contradicts his prior deposition testimony, which deposition was taken on June 29, 2010. Specifically, KSI asserts that during Wood’s deposition, Wood testified that from November 4, 2003 to July of 2008, he was employed as a Regional Labor Manager; he was paid an annual salary of $130,000; and he was not eligible for overtime compensation as a Regional Labor Manager. KSI submits that Wood’s affidavit contradicts those facts because Wood now contends that from November 4, 2003 to July of 2008, he switched his job position no less than nine (9) times; that in these positions, Wood was paid on an hourly basis; and that in these positions, Wood believed he was eligible for overtime compensation. 
+
+It is true that the United States Court of Appeals for the Ninth Circuit has held that a court may disregard a “sham” affidavit that a party files to create an issue of fact by contradicting the party’s prior deposition testimony. Leslie v. Grupo ICA, 198 F.3d 1152, 1157 (9th Cir. 1999). Lew v. Kona Hosp., 754 F.2d 1420, 1423 (9th Cir. 1985). See also Shockley v. City of Newport News, 997 F.2d 18, 23 (4th Cir.1993) (explaining that a sworn affidavit is not a “sham” merely because it contradicts unsworn letters). However, in the instant case, the Court fails to see how either party’s subjective beliefs, the job title of any position Wood held, or the method by which KSI claims to have paid him is determinative of the issues under the FLSA. Under Real and the regulations applicable to the FLSA, including 29 C.F.R. § 541.2, the Court is instructed to examine Wood’s actual duties of employment, and may not rely upon his job title, how his employer may have classified him for payroll purposes, or the parties’ subjective beliefs concerning entitlement to overtime. 
+
+Therefore, the Court will deny KSI’s motion to strike Wood’s affidavit. To the extent that any statement in Wood’s affidavit the Court considers relevant contradicts any of Wood’s prior testimony from his deposition, the Court will rely upon the deposition testimony and note for the record the portions of the affidavit subject to exclusion. 
+
+The Court can now turn to the facts at issue under the FLSA. In so doing, the Court has considered the pleadings in this matter,10 the Declaration of Steve Cvitanovic, the Declaration of Michelle Koontz, and the Affidavit of Ronald Wood consistent with the rulings made herein. 
+
+
+
+ 
+
+In the Complaint, Wood claims KSI owes him overtime pay for specific periods between October 9, 2005, up through and including March 30, 2008. (Compl. ¶¶ 13–23, Dkt. 1-3.) On or about November 4, 2003, Wood was promoted to the position of 
+
+10 KSI requested the Court to take judicial notice of the Complaint on file in this matter under Fed. R. Evid. 201. (Dkt. 31-3.) To the extent the Court is required to do so, the request is granted. However, Fed. R. Civ. P. 56(d)(1) expressly permits the Court to consider the pleadings to determine what material facts are not genuinely at issue. MEMORANDUM DECISION AND ORDER - 18 
+
+Regional Labor Manager for the Southeast and Eastern Regions of KSI. (Decl. of Koontz ¶ 6, Dkt. 31-8.) The Agreement was memorialized in a letter dated simultaneously on November 4, 2003, and October 22, 2003, and signed by Wood on November 6, 2003. (Aff. of Wood Ex. 2, Dkt. 34-2.) The Letter Agreement stated that Wood’s “base wage” was “$62.50/hour. Employment classification is non-exempt.” (Id.) The Letter Agreement itself does not state any particular job title or job classification with KSI. However, Wood understood that the terms of his agreement with KSI beginning in 2003 applied to his position as a Labor Manager. (Aff. of Morrow Ex. B, Wood Depo. at 34, Dkt. 40-5.) In mid July 2008, KSI transferred Plaintiff to the Southwest Region as a Labor Manager, considered a lateral move with no change of pay or position. (Decl. of Koontz ¶ 12, Dkt. 31-8.) 
+
+Ms. Koontz, who is employed in KSI’s Human Resources Department, indicated she prepared the November 4, 2003 Letter Agreement and mistakenly put “non-exempt” as Wood’s classification. (Decl. of Koontz ¶ 10, Dkt. 31-8; See also Aff. of Wood ¶ 2, Dkt. 35-2 (confirming that Wood was employed by KSI pursuant to a written employment agreement from November 2003 until January 2009.)) Ms. Koontz explained that the Regional Labor Manager position at KSI has “always been a highly skilled, executive position, involving non-manual supervision of multiple jobsites within a given territory, and the handling of union and non-union workforce issues.” (Id.) As Regional Labor Manager, Wood was expected to direct, hire, and terminate the employment of craftspersons and field supervisors, obtain necessary employees to work on the jobsite, negotiate union agreements, bid work, and assist with the management of field personnel. (Id. at ¶ 4, 7, 10.) 
+
+The Position Description for Regional Labor Manager differs from Ms. Koontz’s description of the expected duties of the position. (Id. Ex. A, Dkt. 31-9.) The Position Description indicates the Labor Manager is responsible for developing and maintaining labor relations, and supervises and administers labor relations policies. The individual is expected to represent the Region on local labor committees, ensure the right crafts people for the right job at the right time, promote customer satisfaction, communicate with employees and the customer, and have a basic knowledge of the Mechanical Contracting business. (Id.) Wood did not sign the Position Description. (Id.) 
+
+During his tenure as Labor Manager, Wood was paid weekly between November of 2003 through January 22, 2009, based upon a salary of $130,000 per year. (Id. at ¶ 13.) He submitted time cards indicating he worked forty hours each week, except for a few “miscellaneous timecards submitted with overtime on them.” (Id. ¶ 11 Dkt. 31-8; Ex. C Dkt. 31-11.) 
+
+Wood confirms he was employed in the capacity of Labor Manager, but indicates that at various times, he actually worked as a Project Superintendent. (Aff. of Wood ¶¶ 2, 9–13, Dkt. 35-2.) For example, Wood indicates he worked as a Project Superintendent on the Sandhill Power Plant Project from January 2003 through September 2003; the Coors Brewing Project from October 2005 through November 2006; the Eli Lily Project from February 2007 through June 2007; the GlaxoSmithKline Project in July of 2007; and the Biogen Project from January 2008 through March 2008. (Aff. of Wood ¶¶ 9–13, Dkt. 35­2; Wood Depo. at 74, Dkt. 40-5.) The KSI Personnel Change Notice dated November 14, 2003, indicates Wood was transferred to the Sandhill Jobsite in Texas as a Superintendent, but the Notice dated November 20, 2006 indicates Wood was considered a Labor Manager on the Coors Project. (Aff. of Counsel Ex. D, Dkt. 35-3.) 
+
+Wood asserts he is not seeking overtime compensation for the periods he worked in the capacity of Regional Labor Manager, because in that capacity, he worked only forty hours per week and overtime was not required or expected. (Aff. of Wood ¶ 17, Dkt. 35-2; Wood Depo. at 148–149, Dkt. 40-5.) Instead, Wood seeks overtime compensation for the periods he worked as a Project Superintendent. (Aff. of Wood ¶¶ 9–13, 17, Dkt. 35-2; Compl. ¶¶ 15–22, Dkt. 1-3; Wood Depo. at 42–43, Dkt. 40-5.)11 Therefore, while Wood was continuously regarded as a Labor Manager, Wood occasionally would be assigned to projects as a Project Superintendent for which he is claiming overtime. (Wood Depo. at 49, Dkt. 40-5.) All Superintendents were paid overtime. (Wood Depo. at 76, Dkt. 40-5.) Previously when Wood worked overtime as a Project Superintendent, Wood was paid for all his overtime. (Wood Depo. at 26, Dkt. 40-5.)  
+
+While working on the Coors Project as a superintendent, Wood was responsible for hiring and firing laborers, abiding by the terms of the project labor agreement, 
+
+11 The time periods articulated in the Complaint for which overtime and double time are allegedly owed are October 9, 2005–November 5, 2006; October 9, 2005 –November 5, 2006; February 25, 2007–February 3, 2008; and February 10, 2008–March 30, 2008. In Wood’s deposition, he explained that he did not always work as a Labor Manager, but worked as a “project superintendent,” and those are the projects for which he claims overtime. MEMORANDUM DECISION AND ORDER - 21 
+
+managing field labor, and ensuring KSI safety policies were enforced. (Wood Depo. at 68–70, Dkt. 40-5.) He had the same responsibilities as superintendent on the Eli Lilly Project, the GlaxoSmithKline Project, and the Biogen Project. (Wood Depo. at 122–123, Dkt. 40-5.) 
+
+Wood provided three timesheets indicating he was paid overtime wages for the weekly periods beginning on July 27, 2008, November 16, 2008, and January 11, 2009, for a total of 30 hours of overtime. (Aff. of Wood ¶ 7 Ex. B, Dkt. 35-2; Aff. of Counsel Ex. C, Dkt. 35-3.) 
+
+
+
+
+ The parties do not dispute that Wood was paid more than $455 per week. (Pl. Mem. at 13, Dkt. 35.) A rate of $62.50 per hour is equivalent to $2,500 per week for a forty hour week. However, there is a disputed issue of material fact concerning whether Wood was regularly paid on an hourly or salary basis throughout the course of his employment. The salary test requires an employee to regularly receive each pay period a predetermined amount constituting all or part of his compensation. Hodgson v. Baker, 544 F.2d 429, 433 (9th Cir. 1976). Failure to satisfy the salary test ordinarily will result in the loss of the exemption. Service Employees Internat’l Union, Local 102 v. County of San Diego, 50 F.3d 1346, 1350 (9th Cir. 1994). In Hodgson, the payroll records indicated that the more hours the employee worked, the more he was paid, resulting in a finding that the employer failed to carry its burden to demonstrate an exemption under the FLSA. 
+
+While Wood indicated his paycheck as a Labor Manager was “always the same,” (Wood Depo. at 36, Dkt. 40-5), he also stated that when he worked as a Project Superintendent prior to 2003, he was paid for all of his overtime hours. In addition, Wood indicated that all Superintendents were customarily paid overtime. Wood is claiming overtime for the periods he worked as a Project Superintendent after 2003, when he claims he was no longer permitted to claim overtime. But Wood provided three earnings statements from July 2008, November 2008, and January 2008, all periods KSI claims Wood was employed as a Labor Manager, for which KSI did pay overtime. Moreover, Wood’s time cards contain categories for overtime hours, and the three earnings statements where Wood was paid overtime include a category noted as “overtime wages.” Therefore, the facts are disputed regarding whether Wood was paid on a salaried or hourly basis. 
+
+KSI also has not met its burden to establish that Wood’s primary duty as a Labor Manager was “management of the enterprise or of a recognized department or subdivision.” There are two components to determining whether an individual manages an enterprise, department, or subdivision. First, the concept of “management” includes, but is not limited to: 
+
+activities such as interviewing, selecting, and training of employees; setting and adjusting their rates of pay and hours of work; directing the work of employees; maintaining production or sales records for use in supervision or control; appraising employees’ productivity and efficiency for the purpose of recommending promotions or other changes in status; handling employee complaints and grievances; disciplining employees; planning the work; determining the techniques to be used; apportioning the work among the employees; determining the type of materials, supplies, machinery, equipment or tools to be used or merchandise to be bought, stocked and sold; controlling the flow and distribution of materials or merchandise and supplies; providing for the safety and security of the employees or the property; planning and controlling the budget; and monitoring or implementing legal compliance measures. 
+
+29 C.F.R. § 541.102. 
+
+Based upon Ms. Koontz’s testimony, a conflict arises between her description of what the Labor Manager is expected to do, and the actual job description. Ms. Koontz explained that the Labor Manager is expected to supervise jobsites, and obtain the necessary craftspersons or tradesmen to work on the jobsite. The Labor Manager is also expected to handle workforce issues. However, the Position Description mentions nothing of hiring and firing, and mentions only supervising and administering labor relations policies throughout a specified region. No evidence was presented concerning Wood’s ability to set and adjust pay rates of the tradespeople assigned to specific jobs, whether he could direct their work, if Wood could promote or discipline tradesmen, or plan their work. Similarly, no evidence was presented that Wood ran specific jobs or regions of the company by budgeting, purchasing and supplying equipment, tools, or materials, or evaluating jobsite productivity. And finally, both Ms. Koontz’s testimony and the Job Description indicate what Wood was expected to do, but not what Wood actually did. 
+
+Wood indicates that, as a Project Superintendent on the Coors Project and other projects, he hired and fired tradesmen, managed field labor, and ensured safety policies were being adhered to. But other than those duties, there is no evidence in the record that Wood performed additional management functions other than in an abstract, conclusory manner. Moreover, no other evidence was introduced to explain Wood’s actual functions. In addition, Wood indicated he performed these functions as a Project Superintendent, not as a Labor Manager. While the job title is not conclusive, it is unclear to the Court what Wood was expected to do or in fact did at any given time, giving rise to a disputed issue of material fact over what Wood’s job duties actually were in any given employment capacity. 
+
+The second aspect of the duties test is whether Wood managed a recognized department or subdivision, which is intended to: distinguish between a mere collection of employees assigned from time to time to a specific job or series of jobs and a unit with permanent status and function. A customarily recognized department or subdivision must have a permanent status and a continuing function. 29 C.F.R. 541.103. 
+
+Based upon Wood’s testimony, it appears that as a Project Superintendent, Wood was assigned to a specific job. KSI’s work involved mechanical contracting. Based upon the nature of its business as a mechanical contractor, KSI would necessarily perform one component of a larger construction project. KSI’s own personnel records indicate that Wood was considered a Project Superintendent for the Sandhill Project. As Project Superintendent, Wood explained he was responsible for supervising general laborers and tradesmen assigned to the specific job, presumably for the duration of the job. There is again insufficient evidence in the record to establish that Wood, at least while functioning as a Project Superintendent, did anything other than supervise a collection of employees assigned to a specific job rather than a unit with permanent status and function. 
+
+KSI argues that even though Wood might have functioned as a Project Superintendent from time to time, he was continually considered a Labor Manager. However, the regulations indicate that to determine whether management is the primary duty of an employee, “a good rule of thumb that primary duty means the major part, or over 50 percent, of the employee’s time.” Baldwin v. Trailer Inns, Inc., 266 F.3d 1104, 1113 (9th Cir. 2001) (quoting 29 C.F.R. § 541.103.) KSI has not introduced evidence indicating what percentage of Wood’s time, while employed as a Project Superintendent, might constitute management activities. Moreover, as stated above, the Court cannot conclude on the record before it whether Wood’s role as a Labor Manager actually involved management activities. 
+
+
+
+
+
+The applicability of the executive exemption to a particular employee is necessarily a fact intensive exercise. See, e.g., Bratt v. County of Los Angeles, 912 F.2d 1066, 1068 (9th Cir. 1990) (“The question of how the [Employees] spent their working time . . . is a question of fact . . . The question of whether their particular activities excluded them from the overtime benefits of the FLSA is a question of law . . . .”); DePew v. Shopko Stores, Inc., No. CV-03-0539-S-BLW, 2006 WL 1663272 (D. Idaho May 30, 2006) (examining in detail the duties of Shopko’s assistant managers to determine exemption under the FLSA). 
+
+In the matter before the Court, there simply are insufficient facts in the record for the Court to make the determination, as a question of law, that Wood’s employment activities excluded him from the overtime benefits of the FLSA. Even considering all the evidence the parties sought to exclude, KSI did not carry its burden. The evidence before the Court demonstrated what Wood was expected to do, but not what he in fact did. Summary judgment will therefore be denied as to Counts III and IV of the Complaint. However, the statute of limitations bars Wood’s state law claims, and therefore summary judgment will be granted as to Counts I and II of the Complaint.  
+
+ORDER NOW THEREFORE IT IS HEREBY ORDERED: 
+
+1)  Defendant’s Motion for Summary Judgment (Dkt. 31) is GRANTED IN PART AND DENIED IN PART.  
+
+2) 3)  Defendant’s Motion to Strike (Dkt. 40) is DENIED. Plaintiff’s Motion to Strike (Dkt. 44) is GRANTED IN PART AND DENIED IN PART consistent with the Court’s decision.  
+
+4)  Plaintiff’s Stipulation (See Pl. Mem. at 20, Dkt. 35) to dismiss Count V of the Complaint alleging defamation is GRANTED.  
+
+
+
+A separate order will be forthcoming setting forth pretrial deadlines. 
+
+
+
+
+

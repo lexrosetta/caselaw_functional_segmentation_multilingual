@@ -1,0 +1,196 @@
+
+
+This case arises under the employee protection provisions of the SurfaceTransportation Assistance Act of 1982 (STAA) as amended. 49 U.S.C. § 31105(a) (2007); see also 29 C.F.R. Part 1978 (2019) (the STAA’s implementing regulations).
+
+James Simpson filed a complaint with the United States Department of Labor’sOccupational Safety and Health Administration (OSHA) alleging that EquityTransportation Company, Inc. (Equity) violated the STAA by discharging him in retaliation for refusing to drive a vehicle with defective brakes. On November 7, 2018, an Administrative Law Judge (ALJ) issued a Decision and Order (D. & O.) in which he concluded that Simpson’s discharge violated the STAA. For the following reasons, we affirm.
+
+
+
+Equity is a trucking company whose principal place of business is in the state of Michigan. It operates repair shops for its vehicles in Walker, Michigan, andAtlanta, Georgia. Simpson resides in Fort Payne, Alabama. He began working forEquity as an over-the-road truck driver on April 12, 2016. On October 21, 2016,Simpson was driving one of Equity’s trucks when the indicator light for its antilock braking system (ABS) came on. He drove the truck to a Petro Service Station inGadsden, Alabama. Petro serviced the truck on October 22, 2016, by fixing a leaking brake chamber and turning off the warning light. D. & O. at 15-16; HearingTranscript (Tr.) at 75.
+
+After the repair, Simpson recommenced driving but after moving the vehicle only a few feet the ABS light came on again. Simpson stopped driving and contactedEquity, and the company agreed to let Petro examine the vehicle again. On October 24, 2016, Petro determined that the brake failure was beyond its capacity to repair.
+
+Simpson next engaged in a series of conversations1 with Equity supervisors during which he asserted that it would be unsafe for him to drive the truck because of theABS failure. At least two of these supervisors directed Simpson to recommence driving his vehicle despite the ABS failure. Id. at 20-21.
+
+Simpson did not follow Equity’s instruction to drive, and on October 25, 2016, the company paid for the vehicle to be towed to a Freightliner facility inBirmingham, Alabama. The repairs to the ABS system were completed on October 28, 2016. After the repairs were completed, Simpson picked up a load in Athens, that the ALJ abused his discretion by admitting transcripts of Simpson’s recordings. TheALJ properly addressed Equity’s concerns during the hearing and ultimately concluded that (1) Simpson testified that these recordings were accurate representations of his conversations; (2) Equity “had an opportunity to present evidence to rebut the substance of the transcripts but failed to do so;” and (3) some of the transcripts were “especially probative as the Equity employees the Complainant was conversing with are clearly identifiable within the four corners of the transcript.” D. & O. at 20 n.23.
+
+Alabama, and delivered it to Kentwood, Michigan. He was next dispatched to take a load to Pennsylvania. On November 10, 2016, while in Pennsylvania, Simpson backed his trailer into a car carrier and damaged one of the cars. Id. at 16.
+
+On November 11, 2016, Simpson met with Eric Dean, Equity’s transportation manager, and recorded their conversation. Dean accused Simpson of committing several infractions, including refusing to drive the previous month, and opined thatSimpson should have disabled the ABS indicator. D. & O. at 26-27. During the meeting Dean stated “I don’t believe that James Simpson is a good fit for Equity.”Complainant’s Exhibit (CX) L-10. Dean accused Simpson of causing damage to the dashboard wiring in the vehicle with the ABS failure and told Simpson that, in addition to a three-day suspension, he had to pay Equity a “fine” of $1,000. D. & O. at 22. Simpson refused to pay the $1,000 and his employment ended that day.
+
+Equity purchased a bus ticket for Simpson sending him home, and that same day it generated a “Written Notice” for Simpson with the notation “Terminated/James decided to quit” at the bottom. Respondent’s Exhibit (RX) V. Although the document has a space for an employee signature, it does not include Simpson’s signature.
+
+Simpson filed his STAA complaint with OSHA on March 1, 2017. On July 21, 2017, OSHA issued a determination indicating that Simpson “requested that OSHA terminate its investigation and issue a determination” and that it was “unable to conclude that there is a reasonable cause to believe that a violation of the statute occurred.” Simpson requested a hearing before the Office of Administrative LawJudges. An ALJ conducted a hearing on February 27, 2018, at which only Simpson and Dean testified. Following the hearing the ALJ issued a Decision and OrderAwarding Claim on November 7, 2018.
+
+The ALJ concluded that Simpson engaged in STAA-protected activity when he refused to drive a vehicle with faulty brakes in October 2016, and the refusal contributed to his discharge from employment. The ALJ also concluded that Equity failed to meet its burden to prove by clear and convincing evidence that it would have discharged Simpson in the absence of his protected activity. In so concluding, the ALJ credited the testimony of Simpson over Dean’s testimony. The ALJ orderedEquity to reinstate Simpson and awarded back pay, compensatory damages, punitive damages, and attorney’s fees and costs. D. & O. at 39-40. Equity appealed the ALJ’s decision to the Administrative Review Board (ARB or the Board).
+
+
+
+The Secretary of Labor has delegated to the Board authority to hear appeals from ALJ decisions and issue final agency decisions in cases arising under theSTAA. Secretary’s Order No. 01-2020 (Delegation of Authority and Assignment ofResponsibility to the Administrative Review Board (Secretary’s discretionary review of ARB decisions)), 85 Fed. Reg. 13,186 (Mar. 6, 2020). The Board reviews questions of law presented on appeal de novo, but is bound by the ALJ’s factual determinations as long as they are supported by substantial evidence. 29 C.F.R. § 1978.110(b); Jacobs v. Liberty Logistics, Inc., ARB No. 2017-0080, ALJ No. 2016-STA-00007, slip op. at 2 (ARB Apr. 30, 2019) (reissued May 9, 2019) (citation omitted). The evidence will be sufficient if it is “more than a mere scintilla,” seeBiestek v. Berryhill, 587 U.S. ___, ___, slip op. at 5 (2019) (citing ConsolidatedEdison Co. v. NLRB, 305 U.S. 197, 229 (1938)), and need not amount to a preponderance. See Fund for Animals v. Kempthorne, 538 F.3d 124, 132 (2d Cir.
+
+2008). “It means—and means only—‘such relevant evidence as a reasonable mind might accept as adequate to support a conclusion.’” Biestek, 587 U.S. ___, slip op. at determinations unless they are “inherently incredible or patently unreasonable.”Jacobs, ARB No. 2017-0080, slip op. at 2 (quotations omitted).
+
+
+
+The legal burden of proof set forth in the employee protection provision of theWendell H. Ford Aviation Investment and Reform Act for the 21st Century also governs STAA complaints. Id. § 31105(b)(1); see id. § 42121. To prevail on a STAA claim, a complainant must prove by a preponderance of the evidence that he engaged in protected activity, that his employer took an adverse employment action against him, and that the protected activity was a contributing factor in the unfavorable personnel action. Id. § 42121(b)(2)(B)(iii). If the employee makes such a showing, the employer can avoid providing relief by demonstrating by clear and convincing evidence that it would have taken the same unfavorable personnel action in the absence of the protected activity. Id. § 42121(b)(2)(B)(ii).
+
+
+
+The STAA provides that a person may not discharge, discipline, or discriminate against an employee “regarding pay, terms, or privileges of employment” because the employee has engaged in certain protected activities. 49U.S.C. § 31105(a)(1). More specifically, 49 U.S.C. § 31105(a)(1)(B) provides:
+
+A person may not discharge an employee, or discipline or discriminate against an employee regarding pay, terms, or privileges of employment, because . . . the employee refuses to operate a vehicle because (i) the operation violates a regulation, standard, or order of the UnitedStates related to commercial motor vehicle safety, health, or security; or (ii) the employee has a reasonable apprehension of serious injury to the employee or the public because of the vehicle’s hazardous safety or security condition . . . .”Under section 31105(a)(1)(B)(ii), “an employee’s apprehension of serious injury is reasonable only if a reasonable individual in the circumstances then confronting the employee would conclude that the hazardous safety or security condition establishes a real danger of accident, injury, or serious impairment to health,” and “[t]o qualify for protection, the employee must have sought from the employer, and been unable to obtain, correction of the hazardous safety or security condition.” As we have stated in prior cases, “[w]hether a refusal to drive qualifies for STAA protection requires evaluation of the circumstances surrounding the refusal under the particular requirements of each of the provisions.” See, e.g.,Melton v. Yellow Transp., Inc., ARB No. 2006-0052, ALJ No. 2005-STA-00002, slip op. at 5 (ARB Sept. 30, 2008).
+
+The record supports the ALJ’s conclusion that “[Simpson’s] conduct onOctober 24 and October 25, 2016, qualifies as a “refusal to operate” protected activity under section 31105(a)(1)(B).” D. & O. at 22. Driving with a malfunctioning anti-lock brake illuminator would have constituted a violation of 49 C.F.R. § 393.48(a), which mandates that “all brakes with which a motor vehicle is equipped must at all times be capable of operating.” Simpson testified that the mechanics at the Petro station told him that there was a problem with the ABS system and they were unable to repair it. Additional repairs were made to the ABS system after the truck was inspected at the Freightliner shop in Birmingham. D. & O. at 21 (citingJoint Exhibits (JX) A-7-8). And the ALJ found that Equity’s argument that the problem with the ABS system was simply a faulty illuminator light was unsupported by the record evidence. Id. at 20-21. We therefore affirm the ALJ’s conclusion that driving the truck would have violated a regulation related to commercial motor safety.
+
+Additionally, the ALJ concluded that “a reasonable person in theComplainant’s circumstances would have had a reasonable apprehension of serious injury due to the defective anti-lock brakes.” Id. at 21. We agree. Simpson’s belief about the truck is supported by invoices documenting problems with the vehicle. Id. (citing JX A-1, -2, -5 and -6). Simpson expressed his concerns to Equity supervisors during several phone conversations. Id. (citing CX L-3, L-6, and L-8). Equity instructed Simpson to drive his truck to either Birmingham or Atlanta despite theABS failure, and Dean testified that “he became involved in the decision to have the truck towed because the truck needed to get to a shop for repairs but that theComplainant did not want to drive it.”  D. & O. at 20 (citing Tr. at 189). In sum,Simpson engaged in STAA-protected activity under 49 U.S.C. § 31105(a)(1)(B)(i) and (a)(1)(B)(ii).
+
+
+We agree with the ALJ’s conclusion that Simpson did not quit but was instead discharged from employment by Equity. Again, an employer “may not discharge an employee, or discipline or discriminate against an employee regarding pay, terms, or privileges of employment” because he engages in protected activity. violation for any person to intimidate, threaten, restrain, coerce, blacklist, discharge, discipline, harass, suspend, demote, or in any other manner retaliate against any employee.” 29 C.F.R. § 1978.102(b).
+
+The ALJ found that Dean, as the transportation manager at Equity, was a supervisor who was able to discipline and/or fire employees, and was aware ofSimpson’s STAA-protected activity. D. & O. at 11, 24. Dean met with Simpson onNovember 11, 2016, and told him that he was being placed on a three-day suspension and would need to pay Equity $1,000 for “down time and costs.” CX L-10 at 4-5. Dean also told Simpson that he was not a “good fit” for Equity and that he was causing “a few headaches.” Id. at 5-6. Simpson refused to pay the $1,000 and his employment ended that day:
+
+MR. SIMPSON:  I can’t afford to pay 1000 bucks.
+
+RESPONDENT: Okay.
+
+MR. SIMPSON:  So if that means you’re sending me home,
+
+I guess --
+
+RESPONDENT: Okay
+
+MR. SIMPSON:  -- it means you’re sending me home.
+
+RESPONDENT: Okay.  All right.
+
+MR. SIMPSON:  I need about another hour to pack up my truck and [unintelligible].
+
+RESPONDENT: Okay.
+
+MR. SIMPSON: Can we work out the bus schedules right away, then?RESPONDENT:  Yep.  I’m going to Shirley right now.
+
+MR. SIMPSON:  Okay.
+
+RESPONDENT:  Okay.
+
+CX L-11 at 2. The ALJ concluded that “[Simpson’s] statement that he could not pay the $1,000, even if that meant he would be sent home, was not an unequivocal resignation, especially because he was also informed he was being given a three-day suspension.” The ALJ then explained how Dean subjected Simpson to an adverse employment action:
+
+After the Complainant told Mr. Dean that he could not pay the $1,000, Mr. Dean chose to interpret this action as a resignation, rather than by addressing the issue or having further discussions about re-payment options.
+
+Although Mr. Dean testified at the hearing that he and the Complainant “could have talked about” whether or not the Complainant would have continued to have a job if he did not pay the fine, there is no evidence to show that possibility was ever conveyed to the Complainant in the November 11, 2016 meeting. Instead … it was the supervisor’s behavior rather than the employee’s that ultimately ended the employment relationship.
+
+D. & O. at 24.
+
+We agree with the ALJ’s conclusion that Simpson did not actually quit or resign from employment. An employer who decides to interpret an employee’s ambiguous actions as a resignation, without having first sought clarification from the employee, has in fact decided to discharge that employee, and therefore has subjected the employee to an adverse employment action. See, e.g., Hood v. R&MPro Transp., LLC, ARB No. 2015-0010, ALJ No. 2012-STA-00036, slip op, at 5 (ARBDec. 4, 2015) (rejecting Respondents’ argument that they took no adverse action when they fired an employee who, upon being asked to perform an allegedly prohibited task, replied that he was not going to do it, that he was “done,” and would clean out his truck); Minne v. Star Air, Inc., ARB No. 2005-0005, ALJ No.
+
+2004-STA-00026, slip op. at 14 (ARB Oct. 31, 2007) (“[I]t is clear that [Respondent’s] behavior, rather than [Complainants’], ultimately ended the relationship.
+
+[Respondent] chose to react to [Complainants’] refusal to work by considering them to have resigned, rather than by addressing all the issues they had raised. And under our precedent, except where an employee actually has resigned an employer who decides to interpret an employee’s actions as a quit or resignation has in fact decided to discharge that employee”).
+
+In this case, Equity did not convince the ALJ that Simpson resigned from employment. Simpson was “sent home” for his failure to pay $1,000 to Equity, and none of his actions that day indicate any intent to quit his employment. We therefore agree with the ALJ’s conclusion that Equity discharged Simpson onNovember 11, 2016.
+
+
+
+To prevail on his complaint, Simpson must prove that he engaged in STAA- protected activity that was a contributing factor in his discharge. A contributing factor is “any factor, which alone or in combination with other factors, tends to affect in any way the outcome of the decision.” Palmer v. Canadian Nat’l Ry., ILCent. R.R. Co., ARB No. 2016-0035, ALJ No. 2014-FRS-00154, slip op. at 53 (ARBJan. 4, 2017).
+
+The ALJ noted that the temporal proximity between Simpson’s STAA- protected activity and his discharge created an inference of causation but was not dispositive in establishing that the protected activity was a contributing factor in the discharge. D. & O. at 25-26. The ALJ also found that Dean expressed “displeasure” and “frustration” about how long the repairs in Birmingham took to complete. Id. at 27-28.
+
+But most important is the ALJ’s finding that, although Dean raised additional issues in the November 11 meeting that were listed on the WrittenNotice, he expressed his disapproval of Simpson’s refusal to drive:
+
+In addition to referencing the situations listed on the
+
+Written Notice form, Mr. Dean made repeated references to the Complainant’s actions on October 24th and 25th.
+
+Mr. Dean stated that “you seemed to not want to drive your truck when the ABS light wouldn’t work, when all you had to do was unplug it and go 50 miles down the road because you deemed it to be unsafe, because it was going to help you out, so we towed the truck.” (CX L-10 at 3). He further stated “[a]gain, what I would say to you is that you should have got in the truck, got a load, and went to Atlanta and had somebody look at your truck, because I deem that the –them mechanics [atFreightliner] are not very good.” (Id.at 7) … I find that theComplainant’s refusal to drive his truck with incomplete repairs to the ABS system was an issue for Mr. Dean because he continually brought the actions up during theNovember 11, 2016 disciplinary meeting where theComplainant was eventually discharged from his employment.
+
+Id. at 27.
+
+A contributing factor “need not be ‘significant, motivating, substantial or predominant’ ... The protected activity need only play some role. . . .” Palmer, ARBNo. 2016-0035, slip op. at 53. Dean’s statements in the November 11 meeting indicate that the refusal to drive was one of the reasons he subjected Simpson to discipline. We therefore find substantial evidence supports the ALJ’s finding thatSimpson’s refusal to drive was a contributing factor in Equity’s decision to discharge him from employment.
+
+
+
+If a complainant meets his or her burden of proof that he or she engaged in protected activity and that protected activity contributed to an adverse action, the employer may avoid liability only if it proves by clear and convincing evidence that it would have taken the same unfavorable personnel action in the absence of the complainant’s protected activity.2 For this “same-action” defense, the fact-finder must assess whether the respondent has demonstrated by clear and convincing evidence that it would have taken the action even if the employee had not engaged in protected activity. We have said that the employer satisfies this burden when it shows that it is “highly probable” that it would have taken the action in the absence of protected activity. Palmer, ARB No. 2016-0035, slip op. at 52.
+
+§ 42121(b).
+
+Equity failed to satisfy this burden. The company contended that it had legitimate reasons to discharge Simpson because he (1) drove 700 miles without authorization and used inappropriate language in a text message to BrandonWhalen, a dispatcher, on or about October 1, 2016; (2) tampered with company equipment; (3) did not report to an Equity shop after being instructed to do so; and (4) was involved in a backing accident. RX V; D. & O. at 29. The ALJ considered these incidents and found that Equity would not have discharged Simpson in the absence of his STAA-protected activity. The record supports the ALJ’s finding.3First, there is no dispute that on or around October 1, 2016, Simpson drove without authorization and sent a text message containing inappropriate language.
+
+But Equity presented no evidence that Simpson was disciplined for those incidents when they occurred. The ALJ found it “concerning that these activities occurred before the Complainant engaged in protected activity, but that the decision to discipline him was not made until after the protected activity took place.” D. & O. at 32-33.
+
+Second, the ALJ found that the record evidence was insufficient to establish that Simpson tampered with company equipment. Equity accused Simpson of tearing apart the dashboard of his truck around the same time he was refusing to drive because of the ABS failure. Although Equity submitted repair invoices to support its accusation, the ALJ found that they related to the ABS repair and towing. D. & O. at 31. Equity also submitted a handwritten note from the cover ofSimpson’s personnel file stating that he “tore dash apart to fix cigarette lighter.” Id. (citing RX W). But the ALJ found that Equity did not establish who wrote the note and whether it reflected the contents of his personnel file. The ALJ also found thatSimpson, not Dean, presented the most credible evidence regarding the truck repairs and that “the lack of probative evidence regarding the tampering incident calls into question the Respondent’s reasoning for requiring the Complainant to pay them $1,000.” Id. at 32.
+
+Third, Equity’s assertion that Simpson committed a company infraction by failing to bring his truck to the Equity shop in Michigan on November 5, 2016, was rejected by the ALJ because he credited Simpson’s testimony that he was never in attitude” about Simpson. D. & O. at 34. We only determine that the record supports theALJ’s conclusion that Equity would not have discharged Simpson in the absence of his protected activity. informed to take his truck to the shop but was instead dispatched to Pennsylvania.
+
+Id. at 33-34.
+
+Finally, while Simpson was involved in an accident on November 10, 2016, it was not his first accident with the company. The ALJ found that there was no evidence that Simpson was disciplined for other accidents he had been involved in prior to his protected activity. The ALJ also noted that there was no evidence in the record to explain Equity’s policy regarding discipline for accidents or what prior discipline has been imposed for such incidents, and he found vague Dean’s testimony that “some” Equity employees had been discharged for accidents. Id. atEquity argues on appeal that the ALJ erred and that it fired Simpson for the five enumerated reasons, referencing the proverb “the straw that broke the camel’s back.” Respondent’s Brief at 21-23. While we agree with Equity that an employer can base an adverse action on a cumulative-events theory and we do not sit as super-personnel department4 to review the merits of the employer’s decision, Equity has failed to convince us that the ALJ erred in finding that Equity did not meet its same-action defense burden in this case under these facts. Equity’s five enumerated reasons fail to isolate or neutralize the fact that Dean referenced Simpson’s refusal in the termination meeting, with the suggestion that Simpson should have unplugged the ABS light and driven the truck to Atlanta irrespective of the brake concerns.
+
+In sum, substantial evidence supports the ALJ’s conclusions that Simpson engaged in STAA-protected activity that contributed to his discharge, and Equity failed to show by clear and convincing evidence that it would have discharged him in the absence of his protected activity.
+
+
+
+The STAA provides that, if the Secretary decides on the basis of a complaint that a person violated the STAA, the Secretary shall order the person to (1) take affirmative action to abate the violation; (2) reinstate the complainant to the former position with the same pay and terms and privileges of employment; and (3) pay compensatory damages, including back pay. 49 U.S.C. § 31105(b)(3)(A). (ARB Jan. 22, 2009).
+
+Citing ARB precedent and the statutory and regulatory language, the ALJ ordered Equity to offer reinstatement. D. & O. at 34-35. Equity argues on appeal that it is “impractical under these circumstances for the employer to make a bona fide reinstatement offer, as Mr. Simpson was employed earning more money than what he earned while working for Respondent.” Respondent’s Brief at 25.
+
+We agree with Equity. A significant component of our decision is the fact thatSimpson was not interested in reinstatement. D. & O. at 34; Simpson Post-HearingBr. at 19. The ARB’s precedent has varied as to consideration of the employee’s stated interest against reinstatement. In Ass’t Sec’y & Gagnier v. SteinmannTransp., Inc., No. 1991-STA-046 (Sec’y July 29, 1992), the Secretary (before theARB5) wrote as follows:
+
+Turning to the issues relevant to relief, first, the
+
+Assistant Secretary argues that the ALJ’s refusal to order reinstatement is unsupported by the evidence and should be reversed. I disagree. At the close of the hearing, theALJ directly questioned Complainant on this issue andComplainant unequivocally replied, “I do not wish reinstatement.”  While the STAA expressly provides that a prevailing complainant is entitled to reinstatement, 49U.S.C. app. § 2305(c)(2)(B), the statute does not prohibit voluntary waiver of that right. The Secretary consistently has recognized and respected a complainant’s decision not to seek reinstatement. While there may be cases in which reinstatement should be ordered despite a complainant’s remarks to the contrary, this is not such a case.
+
+Considering the deliberateness of Complainant’s decision and the context in which it was made, I find the cases cited by the Assistant Secretary distinguishable.
+
+Id. slip op. at 3 (citations omitted).
+
+In Dutile v. Tighe Trucking Inc., 1993-STA-031 (Sec’y Oct. 31, 1994), theSecretary pulled back from Gagnier and questioned the significance of the employee’s preference against reinstatement under the facts present in that case: (May 3, 1996).
+
+In scrutinizing the policy of honoring a discharged employee’s statement that he does not seek reinstatement, I have become aware that a complainant who is not ordered to be reinstated may gain a windfall as back pay continues to accrue during the pendency of remanded issues such as calculation of the exact amount of back pay and related benefits. If instead reinstatement is ordered in such cases, the respondent will have the obligation to make a bona fide reinstatement offer. The respondent’s back pay liability would terminate upon the declination of the offer.
+
+In the future, when a complainant states at the hearing that he does not desire reinstatement, the parties or theALJ should inquire as to why. If there is such hostility between the parties that reinstatement would not be wise because of irreparable damage to the employment relationship, the ALJ may decide not to order it. If, however, the complainant gives no strong reason for not returning to his former position, reinstatement should be ordered.
+
+ARB precedent following Dutile has crept beyond the facts of that case to a default order of an offer of reinstatement regardless of the employee’s preferences or circumstances.  In Dale v. Step 1 Stairworks, Inc., ARB No. 2004-0003, ALJ No.
+
+2002-STA-00030, slip op. at 4 (ARB Mar. 31, 2005), the ARB wrote:
+
+Under the STAA, reinstatement is an automatic remedy designed to re-establish the employment relationship….
+
+But the ALJ here did not adequately address this statutory remedy. He apparently accepted at face value a statement from Dale’s attorney at the hearing that Dale was not seeking reinstatement. Dale’s personal preference, however, is not sufficient grounds for the ALJ to ignore the STAA’s requirement that the victims of retaliation be reinstated. (citation omitted); see also Cook v. Guardian Lubricants, Inc., ARB No. 1997-0055,ALJ No. 1995-STA-00043 (ARB May 30, 1997); Dickey v. West Side Transp. Inc.,ARB No. 2006-0150, -151, ALJ No. 2006-STA-00026, -00027 (ARB May 29, 2008).
+
+In this case, the facts supporting the Secretary’s concerns and reasoning inDutile are not present. Simpson will not receive a windfall absent the offer of reinstatement because Simpson obtained a job earning more money shortly after he began looking for a job. We also note that Simpson’s original claim for relief of $8,800 in back pay was based on a weekly figure of $880 per week from the date of termination until January 19, 2017, the day he began at Delta. Thus, not only didSimpson not want reinstatement but he was not seeking back pay after obtaining better employment.
+
+While the statute and regulations do mandate that the employer “shall offer” reinstatement6, the regulations preface that requirement with the qualification “where appropriate.” 29 C.F.R. § 1978.105 (“(1) If the Assistant Secretary concludes that there is reasonable cause to believe that a violation has occurred, the AssistantSecretary will accompany the findings with a preliminary order providing relief.
+
+Such order will require, where appropriate: affirmative action to abate the violation; reinstatement of the complainant to his or her former position, with the same compensation, terms, conditions and privileges of the complainant’s employment…”). The ARB and courts have found that reinstatement is inappropriate in a number of circumstances, including impossibility and impracticability. We agree with Equity that it is impractical for the ALJ to order that the employer offer reinstatement in this case under these circumstances where the employee has affirmatively said that he is not interested in reinstatement and obtained a better-paying job.
+
+Simpson is entitled to back pay. Ordinarily, back pay runs from the date of the discriminatory discharge until the date the employer reinstates the complainant or the date on which the complainant receives an unconditional, bona fide offer of reinstatement. Shields v. James E. Owen Trucking Co., ARB No. 2008-0021, ALJNo. 2007-STA-00022, slip op. at 12 (ARB Nov. 30, 2009). The ALJ found thatSimpson’s back pay should begin on January 10, 2017, because he testified that he did not begin searching for a job until this time. D. & O. at 36 (citing Roberts v. complaint, a person violated subsection (a) of this section, the Secretary of Labor shall order the person to— … (ii)reinstate the complainant to the former position with the same pay and terms and privileges of employment….”).
+
+Marshall Durbin Co., ARB Nos. 2003-00071, -00095, ALJ No. 2002-STA-00035, slip op. at 18 (ARB Aug. 6, 2004)). We agree.
+
+The ALJ concluded that Simpson’s back pay should continue to accrue untilEquity offers him reinstatement. D. & O. at 37. But, as Equity points out in its brief on appeal, Simpson testified that he found employment on January 19, 2017, earning more money than he earned at Equity. Id. Further, Simpson was not seeking back pay after this date. We agree with Equity that Equity’s back pay obligation ended on that date. Gaffney v. Riverboat Servs., 451 F.3d 424, 463 (7thCir. 2006) (“The district court’s conclusions are not clearly erroneous, but rather are consistent with the calculation of the period in which a plaintiff is entitled to back pay in a variety of analogous contexts. For example, in the context of Title VII, a plaintiff is eligible for back pay from the date of her injury to the date that she acquires a higher-paying job. . . .”).
+
+The ALJ further found that Simpson was entitled to resumption of back pay after he left his new job at Delta in February 2018, because he had not been given an offer of reinstatement. We disagree. Equity’s obligation to pay damages is limited to make-whole relief. McKnight v. General Motors Corp., 973 F.2d 1366, 1371-72 (7th Cir. 1992) (“Damages in employment discrimination cases are not intended to insure a plaintiff's future financial success. Damages should ordinarily extend only to the date upon which ‘the sting’ of any discriminatory conduct has ended.”). As noted above, Simpson did not argue for back pay for this period before the ALJ. Accordingly, we hold that Simpson is entitled to back pay from January 10, 2017, through January 19, 2017, at the rate of $879 per week plus interest.
+
+The ALJ found credible Simpson’s testimony that his discharge resulted in emotional harm and mental distress. D. & O. at 37-38. “To recover compensatory damages for mental suffering or emotional anguish, a complainant must show by a preponderance of the evidence that the unfavorable personnel action caused the harm.” Evans v. Miami Valley Hosp., ARB Nos. 2007-0118, -0121; ALJ No. 2006-AIR-00022, slip op. at 20 (ARB June 30, 2009). While Simpson did not support his claim with supporting medical or professional evidence, Equity’s appeal fails to meet Simpson’s claim or develop argument against the ALJ’s award. Accordingly, we affirm the ALJ’s conclusion that Simpson is entitled to $5,000 in compensatory damages.
+
+The record also supports the ALJ’s conclusion that Equity should pay $15,000 in punitive damages. Punitive damages are warranted where there has been “reckless or callous disregard for the plaintiff’s rights, as well as intentional violations of federal law.” Smith v. Wade, 461 U.S. 30, 51 (1983); see Youngerman v.
+
+United Parcel Serv., Inc., ARB No. 2011-0056, ALJ No. 2010-STA-00047, slip op. atEquity “showed a reckless disregard for the Complainant’s safety and the safety of other motorists.” D. & O. at 38. The ALJ’s decision to award punitive damages is warranted here and in accordance with law. More specifically, the facts supporting the decision to award such relief are supported by substantial evidence.
+
+
+
+On December 11, 2018, the ALJ issued a Supplemental Decision and OrderAwarding Attorney Fees in this matter. A prevailing STAA complainant is entitled to be reimbursed for litigation costs, including attorney’s fees. 49 U.S.C. § 31105(b)(3)(B) (“[T]he Secretary [of Labor] may assess against the person against whom the order is issued the costs (including attorney’s fees) reasonably incurred by the complainant in bringing the complaint.”). In accordance with Supreme Court precedent, the starting point is the “lodestar” method of multiplying a reasonable number of hours by a reasonable hourly rate. Jackson v. Butler & Co., ARB Nos.
+
+2003-0116, -0144; ALJ No. 2003-STA-00026, slip op. at 10-11 (ARB Aug. 31, 2004). The party seeking a fee award must submit “‘adequate evidence concerning a reasonable hourly fee for the type of work the attorney performed and consistent [with] practice in the local geographic area,’ as well as records identifying the date, time, and duration necessary to accomplish each specific activity, and all claimed costs.” Gutierrez v. Regents, Univ. of Cal., ARB No. 1999-0116, ALJ No. 1998-ERA- 00019, slip op. at 11 (ARB Nov. 13, 2002).
+
+Simpson has been fully successful in his prosecution of the case. Therefore, his attorneys are entitled to an attorney’s fee to be paid by Equity. The attorney hours expended were reasonably incurred in connection with litigation of the case before the Board, and the requested hourly rate of is reasonable. Accordingly, we affirm the ALJ’s award of $29,567.10 in fees and $1,232.47 in costs for a total of $30,799.57.
+
+
+
+Substantial evidence supports the ALJ’s conclusion that Simpson engaged inSTAA-protected activity, that he was discharged from employment, and that his protected activity contributed to his discharge. Equity failed to show by clear and convincing evidence that it would have discharged Simpson in the absence of his protected activity. Accordingly, we AFFIRM the ALJ’s conclusion of law thatEquity violated the STAA. Equity shall provide Simpson (1) back pay in his requested amount of $879 per week for the period January 10, 2017-January 19, 2017, plus interest as stated in the ALJ’s D. & O.; (2) $5,000 in compensatory damages for emotional distress; (3) $15,000 in punitive damages; and (4) $30,799.57 in attorney’s fees and costs.
+
+To recover reasonable attorney’s fees and litigation costs incurred in responding to this appeal before the Board, Simpson must file a sufficiently supported petition for such costs and fees within 30 days after receiving thisDecision and Order, with simultaneous service on opposing counsel. 49 U.S.C. § 31105(b)(3)(A)(iii); 29 C.F.R. § 1978.110(d). Thereafter, Equity shall have 30 days from its receipt of the fee petition to file a response.
+
+SO ORDERED.
+
+

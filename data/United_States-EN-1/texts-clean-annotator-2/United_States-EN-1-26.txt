@@ -1,0 +1,64 @@
+
+
+This matter comes before the Court on defendants’ Dispositive Motion for Summary Judgment or in the Alternative Partial Summary Judgment and/or Adjudication of Issues (Doc. #35) filed on November 4, 2010. A Summary Judgment Notice (Doc. #36) was issued, and the Clerk was directed to provide a copy of the Notice (Doc. #42) directly to plaintiff1. On January 26, 2011, plaintiff filed a one-page response with a letter request of her demands attached. Although plaintiff indicated that Affidavits by other employees 
+
+1Initially, plaintiff was represented by counsel. Upon review of a pro se motion, Ms. Crumpton’s counsel was permitted to withdraw and plaintiff is now proceeding unrepresented. (Doc.#39.) 
+
+would be filed with regard to her hours, no such documentation has been filed. 
+
+
+Summary judgment is appropriate only when the Court is satisfied that “there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law.” Fed. R. Civ. P. 56(c). “An issue of fact is ‘genuine’ if the record taken as a whole could lead a rational trier of fact to find for the nonmoving party.” Baby Buddies, Inc. v. Toys “R” Us, Inc., 611 F.3d 1308, 1314 (11th Cir. 2010)(citation omitted). A fact is “material” if it may affect the outcome of the suit under governing law. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986). The moving party bears the burden of identifying those portions of the pleadings, depositions, answers to interrogatories, admissions, and/or affidavits which it believes demonstrate the absence of a genuine issue of material fact. Celotex Corp. v. Catrett, 477 U.S. 317, 323 (1986); Hickson Corp. v. N. Crossarm Co., Inc., 357 F.3d 1256, 1259-60 (11th Cir. 2004). To avoid the entry of summary judgment, a party faced with a properly supported summary judgment motion must come forward with extrinsic evidence, i.e., affidavits, depositions, answers to interrogatories, and/or admissions, which are sufficient to establish the existence of the essential elements to that party’s case, and the elements on which that party will bear the burden of proof at trial. Celotex Corp. 
+
+v. Catrett, 477 U.S. at 322; Hilburn v. Murata Elecs. N. Am., Inc., 181 F.3d 1220, 1225 (11th Cir. 1999). 
+
+
+Based upon the Affidavit of Garry Oakes (Doc. #35-1), Deposition of Margaret Crumpton (Doc. #35-2), responses to the Court’s Interrogatories to Plaintiff (Doc. #35-3), and plaintiff’s Objections and Responses to Defendant’s First Set of Interogatories (Doc. #35-4), the following facts are deemed undisputed2: 
+
+In early December 2006, Garry Oakes (Oakes) met and began dating plaintiff Margaret Crumpton (Crumpton). Oakes is the President, Operations Manager, and Corporate Representative for defendant Sunset Club Properties, LLC (Sunset). During the relevant years of 2007 through 2009, Sunset was in the business of leasing residential apartments in Lee County, Florida, and Oakes oversaw the day-to-day operations of the company. In January, 2007, Oakes and Crumpton began living together in a romantic relationship. At that time Crumpton began working for Sunset, although the parties dispute whether this was as an employee or an independent contractor. For purposes of the summary judgment 
+
+2The Summary Judgment Notice clearly provides that “(1)failing to respond to this motion will indicate that the motion is not opposed; (2) all material facts asserted by the movant in themotion will be considered to be admitted by you unless controverted by proper evidentiary materials (counter-affidavits, depositions,exhibits, etc.) filed by you; and (3) you may not rely solely on the allegations of the issue pleadings (e.g., complaint, answer,etc.) in opposing this motion.” (Doc. #36.) 
+
+motion, defendants accept plaintiff’s characterization of her employment status as an employee. Sunset would pay Crumpton a referral fee for each tenant procured to lease an apartment. Plaintiff would promote properties and became known in the community as the “rent lady.” Oakes trained plaintiff, and all marketing and visits in the community were done with the knowledge and approval of Oakes. Plaintiff did not punch a time clock and her hours were not tracked. 
+
+
+
+
+Defendant argues that plaintiff cannot show individual coverage or enterprise coverage in order to establish jurisdiction under the Fair Labor Standards Act (FLSA). More specifically, defendant argues that plaintiff cannot demonstrate that she engaged in the production of goods for commerce or that any regular and recurrent interstate activities occurred, or that Sunset was engaged in these activities, and that Sunset’s annual gross income for 2008 and 2009 was less than $500,000.00, and outside the purview of the statutory requirements of the FLSA. 
+
+Under Title 29, United States Code, Section 207, “no employer shall employ any of his employees who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, for a workweek longer than forty hours unless such employee receives compensation for his employment in excess of the 
+
+hours above specified at a rate not less than one and one-half times the regular rate at which he is employed.” 29 U.S.C. § 207(a)(1). “[F]or an employee to be “engaged in commerce” under the FLSA, [s]he must be directly participating in the actual movement of persons or things in interstate commerce by (i) working for an instrumentality of interstate commerce, e.g., transportation or communication industry employees, or (ii) by regularly using the instrumentalities of interstate commerce in his [her] work, e.g., regular and recurrent use of interstate telephone, telegraph, mails, or travel.” Thorne v. All Restoration Servs., Inc., 448 F.3d 1264, 1266 (11th Cir. 2006)(citations omitted). An 
+
+“Enterprise engaged in commerce or in the production of
+
+goods for commerce” means an enterprise that--(A)(i) has employees engaged in commerce or in the production of goods for commerce, or thathas employees handling, selling, or otherwiseworking on goods or materials that have been moved in or produced for commerce by anyperson; and 
+
+(ii) is an enterprise whose annual grossvolume of sales made or business done is not less than $500,000 (exclusive of excise taxesat the retail level that are separatelystated); . . . 
+
+29 U.S.C. § 203(s)(1)(A). 
+
+It is undisputed that the gross revenues for Sunset were $919,652.16 in 2007; $415,806.57 in 2008, and $227,833.42 in 2009. Therefore, Sunset was only covered by the FLSA in 2007, and summary judgment will be granted as to 2008 and 2009. 
+
+Defendants also argue that summary judgment must be granted as to all years because there was none of the required interstate commerce or engagement in commerce by Sunset. The Court is unable to find the material undisputed facts to support this position. “An affidavit or declaration used to support or oppose a motion must be made on personal knowledge, set out facts that would be admissible in evidence, and show that the affiant or declarant is competent to testify on the matters stated.” Fed. R. Civ. P. 56(c)(4). Defendant Oakes’ Affidavit (Doc. #35-1) sets forth no facts in this regard, but merely tracks the statutory language in stating that plaintiff did not engage in the production of goods for commerce, interstate trade or commerce, business activities outside the State of Florida, or interstate phone calls, mail, or travel on behalf of the company, and that Sunset did not have two or more employees engaged in commerce or the production of goods for commerce, or in the handling of any goods that moved or were purchased outside or delivered from outside Florida, or business activities outside of Florida. These are not facts, but mere conclusory statements and therefore have no value. See Evers v. Gen. Motors Corp., 770 F.2d 984, 986 (11th Cir. 1985)(“This court has consistently held that conclusory allegations without specific supporting facts have no probative value.” (citations omitted)). 
+
+Additionally, it is undisputed that plaintiff performed work from Ohio on six or eight different occasions, including the use of 
+
+phone calls to Florida. Whether this is sufficient to satisfy the FLSA requirements is not a foregone conclusion. Further, there is a dispute regarding Sunset’s status as a “foreign limited liability company” as alleged in the Amended Complaint because defendant has denied the allegation in their Answer. (Doc. #29, ¶ 4.) 
+
+Accordingly, it is now 
+
+
+
+
+Defendants’ Dispositive Motion for Summary Judgment or in the Alternative Partial Summary Judgment and/or Adjudication of Issues (Doc. #35) is GRANTED IN PART AND DENIED IN PART. Summary judgment will be entered dismissing the claim as to both defendants as to the years 2008 and 2009 for lack of jurisdiction, but will be denied as to 2007. 
+
+
+
+
+The Clerk withhold entry of judgment pending the completion of the case. The case remains on the calendar for an April 18, 2011, Final Pretrial Conference, and May 2011 trial term. 
+
+
+
+
+
+

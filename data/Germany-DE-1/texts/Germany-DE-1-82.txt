@@ -1,0 +1,138 @@
+
+
+STRE201150607
+
+BFH
+
+4. Senat
+
+20110324
+
+IV R 13/09
+
+Urteil
+
+§ 169 Abs 2 S 2 AO, § 180 Abs 1 Nr 2 Buchst b AO, § 180 Abs 3 S 1 Nr 2 AO, Art 97 § 1 Abs 7 AOEG
+
+Titel
+
+(Verlängerte Festsetzungsfrist auch bei nachträglichem Richtigstellen der unrichtigen Angaben - Fall von geringer Bedeutung - anhängige Verfahren im Sinne von Art. 97 § 1 Abs. 7 EGAO)
+
+Leitsätze
+
+1. NV: Eine Verlängerung der Festsetzungsfrist wegen Steuerhinterziehung oder leichtfertiger Steuerverkürzung auf zehn bzw. fünf Jahre entfällt nicht dadurch, dass der Steuerpflichtige seine unrichtigen Angaben vor Ablauf der normalen Festsetzungsfrist von vier Jahren richtigstellt.
+
+2. NV: Eine gesonderte Feststellung von Einkünften nach § 180 Abs. 1 Nr. 2 Buchst. b AO ist entbehrlich (Fall von geringer Bedeutung nach § 180 Abs. 3 Satz 1 Nr. 2 AO), wenn der Steuerpflichtige seinen Wohnsitz in den Bezirk des Lagefinanzamtes verlegt und damit dasselbe Finanzamt für die Einkommensteuerveranlagung zuständig geworden ist.
+
+Tatbestand
+
+1
+
+I. Die Klägerin und Revisionsbeklagte (Klägerin) eröffnete am 1. Oktober 1992 einen landwirtschaftlichen Betrieb im Beitrittsgebiet. Hierzu pachtete sie mit zwei Pachtverträgen vom gleichen Tag zunächst 60,1201 ha und 1,2178 ha Land.
+
+2
+
+Die Klägerin gab am 12. Mai 1995 zusammen mit der Einkommensteuererklärung 1993 (Streitjahr) beim Finanzamt B eine Anlage L ab, in der sie in der Zeile 4 "lt. gesonderter Feststellung" ankreuzte und in der Zeile 5 unter "Finanzamt, Steuernummer" die Anschrift des landwirtschaftlichen Betriebs sowie das hierfür zuständige Finanzamt, den Beklagten und Revisionskläger (Finanzamt --FA--), angab. Ein Gewinn war nicht eingetragen. Das Finanzamt B setzte im Einkommensteuerbescheid 1993 vom 19. Juli 1995 keine Einkünfte aus Land- und Forstwirtschaft an.
+
+3
+
+Ende des Jahres 1995 verlegte die Klägerin ihren Wohnsitz in den Zuständigkeitsbereich des FA. Mit Schreiben vom 11. Dezember 1997 reichte sie beim FA u.a. Gewinnermittlungen nach § 13a des Einkommensteuergesetzes (EStG) für die Wirtschaftsjahre 1992/93 und 1993/94 (abweichendes Wirtschaftsjahr vom 1. Juli bis 30. Juni) sowie eine berichtigte Anlage L ein, in der sie für ihren landwirtschaftlichen Betrieb für das Streitjahr einen Gewinn in Höhe von 27.434 DM erklärte und die "Berichtigung" der Veranlagung beantragte. In Zeile 29 unter "Einheitswert/Ersatzwirtschaftswert" trug die Klägerin "bitte amtlich feststellen" ein; den Gewinnermittlungen legte sie den "Ausgangswert" in Höhe von 55.158 DM zu Grunde.
+
+4
+
+Das FA entsprach dem Berichtigungsantrag mit Änderungsbescheid vom 27. Januar 1998 nach § 172 Abs. 1 Satz 1 Nr. 2 Buchst. a der Abgabenordnung (AO). Außerdem wies es die Klägerin unter Bezug auf einen "Ersatzvergleichswert" von 55.158 DM mit Schreiben vom 12. Januar 1998 auf den Beginn der Buchführungspflicht ab dem Wirtschaftsjahr 1998/99 hin.
+
+5
+
+Im Rahmen einer Außenprüfung, die mit der Prüfungsanordnung vom 6. Oktober 2000 auch auf die Einkommensteuer 1993 erweitert worden war, ermittelte der Prüfer für den landwirtschaftlichen Betrieb der Klägerin einen Ausgangswert i.S. des § 13a Abs. 4 Satz 2 EStG in der im Streitjahr geltenden Fassung in Höhe von 53.400 DM. Weil dieser über der nach § 13a Abs. 1 Satz 1 Nr. 2 EStG im Streitjahr geltenden Grenze von 32.000 DM lag, versagte der Prüfer die Gewinnermittlung nach Durchschnittssätzen ab dem Wirtschaftsjahr 1993/94. Er schätzte den Gewinn für das Wirtschaftsjahr 1993/94 durch Bestandsvergleich auf 71.400 DM und setzte für das Streitjahr Einkünfte von 48.194 DM an.
+
+6
+
+Das FA folgte den Prüfungsfeststellungen und erließ nach § 173 Abs. 1 Satz 1 Nr. 1 AO den hier streitigen Änderungsbescheid vom 18. Oktober 2001.
+
+7
+
+Eine Erklärung zur Ermittlung des Ersatzwirtschaftswerts auf den 1. Januar 1993 gab die Klägerin nicht ab. Im Grundsteuermessbescheid vom 14. März 2007 legte das FA einen Ersatzwirtschaftswert auf den 1. Januar 1993 von 27.302 € (53.400 DM) zu Grunde. Dieser Bescheid wurde bestandskräftig.
+
+8
+
+Der nach erfolglosem Einspruch erhobenen Klage gab das Finanzgericht (FG) statt. Nach Auffassung des FG war bei Erlass des Änderungsbescheids die Festsetzungsfrist abgelaufen. Auch wenn die Klägerin im Zusammenhang mit der Abgabe der Steuererklärung 1993 am 12. Mai 1995 eine Steuerhinterziehung oder leichtfertige Steuerverkürzung begangen haben sollte, habe sie jedenfalls mit Schreiben vom 11. Dezember 1997, mithin vor Ablauf der normalen Festsetzungsfrist gemäß § 169 Abs. 2 Satz 1 Nr. 2 AO, ihre unrichtigen Angaben richtiggestellt. Damit sei die Rechtfertigung für die verlängerte Festsetzungsfrist entfallen und es gelte wieder die normale Festsetzungsfrist von vier Jahren. Da der Ablauf der normalen Festsetzungsfrist nicht gehemmt worden sei, ende die Frist mit Ablauf des Jahres 1999, so dass der Änderungsbescheid vom 18. Oktober 2001 nach Ablauf der Festsetzungsfrist erlassen worden sei. Die Vorentscheidung ist in Entscheidungen der Finanzgerichte 2009, 1082 veröffentlicht.
+
+9
+
+Mit der Revision rügt das FA die fehlerhafte Anwendung von § 169 Abs. 2 Satz 2 AO.
+
+10
+
+Das FA beantragt, die Vorentscheidung aufzuheben und die Sache an das FG zur anderweitigen Verhandlung und Entscheidung zurückzuverweisen.
+
+11
+
+Die Klägerin beantragt, die Revision als unbegründet zurückzuweisen.
+
+Entscheidungsgründe
+
+12
+
+II. Die Revision ist begründet. Sie führt nach § 126 Abs. 3 Satz 1 Nr. 2 der Finanzgerichtsordnung (FGO) zur Aufhebung des angefochtenen Urteils und zur Zurückverweisung der Sache an das FG zur anderweitigen Verhandlung und Entscheidung. Das FG hat zu Unrecht angenommen, dass eine Verlängerung der Festsetzungsfrist wegen Steuerhinterziehung oder leichtfertiger Steuerverkürzung entfällt, wenn der Steuerpflichtige seine unrichtigen Angaben vor Ablauf der normalen Festsetzungsfrist von vier Jahren richtigstellt.
+
+13
+
+1. Der Änderung des ursprünglichen Einkommensteuerbescheids vom 19. Juli 1995 steht nicht entgegen, dass zu keinem Zeitpunkt eine gesonderte Feststellung der Einkünfte aus Land- und Forstwirtschaft erfolgt ist. Eine gesonderte Feststellung war nicht (mehr) erforderlich, da durch den Umzug der Klägerin in den Zuständigkeitsbereich des FA Ende des Jahres 1995 das Lagefinanzamt zugleich Wohnsitzfinanzamt geworden ist.
+
+14
+
+a) Einkünfte aus Land- und Forstwirtschaft sind gemäß § 180 Abs. 1 Nr. 2 Buchst. b AO gesondert festzustellen, wenn nach den Verhältnissen zum Schluss des Gewinnermittlungszeitraums das für die gesonderte Feststellung zuständige Finanzamt nicht auch für die Steuern vom Einkommen zuständig ist. Weicht das Wirtschaftsjahr vom Kalenderjahr ab, sind die Verhältnisse am Schluss des Wirtschaftsjahres maßgebend (Brandis in Tipke/ Kruse, Abgabenordnung, Finanzgerichtsordnung, § 180 AO Rz 72).
+
+15
+
+Nach den Verhältnissen zum 30. Juni 1994 hätte das FA als gemäß § 18 Abs. 1 Nr. 1 AO zuständiges Lagefinanzamt die Einkünfte der Klägerin aus Land- und Forstwirtschaft gesondert feststellen müssen, da es nicht auch für die Steuern vom Einkommen der Klägerin zuständig war. Die Klägerin wohnte, wie sich den in Bezug genommenen Steuererklärungen entnehmen lässt, zumindest bis Ende des Jahres 1995 im Bezirk des (Wohnsitz-)Finanzamts B.
+
+16
+
+b) Eine gesonderte Feststellung hat jedoch nach § 180 Abs. 3 Satz 1 Nr. 2 AO --auch in den Fällen des § 180 Abs. 1 Nr. 2 Buchst. b AO-- zu unterbleiben, wenn es sich um einen Fall von geringer Bedeutung handelt. Ein Fall von geringer Bedeutung liegt vor, wenn dasselbe Finanzamt durch die Verlegung des Wohnsitzes nach Ablauf des Wirtschaftsjahres in den Bezirk des Lagefinanzamts für die Einkommensteuerveranlagung zuständig geworden ist. Die Durchführung eines eigenständigen Gewinnfeststellungsverfahrens wäre in derartigen Fällen "unnötiger Formalismus" (so auch ausdrücklich Gesetzesbegründung in BTDrucks 14/1514, S. 47, unter "Zu Buchstabe b"; vgl. außerdem Tz. 4 zu § 180 des Anwendungserlasses zur Abgabenordnung). Der Zweck der gesonderten Feststellung, dass das "betriebsnähere" Finanzamt, welches mit den Verhältnissen vor Ort besser vertraut ist (BTDrucks VI/1982, S. 156 f.), zuständig sein soll, entfällt, wenn dasselbe Finanzamt auch für die Besteuerung des Einkommens örtlich zuständig ist.
+
+17
+
+Im Streitfall bezog das FA im Änderungsbescheid vom 27. Januar 1998 erstmals die landwirtschaftlichen Einkünfte der Klägerin in den Einkommensteuerbescheid 1993 ein. Zu diesem Zeitpunkt hatte die Klägerin ihren Wohnsitz bereits in dessen Zuständigkeitsbereich verlegt. Somit waren vor der erstmaligen Berücksichtigung von landwirtschaftlichen Einkünften im Einkommensteuerbescheid Lage- und Wohnsitzfinanzamt identisch und damit eine gesonderte Feststellung entbehrlich. Für den nachfolgenden, hier streitigen Änderungsbescheid vom 18. Oktober 2001 kann nichts anderes gelten. Liegt --wie im Streitfall-- ein Fall von geringer Bedeutung vor, braucht das Finanzamt dies nicht in einem "Negativbescheid" nach § 180 Abs. 3 Sätze 2 und 3 AO ausdrücklich auszusprechen (Beschluss des Bundesfinanzhofs --BFH-- vom 31. Oktober 1991 X B 69/91, BFH/NV 1992, 289).
+
+18
+
+c) Die vorstehende Rechtslage war auch im Streitfall zu Grunde zu legen. Die in § 180 Abs. 3 Satz 1 Nr. 2 Satz 2 AO angeordnete sinngemäße Anwendung auch für Fälle des § 180 Abs. 1 Nr. 2 Buchst. b AO ist zwar erst mit Art. 17 Nr. 11 Buchst. b des Steuerbereinigungsgesetzes (StBereinG) 1999 vom 22. Dezember 1999 (BGBl I 1999, 2601, BStBl I 2000, 13) zum 1. Januar 2000 eingeführt worden. Das Gesetz ist aber nach Art. 97 § 1 Abs. 7 des Einführungsgesetzes zur Abgabenordnung auf alle bei Inkrafttreten des Gesetzes anhängigen Verfahren anzuwenden, soweit nichts anderes bestimmt ist. Anhängige Verfahren im Sinne der Norm sind alle noch nicht abgeschlossenen Verwaltungsverfahren (BFH-Urteil vom 21. Februar 1991 V R 25/87, BFHE 164, 1, BStBl II 1991, 496). Bis zum Inkrafttreten des StBereinG 1999 war keine gesonderte Feststellung durchgeführt worden. Das Feststellungsverfahren war also zu diesem Zeitpunkt noch anhängig.
+
+19
+
+2. a) Nach § 170 Abs. 2 Satz 1 Nr. 1 AO beginnt die Festsetzungsfrist, wenn eine Steuererklärung einzureichen ist, mit Ablauf des Kalenderjahres, in dem die Steuererklärung eingereicht wird. Die Festsetzungsfrist beträgt für die Einkommensteuer vier Jahre (§ 169 Abs. 2 Satz 1 Nr. 2 AO). Bei Steuerhinterziehung verlängert sie sich auf zehn Jahre, bei leichtfertiger Steuerverkürzung auf fünf Jahre (§ 169 Abs. 2 Satz 2 AO).
+
+20
+
+b) Im Streitfall begann die Festsetzungsfrist für die Einkommensteuer 1993 mit Ablauf des Jahres 1995, da die Klägerin in diesem Jahr die Steuererklärung 1993 abgegeben hat. Die Frist würde daher bei Vorliegen einer Steuerhinterziehung mit Ablauf des Jahres 2005 enden. Der Änderungsbescheid vom 18. Oktober 2001 wäre rechtzeitig ergangen. Aber auch bei Vorliegen einer leichtfertigen Steuerverkürzung wäre der Änderungsbescheid innerhalb der Festsetzungsfrist erlassen worden. Die verlängerte Festsetzungsfrist endete regulär mit Ablauf des Jahres 2000. Der Fristablauf wäre aber durch den Erlass der Prüfungsanordnung vom 6. Oktober 2000 auch für die Einkommensteuer 1993 und den Beginn der Außenprüfung im Jahr 2000 nach § 171 Abs. 4 Satz 1 AO gehemmt.
+
+21
+
+c) Entgegen der Auffassung des FG würde die Verlängerung der Festsetzungsfrist wegen Steuerhinterziehung oder leichtfertiger Steuerverkürzung durch den Berichtigungsantrag der Klägerin vom 11. Dezember 1997 nicht entfallen, auch wenn dieser eine Selbstanzeige i.S. des § 371 AO darstellen sollte.
+
+22
+
+aa) Die verlängerte Festsetzungsfrist setzt eine (objektiv und subjektiv) tatbestandsmäßige, rechtswidrige und schuldhafte Steuerhinterziehung i.S. des § 370 AO oder leichtfertige Steuerverkürzung i.S. des § 378 AO voraus (BFH-Beschluss vom 18. Dezember 1986 I B 49/86, BFHE 148, 218, BStBl II 1988, 213; BFH-Urteil vom 2. April 1998 V R 60/97, BFHE 186, 1, BStBl II 1998, 530). Demgegenüber führt eine den Anforderungen des § 371 AO genügende Selbstanzeige (lediglich) als Strafausschließungsgrund zur Straffreiheit und lässt die verlängerte Festsetzungsfrist unberührt (BFH-Urteil vom 14. August 1963 V 230/60, Höchstrichterliche Finanzrechtsprechung 1964, 182; BFH-Beschluss vom 2. Februar 2001 IV B 162/99, BFH/NV 2001, 890; Kruse in Tipke/Kruse, a.a.O., § 169 AO Rz 13; Klein/ Rüsken, AO, 10. Aufl., § 169 Rz 26; Hartmann in Beermann/ Gosch, AO, § 169 Rz 20; Pahlke/König/Coester, Abgabenordnung, 2. Aufl., § 169 Rz 57; Joecks in Franzen/Gast/Joecks, Steuerstrafrecht, 7. Aufl., § 371 Rz 219).
+
+23
+
+Auf die Festsetzungsfrist wirkt sich eine Selbstanzeige durch eine Ablaufhemmung bei Vorliegen der Voraussetzungen des § 171 Abs. 9 AO aus. Danach endet die Festsetzungsfrist nicht vor Ablauf eines Jahres nach Eingang der Anzeige, wenn der Steuerpflichtige vor Ablauf der Festsetzungsfrist eine Anzeige nach § 153 AO oder eine Selbstanzeige nach §§ 371, 378 Abs. 3 AO erstattet. Die Regelung gibt der Finanzbehörde bei kurz vor Ablauf der Festsetzungsfrist eingehenden Anzeigen zumindest ein Jahr Zeit, um die berichtigten Angaben auszuwerten. Der Hemmungstatbestand kommt dementsprechend nicht zum Tragen, wenn die dort vorgesehene Jahresfrist vor Ablauf der --bei Steuerhinterziehung und leichtfertiger Steuerverkürzung stets verlängerten-- Festsetzungsfrist endet (BFH-Urteile vom 28. Februar 2008 VI R 62/06, BFHE 220, 238, BStBl II 2008, 595; vom 8. Juli 2009 VIII R 5/07, BFHE 226, 198, BStBl II 2010, 583). Die fünf- oder zehnjährige Festsetzungsfrist ist eine Mindestfrist, die durch eine Selbstanzeige nicht abgekürzt werden kann.
+
+24
+
+bb) Entgegen der Ansicht des FG entfällt mit der Richtigstellung der Angaben nicht die Rechtfertigung für eine verlängerte Festsetzungsfrist. Mit der Fristverlängerung wird nämlich ein doppelter Zweck verfolgt. Es soll nicht nur den mit der Steuerhinterziehung einhergehenden objektiven Erschwernissen bei der Sachverhaltsaufklärung Rechnung getragen, sondern auch festgelegt werden, wann Rechtsfrieden zwischen dem Abgabeberechtigten und dem Steuerpflichtigen einkehrt. Der Steuerunehrliche, der selbst die entscheidende Ursache dafür gesetzt hat, dass die Steuern nicht in gesetzmäßiger Weise festgesetzt und erhoben werden, darf je nach Maß seiner Unehrlichkeit die "Rechtswohltat" der Verjährung erst nach fünf oder zehn Jahren in Anspruch nehmen (BFH-Urteil vom 26. Februar 2008 VIII R 1/07, BFHE 220, 229, BStBl II 2008, 659; vgl. bereits BFH-Urteile vom 14. Juli 1964 VII 165/62 U, BFHE 80, 55, BStBl III 1964, 493, und in BFHE 186, 1, BStBl II 1998, 530).
+
+25
+
+Zu Unrecht verweist das FG für seine Ansicht auf die Entscheidung des Reichsfinanzhofs (RFH) vom 6. April 1938 VI 193/38 (RStBl 1938, 513). Diese zu § 144 der Reichsabgabenordnung ergangene Entscheidung beruht auf einem anderen Sachverhalt als der Streitfall. Dort hatte das Finanzamt den Steuerpflichtigen zunächst "vorläufig" veranlagt, anschließend nach eingehender Ermittlung die Steuerpflicht aufgrund nachträglich bekannt gewordener Einnahmen verneint, das Steuerstrafverfahren eingestellt und eine "endgültige" Veranlagung durchgeführt. In diesem Einzelfall hielt der RFH eine diesen Sachverhalt erneut aufgreifende "Berichtigungsveranlagung" innerhalb der zehnjährigen Festsetzungsfrist für unzulässig, weil hinterzogene Beträge nicht mehr vorliegen könnten. Im Streitfall hat das FA dagegen zunächst die Erklärung im Berichtigungsantrag ungeprüft übernommen und erst anschließend die Betriebsprüfung durchgeführt, nach deren Ablauf der streitige Änderungsbescheid ergangen ist. Aber auch bei unterstellter Vergleichbarkeit der Sachverhalte würde der Senat an der Entscheidung nicht festhalten. Denn selbst die Einstellung eines Steuerstrafverfahrens mangels hinreichenden Tatverdachts nach § 170 Abs. 2 der Strafprozessordnung hindert die Strafverfolgungsbehörden nicht, das Verfahren später erneut aufzunehmen (Meyer-Goßner, Strafprozessordnung, 53. Aufl., § 170 Rz 9). Für die Festsetzung hinterzogener Steuern kann nichts anderes gelten.
+
+26
+
+3. Das FG ist von anderen Rechtsgrundsätzen ausgegangen. Die Vorentscheidung war daher aufzuheben.
+
+27
+
+Die Sache ist nicht spruchreif. Das FG hat bisher nicht geprüft, ob die Klägerin eine Steuerhinterziehung oder leichtfertige Steuerverkürzung begangen hat. Dies wird es im zweiten Rechtsgang nachzuholen haben. Hierbei wird das FG insbesondere auch zu untersuchen haben, welche Bedeutung dem Umstand zukommt, dass die Klägerin in ihrer am 12. Mai 1995 bei dem vor dem späteren Umzug der Klägerin zuständigen Wohnsitzfinanzamt abgegebenen Einkommensteuererklärung 1993 auf das nach den unter II.1.a genannten Rechtsgrundsätzen zu jener Zeit noch durchzuführende Feststellungsverfahren verwiesen hat.
+

@@ -1,0 +1,285 @@
+
+This case is before the court on Defendants’ Motion for Summary Judgment (Doc. #94) filed on December 17, 2016 and Plaintiff’s Motion for Partial Summary Judgment (Doc. #112) filed on February 21, 2017. The Motions are fully briefed and supported by the parties’ evidentiary submissions. (Docs. #95-98, 113-25). 
+
+
+Plaintiff, Jenny Connell Smith, filed a complaint in this court on July 11, 2014 alleging that Defendants misclassified her as an independent contractor while she worked for them as a paralegal/legal assistant and failed to pay her an appropriate overtime rate in violation of the Fair Labor Standards Act (“FLSA”), 29 U.S.C. §§ 201 et seq. (Doc. #1, Count I). On August 27, 2014, Plaintiff filed an amended complaint adding three more claims: Count II for retaliation in violation of the FLSA; Count III for breach of contract; and Count IV for slander. (See generally Doc. #14).  
+
+Earlier in this case, Defendants filed a Motion for Judgment on the Pleadings (Docs. #12, 
+
+20). The court determined that judicial estoppel barred Plaintiff’s FLSA and breach of contract 
+
+claims and that Plaintiff’s slander claim was barred by the absolute litigation privilege. (Doc. 
+
+#39 at 5-12). The claim for retaliation under the FLSA (Count II) survived that early dispositive motion. (Id. at 12-14). Defendants’ current motion seeks dismissal of Plaintiff’s retaliation claim. (Doc. #94). Plaintiff’s motion seeks partial summaryjudgment on the question of liability. 
+
+(Doc. #112). 
+
+
+
+
+The facts set out in this opinion are gleaned from the parties’ submissions of facts claimed to be undisputed, their respective responses to those submissions, and the court’s own examination of the evidentiary record. All reasonable doubts about the facts have been resolved in favor of the nonmoving party. See Info. Sys. & Networks Corp. v. City of Atlanta, 281 F.3d 1220, 1224 (11th Cir. 2002). These are the “facts” for summary judgment purposes only. They may not be the actual facts that could be established through live testimony at trial. See Cox v. Admr. U.S. Steel & Carnegie Pension Fund, 17 F.3d 1386, 1400 (11th Cir. 1994). Asserted “facts” that are not facts at all will be disregarded. Carter v. Three Springs Residential Treatment, 132 F.3d 635, 642 (11th Cir. 1998) (conclusory allegations without specific supporting facts have no probative value). 
+
+A. Plaintiff’s Employment and the Filing of the Lawsuit 
+
+Plaintiff Jenny Connell Smith (“Plaintiff” or ”Smith”), a legal assistant/paralegal, worked for Defendants from approximately December 2000 through April 2009 and again from July 2011 through December 2012. (Doc. #39, Amend. Compl., ¶¶ 22, 27, 28). On April 14, 2011, prior to her second round of employment, Plaintiff filed a Voluntary Chapter 13 Bankruptcy Petition with the United States Bankruptcy Court, Northern District of Alabama, Southern Division. (Doc. #13-3, Documents from Bankruptcy Petition; Doc. #39 at 2). Plaintiff did not include any contingent or unliquidated claims in Item 21 on Schedule B to her Bankruptcy Petition or on the schedules supporting that petition.  (Doc. #13-3, ¶ 5). 
+
+On July 11, 2014, Plaintiff filed the action now pending before the court. (Doc. #1). In that original Complaint, Plaintiff alleged that she notified Defendants that she was misclassified as a contract employee and was not being paid overtime to which she was entitled. (Doc. #1, ¶ 21). After learning of the lawsuit, Defendants retained John Saxon to represent them. (Doc. #98-5, A. Haynes Dep. at 54-56; Doc. #98-6, K. Haynes Dep. at 38-39). Based on Plaintiff’s allegations, Defendants took steps to preserve all evidence which might be relevant to Smith’s claims and/or any possible responses or defenses to those allegations. (Doc. #98-5, A. Haynes Dep. at 26-27; Doc. #98-9, A. Haynes Decl., ¶ 4; Doc. #98-10, K. Haynes Decl., ¶ 5). 
+
+While retrieving and reviewing all information that might possibly be relevant to the lawsuit, Defendants reviewed emails wherein Plaintiff discussed her requests to be rehired; her desire to be classified as an independent contractor; her wages; her performance as a paralegal/legal assistant; her disclosure of controlled substance abuses during her employment; her various medical conditions; her reasons for wanting to be classified as an independent contractor; and numerous personal projects and matters unrelated to the law firm’s work. (Doc. #98-9, A. Haynes Decl., ¶ 6; Doc. #98-10, K. Haynes Decl., ¶ 7). Defendants also recalled loans and payroll advances made to Plaintiff, Plaintiff’s bankruptcies, and Plaintiff’s communications with other attorneys in the Birmingham area. (Doc. #98-5, A. Haynes Dep. at 182-85, 186-87, 189, 192, 194; Doc. #98-6, K. Haynes Dep. at 24-25; Doc. #98-9, A. Haynes Decl., ¶ 7; Doc. #98-10, K. Haynes Decl., ¶ 8). 
+
+
+
+
+
+The National Employment Lawyers Association (“NELA”) is a national organization of lawyers who represent individual employees. The Alabama Affiliate of NELA is NELA-Alabama (“NELA-AL”). In 2014, NELA-AL had 33 dues paying members. (Doc. #98-12, Guerrier Decl., ¶ 6). One of those members was Russ Parker, an Alabama attorney who previously represented Plaintiff and filed the Original Complaint on her behalf. (Id.). Another was Alicia Haynes. (Doc. #98-5, A. Haynes Dep. at 130). Hank Sherrod, III, another Alabama attorney, was then the President of NELA-AL. (Doc. #98-8, Guerrier Dep. at 25; Doc. #98-7, Sherrod Dep. at 15, 29-30). 
+
+NELA-AL maintains a confidential Listserv where members of NELA-AL can post questions and share ideas pertaining to employment law and litigation. (Doc. #98-8, Guerrier Dep. at 17-24). A confidentiality provision is contained in the bylaws, requiring a firm to self-report if it is engaged in litigation with another member firm. (Doc. #98-12, Guerrier Decl., ¶ 7) (“The Board shall further require applicants to agree not to participate in NELA-Alabama’s confidential listserv during the pendency of any employment matter in which he or she opposes a NELA-Alabama member who is representing the employee and to notify NELA-Alabama’s President of the conflict.”). 
+
+Alicia Haynes was aware of the bylaws and concluded that she needed to bring the Smith matter to Sherrod’s attention. (Doc. #98-5, A. Haynes Dep. at 132-33). Ms. Haynes called Sherrod and expressed concern about “her firm’s work product being available to Russ [Parker] during the litigation.” (Doc. #98-7, Sherrod Dep. at 21). Sherrod told Ms. Haynes that he “would consult the other Board members and … make a decision without [Alicia Haynes] about the appropriate steps to take.” (Id.). Sherrod concluded that the appropriate response to Ms. 
+
+Haynes’s concern was to suspend Parker’s NELA-AL membership (including access to the Listserv) during the pendency of this litigation, despite the fact that the bylaws did not call for suspension from the organization. (Id. at 13-14, 21-22; Doc. #98-8, Guerrier Decl., ¶ 7). Specifically, Sherrod testified that “Russ was a marginal member of our group. He wasn’t to my recollection even active on the Listserv. He was the one that chose to initiate an action against some of our members, members who were prominent contributors to the Listserv. The Listserv would have suffered terribly in my view if the Haynes & Haynes firm had been excluded from it 
+
+rather than him. And I guess that you could have left everybody on, but that didn’t seem right either.” (Doc. #98-7, Sherrod Dep. at 16). 
+
+On July 18, 2014, Sherrod wrote Parker a letter notifying him that, “[b]ecause you are in litigation with two of our members and their firm, the board has decided to suspend your membership until completion of the lawsuit.” (Doc. #97-2, Exh. 2 to Parker Dep., Suspension Letter). Sherrod had discussed the matter with other members of the NELA-AL Board, either directly or through email, in making the decision.  (Doc. #98-7, Sherrod Dep. at 13-15, 62-63). 
+
+After receiving the letter from Sherrod, Parker sent Sherrod an email asking him to explain the basis for the decision to suspend his membership. (Doc. #97-2, Parker Dep. at 73). According to Sherrod, “My thinking in general is that regardless of the merits of your lawsuit, it undermines group collegiality for a member to have a lawsuit against other members.” (Id.). Parker never sought to be reinstated as a member of NELA-AL.  (Id. at 70, 76). 
+
+
+
+
+Defendants discussed with their colleague John Saxon how to best raise the judicial estoppel issue, which they believed would dispose of the Smith case. (Doc. #98-5, A. Haynes Dep. at 34; Doc. #98-9, A. Haynes Decl., ¶¶ 11-12; Doc. #98-10, K. Haynes Decl., ¶¶ 12-13). 
+
+The options Defendants presented to Saxon were: (1) file an answer, followed by a motion to dismiss on the ground of issue preclusion or (2) send a Rule 11 letter to Parker, setting forth the facts and law establishing judicial estoppel, and asking Smith (through Parker) to dismiss her case voluntarily or face possible sanctions under Rule 11. (Doc. #98-9, A. Haynes Decl., ¶ 13; Doc. #98-10, K. Haynes Decl., ¶ 14; Doc. #98-11, Saxon Decl., ¶ 7). Saxon suggested a third option: that he personally reach out to Parker, explain the facts and law related to judicial estoppel, and see if Smith might be willing to dismiss her claim voluntarily. (Doc. #98-5, A. Haynes Dep. at 82; Doc. #98-6, K. Haynes Dep. at 49-52; Doc. #98-9, A. Haynes Decl., ¶ 14; Doc. #98-10, K. Haynes Decl., ¶ 15; Doc. #98-11, Saxon Decl., ¶ 8). Since Parker had been his associate,1 Saxon thought that a face to face meeting would be more efficient and productive than the work required for the other options. (Doc. #98-9, A. Haynes Decl., ¶ 14; Doc. #98-11, Saxon Decl., ¶ 8). Defendants agreed to have Saxon reach out to Parker in an attempt to quickly resolve the lawsuit.  (Doc. #98-9, A. Haynes Decl., ¶ 14; Doc. #98-10, K. Haynes Decl., ¶ 15). 
+
+On August 4, 2014, the two lawyers met at Saxon’s office. (Doc. #98-11, Saxon Decl., ¶ 10; Doc. #113-1, Parker Decl., ¶ 4). Saxon is an experienced attorney who has practiced law for 40 years, mostly in this judicial district. (Doc. #98-11, Saxon Decl., ¶ 2). At the time of the meeting, Parker had practiced for around 8 years and formerly worked at Saxon’s firm as an associate. (Doc. #97-2, Parker Dep. at 14-15). Unbeknownst to Saxon, Parker surreptitiously recorded their meeting by placing a recording device in his jacket pocket.2 (Doc. #97-2, Parker Dep. at 9, 15, 19).  
+
+1 Parker worked with Saxon shortly after he graduated from law school. (Doc. #97-2, Parker Dep. at 25). 
+
+2 Caveat secret recorders. Surreptitious taping of anyone in a case before the undersigned by an officer of this court is not appropriate. As the court explained to the parties during oral argument, surreptitious and unconsented recording ofprivate conversations with fellow attorneys may not be a “per se” violation of the Alabama Rules of Professional Conduct. Nevertheless, absent the consent of all persons involved, the court considers it a violation of the ethical duties of counsel admitted to this court. The Alabama State Bar issued an opinion prohibiting 
+
+Ironically, while he was being secretly taped, Saxon began the meeting with a discussion about professionalism. (Doc. #98-4, Saxon Dep. at 26-28; Doc. #116-2, Transcription of Meeting between Saxon and Parker at 2). That is, he offered Parker feedback “in the advice category.” (Id.). He also expressed his opinion that an attorney who takes an adverse position against another lawyer may lose settlement leverage once a judicial complaint is filed. Saxon opined that, as a professional courtesy, when suing other attorneys, it is better to attempt to resolve the matter without the necessity of filing suit. (Doc. #116-2, Transcription at 2-4). Saxon also raised his “main point” for the meeting: that Parker and Plaintiff “have a serious and fatal judicial estoppel problem” which he believed would bar Plaintiff’s claim given the fact that her bankruptcy petition failed to mention an overtime claim.  (Id. at 4-11). 
+
+Saxon ended the meeting by addressing additional information “that may be helpful in convincing [Plaintiff] … [not] to go forward.” (Id. at 12). According to Saxon, “if for some reason this doesn’t get dismissed … if … if it goes forward, there will be counterclaims.”3(Id. at 18, 30). Saxon “made it clear” to Parker that there was evidence to support certain counterclaims. (Doc. #98-4, Saxon Dep. at 19). “And a couple of them would be compulsory 
+
+such unconsented recording in 1984, but in a puzzling move later withdrew that opinion. See Alabama State Bar Disciplinary Commission, Formal Op. 1983-183 (1984). The court understands that the Alabama State Bar’s disciplinary commission found it “not unethical, per se” to record a conversation without the knowledge and consent of all parties “[a]bsent any element of dishonesty, fraud, deceit, or misrepresentation.” Id. But, the court cannot conceive how one surreptitiously records a conversation without committing some degree of inherent deceit. See Anderson v. Hale, 202 F.R.D. 548, 556 (N.D. Ill.) (“[A]n attorney who surreptitiously records conversations with witnesses in civil cases engages in inherently deceitful conduct . . . .”), adopted, 159 F. Supp. 2d 1116 (N.D. Ill. 2001). Several federal courts, including the Eleventh Circuit, have found that surreptitious recording of a conversation is a violation of counsel’s professional ethical duties, which are higher than “mere legality.” See, e.g., Parrott v. Wilson, 707 F.2d 1262, 1270-72 (11th Cir. 1983) (affirming the forced disclosure of tapes created by a party’s attorney through clandestine recording); Chapman & Cole v. Itel Container Int’l B.V., 865 F.2d 676, 686 (5th Cir. 1989) (affirming sanctions imposed because counsel failed to disclose a clandestinely-recorded tape whose production violated the Model Rules of Professional Conduct). Simply put, “[p]eople who speak to attorneys in civil cases reasonably expect that they are not being recorded.” Anderson, 202 F.R.D. at 556. This expectation is at its zenith when opposing counsel are speaking to each other about a pending case. 
+
+The undisputed Rule 56 evidence indicates that Saxon was speaking with Parker of possible counterclaims without having discussed the matter with Defendants. (Doc. #98-5, A. Haynes Dep. at 84-88, 116-19, 259-60) (stating that during their meeting with Saxon, there was no discussion of asserting any possible counterclaims in the litigation). 
+
+and would be the kind of thing that I think Russ would know whether we could bring or not.” (Id. at 18-19). Specifically, Saxon outlined three counterclaims – one for unpaid loans, one for tortious interference, and one for “stealing time.” (Doc. #116-2, Transcription at 18, 21). 
+
+Saxon shared emails with Parker in which Plaintiff asked to be paid hourly so that she would not lose her free medical care, admitted that she used cocaine while working for Haynes & Haynes and was a terrible employee, and asked to remain a contract employee, forego health insurance, and be responsible for her own taxes. (Id. at 16-31). This documentation was shared with Parker after having “discuss[ed] the facts and documents which would provide a basis for defenses to Smith’s claims and consider[ing] how best to share [the] information with Mr. Parker.”(Doc. #98-11, Saxon Decl., ¶ 9). 
+
+As there had been no discussion of counterclaims in the meeting between Saxon and Defendants, the record also indicates that Saxon had not asked whether there were any extenuating circumstances which might make the assertion of potential counterclaims questionable. (Doc. #98-4, Saxon Dep. at 19-23) (i.e. “My understanding was it was not paid, maybe it was, I don’t know …”). For example, as to any claim for money owed on unpaid loans, Haynes & Haynes had agreed to forgive the money owed in lieu of a raise. (Doc. #118, Exh. A, Email dated 3/1/09; Doc. #98-4, Saxon Dep. at 20; Doc. #98-10, K. Haynes Dep. at 61, 84-85; Doc. #98-5, A. Haynes Dep. at 91; Doc. #113-2, Smith Decl., ¶ 14). As to tortious interference, Alicia Haynes did not consider the incident in question to be “a big deal” and could not think of a time when Smith interfered with her business. (Doc. #98-5, A. Haynes Dep. at 95­96, 115; Doc. #113-2, Smith Decl., ¶ 5). Finally, as to the question of “stealing time,” Alicia Haynes agreed that handling personal matters and matters for other attorneys during lunch time does not constitute stealing time. (Doc. #98-5, A. Haynes Dep. at 191; Doc. #96-1, Smith Dep. at 254, 275). 
+
+On August 6, 2014, Barry and Brandi Frederick filed a Notice of Appearance (Doc. #6) on behalf of Plaintiff. Later that same day, Parker withdrew as counsel for Plaintiff. 4 (Doc. #8). Plaintiff did not oppose the change of counsel. (Doc. #97-2, Parker Dep. at 93-95). 
+
+
+
+
+Under Federal Rule of Civil Procedure 56(c), summary judgment is proper “if the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law.” Celotex Corp. v. Catrett, 477 U.S. 317, 322 (1986). The party asking for summary judgment always bears the initial responsibility of informing the court of the basis for its motion and identifying those portions of the pleadings or filings which it believes demonstrate the absence of a genuine issue of material fact. Id. at 323. Once the moving party has met its burden, Rule 56(c) requires the non-moving party to go beyond the pleadings and --by pointing to affidavits, or depositions, answers to interrogatories, and/or admissions on file --designate specific facts showing that there is a genuine issue for trial. See id. at 324. 
+
+The substantive law will identify which facts are material and which are irrelevant. See Anderson v. Liberty Lobby, 477 U.S. 242, 248 (1986). All reasonable doubts about the facts and all justifiable inferences are resolved in favor of the non-movant. See Allen v. Bd. of Pub. Educ. for Bibb Cty., 495 F.3d 1306, 1314 (11th Cir. 2007); Fitzpatrick v. City of Atlanta, 2 F.3d 1112, 1115 (11th Cir. 1993). A dispute is genuine, “if the evidence is such that a reasonable jury could 
+
+4 The record evidence shows that Plaintiff had met with the Frederick firm before Parker’s meeting with John Saxon (Doc. #97-2, Parker Dep. at 58), and it was understood that the Frederick firm would take over the representation of Plaintiff at some point in time before Parker withdrew from the case. (Id. at 57-58, 61-62). 
+
+return a verdict for the nonmoving party.” Anderson, 477 U.S. at 248. If the evidence is merely colorable, or is not significantly probative, summary judgment may be granted. See id. at 249. 
+
+When faced with a “properly supported motion for summary judgment, [the non-moving party] must come forward with specific factual evidence, presenting more than mere allegations.” Gargiulo v. G.M. Sales, Inc., 131 F.3d 995, 999 (11th Cir. 1997). As Anderson v. Liberty Lobby, Inc., teaches, under Rule 56(c) a plaintiff may not simply rest on her allegations made in the complaint; instead, as the party bearing the burden of proof at trial, she must come forward with at least some evidence to support each element essential to her case at trial. See Anderson, 477 U.S. at 252. “[A] party opposing a properly supported motion for summary judgment ‘may not rest upon the mere allegations or denials of [her] pleading, but . . . must set forth specific facts showing that there is a genuine issue for trial.’” Id. at 248 (citations omitted). 
+
+Summary judgment is mandated “against a party who fails to make a showing sufficient to establish the existence of an element essential to that party’s case, and on which that party will bear the burden of proof at trial.” Celotex Corp., 477 U.S. at 322. “Summary judgment may be granted if the non-moving party’s evidence is merely colorable or is not significantly probative.” Sawyer v. Southwest Airlines Co., 243 F. Supp. 2d 1257, 1262 (D. Kan. 2003) (citing Anderson, 477 U.S. at 250-51). 
+
+“[A]t the summary judgment stage the judge’s function is not himself to weigh the 
+
+evidence and determine the truth of the matter but to determine whether there is a genuine issue 
+
+for trial.” Anderson, 477U.S. at 249. “Essentially, the inquiryis‘whether the evidence presents 
+
+a sufficient disagreement to require submission to the jury or whether it is so one-sided that one party must prevail as a matter of law.” Sawyer, 243 F. Supp. 2d at 1262 (quoting Anderson, 477 
+
+U.S. at 251-52); see also LaRoche v. Denny’s, Inc., 62 F. Supp. 2d 1366, 1371 (S.D. Fla. 1999) 
+
+(“The law is clear . . . that suspicion, perception, opinion, and belief cannot be used to defeat a motion for summary judgment.”). 
+
+
+
+
+Plaintiff’s only remaining claim in this case relates to her assertion that she was retaliated against because she filed a FLSA lawsuit. Her retaliation claim hinges on two distinct events: (1) Parker’s suspension from NELA-AL; and (2) Saxon’s meeting with Parker, particularly Saxon’s “threat” of filing counterclaims against Plaintiff. (See Docs. #39, 40). After careful review, the court concludes that Plaintiff’s retaliation claim is due to be dismissed for the reasons set forth herein. 
+
+The FLSA protects persons against retaliation for asserting their rights under the statute. 29 U.S.C. § 215(a)(3). Where there is no direct evidence of retaliation, as is the case here,5 Plaintiff must make a prima facie showing that: (1) she engaged in an activity protected under the act; (2) she subsequently suffered adverse action by the employer; and (3) a causal connection existed between her protected activity and the adverse action. Wolf v. Coca-Cola Co., 200 F.3d 1337, 1342-43 (11th Cir. 2000).  
+
+If an employer asserts a legitimate reason for taking the adverse action, a plaintiff must show pretext. Id. at 1343. That is, “to avoid summary judgment [the plaintiff] must introduce 
+
+5 Plaintiff makes a cursory argument that this is a direct evidence case, and cites “John Saxon’s testimony that Russ Parker was suspended from NELA-AL because Parker filed this lawsuit, which the letter suspending Parker, itself, makes clear on its face; and John Saxon made it clear to Parker in their meeting unless Plaintiff dismissed this lawsuit, ‘there will be counterclaims.’” (Doc. #117 at 16). The argument is without merit. 
+
+It is well settled that direct evidence “reflects a discriminatory or retaliatory attitude correlating to the discrimination or retaliation complained of by the employee.” Jones v. Gulf Coast Health Care of Delaware, LLC, 854 F.3d 1261, 1270 (11th Cir. 2017) (quoting Wilson v. B/E Aerospace, Inc., 376 F.3d 1079, 1086 (11th Cir. 2004)). For that reason, “only the most blatant remarks, whose intent could mean nothing other than to discriminate on the basis of some impermissible factor constitute direct evidence of discrimination.” Id. (internal citations omitted). That is, one must infer that the suspension of Parker was made to retaliate against Smith, rather than Parker for filing a complaint against a fellow plaintiff’s employment law firm. Similarly, one must infer that the threat of counterclaims had no legal basis and that the statement was made by a defendant in this case. This is simply not a direct evidence case. 
+
+significantly probative evidence showing that the asserted reason is merely a pretext for discrimination.” Clark v. Coats & Clark, Inc., 990 F.2d 1217, 1228 (11th Cir. 1993) (citations omitted). A reason is not a pretext for discrimination or retaliation “unless it is shown both that the reason was false, and that [retaliation] was the real reason.” St. Mary’s Honor Center v. Hicks, 509 U.S. 502, 515 (1993). 
+
+To establish pretext, a plaintiff cannot simply recast the proffered reason but must meet it head on and rebut it. Holland v. Gee, 677 F.3d 1047, 1055 (11th Cir. 2012). The plaintiff must show “weaknesses, implausibilties, inconsistencies, incoherencies, or contradictions in the employer’s rationale.” Id. at 1055-56 (quotation omitted). The inquiry into pretext centers on the employer’s beliefs, not the employee’s beliefs or “reality as it exists outside of the decision maker’s head.” Alvarez v. Royal Atlantic Developers, Inc., 610 F.3d 1253, 1266 (11th Cir. 2010). As the Eleventh Circuit noted in Damon v. Fleming Supermarkets of Florida, Inc., “[courts] are not in the business of adjudging whether employment decisions are prudent or fair. Instead our sole concern is whether unlawful discriminatory [or retaliatory] animus motivates a challenged decision.” 196 F.3d 1354, 1361 (11th Cir. 1999). 
+
+
+There is no dispute that Plaintiff engaged in protected conduct when she filed the complaint at issue. (Doc. #95 at 18, n.7). And the mere temporal proximity between the protected conduct and the alleged retaliatory act of Parker’s suspension from NELA-AL is “very close.”6 Luke v. Bd. of Trustees Florida A&M Univ., 674 Fed. App’x 847, 851 (11th Cir. 2016) (quoting Thomas v. Cooper Lighting, Inc., 506 F.3d 1361, 1364 (11th Cir. 2007)). (See generally Docs. #95, 122). But these undisputed facts do not end the court’s inquiry. Plaintiff must still make an appropriate showing that she suffered an adverse action. In other words, she must still establish that Parker’s suspension from NELA-AL reached “some threshold level of substantiality.” Shannon v. Bellsouth Telecomm., Inc., 292 F.3d 712, 716 (11th Cir. 2002) (citing Wideman v. Wal-Mart Stores, Inc., 141 F.3d 1453, 1456 (11th Cir. 1998)). She cannot. 
+
+Adverse employment actions typically center on ultimate employment decisions, such as termination. Shannon, 292 F.3d at 716. Nevertheless, an employer’s actions may also constitute adversity if they reach “some threshold level of substantiality.” Id. In evaluating whether a defendant’s action meets that threshold, the inquiry is whether an employer’s actions likely would have “dissuaded a reasonable worker from making or supporting a charge” against the employer. Burlington N. & Santa Fe Ry. Co. v. White, 548 U.S. 53, 68 (2006) (decided in the Title VII retaliation context). In certain instances, dissuasion from making or supporting a charge may be actionable when taking the form of third party reprisals. Thompson v. N. Am. Stainless, LP, 562 U.S. 170, 174 (2011) (“We think there is no textual basis for making an exception to [the retaliation standard] for third-party reprisals, and a preference for clear rules cannot justify departing from statutory text.”).7 Of course, “the significance of any given act of retaliation will often depend upon the particular circumstances.” Id. 
+
+6 Plaintiff filed her initial complaint in this action on July 11, 2014 (Doc. #1). NELA-AL suspended Parker’s membership on July 18. (Doc. #97-2, Exh. 2). Plaintiff’s amended complaint was filed on August 27, 2014. (Doc. #14). Defendants do not dispute temporal proximity. 
+
+7 The Thompson court reasoned that common usage of the term “person aggrieved” under Title VII includes those individuals who fall within the “zone of interest” that Congress sought to protect by enacting Title 
+
+VII. Thompson, 562 U.S. at 176-78. The Court did not, however, delineate exactly how close the relationship between the party complaining of discrimination and the third-party must be. Id. at 178 (“We have described the ‘zone of interests’ test as denying a right of review ‘if the plaintiff’s interests are so marginally related to or 
+
+Plaintiff’s assertions here fail to establish a substantially adverse action committed by Defendants. Plaintiff has not alleged that Parker withdrew his representation of her because he was suspended from NELA-AL. (Doc. #117 at 17-22; Doc. #97-2, Parker Dep. at 94-95). Instead, Parker testified that he withdrew from the case because he wanted to do what was best for his client.8 (Doc. #97-2, Parker Dep. at 64).  
+
+Plaintiff contends that the suspension adversely affected her because it “hobbled” and “inhibited” her “access to courts.” (Doc. #117 at 19; Doc. #97-2, Parker Dep. at 98). But this is clearly not the case. The suit had already been filed. Plaintiff continued to prosecute this case after Parker’s suspension from NELA-AL (and indeed after his withdrawal). And, Plaintiff’s assertion that Parker’s suspension should be considered adverse because after learning of the NELA-AL letter, she “cried the entire day” and was “sick to [her] stomach” cuts no ice. (Doc. #97-1, Smith Dep. at 166). Plaintiff may well have been saddened or even angered by the suspension of her first attorney, but courts are not in the position to police “everything that makes [a current or former] employee unhappy.” Davis v. Town of Lake Park, Fla., 245 F.3d 1231, 1242 (11th Cir. 2001). Hurt feelings are never fun, but they are ordinary tribulations that all persons have experienced. See Kidd v. Mando Am. Corp., 731 F.3d 1196, 1204 n.10 (11th Cir. 2013). The anti-retaliation provision “protects an individual not from all retaliation, but from retaliation that produces an injury or harm,” and “petty slights, minor annoyances, and simple lack of good manners” are generally not sufficient.  Burlington, 548 U.S. at 68. 
+
+inconsistent with the purposes implicit in the statute that it cannot reasonably be assumed that Congress intended to permit the suit.’”) (internal citations omitted). Here, the court need not decide whether the client-lawyer relationship is sufficiently within the protected “zone of interest” because, for the reasons explained below, the actions complained of here do not rise to the level of adversity required to make a prima facie case of retaliation. 
+
+8 Parker allowed that he was “afraid that stating [his other reason for withdrawal] would hurt [Plaintiff’s] interest.” (Doc. #97-2, Parker Dep. at 65). 
+
+14 
+
+Because Plaintiff has failed to establish that Parker’s suspension from NELA-AL was an adverse action against her, the retaliation claim is due to be dismissed. 
+
+
+
+
+Even if Plaintiff had established a prima facie case of retaliation with regard to the suspension issue --and plainly she has not --her retaliation claim would nevertheless fail.  Defendants have easily met their “exceedingly light” burden of articulating legitimate, non-retaliatory reasons for their alleged adverse actions, and Plaintiff cannot establish that their reason is a pretext for a retaliatory motive. 
+
+Defendants have articulated their non-retaliatory reason: they called the President of NELA-AL, Hank Sherrod, not to have Parker suspended from the organization, but rather as an effort to follow the bylaws requiring notification of member law firms engaged in opposing litigation. (Doc. #98-5, A. Haynes Dep. at 132-36; Doc. #98-7, Sherrod Dep. at 19-20; Doc. #98-12, Guerrier Decl., ¶ 7). It was after Ms. Haynes spoke with him that Sherrod “just decided what needed to be done, made sure that [he] wasn’t acting ultra vires, and did [suspend Parker from the organization]. And [he] did it quickly and there wasn’t a lot of talk because [he] thought that it was completely obvious what needed to happen. … If you initiate a personal lawsuit against a colleague in a very small organization, you should just know that, you know, while the lawsuit is going, you probably don’t need to be part of that social network.” (Doc. #98-7, Sherrod Dep. at 19, 36, 39).  
+
+Plaintiff’s argument on pretext is centered on questioning the wisdom of the decision to suspend Parker’s membership in NELA-AL. A substantial amount of the argument is spent on the assertion that suspension from the organization was not contemplated by the bylaws and that the “Defendant loaded” Board made the decision to suspend Parker. (Doc. #117 at 19-21). 
+
+These arguments fail for at least three reasons. First, Defendants did not make the decision to suspend Parker, nor is there any Rule 56 evidence suggesting that they called Sherrod with any intent to have Parker suspended. (Doc. #98-7, Sherrod Dep. at 14, 17, 20; Doc. #98-5, A. Haynes Dep. at 132-33). As such, Plaintiff cannot establish a “real retaliatory motive” for Parker’s suspension; in fact, Defendants had no motive for the suspension because they were not involved with it. (Doc. #98-7, Sherrod Dep. at 20) (“And I told her that, you know, I would consult the other Board members and we would make a decision without her about the 
+
+appropriate steps to take.”).  
+
+Second, to the extent Plaintiff argues that Sherrod (or the Board) should have suspended Parker solely from the Listserv and not from the organization, this was a business judgment made by Hank Sherrod and the Board – a Board that, at the time, did not include either Kenneth Haynes or Charles Guerrier.9 (Doc. #123-1, Guerrier Supp. Decl., ¶¶ 7, 9). Whether or not Sherrod’s business judgment was prudent or fair is not for this court to assess. Marria v. C.R. England, Inc., 676 Fed. App’x 844, 850 (11th Cir. 2017) (citing Damon, 196 F.3d at 1361); White v. Beaulieu Grp., LLC, No. 5:15-cv-2141-AKK, 2017 WL 2243024 at *5 (N.D. Ala. 2017) (“This directive to not second-guess business decisions is even more relevant where, as here, [Defendant] directs the court to its reason for its concern .…”). 
+
+Finally, when Ms. Haynes contacted Sherrod about the suit filed against her and the other Defendants by Parker, she was also concerned about “her firm’s work product being available to [Parker] during the litigation.” (Doc. #98-7, Sherrod Dep. at 21). There is nothing in the record 
+
+9 Although Plaintiff devotes some of her argument to her claim that Kenneth Haynes and Chuck Guerrier were on the Board at the time the suspension decision was made, the cited testimony and the Rule 56 evidence do not support that contention. (Doc. #98-7, Sherrod Dep. at 18) (“I’m not sure [who was on the Board]. The people who would typically have been, it would have been Ed Still, John Saxon, Rocco Calamusa, Alicia, Chuck perhaps. I could be missing a person or two.”). In any event, Sherrod was clear – he did not consult with Alicia or Kenny Haynes about the appropriate action to be taken. (Id. at 37-38) (“Oh, Kenny was on the Board. … I think so, but I’m not sure. … If he was, I did not confer with him about the lawsuit. It would have been just the Board members other than Alicia and Kenny.”) 
+
+to suggest that she requested his suspension, nor did she ask that any particular action be taken.  
+
+Again, it was Sherrod’s decision to suspend Parker. It would be a nonsensical stretch of the 
+
+record evidence to suggest that merely reporting the lawsuit filed by Parker to Sherrod constituted a retaliatory action against Plaintiff. 
+
+Because Plaintiff has done nothing to rebut (much less meet head-on) Defendants’ articulated reason for calling Sherrod (that is, abiding by the bylaws of the NELA-AL), she cannot establish pretext on the issue of Parker’s suspension from NELA-AL. See Brooks v. Cnty. Comm’n of Jefferson Cnty., Ala., 446 F.3d 1160, 1163 (11th Cir. 2006). 
+
+
+Plaintiff also argues that she was retaliated against when Saxon, in his meeting with Parker, threatened to file what Plaintiff contends are “baseless counterclaims.” She contends that this claim should be evaluated using the framework set out in Smith v. Miami-Dade County, 621 Fed. App’x 955 (11th Cir. 2015). (Doc. #114 at 21). In Miami-Dade, the court held that to be deemed retaliatory, a counterclaim must have been filed with a retaliatory motive and must lack a reasonable basis in fact or law. Id. at 960 (emphasis added) (citing Bill Johnson’s Rests., Inc. 
+
+v. NLRB, 461 U.S. 731, 748-49 (1983) (explaining when an employer’s lawsuit may be the basis of a retaliation claim under the National Labor Relations Act) and Darveau v. Detecon, Inc., 515 F.3d 334, 343 (4th Cir. 2008) (discussing, under the FLSA, the allegations required to support a retaliation claim based upon an employer’s suit against the employee)).10 Upon close examination, Plaintiff’s theory regarding threatened counterclaims is fatallyflawed. 
+
+10 Plaintiff devotes a fair amount of argument to assessing the testimony of Alicia Haynes and Kenny Haynes related to potential counterclaims in this action. Both testified that they never had any intention of filing a counterclaim against Plaintiff. (Doc. #98-5, A. Haynes Dep. at 118-19; Doc. #98-10, Haynes Decl., ¶ 16). And both testified that they are not aware of any factual basis for any counterclaims that could be asserted against Plaintiff in this lawsuit. (Id. at 119-20). But this does not mean that at the time of the conversation between Saxon 
+
+First, no counterclaim or countersuit was actually filed in this case. Instead, the possibility of counterclaims was discussed (or, as Plaintiff says, threatened) by Saxon during the covertly tape-recorded meeting between Saxon and Parker. Thus, unlike in Smith and Bill Johnson’s, no counterclaim was ever filed. 
+
+Second, the meeting between Saxon and Parker occurred after Plaintiff’s lawsuit had already been initiated. Plaintiff argues that this is a difference without a distinction. (Doc. #114 at 17-20) (“Objectively, the alleged retaliation would tend to dissuade a reasonable person from pursuing her protected lawsuit.”). The court disagrees. As the Seventh Circuit has observed, “it will be the rare case in which conduct occurring within the scope of litigation constitutes retaliation.” Steffes v. Stepan Co., 144 F.3d 1070, 1075 (7th Cir. 1998).  That reasoning has been recognized by at least one district court in this circuit. Tzoc v. M.A.X. Trailer Sales & Rental, Inc., No. 13-23859-CIV, 2016 WL 2374594 at *15 (S.D. Fla. May 18, 2015) (“If only baseless counterclaims can support a retaliation count under the FLSA, the court fails to see how an unfiled, single threat of a counterclaim would support a retaliation claim.”); Suchite v. Kleppin, 819 F. Supp. 2d 1284, 1294 (S.D. Fla. 2011) (finding that deposition questions regarding the plaintiffs’ immigration status were not adverse actions under the FLSA but that immigration reports to the US Attorney’s office could be adverse actions). 
+
+But there are other defects that beset Plaintiff’s retaliation claim based upon threatened counterclaims. The court has no hesitation in concluding, based upon this Rule 56 record, that at least in this context the mere discussion (or threatening) of counterclaims by trial counsel during ongoing litigation (i.e., after a suit has already been filed) is not retaliatory. The fact that the discussion of potential counterclaims occurred amongst the parties’ attorneys is an important fact 
+
+and Parker, facts were not being explored on the question of potential counterclaims, as to their viability both factually and legally. 
+
+18 
+
+in this case. No threats were made directly to Plaintiff about counterclaims. Nor did Saxon discuss the strengths and weaknesses of her case with her. C.f. N.L.R.B. v. U.S. Postal Serv., 526 F.3d 729, 731-32 (11th Cir. 2008) (where a supervisor yelled at a plaintiff for filing a charge 
+
+and told him he “had better get a good attorney, because he was going to sue,” but no 
+
+counterclaim was ever actually filed, a retaliation claim could stand). This speech among attorneys is a basic premise of advocacy and is deserving of First Amendment protection. See Watts v. U.S., 394 U.S. 705 (1969) (finding that a true threat must be distinguished from protected speech); see also N.L.R.B. v. Gissel Packing Co., 395 U.S. 575, 617 (1969) (employers are free to make predictions, based on objective facts, as to the effects unionization will have on his company). 
+
+Upon careful review it is readily apparent that Plaintiff has failed to (1) establish the threats were retaliatory in nature, (2) make out a prima facie case, (3) show pretext, and (4) demonstrate that the threats were baseless.  Each of these issues is discussed, in turn. 
+
+
+Just as with Parker’s suspension from NELA-AL, there is no dispute that Plaintiff’s filing of her judicial complaint was protected conduct and that the meeting between Saxon and Parker was temporally close to the filing of the complaint.11 But, again, Plaintiff has not shown she suffered an adverse action. Smith contends that the mention of counterclaims made her “feel threatened” and “hurt me, that I couldn’t believe that they had said those things about me when I had been such a great paralegal for them. Hurt my feelings. Made me feel like I wasn’t worth anything.” (Docs. #96-1 & 96-2, Smith Dep. at 51, 183, 185). But, quite obviously, the mention of counterclaims did not dissuade Plaintiff from pursuing her case. Burlington, 548 U.S. at 68. 
+
+11 That the meeting followed closely after the filing of the complaint is hardly surprising here. Virtually all “pre-answer/motion” meetings between litigation counsel are held after the complaint is filed. 
+
+So once again, while these statements may have hurt Smith’s feelings, that simply is not enough. The anti-retaliation provision “protects an individual not from all retaliation, but from retaliation that produces an injury or harm.” Id. And “petty slights, minor annoyances, and simple lack of good manners” do not form a claim for retaliation. Id.; see also Davis, 245 F.3d at 1242. 
+
+
+Even were the court’s analysis to proceed past the prima facie case, Plaintiff’s claim would nevertheless fail. Defendants have articulated a legitimate, non-discriminatory reason for discussing (or, as Plaintiff puts it, threatening) counterclaims with Plaintiff’s attorney – the open and honest discussion of the strengths and weaknesses of a case between two attorneys. (Doc. #95 at 22-25). Nor has Plaintiff raised any material issue of fact concerning Saxon’s (and Defendants’) assertion that any “threats” were part and parcel to communications Saxon had with opposing counsel (who used to work in his office). Plaintiff cannot establish that this stated reason is merely a pretext for discrimination. Holland, 677 F.3d at 1055. In fact, Plaintiff does nothing to meet head-on and rebut this contention; instead, she has opted to argue that the threatened counterclaims were baseless in fact or law. (See generally Docs. #114, 117, 125). The court proceeds to the analysis of that question. 
+
+
+
+
+To present a viable retaliation claim under Smith v. Miami-Dade County, Plaintiff must also show that any threatened counterclaim was baseless. Unfortunately for her, an application of Miami-Dade to her claim shows she cannot make that showing. Each of the counterclaims discussed had a reasonable basis in fact or law (and there was no retaliatory motive on the part of Defendants as discussed supra). Kentish v. Madahcom, Inc., 566 F. Supp. 2d 1343, 1349 (M.D. Fla. 2008). 
+
+To begin, the court notes that it is challenging to analyze this allegation using the Miami-Dade framework because that decision’s logic seems to dissipate where counterclaims were “threatened” but not actually filed. Plaintiff and Defendants alike have embarked on a journey into analyzing the potential viability of actual claims for “stealing time;” “tortious interference;” “money owed;” and “attorney’s fees and costs.” But, to some degree, this is a journey into a purely hypothetical world because, of course, there were no actual counterclaims filed by Defendants. Moreover, it ignores the reality of the situation which has been discussed above.  First, two attorneys were engaging in the practice of law, discussing the potential strengths and weaknesses of a case. See Sahyers v. Prugh, Holliday & Karatinos, P.L., 560 F.3d 1241, 1245 
+
+n.5 (11th Cir. 2009) (“[M]aintaining a bar that promotes civility and collegiality is in the public interest and greatly advances judicial efficiency: better ‘to secure the just, speedy and inexpensive determination of every action and proceeding,’ as Rule 1 demands.”). This is what attorneys do every day. It is not the defense attorney’s job to analyze the strengths and weaknesses of a claim for the benefit of a plaintiff’s attorney (or vice versa). And, it is not lost on the court that these two attorneys in the not too distant past had enjoyed somewhat of a mentor-mentee relationship. 
+
+Second (and again), the discussions between Saxon and Parker occurred after the lawsuit had already been filed. No matter how they are turned over and around, Saxon’s comments cannot be viewed as seeking to chill Smith’s right to file a FLSA judicial complaint – she had already done that. In context, it is clear to the court that Saxon’s comments12 were aimed at 
+
+12 Typically, when confronted with a motion for summary judgment related to what was said during a key conversation, the court is left with the task of evaluating a summary judgment record based upon two different 
+
+(1) exploring whether the suit could (or should) be resolved, either by agreement of the parties or even voluntary dismissal of the suit by Plaintiff, and (2) offering advice to a former associate regarding how cases like this might be handled with more aplomb. Saxon’s remarks about potential counterclaims undoubtedly went to the potential for resolving the case (or, more precisely, why the case was meritless and should be dismissed). But, the balance of his comments to Parker can be described as coaching.13 Indeed, after initial pleasantries were 
+
+exchanged, Saxon got right to the point: “The first [thing I want to cover] is just in the advice category, as a young lawyer …” (Doc. #116-2, Transcript at 2). Saxon’s conversation with Parker cannot be taken out of the context that Parker had previously worked for him and that, from his opening remarks, he was at least in large part offering Parker “advice.” 
+
+
+
+
+When Saxon discussed potential counterclaims with Parker,14 he told Parker that Smith was “basically stealing time from them for getting paid and not doing her work.” (Doc. #116-2, Transcript at 18). Saxon clarified his thinking: “Mypoint is, she wasn’t working all the time she claims that she was paid for.” (Doc. #116-2, Transcript at 27). A claim for “stealing time” may be cognizable in Alabama in the form of a fraud claim.15 Baldwin v. Panetta, 4 So.3d 555, 564­55 (Ala. Civ. App. 2008).  But no such counterclaim was ever filed. 
+
+accounts of the conversation. Whatever can be said for Parker’s decision to secretly tape his conversation with Saxon, it is at least helpful in this respect: the court and the parties know exactly what was said by Saxon and Parker. 
+
+13 Perhaps if he had known of the clandestine recording, Saxon would also have coached Parker in the area of professional responsibility. 
+
+14 Saxon’s clients had not authorized or discussed potential counterclaims with him. Regardless, Defendants have not argued that Saxon wasn’t their agent. And, while they concede Saxon’s acts may be attributable to them, they contend any motive by Saxon cannot be similarly attributed. 
+
+15 It is true that Defendants did not plead fraud as a defense. They didn’t have to. The discussion between Saxon and Parker occurred on August 4, 2014. (Doc. #98-11, Saxon Decl., ¶ 10; Doc. #113-1, Parker Decl., ¶ 4). The initial Answer was filed on August 6, 2014. (Doc. #9). It is possible, indeed likely, that in the days that 
+
+Saxon’s clients had not authorized him to discuss this point with Parker, nor had Defendants even discussed such a claim with Saxon. He was speaking as lawyers do. But, to be clear, the factual evidence available to Saxon at the time of the meeting certainly did not indicate that such a claim was baseless. In preserving documents for this lawsuit, Alicia Haynes found evidence of Plaintiff doing personal work and work for other attorneys during normal business hours at Haynes & Haynes. (Doc. #98-5, A. Haynes Dep. at 182-84, 189; see also Doc. #116-2, Transcript at 21-22 (“The only problem is, at 10:57 in the morning of August 13, she’s not supposed to be billing her other lawyer; she’s supposed to be doing work for Haynes & Haynes.”); id. at 24-25 (“This is all on Haynes & Haynes’ computers. She sat there during the day when she’s billing them for paralegal at Haynes & Haynes, running her life out of her office. … You’re saying they owed you overtime, and you’re sitting there running your whole life out of their law firm, putting down on their computer, on their time when you’re getting your nails done, when you have your hair appointment.”). Although the information on “stealing time” eventually was found to be unreliable and/or inconsequential (Doc. #96-1, Smith Dep. at 120, 254-55, 275; Doc. #113-2, Smith Decl., ¶¶ 6-8; Doc. #98-5, A. Haynes Dep. at 191), at the time Saxon met with Parker (less than a month after the lawsuit was originally filed), the record evidence does not support a conclusion that Saxon had an unreasonable basis for believing that such a counterclaim may be viable. Therefore, on the question of stealing time, Saxon possessed both a reasonable factual and legal basis for offering his view that such a claim may (or would) be pursued. 
+
+followed the conversation, Defendants concluded that a counterclaim for fraud would not stand against Plaintiff. 
+
+Defendants did, however, include as a defense to Plaintiff’s overtime claim that Plaintiff’s damages for additional 
+
+wages would be set off by any debts owed to the employer. (Doc. #9 at 7, Sixth Defense). 
+
+
+
+
+
+
+
+
+Alabama law differentiates between tortious interference with business relations, which applies in cases where the defendant is a stranger to the business relationship, Edwards v. Prime, Inc., 602 F.3d 1276, 1302 (11th Cir. 2010), and breach of fiduciary duty, which applies in the context of an employment relationship. Allied Supply Co., Inc. v. Brown, 585 So.2d 33, 37 (Ala. 1991). Implicit in the fiduciary duty “is an obligation not to subvert the principal’s business by luring away customers or employees of the principal, or otherwise act in any manner adverse to the principal’s interest.”  Id. 
+
+When Saxon met with Parker, he mentioned “tortious interference.” (Doc. #116-2, Transcript at 18, 30). Of course, properly analyzed, the evidence Saxon had at the time may have supported a claim for breach of fiduciary duty, not tortious interference. (Doc. #98-15, Documents Shared with Parker, at HH000981-82; Doc. #98-9, A. Haynes Decl., ¶ 6). So, Saxon used the incorrect legal terminology,16 but he clarified the factual basis of the claim with Parker: “the tortious interference, I mean, that’s not the worst thing in the world, because she [Plaintiff] ultimately tells Alicia [Haynes], you know, Heather will do this if y’all don’t want to, but she sends it to Heather first.” (Doc. #116-2 at 30). Saxon candidly admitted to Parker that any claim might not withstand further scrutiny on the facts or the law. Miami-Dade, 621 Fed. App’x at 
+
+960. At the time, he was frankly discussing with a colleague the possibility of a claim, and essentially inviting Parker to explore the case law on the subject. Saxon had a reasonable legal basis to reference a counterclaim related to Smith diverting business to other attorneys. Moreover, Saxon did not purport to present a full-throated fiduciary duty claim. Therefore, on the question of tortious interference, no retaliation claim can stand. 
+
+16 The court is confident that a reasonably trained lawyer would understand the gist of the theory behind the potential claim (i.e. one for breach of fiduciary duty rather than tortious interference) based upon Saxon’s remarks, despite his incorrect legal classification of it. 
+
+ 
+
+At the time Saxon met with Parker, the available evidence suggested that a claim for money owed may have merit. Saxon told Parker, “the way Kenny [Haynes] put it to me was simply she left here owing us thousands. It would take a while to go back and – and re, you know, computer, but we can if we need to.” (Doc. #116-2, Transcript at 29-30). Saxon shared documentation with Parker indicating that Plaintiff had accepted loans in lieu of raises. Of course, he later candidly admitted “I didn’t ask them [Haynes & Haynes] whether she was right when she says y’all forgave … y’all agreed instead of giving me a raise you’d give $2500.” (Id. at 33; Doc. #98-4, Saxon Dep. at 20; Doc. #98-6, K. Haynes Dep. at 61, 84-85; Doc. #98-5, A. Haynes Dep. at 91; Doc. #113-2, Smith Decl., ¶ 9). As it turns out, Alicia Haynes testified that she “remember[ed] looking at the ledger sheet and it showed a balance owed, but my recollection is she paid all of that loan back.” (Doc. #98-5, A. Haynes Dep. at 91). And while no such counterclaim was ever filed, the Rule 56 evidence does not support Plaintiff’s argument that Saxon had no basis in law or fact to discuss with Parker money owed. On the question of a potential claim for money owed, no retaliation claim can stand. 
+
+
+In her amended complaint, Plaintiff alleges Defendants retaliated against her by “[c]onspiring with John Saxon … to intimidate and threaten Plaintiff with an assessment of Defendants’ attorneys’ fees against Plaintiff, as purported ‘non-prevailing party,’ despite that such assessment is neither contemplated by nor available under the FLSA (see 29 U.S.C. § 216(b)) but which attorney nonetheless did for and on behalf of Defendants.” (Doc. #14, ¶ 79(d)). As Plaintiff notes, the FLSA does not contain a prevailing party fee-shifting provision; rather, its fee shifting provision runs in favor of only prevailing plaintiffs. 29 U.S.C. § 216(b). 
+
+But, at least for the most part, Saxon did not discuss the possibility of attorney’s fees and costs with Parker within the context of the FLSA. He discussed fees within the context of Defendants’ assertion that the litigation would yield what was even than an inescapable conclusion – Smith was judicially estopped from asserting her FLSA claim. (Doc. #116-2, Transcript at 9-10, 17-18, 
+
+32) (Saxon remarking “we will file not an answer but a motion to dismiss and seek sanctions and then costs and fees for preparing the motion. … I’m saying this case is over. She is judicially estopped. It’s absolutely black and white.”); (Id. at 9-10) (“If she persists in this case, and I’ve already told you, we will seek fees and costs against her individually for not dismissing a case that is, in my opinion, black and white absolutelyjudicial estoppel.”) 
+
+This makes a difference. Sanctions are often sought (and clearly allowed) where a plaintiff pursues a frivolous claim. Rule 11 requires a plaintiff to certifythat “to the best of [her] knowledge, information and belief,” her claim is “warranted by existing law or by a nonfrivolous argument for the extension, modification, or reversal of existing law or the establishment of new law....” Fed. R. Civ. P. 11(b)(2). If the rule is violated, the court may “impose an appropriate sanction.” Fed. R. Civ. P. 11(c). The majority of the case law available to Saxon and Defendants at the time of the meeting between Saxon and Parker indicated that the pursuit of judicially estopped claims may warrant Rule 11 sanctions. See Brown v. Winn-Dixie Stores, Inc., 2015 WL 3448614, No. CV 214-052 at *8-9 (S.D. Ga. May 20, 2015); Kennedy v. Jim’s Formal Wear Co., 2006 WL 2661264, No. 1:05CV1280JEC at *3 (N.D. Ga. Sept. 14, 2006). Plaintiff’s argument that a threat of sanctions or fees was baseless is meritless.17 
+
+17And, to the extent Plaintiff argues that any perceived threat to seek attorney’s fees was baseless because sanctions are not always allowed in judicially estopped cases, that argument is also meritless. (See Doc. #114 at 27­28; Doc. #125 at 7-8). A single case, not binding on this court, does not eliminate the potential for sanctions. See Likes v. DHL Exp. (USA), Inc., 2012 WL 8499732, No. 2:08-cv-428-AKK at *12 (N.D. Ala. March 7, 2012). 
+
+
+
+
+
+
+
+
+For the foregoing reasons, Defendants’ Motion for Summary Judgment (Doc. #94) is due to be granted and Plaintiff’s Motion for Partial Summary Judgment (Doc. #112) is due to be denied.  A separate order will be entered. 
+
+
+
+

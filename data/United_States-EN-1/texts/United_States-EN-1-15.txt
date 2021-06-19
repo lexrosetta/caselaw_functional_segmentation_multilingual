@@ -1,0 +1,359 @@
+ 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+ 
+ 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+UNITED STATES DISTRICT COURT 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+NORTHERN DISTRICT OF CALIFORNIA 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+21 
+21 
+21 
+21 
+21 
+21 
+21 
+21 
+22 
+22 
+22 
+22 
+22 
+22 
+22 
+22 
+23 
+23 
+23 
+23 
+23 
+23 
+23 
+23 
+24 
+24 
+24 
+24 
+24 
+24 
+24 
+24 
+25 
+25 
+25 
+25 
+25 
+25 
+25 
+25 
+ 
+MYRONISHA DAILEY, 
+Plaintiff, 
+v. 
+ 
+JUST ENERGY MARKETING CORP., et al., 
+Defendants. 
+ 
+
+ 
+ Case No.  14-cv-02012-HSG    
+ 
+ORDER GRANTING DEFENDANTS’ MOTION FOR SUMMARY JUDGMENT AND DENYING PLAINTIFF’S MOTION FOR CLASS CERTIFICATION 
+Re: Dkt. Nos. 40, 54 
+ 
+
+ 
+ 
+
+26 
+26 
+26 
+26 
+26 
+26 
+26 
+26 
+27 
+27 
+27 
+27 
+27 
+27 
+27 
+27 
+28 
+28 
+28 
+28 
+28 
+28 
+28 
+28 
+
+United States District Court 
+United States District Court 
+United States District Court 
+United States District Court 
+United States District Court 
+United States District Court 
+United States District Court 
+United States District Court 
+Northern District of California 
+Northern District of California 
+Northern District of California 
+Northern District of California 
+Northern District of California 
+Northern District of California 
+Northern District of California 
+Northern District of California 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+
+23 
+24 
+25 
+26 
+27 
+28 
+United States District Court 
+
+Northern District of California 
+
+
+
+
+Pending before the Court are Defendants Just Energy Marketing Corp.’s and Commerce Energy, Inc.’s (collectively, “Just Energy”) motion for summary judgment and Plaintiff Myronisha Dailey’s motion for class certification.  For the reasons articulated below, Defendants’ motion is GRANTED and Plaintiff’s motion is DENIED. 
+I. BACKGROUND 
+The following facts are undisputed unless otherwise noted.  Plaintiff used to work for Defendant Just Energy, which is affiliated with Defendant Commerce Energy, a company that provides electricity and natural gas supply to customers in California.  See Dkt. No. 2-1, Ex. B, ¶¶ 3-5.  Plaintiff’s primary job function was to go door-to-door soliciting new customers to sign up for Just Energy’s services.  See Dkt. No. 40-4 (“Dailey Dep. Tr.”) 59:16-60:20. 
+Plaintiff typically reported to the Just Energy regional office each day at 8:00 a.m., though there is some dispute as to whether she was required to come in at that specific time each day.  Id. 61:25-62:3.  The parties also dispute how many days per week Plaintiff worked.  It is not disputed that when Plaintiff did attend the morning meetings at the office, she rehearsed the “pitch” with other door-to-door workers and shared tips about how best to persuade customers to sign up for service.  Id. at 74:8-19, 78:2-13.  
+Plaintiff’s supervisor, a Regional Sales Distributor, did not accompany her or the other 
+workers in the field, although he stayed in contact with them to a certain extent—e.g., via telephone and text message—throughout the workday.  Id. 67:17-68:7, 129:10-14.  The Regional Sales Distributor would direct Plaintiff and her crew of door-to-door workers to target a certain geographic area each day, but she was responsible for transporting herself and the crew that she supervised to that day’s job site.  Id. 138:3-8, 140:8-14, 142:25-143:3.  While in the field, Plaintiff wore Just Energy-branded gear.  Id. 146:3-8.  
+Plaintiff testified that her role was to “obtain contracts for the benefit of Just Energy,” and that she regularly set—and met or exceeded—personal goals relating to the number of contracts she would obtain in a given day or week.  Id. 59:22-60:18, 171:22-172:12.  Plaintiff later described her position at Just Energy in her resume as “door-to-door sales” and herself as the “#1 sales person in California for natural gas.”  Dkt. No. 40-9.  Plaintiff’s compensation was based on how many new customers she persuaded to apply for Just Energy’s services.  Dailey Dep. Tr. at 88:15-89:16. 
+After Plaintiff successfully persuaded a customer to sign an application for service, a third party made a verification phone call to ensure that the customer indeed wanted to sign up for Just Energy’s services.  Id. 159:14-161:9.  Additionally, Just Energy conducted credit checks on potential customers and retained ultimate authority to reject any application.  Id. 156:17-157:18.  However, Plaintiff testified that she does not remember any of her applications being canceled by Just Energy.  Id.  
+In her First Amended Complaint, Plaintiff asserts the following causes of action under California law: 1) Failure to Provide Meal or Rest Breaks; 2) Failure to Pay Overtime; 3) Failure to Provide Accurate Itemized Wage Statements; 4) Failure to Pay on Designated Pay Periods; 5) Failure to Pay Minimum Wage; 6) Waiting Time Penalties; 7) Wrongful Termination in Violation of Public Policy; 8) Unfair Business Practices; and 9) Representative Action on Behalf of All Aggrieved Current and Former Employees of Defendants.  Dkt. No. 2-1, Ex. B.  On May 29, 2015, Plaintiff voluntarily dismissed her first and seventh causes of action.  Dkt. No. 70. 
+ 
+II. DISCUSSION 
+A. Motion for Summary Judgment 
+Defendants seek summary judgment on all of Plaintiff’s individual claims.  Specifically, Defendants argue that Plaintiff’s Labor Code claims—causes of action one through six—fail because she was an independent contractor and/or an outside salesperson, not an employee.  The parties agree that Plaintiff’s remaining causes of action are derivative of and dependent on her Labor Code claims.   
+1. Legal Standard 
+Summary judgment is proper where the pleadings, discovery and affidavits show that there is “no genuine dispute as to any material fact and [that] the movant is entitled to judgment as a matter of law.” Fed. R. Civ. P. 56(a).  Material facts are those which may affect the outcome of the case.  See Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986).  A dispute as to a material fact is genuine if there is sufficient evidence for a reasonable jury to return a verdict for the nonmoving party.  See id.  Only disputes over material facts will preclude summary judgment; “factual disputes that are irrelevant or unnecessary will not be counted.” Id. 
+The moving party bears the initial burden of identifying those portions of the pleadings, discovery and affidavits which demonstrate the absence of a genuine issue of material fact.  See Celotex Corp. v. Catrett, 477 U.S. 317, 323 (1986).  Where the moving party will have the burden of proof on an issue at trial, it must affirmatively demonstrate that no reasonable trier of fact could find other than for the moving party.  See id.  On an issue for which the opposing party will have the burden of proof at trial, however, the moving party need only point out “that there is an absence of evidence to support the nonmoving party's case.”  Id. at 325. 
+Once the moving party meets its initial burden, the nonmoving party must go beyond the pleadings and, by its own affidavits or discovery, set forth specific facts showing that there is a genuine issue for trial.  See Fed. R. Civ. P. 56.  It is not the task of the district court to scour the record in search of a genuine issue of triable fact.  Keenan v. Allan, 91 F.3d 1275, 1279 (9th Cir. 1996).  The nonmoving party has the burden of identifying with reasonable particularity the evidence that precludes summary judgment.  See id.  If the nonmoving party fails to make this 
+showing, “[t]he moving party is entitled to a judgment as a matter of law.”  Celotex Corp., 477 U.S. at 323. 
+2. Plaintiff’s Individual Claims Fail Because She Was An Outside Salesperson 
+Under the California Labor Code and applicable California Industrial Welfare Commission (“IWC”) Wage Order, “outside salespersons” are exempt from Plaintiff’s wage and hour claims.  Cal. Labor Code § 1171; Wage Order No. 4-2001(1)(C).  The IWC defines an outside salesperson as “any person, 18 years of age or over, who customarily and regularly works more than half the working time away from the employer’s place of business selling tangible or intangible items or obtaining orders or contracts for products, services or use of facilities.”  Wage Order No. 4-2001(2)(M) (emphasis added).  “Unlike the corresponding federal provision, California’s wage order definition takes a purely quantitative approach and focuses exclusively on whether the employee spends more than half of the workday engaged in sales activities outside the office.”  Duran v. U.S. Bank Nat’l Ass’n, 59 Cal. 4th 1, 26 (2014) (internal quotation marks omitted). 
+The determination of whether an employee is an outside salesperson is “a mixed question of law and fact.”  Ramirez v. Yosemite Water Co., Inc., 20 Cal. 4th 785, 794 (1999).  “[U]nder California law, exemptions from statutory mandatory overtime provisions are narrowly construed.”  Id.  “[T]he employer bears the burden of proving the employee’s exemption.”  Id. at 795.   
+Though some factual disputes exist regarding Plaintiff’s exact job requirements and activities, there are sufficient undisputed material facts for the Court to determine as a matter of law that Plaintiff is an exempt outside salesperson.  The parties do not dispute that Plaintiff spent more than 50% of her working time knocking on doors to solicit applications for Just Energy’s services.  However, the parties dispute whether Plaintiff’s activities are properly characterized as “selling” or “obtaining orders or contracts for . . . services.”  
+Plaintiff contends that she never actually sold any services because the signed applications could be rescinded under certain circumstances—for example, if the customer cancelled the contract, if the customer failed a credit check, or if the customer was already enrolled with another supplier.  The Court finds that Just Energy’s retention of the right to cancel a contract based on the 
+third-party verification call or a credit check—or any other reason—does not change the fact that Plaintiff’s job duties involved the “selling” of or “obtain[ing] orders or contracts for” Just Energy’s services.  Plaintiff’s stated role was to solicit and obtain signed applications for gas services.  She set personal goals for the number of applications she would obtain each day, as her compensation was based on how many customers signed up for Just Energy’s services.  Indeed, Plaintiff testified that she could not remember any of the customers she signed up being canceled after the fact by Just Energy. 
+Adopting Plaintiff’s argument would exalt form over substance.  “If an employee directs his efforts at persuading a particular customer to purchase a product and is compensated on the basis of his success in doing so then the employee is clearly engaged in sales activity and not mere general promotion of the product. . . . This is particularly so when . . . it has not been alleged that any other employee will affirmatively make further contact with the customer to consummate the sale.”  Barnick v. Wyeth, 522 F. Supp. 2d 1257, 1264-65 (C.D. Cal. 2007).  The facts here are analogous to cases involving the application of the outside salesperson exemption to pharmaceutical representatives, which overwhelmingly hold that such exemption applies.  See Barnick at 1264; Delgado v. Ortho-McNeil, Inc., No. 07-cv-00263-CJC, 2009 WL 2781525, at *6 (C.D. Cal. Feb. 6, 2009) (“Plaintiffs here have one duty—to speak to physicians on behalf of [Defendant] in order to persuade the physicians to prescribe [Defendant’s] drugs to their patients. . . . [T]his duty is best described as selling.”); Brody v. AstraZeneca Pharms., LP, No. 06-cv-06862-ABC, 2008 WL 6953957, at *7 (C.D. Cal. June 11, 2008).   
+ 
+3. Hurt And Wilkins Are Not Dispositive Of This Case 
+Two district courts have analyzed whether Defendants’ door-to-door workers should be classified as outside salespersons, and both of those courts denied motions for summary judgment on the issue.  See Hurt v. Commerce Energy, Inc., No. 12-cv-00758, 2013 WL 4427257 (N.D. Ohio Aug. 15, 2013); Wilkins v. Just Energy Grp., No. 13-cv-5806, 2015 WL 1234738 (N.D. Ill. Mar. 13, 2015).  Plaintiff argues that these cases necessarily resolve the question presented here.  However, because both the law and the material facts at issue in Hurt and Wilkins diverge from the law and facts presented in this case, the Court finds that those cases are not dispositive of the 
+issues here.  
+In Hurt, the Northern District of Ohio held that a genuine issue of material fact existed as to whether the plaintiff door-to-door workers were properly characterized as outside salesmen under the Fair Labor Standards Act (“FLSA”).  2013 WL 4427257, at *5.  FLSA defines an “outside salesman” as “any employee . . . [w]hose primary duty is . . . making sales” and who is “customarily and regularly engaged away from the employer’s place or places of business in performing such primary duty.”  29 C.F.R. § 541.500.   The statute further defines a “sale” as “any sale, exchange, contract to sell, consignment for sale, shipment for sale, or other disposition.”  29 U.S.C. § 203(k).  Reasoning that “[t]he contracts the Plaintiffs bring to Just Energy are merely proposals until Just Energy accepts them,” and that “Just Energy retains an unlimited right of rejection,” the Hurt court held that the plaintiffs did not “mak[e] sales” as that term is understood under FLSA.  2013 WL 4427257, at *5. 
+The Hurt court went on to analyze whether the plaintiffs “bear the ‘external indicia’ of outside salesm[e]n.”  2013 WL 4427257, at *5.  The court found that the plaintiffs “received commission compensation,” “received sales training,” and “were responsible for soliciting new business,” all of which were indicative of outside sales.  Id. at *6.  On the other hand, the court found that the plaintiffs were not hired “for their prior sales experiences,” and that the plaintiffs’ “evidence shows a genuine issue of material fact about the level of supervision Just Energy exerted on Plaintiffs.”  Id.  In support of its latter finding, the court noted that the plaintiffs’ evidence shows that “Just Energy controlled their work schedules,” “the supervisors required the Plaintiffs to knock on a specific number of doors and obtain a certain number of orders each day,” “Just Energy required them to report to the office each morning and prevented them from working independently,” “Just Energy assigned them to sales routes each day and controlled the Plaintiffs’ break time,” and “Just Energy required them to purchase and wear Just Energy branded clothing.”  Id. at *7-8.   
+Finally, the Hurt court concluded that a genuine issue of material fact existed as to whether the plaintiffs “fit within the purpose of FLSA’s outside sales exemption” because it was not clear that (1) the plaintiffs were “highly compensated” because they “failed to earn salaries averaging 
+$70,000 per year” and in some weeks “failed to earn any money,” and (2) the plaintiffs’ “jobs were incompatible with hourly pay” because “Just Energy supervisors required them to report to the Just Energy office each morning and sign-in, controlled the length of their work week and work day, determined when they took breaks, and decided where they worked.”  Id. at *9. 
+In Wilkins, the court held that door-to-door workers were not exempt outside salespersons under Illinois law because “[f]act questions exist about whether the door-to-door workers who obtained Agreements in fact ‘ma[de] sales or obtain[ed] orders or contracts for services that were consummated,” because customers had to pass a credit check “and the defendants had unlimited authority to reject Agreements,” and “[t]he percentage of cancellations is not . . . de minimus.”  2015 WL 1234738, at *7-8 (emphasis added).  Furthermore, the Wilkins court found that fact questions existed as to whether such sales or orders were made or obtained “regularly,” since the plaintiff “did not obtain any signed Agreements,” “evidence in the record indicates that Just Energy Illinois’ door-to-door workers had a high turnover rate,” and the plaintiff “earned $0 while she was a door-to-door worker.”  Id. at *8.    
+The Court finds that Hurt and Wilkins do not dictate the result here for several reasons.  First, the Hurt court considered only whether the plaintiffs “ma[de] sales” under FLSA and did not further analyze whether those plaintiffs obtained orders or contracts.1  Second, while the Illinois law applied in Wilkins is similar to California law, the Wilkins court appears to have added a requirement that the orders or contracts be “consummated” in order to satisfy the outside salesperson exemption.  Consistent with its analysis above, the Court declines to read this additional requirement into the exemption.   
+1 Furthermore, the United States Department of Labor’s regulatory comments cast doubt on the Hurt court’s conclusion that, because Just Energy retained the right to rescind applications for service, the plaintiffs there did not “mak[e] sales” as that term is used in FLSA.  See Brody, 2008 WL 6953957, at *8 (“[T]he Department of Labor’s Comments to its regulations implementing the FSLA reinforce that ‘selling’ need not involve the literal execution of contracts. . . . The Department emphasized that ‘[e]mployees have a primary duty of making sales if they “obtain a commitment to buy” from the customer and are credited with the sale.  See 1949 Weiss Report at 83 (“In borderline cases the test is whether the person is actually engaged in activities directed toward the consummation of his own sales, at least to the extent of obtaining a commitment to buy from the person to whom he is selling.”).’”) (emphasis in original).  
+Third, the facts in this case are materially different from the facts in Hurt and Wilkins.  
+There is no evidence in the record that Plaintiff was not well compensated: she posted her checks on Facebook in order to recruit other workers.  Furthermore, Plaintiff set her own sales goals, unlike the plaintiffs in Hurt.  Plaintiff also testified that she cannot remember any of her contracts ever being canceled by Defendants—and for the reasons explained above, the Defendants’ right to cancel a signed application does not transform the nature of Plaintiff’s job from sales activity to non-sales activity.   
+4. External Indicia Are Neutral As To Whether Plaintiff Was An Outside Salesperson 
+ 
+Finally, Plaintiff argues that the “external indicia” of outside sales indicate that she was not an outside salesperson.  Although “[t]hese indicia were developed for application of the [FLSA]’s outside salesperson exemption[,] . . . other courts’ interpretation of the FLSA has persuasive authority for this Court’s interpretation of the California Labor Code.”  Barnick, 522 F. Supp. 2d at 1263.  The factors to be considered are 1) whether the job “was advertised as a sales position and the employee was recruited based on sales experience and abilities”; 2) whether the plaintiff received “specialized sales training”; 3) whether the plaintiff’s compensation was “based wholly or in significant part on commissions”; 4) whether the plaintiff “independently solicit[ed] new business”; and 5) the extent to which plaintiff was supervised while carrying out daily work tasks.  Id. at 1262.   
+The Court notes initially that these external indicia are only a guide in the interpretation of the outside salesperson exemption under California law and have not been adopted by the Ninth Circuit.  See id. at 1263; Pablo v. Servicemaster Glob. Holdings, Inc., No. 08-cv-03894-SI, 2011 WL 2470093, at *8 & n.14 (N.D. Cal. June 20, 2011).  In any case, Plaintiff satisfies most of the external indicia.  While Just Energy did not recruit its door-to-door workers on the basis of sales experience or ability, Plaintiff described herself as the “#1 sales person in California” in her resume.  At morning meetings, the door-to-door workers exchanged ideas about how best to deliver sales pitches and obtain customers, which at least arguably constitutes training targeted specifically to the sale of Just Energy services.  Plaintiff’s compensation took the form of commissions, and the sole purpose of her job was to solicit new customers for Just Energy.  
+Finally, there is no dispute that Plaintiff was not directly supervised while she was out in the field, though the extent of any indirect supervision remains up for debate.  Taken as a whole, the external indicia of outside sales activity traditionally applied in the FLSA context are neutral as applied to Plaintiff.  Therefore, the Court finds that these external indicia do not conflict with its finding that there is no genuine dispute of material fact that Plaintiff’s job activities constituted “selling” or “obtaining orders or contracts . . . for services” as those terms are defined by California law.  
+* * * 
+The Court finds as a matter of law that the undisputed facts demonstrate that Plaintiff was an outside salesperson and therefore exempt from the wage and hour requirements of the California Labor Code.  California has made a policy decision to exempt such employees from these protections.  Whether or not the undersigned would entirely endorse that policy decision as a philosophical matter, the Code and the Wage Order clearly and straightforwardly preclude Plaintiff’s claim here.  Accordingly, the Court grants Defendants’ motion for summary judgment.  The Court need not consider Defendants’ remaining arguments in its motion. 
+B. Motion for Class Certification 
+Because all of Plaintiff’s individual claims fail, she may not bring any claims on behalf of a putative class.  Accordingly, the Court denies Plaintiff’s motion for class certification. 
+III. CONCLUSION 
+For the foregoing reasons, Defendants’ motion for summary judgment is GRANTED.  Plaintiff’s motion for class certification is DENIED.  The Clerk shall close the file.  
+IT IS SO ORDERED. 
+Dated: July 23, 2015 
+______________________________________ 
+HAYWOOD S. GILLIAM, JR. 
+United States District Judge 
+

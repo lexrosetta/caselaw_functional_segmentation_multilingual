@@ -1,0 +1,68 @@
+The Department of Labor investigated ActionLink, LLC, and determined that certain employees that ActionLink had classified as exempt from the overtime requirement of the Fair Labor Standards Act were not exempt.  ActionLink reclassified those employees as nonexempt on or before December 26, 2011.1  This action was commenced in March of 2012 by employees and former employees of ActionLink, LLC, seeking overtime pay. 
+
+In their complaint here, all of the named plaintiffs sought overtime compensation for the period of time before they were reclassified.  Some of them also alleged that ActionLink failed to pay all of the overtime that they earned after they were reclassified. 
+
+The plaintiffs moved for and were granted conditional certification of a collective action on behalf of employees and former employees who were classified as exempt but in fact were nonexempt.  Documents #40 and #48.  The notice described the class as current and former employees who held certain positions “at any time between February 6, 2011, and December 25, 
+
+1 From February 2011 through December 25, 2011, ActionLink classified brand advocates as exempt.  From February 2011 through November 27, 2011, ActionLink classified merchandising representatives as exempt. See Document #103 at 1. 
+
+2011.”  Document #46-1 at 2.  A total of sixty-seven persons, including the original named plaintiffs and the opt-in plaintiffs, became plaintiffs. 
+
+Both sides moved for summary judgment on the issue of whether the plaintiffs were exempt from the FLSA’s overtime requirements.  The Court granted the plaintiffs’ motion on that issue, finding as a matter of law that the plaintiffs were not exempt.  Document #85. 
+
+On July 23, 2013, ActionLink filed a motion for partial summary judgment in which it contended that the claims of twenty-seven plaintiffs had been settled and released. Document #88. Those twenty-seven plaintiffs had received and cashed checks that purported to compensate them for all of the overtime pay that they were due through the date that the employees were reclassified as nonexempt.  Document #89.  ActionLink supported the motion with a sworn declaration establishing that each of those checks was accompanied by a checkstub stating that an employee who cashed the check was agreeing that he or she had received full payment from ActionLink for wages earned, including minimum wage and overtime, up to the date of the check. Document #91.  The sworn declaration also established that ActionLink had arrived at the amounts owed to the employees for overtime in consultation with the Department of Labor representative who had investigated ActionLink and that the Department of Labor representative approved the amounts of the payments. Id. Further, the declaration established that the payments made by ActionLink exceeded the amounts that the Department of Labor had determined that ActionLink owed. Id. 
+
+The plaintiffs filed their response to the motion for partial summary judgment on August 5, 2013.  They did not submit evidence contesting the sworn declaration that supported the motion. Instead, their response consisted almost entirely of legal argument.  Document #99. 
+
+On September 3, 2013, the Court entered an Opinion and Order that granted the motion for partial summary judgment and dismissed with prejudice the claims of the twenty-seven plaintiffs who had received and cashed checks that purported to pay them in full for overtime owed through the date of the checks.  Document #103.2 
+
+On September 16, 2013, the plaintiffs filed a motion for reconsideration pursuant to Federal Rule of Civil Procedure 54(b), submitting, for the first time, twelve sworn declarations, along with other documents.  Document #114.  The basic thrust of the sworn declarations was that the plaintiffs were unaware of the notations on the checkstubs and did not knowingly waive their claims.  One declaration states that some employees were told by “the Company” that the notations were added by mistake and should be ignored.  Document #114-7 at 2.  The declarations also assert that the checks were insufficient to compensate the employees for all of the overtime that was owed. Although only twelve of the twenty-seven dismissed plaintiffs submitted sworn declarations, the plaintiffs have moved for reconsideration as to twenty-five of the twenty-seven.3 
+
+When the plaintiffs filed their motion for reconsideration, no final judgment had been entered, so the motion for reconsideration would have been governed by Federal Rule of Civil Procedure 54(b).  Rule 54(b) provides that, in the absence of a final judgment, any order that adjudicates fewer than all of the claims of fewer than all of the parties is subject to revision at any time before the entry 
+
+2 In addition to dismissing these twenty-seven plaintiffs’ claims, that Opinion and Order dismissed another plaintiff’s claim due to his involvement in a previous judgment. See Document #103 at 9-10. 
+
+3 In their reply brief, the plaintiffs explain that they are not challenging the dismissals of two of these twenty-seven plaintiffs–Charles Girard, Jr., and Barry Ornella–because of their involvement in a previously judgment. See Document #126 at 9 n.22. 
+
+of judgment adjudicating all of the claims and the rights and liabilities of all of the parties.  Fed. R. Civ. P. 54(b). 
+
+On September 26, 2013, the thirty-nine plaintiffs whose claims had not been dismissed accepted an offer of judgment from ActionLink, and the Court then entered judgment in favor of those plaintiffs against ActionLink, pursuant to Federal Rule of Civil Procedure 68.  Document #124. 
+
+ActionLink contends that the September 26 judgment was a final judgment, so the Court no longer has jurisdiction to consider the Rule 54(b) motion for reconsideration.  The plaintiffs deny that the September 26 judgment was a final judgment, but they offer no convincing argument on that point.  As noted, on September 3, 2013, the Court dismissed the claims of twenty-eight plaintiffs with prejudice, so those persons were no longer parties to this action on September 26.  The judgment entered on September 26 adjudicated all of the claims of all of the remaining plaintiffs, so it was a final judgment. Auto Services Co., Inc. v. KPMG, LLP, 537 F.3d 853, 856-57 (8th Cir. 2008). Therefore, the Court lacks jurisdiction to reconsider the order granting ActionLink’s motion for partialsummaryjudgmentas to the twenty-seven plaintiffs who received and cashed the overtimepay checks. 
+
+The plaintiffs alternatively argue that the Court can consider their motion for reconsideration under Federal Rule of Civil Procedure 59(e). See Jurgens v. McKasy, 905 F.2d 382, 386 (Fed. Cir. 1990).  The Eighth Circuit has said that to succeed on a Rule 59(e) motion, the moving party must show that (1) the evidence was discovered after the summary judgment proceeding; (2) the moving party exercised due diligence to discover the evidence before the end of the summary judgment proceeding; (3) the evidence is material and not merely cumulative or impeaching; and (4) a new hearing considering the evidence would probably produce a different result. Trickey v. Kaman Indus. 
+
+Techs. Corp., 705 F.3d 788, 808 (8th Cir. 2013); see also United States v. Metropolitan St. Louis Sewer Dist., 440 F.3d 930, 933 (8th Cir. 2006). 
+
+Here, the evidence submitted with the plaintiffs’ motion for reconsideration could have been but was not presented in response to the motion for partial summary judgment.  It is not newly discovered evidence; rather, the information was known to the plaintiffs, themselves, before the commencement of this action.  The plaintiffs offer no explanation as to why it was not presented when they responded to the motion for partial summary judgment.  The plaintiffs cannot meet the Eighth Circuit’s standard for a Rule 59(e) motion because they cannot show that the evidence was discovered after the summary judgment proceeding, nor can they show that they exercised due diligence to discover the evidence before the end of the summary judgment proceeding. Cf. Love v. Commerce Bank of St. Louis, N.A., 37 F.3d 1295, 1296 (8th Cir. 1994) (affirming an order in which the district court refused to consider affidavits supporting a motion to alter summary judgment where the party offered no justifiable excuse for not submitting the affidavits in opposition to summary judgment). 
+
+Although the Court has broader discretion under Rule 54(b)4 than under Rule 59(e), in this case the outcome is the same under Rule 54(b). A venerable and often-quoted standard for Rule 54(b) motions provides: 
+
+Motions for reconsideration serve a limited function: to correct manifest errors of law or fact or to present newly discovered evidence.  Such motions cannot in any case be employed as a vehicle to introduce new evidence that could have been adduced during pendency of the summary judgment motion. 
+
+4 See K.C. 1986 Ltd. Partnership v. Reade Mfg., 472 F.3d 1009, 1017 (8th Cir. 2007) (“The district court has the inherent power to reconsider and modify an interlocutory order any time prior to the entry of judgment.”). 
+
+Keene Corp. v. Int’l Fidelity Ins. Co., 561 F. Supp. 656, 665-66 (N.D. Ill. 1982) (citations omitted). The Keene standard was quoted with approval in a ruling on a Rule 59(e) motion in Hagerman v. Yukon Energy Corp., 839 F.2d 407, 414 (8th Cir. 1988) (quoting Rothwell Cotton Co. v. Rosenthal & Co., 827 F.2d 246, 251 (7th Cir. 1987), as amended, 835 F.2d 710 (7th Cir. 1987)).  The Eighth Circuit has held, “A trial court has wide discretion in determining whether to consider additional evidence after a motion for summary judgment has been granted.  That discretion is not altered by the fact that the grant of summary judgment was subject to revision prior to the court’s express direction for the entry of judgment.”  Macawber Eng’g, Inc. v. Robson & Miller, 47 F.3d 253, 257 
+
+n.4 (8th Cir. 1995) (citations omitted); see also Chism v. W.R. Grace & Co., 158 F.3d 988, 992 n.4 (8th Cir. 1998) (“Motions for reconsideration cannot be used to introduce new evidence that could have been produced while the summary judgment motion was pending.”). 
+
+The plaintiffs have not persuaded the Court that it would be a proper exercise of the Court’s discretion to consider their tardy evidence even under the Rule 54(b) standard at this late stage. The Court’s final scheduling order, which was entered on June 26, 2012, scheduled trial to begin on September 30, 2013.  Document #34.  That same order established a motion deadline of July 23, 2013, and included a reference to Local Rule 7.2(b), which provides that a response to a motion must be filed within fourteen days of the date that copies of the motion and supporting papers have been served.5  In responding to ActionLink’s motion for partial summary judgment, the plaintiffs met the deadline, but as noted, supported their response with no sworn statements or other evidence to dispute the factual statements asserted in the declaration submitted by ActionLink.  The plaintiffs presented no evidence until September 16, 2013, which was more than a month past the deadline for 
+
+5 Three days are added for mailing pursuant to Federal Rule of Civil Procedure 6(d). 
+
+responding to the motion for partial summary judgment, nearly two months past the motion deadline, and only two weeks before trial.  The motion for reconsideration could not be briefed and ruled upon before the trial was scheduled to begin.6  The plaintiffs offer no explanation as to why the evidence was not included in their response to the motion for summary judgment, and their motion for reconsideration came too late to be resolved before trial.  Under these circumstances, the Court would not consider the evidence submitted with the motion for reconsideration even under Rule 54(b). 
+
+In addition to presenting evidence for the first time, the motion for reconsideration also revisits the legal arguments pertinent to the decision to grant summary judgment. While the motion for reconsideration presents the plaintiffs’ arguments morethoroughlythandid their brief in response to the motion for summary judgment, all of its legal arguments were considered by the Court at the time the Court granted summary judgment. Based on the factual record before it at the time, the Court is not persuaded that the order granting summary judgment was in error. 
+
+Finally, the motion for reconsideration contends that two of the opt-in plaintiffs, Stephanie Davis and Ricardo Rubalcava, have claims for overtime that they allegedly were not paid after they were reclassified.  Those claims were not considered because they are not part of this action.  This action was certified as a collective action only as to the misclassification claims.  No collective action was certified as to claims for overtime after the reclassification, so as to the opt-in plaintiffs, such claims were never before this Court. 
+
+6 The Court convened a hearing on September 24, 2013, to discuss the pending motions.  At that hearing, the Court mentioned the possibility of a continuance to enable the motion for reconsideration to be briefed and decided before trial.  The defendant was amenable to a continuance but the plaintiffs opposed it.  At the plaintiffs’ request, the Court did not continue the trial. 
+
+For the reasons stated, the motion for reconsideration is denied.  Document #113. IT IS SO ORDERED this 7th day of October, 2013. 
+
+
+
+ 
+
+
+

@@ -1,0 +1,130 @@
+
+
+
+
+Plaintiffs move for approval of Hoffmann-La Roche notice with respect to their claim for violation of the Fair Labor Standards Act (“FLSA”), 29 U.S.C. § 201 et seq.2 The Court has considered the briefing of the parties as well as the oral arguments of counsel presented at the hearing on May 2, 2008.  For the reasons discussed below, the motion will be granted. Defendants’ request to defer distribution of the notice until after disposition of their as-yet unfiled motion for summary judgment will be denied. 
+
+1 This disposition is not designated for publication and may not be cited. 
+
+2 Plaintiffs expect to make a future motion for class certification under Federal Rule of Civil Procedure 23 with respect to other claims. 
+
+
+
+  
+
+2 Plaintiffs Vladimir Balarezo (“Balarezo”) and Osmin Avila (“Avila”) brought this action  
+
+3 for alleged violations of state and federal labor laws on behalf of themselves and others similarly  
+
+4 situated. In their operative amended complaint, filed March 7, 2008, Plaintiffs allege in relevant  
+
+5 part as follows:  Defendant NTH Connect Telecom, Inc. (“Nth Connect”) is a contractor hired by  
+
+6 Comcast to install cable equipment. Individual Defendant Steven Chen (“Chen”) is the owner  
+
+7 and CEO of Nth Connect.  Plaintiffs were employed on a piece rate basis, meaning that they were  
+
+8 paid a flat rate for each installation.  Plaintiffs’ time cards did not reflect the different rates  
+
+9 obtained for different residences, and also did not reflect that they were paid per piece  
+
+
+
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 (installation). Plaintiffs and similarly situated employees typically worked six days a week and more than forty hours per week.  However, they were not paid overtime wages.  Plaintiffs are suing Nth Connect and Chen. 
+
+
+
+The FLSA imposes liability upon employers who fail to pay overtime wages.  29 U.S.C. § 
+
+207.  An employee who files suit under the FLSA may bring a collective action on behalf of all similarly situated employees.  29 U.S.C. § 216(b); Does I thru XXIII v. Advanced Textile Corp., 214 F.3d 1058, 1064 (9th Cir. 2000).  Each employee who wishes to join the action must opt in by filing a consent to sue with the district court.  Id.  To facilitate this process, a district court may authorize the named plaintiffs in a FLSA action to send to all potential plaintiffs a notice of the suit, referred to as Hoffmann-La Roche3 notice. 
+
+The FLSA does not defined “similarly situated,” and the Ninth Circuit has not done so. District courts have adopted various approaches to defining this term; the majority of the district courts in this circuit have adopted a two-tiered approach.  See Romero v. Producers Dairy Foods, Inc., 235 F.R.D. 474, 481-82 (E.D. Cal. 2006); Leuthold v. Destination Am., Inc., 224 F.R.D. 462, 466 (N.D. Cal. 2004).  Under that approach, the district court first determines whether potential class members should be given notice of the action.  Romero, 235 F.R.D. at 482.  The 
+
+3 Hoffmann La Roche, Inc. v. Sperling, 493 U.S. 165 (1989). 
+
+1 court bases this decision on the pleadings and any affidavits submitted by the parties.  Id. “The  
+
+2 decision is made under a fairly lenient standard and the usual result is conditional class  
+
+3 certification.”  Id. (internal quotation marks and citation omitted).  The court engages in the  
+
+4 second tier of the analysis once discovery is completed and the case is ready to be tried.  Id. At  
+
+5 that point – usually in connection with the defendant’s motion to decertify the class – the court  
+
+6 makes “a factual determination regarding the propriety and scope of the class, based on the  
+
+7 following factors: (1) the disparate factual and employment settings of the individual plaintiffs;  
+
+8 (2) the various defenses available to the defendants with respect to the individual plaintiffs; and  
+
+9 (3) fairness and procedural considerations.”   Id. (internal quotation marks and citation omitted).  
+
+
+
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 If the court determines that the plaintiffs are not similarly situated, it may decertify the class and dismiss the opt-in plaintiffs without prejudice.  Id. 
+
+
+
+Plaintiffs request conditional certification with respect to technicians who are or have been employed by Nth Connect at any time since October 12, 2004.  
+
+Plaintiffs allege in their amended complaint that Nth Connect employs a large piece rate workforce, consisting of at least one hundred persons.  Am’d Complt. ¶ 9. Both Balarezo and Avila were employed as piece rate installers for periods during the last four years.  Id. at ¶ 10. They and other employees typically worked six days a week and more than forty hours per week. Id. at ¶¶ 11, 14. These employees were not subject to any exemptions from overtime under the FLSA.  Nth Connect then “reverse engineered” each employee’s pay stub by assigning the employee – who actually had worked for a set rate per piece, or installation, completed – a regular wage rate (usually minimum wage) and added bonus or other payments to reach the correct piece rate total for the particular pay period.  Id. at ¶ 28.  Plaintiffs were not paid overtime as required by law even though they worked more than forty hours per week. 
+
+Balarezo and Avila both submit declarations stating that they were paid by piece, that is, paid a set rate for each installation completed.  Balarezo Decl. ¶ 4; Avila Decl. ¶ 4.  The piece rate varied depending on the particular installation.  Id. At the end of each pay period, Nth Connect gave each employee an earning statement listing all the installations completed during 
+
+1 2 3 4 5 6 7 8 9 
+
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 that period and the amounts paid for each installation.  Id. and Exh. 1. Neither plaintiff ever was paid based upon an agreed hourly rate.  Balarezo Decl. ¶ 5; Avila Decl. ¶ 5.  In processing payroll, Nth Connect arbitrarily would assign an artificial hourly rate at or near minimum wage and reverse engineer the payroll calculation to reach the amount actually earned by piece work. Balarezo Decl. ¶ 7; Avila Decl. ¶ 7.  Because such reverse engineered hourly earnings usually did not come out to the exact amount actually earned at piece rate, Nth Connect made up the difference by adding a “bonus,” “gas reimbursement,” “expenses,” or “tools” entry.  Id. Based upon conversations with other technicians employed by Nth Correct, Plaintiffs know that Nth Connect paid all technicians piece rate while engaging in the practice of reverse engineering the pay stubs as described above.  Id. 
+
+In addition to their own declarations, Plaintiffs submit the declaration of another Nth Connect technician, Victor Funez, who confirms the practice described by Plaintiffs. 
+
+Finally, Plaintiffs submit the deposition testimony of Nth Connect’s payroll supervisor, Danielle Silva (“Silva”), which was taken in another case.  Silva testified that the technicians at Nth Connect were paid by piece.  Silva Depo. 21:5-22. 
+
+Plaintiffs’ allegations and evidence are sufficient to meet the relatively low threshold required to send a conditional class notice under the FLSA. 
+
+Defendants argue that it is clear from Plaintiffs’ allegations and declarations that Nth Connect treated its technicians as independent contractors up until some point in 2006, and that it was only after this point that Nth Connect began the alleged reverse engineering of payroll stubs. Defendants argue that as a result, Plaintiffs’ proposed class of technicians actually will comprise three distinct classes:  those who were paid as independent contractors, those who were paid as wage employees, and those who worked for the company long enough to be paid under both systems.  Defendants argue that these three classes potentially are adverse to each other, and that the Court therefore should deny the request for conditional class certification.  
+
+As the Court understands Plaintiffs’ allegations, there is a single class of technicians who were paid by piece and not paid overtime when overtime should have been paid.  The fact that certain of those technicians may have to demonstrate that they improperly were categorized as 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 records.  The Court agrees that Margain has not been qualified as an expert in payroll and has not considered his “audit” in connection with this motion.  
+
+1 independent contractors as part of proving their claims does not mean that they cannot be  
+
+2 included in the same class with other technicians who were paid an hourly wage.  Moreover, the  
+
+3 Court concludes that it is not clear from the current record whether such a subclass would be  
+
+4 adverse to a subclass of technicians who were paid wages.  At this point the Court is satisfied  
+
+5 that Plaintiffs have made the requisite first tier showing as to Nth Connect’s practice of failing to  
+
+6 pay overtime, and will permit the conditional notice.  The issues raised by Defendants may be  
+
+7 addressed at the second tier of the analysis if appropriate.  
+
+8 Defendants argue that the declaration of Plaintiffs’ counsel, Tomas Margain (“Margain”),  
+
+9 is inadmissible to the extent that Margain purports to conduct an “audit” of Balarezo’s payroll  
+
+
+
+Accordingly, the Court will grant Plaintiffs’ motion and sign the proposed order submitted by Plaintiffs on March 7, 2008.  However, whereas Plaintiffs request a 120 day period for opt-ins, the Court will grant a sixty day period.  If Plaintiffs feel strongly that sixty days is not sufficient, they may seek reconsideration on this point. 
+
+Finally, Defendants request that if it is inclined to grant Plaintiffs’ motion, the Court defer distribution of the class notice pending disposition of Defendants’ as-yet unfiled motion for summary judgment.  This request will be denied. 
+
+
+
+(1) 
+
+Plaintiffs’ motion for approval of Hoffmann-La Roche notice is GRANTED as set forth above; 
+
+
+
+(2) 
+
+Defendants’ request to defer distribution of the notice pending resolution ofDefendants’ as yet unfiled summary judgment motion is DENIED.       
+
+
+
+
+
+ 
+

@@ -1,0 +1,110 @@
+U.S. Department of Labor Administrative Review BoardWashington, DC 20210-0001In the Matter of:
+
+ANDRE CIESLICKI, ARB CASE NO. 2019-0065
+
+COMPLAINANT, ALJ CASE NO. 2018-FRS-00039 v. DATE:  June 4, 2020SOO LINE RAILROAD COMPANY, d/b/a CANADIAN PACIFIC,RESPONDENT.
+
+Appearances:
+
+For the Complainant:
+
+Andre Cieslicki; pro se; Holmen, Wisconsin
+
+For the Respondent:
+
+Tracey Holmes Donesky, Esq.; Greta Bauer Reyes, Esq.; Stinson LLP;Minneapolis, MinnesotaBefore:  James A. Haynes, Heather C. Leslie and James D. McGinley,Administrative Appeals JudgesORDER REVERSING AND REMANDING
+
+PER CURIAM. This case arises from a complaint of discrimination filed under the Federal Railroad Safety Act (FRSA). 49 U.S.C. §20109 (2007), as amended bySection 1521 of the Implementing Recommendations of the 9/11 Commission Act of and 29 C.F.R. Part 18 (2019), Subpart A. Andre Cieslicki (Complainant) was employed by Soo Line Railroad Company d/b/a Canadian Pacific (Respondent).
+
+Complainant filed a complaint with the U.S. Department of Labor’s OccupationalSafety and Health Administration (OSHA) alleging that the Respondent violated the FRSA by terminating him in retaliation for telling his employer that he could not report to work because he drank two glasses of wine with dinner. Complainant was concerned that if he reported for duty, he would violate “Rule G and the obligation to Operate Safely.” Complaint at 1. Following an investigation, OSHA dismissed the complaint because the alleged protected activity did not contribute toRespondent’s decision to terminate Complainant’s employment. OSHA Findings (Jan. 25, 2018) at 2. Complainant objected to OSHA’s determination, and requested a hearing with the Office of Administrative Law Judges (OALJ).
+
+On March 12, 2019, Respondent filed a Motion to Dismiss and Memorandum of Law in Support of Motion to Dismiss for failure to state a claim asserting that “Complainant’s self-reported, non-work-related physical state caused by his personal decision to consume alcohol while off duty is outside the scope of the hazardous safety conditions contemplated by FRSA . . . .” Respondent’sMemorandum of Law in Support of Motion to Dismiss at 10. Complainant filed aResponse to the Motion to Dismiss on April 12, 2019, asserting that he met  the statutory requirements for  “protected activity” under 29 U.S.C. §20109(a) and (b).
+
+Complainant’s Response to the Motion to Dismiss at 1-3. He cited 49 C.F.R.
+
+§219.105, as the federal regulation he would have violated if he had reported for duty. Id. at 3-4.
+
+After considering the parties’ submissions, a Department of LaborAdministrative Law Judge (ALJ) granted Respondent’s Motion to Dismiss. ALJDecision and Order (June 5, 2019) (D. & O.). Complainant appealed to theAdministrative Review Board (ARB or Board).
+
+JURISDICTION AND STANDARD OF REVIEW
+
+The Secretary of Labor has delegated authority to the Administrative ReviewBoard to issue agency decisions under the FRSA. Secretary’s Order No. 01-2020 (Delegation of Authority and Assignment of Responsibility to the AdministrativeReview Board (Secretary’s discretionary review of ARB decisions)), 85 Fed. Reg. 13,The Board reviews an ALJ’s conclusions of law, including whether to deny a complaint on a motion to dismiss, de novo. Boucher v. BNSF Ry. Co., ARB No. 2016- 0085, ALJ No. 2014-FRS-00072, slip op. at 3-4 (ARB Mar. 22, 2019). Recognizing that we must be impartial and refrain from advocating “for a pro se complainant, we are equally mindful of our obligation to ‘construe complaints and papers filed by pro se complainants “liberally in deference to their lack of training in the law” and with a degree of adjudicative latitude.’” Wallum v. Bell Helicopter Textron, Inc.,ARB No. 2012-0110, ALJ No. 2009-AIR-00020, slip op. at 3 (ARB Sept. 19, 2012) (quoting Williams v. Domino’s Pizza, ARB No. 2009-0092, ALJ No. 2008-STA-00052, slip op. at 4 (ARB Jan. 31, 2011) (quoting Cummings v. USA Truck, Inc., ARB No.
+
+2004-0043, ALJ No. 2003-STA-00047, slip op. at 2 (ARB Apr. 26, 2005))).
+
+DISCUSSION
+
+The FRSA prohibits a railroad carrier engaged in interstate or foreign commerce from discharging, demoting, suspending, reprimanding, or in any other way discriminating against an employee if such discrimination is due, in whole or in part, to the employee’s protected activity. 49 U.S.C. § 20109(a), (b), (c). Activities protected by FRSA include: (a)(2) to refuse to violate or assist in the violation of any Federal law, rule, or regulation relating to railroad safety or security; . . . (b) Hazardous safety or security conditions.--(1) A railroad carrier engaged in interstate or foreign commerce, or an officer or employee of such a railroad carrier, shall not discharge, demote, suspend, reprimand, or in any other way discriminate against an employee for— (A) reporting, in good faith, a hazardous safety or security condition; (B) refusing to work when confronted by a hazardous safety or security condition related to the performance of the employee’s duties, if the conditions described in paragraph (2) exist; . . . (2) A refusal is protected under paragraph (1)(B) . . . if— (A) the refusal is made in good faith and no reasonable alternative to the refusal is available to the employee; (B) a reasonable individual in the circumstances then confronting the employee would conclude that-- (i) the hazardous condition presents an imminent danger of death or serious injury; and (ii) the urgency of the situation does not allow sufficient time to eliminate the danger without such refusal; and (C) the employee, where possible, has notified the railroad carrier of the existence of the hazardous condition and the intention not to perform further work, or not to authorize the use of the hazardous equipment, track, or structures, unless the condition is corrected immediately or the equipment, track, or structures are repaired properly or replaced.
+
+Citing several district court decisions, including Lockhart v. Long Island R.R.
+
+Co., 266 F. Supp. 3d 659 (S.D.N.Y 2017),1 the ALJ held that sections (a) and (b) ofFRSA are limited to work-related conditions and do not include a worker’s self- reported infirmities. D. & O. at 7-9. We disagree. Our first and primary reason is that the statute does not limit complained of violations, hazardous safety conditions, or security conditions as the ALJ held.
+
+Initially, we also note that the Department of Labor’s primary purpose, as regards the whistleblower protection provisions of FRSA, is safety. The department promotes the goal of safety by prohibiting railroad employers from taking unfavorable personnel actions against employees for reporting safety issues whether because they are illegal or “only” very dangerous. 49 U.S.C. §20109(a)(2) and (b)(1)(A) and (B). This purpose applies equally whether there is a regulatory violation or hazardous safety condition that relates to the equipment, or the condition of a person who is working on the equipment.
+
+1. FRSA protected activity under 49 U.S.C. §20109(a)(2)
+
+Turning to the statute at subpart (a), the Complainant argued in hisOpposition to the Motion to Dismiss that (a)(2), refusing “to violate or assist in the violation of any Federal law, rule, or regulation relating to railroad safety or security,” was implicated by his actions in refusing to report for duty on April 5, 2015. The federal regulation that he claimed would have been violated was 49C.F.R. §219.105, which references §219.101 and §219.102.2 Complainant clearly do so because the employee’s self-reported condition did not constitute protected activity as a matter of law, but “[b]ecause the statute does not prohibit employers from requesting reasonable documentation that employees’ absences are justified.” Lockhart v. MTA LongIsland R.R., 949 F.3d 75, 77 (2d Cir. 2020) (The Second Circuit stated that “[b]ecause nothing in the text, structure, and purpose of the FRSA directs otherwise, the railroad was within its rights to seek verification of illnesses before excusing appellant’s absences as activity protected under the FRSA,” implying that the underlying activity would have been protected). Id. at 80. regulations that he believed was violated under (a)(2) which was error as Complainant cited §219.105, with highlighted portions of this regulation including references to §219.101 and §219.102. stated that he would have violated this regulation if he had not refused to perform any work until he was fit for duty. Opposition to Motion to Dismiss at 3-4.
+
+The regulation at 49 C.F.R. §219.105 prohibits a railroad from allowing (with actual knowledge) a regulated employee from going on or remaining on duty in violation of the provisions of §219.101 and §219.102. Id. at 4. The provision states that a railroad employee has actual knowledge of a violation when he receives a regulated employee’s admission of alcohol or drug use. Id.
+
+The provisions of 49 C.F.R. §219.101, appear to be directly on point in this case. The regulation states, “Alcohol and drug use prohibited. (a) Prohibitions.
+
+Except as provided in §219.103 –”
+
+. . . (2) No regulated employee may report for regulated service, or go or remain on duty in regulated service, while -(i) Under the influence of or impaired by alcohol; . . . . (1) No regulated employee may use or possess alcohol or any controlled substance when the employee is on duty and subject to performing regulated service for a railroad.3 (ii) Having 0.04 or more alcohol concentration in the breath or blood; or (iii) Under the influence of or impaired by any controlled substance. (3) No regulated employee may use alcohol for whichever is the lesser of the following periods: (i) Within four hours of reporting for regulated service; or (ii) After receiving notice to report for regulated service.
+
+This federal regulation fits squarely within the FRSA’s proscription on violations of federal law. It relates to safety and security in the railroad industry.
+
+The regulations specifically regulate employees while on duty, including a period where the employee cannot drink prior to reporting to work. Notably, the regulation does not prohibit drinking alcohol while off duty.
+
+The regulation also relates to what the ALJ and Respondent call non-work- related matters (alcohol use by railroad workers) and to the physical condition of maintenance-of-way employee who performs regulated service for a railroad subject to the requirements of this part.” 49 C.F.R. §219.5. Regulated service is “covered service or maintenance-of-way activities, the performance of which makes an employee subject to the requirements of this part.” Id. railroad employees. Its subsection stating “[n]othing in this section restricts a railroad from imposing an absolute prohibition on the presence of alcohol or any drug in the body fluids of persons in its employ, whether in furtherance of the purpose of this part or for other purposes,”4 gives railroads significant control over their employee’s physical condition while on duty.5As a result, once the Complainant refused to violate federal regulations, he satisfied the definition of protected activity under the plain language of the statute.
+
+While the ALJ admitted that (a)(2) “does not appear to be limited to work-related conditions,” he, nevertheless, stated that it was limited to work- related conditions “for the same reasons identified above regarding subsection (b).” D. & O. at 8. As we explain next, those reasons also fail to limit the FRSA to work-related conditions under either section.
+
+2. FRSA protected activity under 49 U.S.C. §20109(b)(1)(A) and (B)We now turn to discussion of the statute at (b), which states that a railroad shall not discriminate against an employee for reporting, in good faith, a hazardous safety or security condition, or for refusing to work when confronted by a hazardous safety or security condition related to the performance of his duties if certain conditions in section (2) exist. 49 U.S.C. §20109(b)(1)(A) and (B).
+
+The language in these two sections, “hazardous safety or security condition,” does not require that a condition be “work-related” or state that the condition cannot relate to an employee’s physical condition. Although section (2) references “circumstances then confronting the employee,” and at one point, “equipment, track, or structures,” it also states that the employee must have notified the railroad, if possible, “of the existence of the hazardous condition and the intention not to perform further work . . . unless the condition is corrected . . ..” (b)(2)(C). Again, the “condition” must be within the railroad’s control. Significantly, Respondent argues that a employee’s condition is outside of the railroad’s control. However, an impaired employee operating a train or train equipment is “a hazardous condition” within the railroad’s control. Once the railroad becomes aware of an employee’s impairment, it has a duty to keep the impaired employee from working. https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=1a865872c66068fb69b965efb6dfce58&term_occur=999&term_src=Title:49:Subtitle:B:Chapter:II:Part:219:Subpart:B:219.101 language is general, broad, and does not limit the hazardous condition to that which is “work-related” or to exclude a worker’s physical condition.
+
+For the same reason that an impaired worker (from drugs and alcohol) is regulated by the federal government—because such a worker presents a danger to the public—the impaired worker can also become a hazardous safety or security condition, if working in and around trains and train tracks.6 The term “hazardous condition” is broad and may encompass many types of hazardous conditions. We hold that it is broad enough to include impaired railroad workers who present a danger of death or serious injury if they were to work without reporting those hazardous conditions, or refusing to work because of their impaired condition.
+
+3. Analogous STAA whistleblower protection provisions and ARB precedentOur precedent under the STAA supports our holding with respect to FRSA.
+
+For decades, the ARB and the Secretary of Labor before that have held that an employee’s condition (whether it be illness, fatigue, or other impairment) can provide the basis for protected activity because it relates to a violation of STAA or “reasonable apprehension of serious injury to the employee or the public. . ..” Self v.
+
+Carolina Freight Carriers Corp., No. 1989-STA-0009 (Sec’y Jan. 12. 1990); Smith v.
+
+Specialized Transp. Servs., No. 1991-STA-0022 (Sec’y Apr. 30, 1992); Logan v.
+
+United Parcel Serv., No. 1996-STA-0002 (ARB Dec. 19, 1996); Garcia v. AAA CooperTransp., ARB No. 1998-0162, ALJ No. 1998-STA-00023 (ARB Dec. 3, 1998);Johnson v. Roadway Express, Inc., ARB No. 1999-0111, ALJ No. 1999-STA-00005 (ARB Mar. 29, 2000); Eash v. Roadway Express, Inc., ARB No. 2000-0061, ALJ No.
+
+1998-STA-00028 (ARB Dec. 31, 2002); Melton v. Yellow Transp., Inc., ARB No.
+
+2006-0052, ALJ No. 2005-STA-00002 (ARB Sept. 30, 2008), aff’d Melton v. YellowTransp. Inc., 373 Fed.Appx. 572 (6th Cir. 2010).
+
+Perhaps most relevant to our analysis, the STAA under section 49 U.S.C.
+
+§31105(a)(1)(B) states: “the employee refuses to operate a vehicle because (ii) the employee has a reasonable apprehension of serious injury to the employee or the public because of the vehicle’s hazardous safety or security condition.” (emphasis added). Even though this language references the “vehicle’s” condition, the Board has interpreted this language to allow an employee to report (or refuse to operate) is one of the reasons why there are a multitude of rules and regulations for how a railroad employee is to perform any number of tasks. https://www.oalj.dol.gov/PUBLIC/WHISTLEBLOWER/DECISIONS/ARB_DECISIONS/STA/98STA28D.HTM https://www.oalj.dol.gov/PUBLIC/ARB/DECISIONS/ARB_DECISIONS/STA/06_052.STAP.PDF because he is ill or otherwise impaired as protected activity. Melton, ARB No. 2006- 0052, slip op. at 6. The Board has stated that this clause covers more than just mechanical defects of a vehicle—it is intended to ensure “that employees are not forced to commit . . . unsafe acts.” Id. (quoting Garcia, ARB No. 98-162, slip op. at 4). Thus, a driver’s physical condition may cause him to have a reasonable apprehension of serious injury to himself or the public if he drove in that condition. Id. (citing Somerson v. Yellow Freight Sys., Inc., ARB Nos. 1999-0005, - 0036, ALJ Nos. 1998-STA-00009, -00011, slip op. at 14 (ARB Feb. 18, 1998)). TheFRSA’s language is broader than the STAA’s in that it does not state that it is limited to conditions to on the train or at the railroad.
+
+The protection afforded by the statute is not unlimited. Under the STAA, an employee’s refusal to operate “must be based on an objectively reasonable belief that operation of the motor vehicle would pose a risk of serious injury to the employee or the public.” Melton, ARB No. 06-052, slip op. at 6 (citing Jackson v. Protein Express,ARB No. 1996-0194, ALJ No. 1995-STA-00038, slip op. at 3 (ARB Jan. 9, 1997)). If aSTAA complainant refuses to operate a vehicle because of his condition, he does not automatically prevail; to be protected, a refusal must be based on a condition that impairs the driver’s ability to operate safely and employees must communicate that the impaired condition exists to the employer. Garcia v. AAA Cooper Transp., ARBNo. 1998-0162, slip op. at 4-5; Wrobel v. Roadway Express, Inc., ARB No. 2001-0091,ALJ No. 2000-STA-00048 (ARB July 31, 2003); Barr v. ACW Truck Lines, Inc., No.
+
+1991-STA-00042 (Sec’y Apr. 22 1992).
+
+Reasons related to the element of causation may also limit a driver from prevailing in his case even if he engaged in protected activity. An employer may take action against employees who feign illness, and the STAA does not prohibit an employer from establishing reasonable methods or mechanisms for assuring that a claimed condition is legitimate and serious enough to warrant a protected refusal to drive. Ass’t Sec’y & Ciotti v. Sysco Foods Co. of Philadelphia, ARB No. 1998-0103,ALJ No. 1997-STA-00030, slip op. at 8, 8 n.8 (ARB July 8, 1998) (in Ciotti, there was substantial evidence that complainants’ condition was not fabricated and that respondent had reason to know that; application of an absenteeism policy to complainant under the circumstances was a violation of the STAA).
+
+Our holding is supported by the parallel functions of STAA and FRSA. There is no less of a safety function for deeming such reports and refusals protected activity under FRSA as under STAA, as it would not be safe for the public if employees operate trains if it would be a violation to do so or while they are unable https://www.oalj.dol.gov/PUBLIC/WHISTLEBLOWER/DECISIONS/ARB_DECISIONS/STA/00STA48B.HTM to do so because they are so impaired (by drugs or alcohol) as to make their job performance a hazard presenting an imminent danger of death or serious injury.
+
+4. Other considerations
+
+Concerning both subparts (a) and (b) of 49 U.S.C. §20109, the ALJ relied on an inaccurate premise for support. Contrary to what the ALJ and the district court in the Southern District of New York (in Lockhart) contend, our ruling does not mean that an employee who engages in protected activity by refusing to work because of his impairment may not be disciplined. If an employer decides to discipline an employee because the employee voluntarily chose to become impaired at a time when the employee knew that he should not be impaired (because he was on call, or because it is illegal), then the employer is not prohibited by the FRSA from taking disciplinary action.
+
+Thus, following the plain language of the statute to allow for such reports if a violation of a rule is implicated, or a hazardous safety or security conditions exists, does not lead to “absurd results.” Indeed, an absurd result would occur if an employee who is not on call, drinks alcoholic beverages (as adults of legal age are allowed to do), gets called to work unexpectedly, and then has to choose between working in an impaired state on the railroad (violating federal law or causing a hazardous safety or security condition), or getting fired for indicating that he cannot safely report for duty.
+
+To summarize, we reverse the ALJ’s holding that FRSA protected activity under sections (a) and (b) is limited such that it does not include “self-reported infirmities.” We do so because the statute does not so limit these sections. Further, the FRSA supports giving effect to the plain language of the statute, and allowing for such protection, when a railroad workers’ complaint or refusal satisfies the statutory purpose. Finally, ARB precedent with respect to the STAA bolsters our holding.
+
+CONCLUSION
+
+The ALJ erred as a matter of law. We REVERSE and REMAND for proceedings consistent with this opinion.
+
+SO ORDERED.
+

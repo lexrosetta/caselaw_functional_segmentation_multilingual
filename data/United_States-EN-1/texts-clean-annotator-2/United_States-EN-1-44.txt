@@ -1,0 +1,162 @@
+
+Presently pending before the Court is Defendant Junior Achievement of Central Indiana, Inc.’s (“JA”) Motion for Summary Judgment on Plaintiff Victor George’s claims against JA. [Dkt. 56.] Mr. George is a former JA employee who contends that JA breached his employment agreement, that his termination was in retaliation for complaints he made about JA not funding his 401(k) and health savings accounts, and that JA defamed him. JA moves for summary judg­ment on all of Mr. George’s claims against JA. 
+
+
+A motion for summary judgment asks that the Court find that a trial based on the uncon­troverted and admissible evidence is unnecessary because, as a matter of law, it would conclude in the moving party’s favor.  See Fed. R. Civ. Pro. 56. To survive a motion for summary judg­ment, the non-moving party must set forth specific, admissible evidence showing that there is a material issue for trial.  Fed. R. Civ. Pro. 56(e); Celotex Corp. v. Catrett, 477 U.S. 317, 323 (1986). 
+
+As the current version Rule 56 makes clear, whether a party asserts that a fact is undis­puted or genuinely disputed, the party must support the asserted fact by citing to particular parts of the record, including depositions, documents, or affidavits.  Fed. R. Civ. Pro. 56(c)(1)(A).  A party can also support a fact by showing that the materials cited do not establish the absence or presence of a genuine dispute or that the adverse party cannot produce admissible evidence to support the fact. Fed. R. Civ. Pro. 56(c)(1)(B).  Affidavits or declarations must be made on per­sonal knowledge, set out facts that would be admissible in evidence, and show that the affiant is competent to testify on matters stated.  Fed. R. Civ. Pro. 56(c)(4).  Failure to properly support a fact in opposition to a movant’s factual assertion can result in the movant’s fact being considered undisputed, and potentially the grant of summary judgment.  Fed. R. Civ. Pro. 56(e). 
+
+The Court need only consider the cited materials, Fed. R. Civ. Pro. 56(c)(3), and the Se­venth Circuit Court of Appeals has “repeatedly assured the district courts that they are not re­quired to scour every inch of the record for evidence that is potentially relevant to the summary judgment motion before them,” Johnson v. Cambridge Indus., 325 F.3d 892, 898 (7th Cir. 2003). Furthermore, reliance on the pleadings or conclusory statements backed by inadmissible evi­dence is insufficient to create an issue of material fact on summary judgment.  Id. at 901. 
+
+The key inquiry is whether admissible evidence exists to support a plaintiff’s claims or a defendant’s affirmative defenses, not the weight or credibility of that evidence, both of which are assessments reserved to the trier of fact.  See Schacht v. Wis. Dep’t of Corrections, 175 F.3d 497, 504 (7th Cir. 1999). And when evaluating this inquiry, the Court must give the non-moving par­ty the benefit of all reasonable inferences from the evidence submitted and resolve “any doubt as to the existence of a genuine issue for trial . . . against the moving party.”  Celotex, 477 U.S. at 330. 
+
+
+
+
+The following facts are undisputed unless otherwise noted.  This case arises from a soured employment relationship.  Mr. George began his employment with JA in April 1990, [dkt. 60-2 at 3], and became the Vice President of JA in the mid-1990s, [dkt. 60-2 at 4, 6-7].  In that capacity, Mr. George reported to JA’s President and Chief Executive Officer, Jeff Miller.  [Dkt. 60-2 at 7.] 
+
+
+
+
+
+
+
+On July 1, 2006, Mr. George entered into an Executive Vice President Basic Employment Agreement and Deferred Compensation Agreement (“Employment Agreement”) with JA from that date until June 30, 2010. [Dkt. 60-11.] Mr. Miller signed on behalf of JA, and JA employee Kim Fleischman signed as a witness. [Id. at 3.]  The Employment Agreement provides a base salary for Mr. George beginning July 1, 2006 and an annual salary increase of 3% or 5% if fund­ing and student goals exceed annual goals set by the CEO.  [Id. at 2.] The Employment Agree­ment also provides for a $25,000 contribution to a non-vested deferred compensation account in the name of Mr. George and JA on or before July 30, 2006. [Id.] The Employment Agreement provides that the account vests with Mr. George on June 30, 2010.  [Id.] 
+
+As President, Mr. Miller had the authority to hire, fire, and set the salaries of JA em­ployees, so he did not seek the approval of the JA Board of Directors (“JA Board”) before sign­ing Mr. George’s Employment Agreement.  [Dkts. 57 at 3; 60-3 at 6.]  Mr. Miller retained a copy of the Employment Agreement in his office and also placed a copy in Mr. George’s personnel file. [Dkt. 58-3 at 17.] 
+
+Mr. George received salary increases in 2007 and 2008, consistent with the terms of the Employment Agreement.  [Dkt. 59 at 5.] In 2008, Mr. Miller informed Mr. George that he was considering retiring by the end of the year.  [Dkt. 60-3 at 11.] In the fall of 2008, Mr. George asked Mr. Miller to consider moving up the vesting date for his non-vested deferred compensa­tion account. [Id. at 12.] 
+
+On December 1, 2008, Mr. Miller signed an Amendment to the Employment Agreement (the “Amendment”), which moved up the vesting date on the non-vested deferred compensation account from June 30, 2010 to December 1, 2009.1 [Dkt. 60-13.] Mr. Miller did not consult with the JA Board or seek its approval before entering into the Amendment because he believed he had the unilateral authority to do so.  [Id. at 15.] 
+
+Mr. Miller retired from JA effective December 31, 2008.  [Dkt. 60-3 at 7.]  Jennifer Burk, the Chair of the JA Board, was appointed interim President and CEO in January 2009 and as­sumed that position full-time in May 2009.  [Dkt. 60-4 at 7.] 
+
+
+
+In May 2009, JA’s accounting was outsourced to Milestone Advisors.  [Dkt. 60-2 at 11.] In May or June 2009, Mr. George noticed that money withheld from his paycheck for his 401(k) account and health saving account (“HSA”) was not being deposited into those accounts.  [Dkt. 60-2 at 18.] Mr. George first contacted Kathy Pitts of Milestone Advisors to notify her of the problem.  [Dkt. 60-2 at 162.] Ms. Pitts directed Mr. George to Sharon Lents, JA’s Chief Operat­ing Officer, and Mr. George spoke with Ms. Lents in person.  [Dkt. 60-2 at 18.]  
+
+Mr. George noticed again in July and August 2009 that money withheld from his pay­check for his 401(k) and HSA accounts was not being deposited into those accounts.  [Dkt. 60-2 
+
+1 JA insinuates that Mr. Miller did not execute the Amendment until after Mr. George withdrew the account funds in December 2009.  [Dkt. 57 at 5.]  Because there is sworn testimony from Mr. Miller based on his personal knowledge that he executed the Amendment on December 1, 2008, [dkt. 60-3 at 13-15], and the Court must draw all reasonable inferences in favor of non-movant Mr. George, the Court assumes for purposes of summary judgment that Mr. Miller executed the Amendment on December 1, 2008. 
+
+at 20.] Mr. George contacted Ms. Pitts, Angie Stecovich, and Jeff Good at Milestone Advisors about the issue. [Dkts. 60-2 at 21; 59 at 8.] Mr. George also raised the issue with Ms. Burk “al­most weekly . . . because every week it wasn’t being taken care of.”  [Dkt. 60-2 at 22; see also dkt. 60-4 at 13 (testimony from Ms. Burk that Mr. George brought the issue to his attention three or four times by email).]  JA admits that it did not make certain deposits into Mr. George’s 401(k) or HSA accounts.  [Dkt. 57 at 6 (citing dkt 58-2 at 13).]   
+
+In September 2009, Mr. George raised the funding issue with Mark Shaffer, who was a member of the JA Board.  [Dkt. 58-4 at 14.] During the conversation, Mr. George told Mr. Shaf­fer “[i]t’s time for me to transition out of [JA].”  [Id.] Mr. George told Mr. Shaffer that he wanted to keep working through April 2010, which would be his twentieth anniversary with JA. [Dkt. 60-2 at 24-25.] Mr. George also had a meeting with Ms. Burk in September 2009 where he discussed his deferred compensation account.  [Dkt. 60-2 at 9.]  Ms. Burk told him that JA “had no intention of paying that out to [Mr. George].”  [Dkt. 60-2 at 9.] There was no discussion about when Mr. George’s deferred compensation account was to vest.  [Id. at 10.] 
+
+Because his 401(k) and HSA accounts were not being funded, Mr. George contacted the Indiana Department of Labor, which referred him to the United States Department of Labor (“DOL”). [Dkt. 60-2 at 29.]  Mr. George informed the DOL that JA was removing funds from his paycheck but not depositing them into his 401(k) or HSA accounts.  [Id.] He did not file a written complaint, [id. at 31], and declined the DOL’s invitation to open a case file, [id. at 33]. 
+
+Mr. George admits that he never told JA that he contacted the DOL.  [Dkt. 58-4 at 19.] The DOL has no documents reflecting Mr. George’s contact with it.2 [Dkt. 58-1 at 8.] 
+
+In October 2009, Mr. George raised the funding issue with Harry Danz, another JA Board Member, because Mr. George’s 401(k) and HSA account still had not been funded.  [Dkt. 58-4 at 15-16.] Mr. Shaffer was also present during that conversation.  [Dkt. 58-4 at 16.]  Mr. George told them that he believed JA’s actions were a DOL violation, but he did not tell them he had contacted the DOL. [Dkts. 60-2 at 34; 58-4 at 19.] 
+
+On October 7, 2009, JA issued a check to Mr. George for $825 to reimburse him for the amount that was not deposited in his HSA account.  [Dkt. 58-5 at 3.]  JA contends that this amount is actually $165 more than Mr. George was owed but that it has not sought to be reim­bursed for this overpayment.  [Id.] On October 21, 2009, JA deposited $1,700 in Mr. George’s 401(k) account to reimburse him for the amount held from that account.  [Id. at 2.]  JA also is­sued him a check for $37.17 to compensate him for the interest on the money for the time it had not been deposited in Mr. George’s account. [Id.] The interest was calculated at 14%. [Id.] 
+
+
+
+
+In December 2009, Mr. George had meetings with Mr. Danz, Mr. Shaffer, and Ms. Burk to discuss the details of his retirement.  [Dkt. 58-4 at 20.] Mr. Danz and Ms. Burk reduced some retirement options to writing, but an agreement was never reached.  [Dkt. 58-4 at 21.] Mr. George primarily communicated with Mr. Danz about his retirement and began removing per­sonal items from his office in December 2009.  [Dkt. 58-4 at 25.] 
+
+2 JA uses this lack of documentation to insinuate that Mr. George never actually contacted the DOL. Mr. George testified based on personal knowledge that he contacted the DOL.  It is inap­propriate for the Court to make credibility determinations on summary judgment; therefore, the Court will assume for purposes of this motion that Mr. George contacted the DOL about JA’s failure to fund his 401(k) and HSA accounts. 
+
+Mr. George liquidated his deferred compensation account in December 2009 and re­ceived two payments totaling $26,627.71.  [Dkts. 60-2 at 44; 61-7 at 2.]  JA was unaware of the liquidation and still listed the account as an asset on their books as of January 6, 2010.  [Dkt. 58­5 at 3.] 
+
+Mr. George came to work on January 4, 2010 and attended a regularly scheduled meet­ing. [Dkt. 60-2 at 40.] That afternoon, Ms. Burk told Mr. George not to come back to work at JA. [Dkt. 60-2 at 40.] Ms. Burk told Mr. George that he was not being fired but that he would no longer be compensated.  [Id. at 42.] 
+
+Mr. George spoke with Mr. Danz on January 6, 2010, and Mr. Danz proposed a lump sum payment to Mr. George from a deferred compensation account.  [Dkt. 60-2 at 43.] At that point, Mr. George informed Mr. Danz that he had liquidated his deferred compensation account in December 2009, and the conversation ended.  [Id. at 44.] 
+
+Ms. Burk began investigating Mr. George’s withdrawal of the deferred compensation ac­count funds. After reviewing Mr. George’s personnel file, Ms. Burk still believed that the ac­count vested in June 2010 because the Amendment to the Employment Agreement was not in the file. [Dkt. 58-2 at 17-18.] 
+
+On January 11, 2010, Mr. George received a letter from an attorney for JA notifying Mr. George of his termination effective December 31, 2009, and demanding that he repay the funds withdrawn from the deferred compensation account.  [Dkt. 61-7.]  In response, JA received a let­ter from Mr. George’s counsel, accusing JA of defaming Mr. George, refusing to return the withdrawn funds because they fully vested with Mr. George on December 1, 2009, and accusing JA of violations related to the improper funding of Mr. George’s 401(k) and HSA accounts. [Dkt. 58-7.] The letter attached a copy of the Amendment moving up the vesting date of the de­ferred compensation account to December 1, 2009.  [Dkt. 58-7 at 7.]  Ms. Burk attests that she 
+
+did not see the Amendment before receiving it from Mr. George’s counsel.  [Dkt. 58-2 at 18.] 
+
+Mr. George sued JA in February 2010. [Dkt. 1.]  The operative complaint asserts claims 
+
+against JA for ERISA retaliation, breach of contract, violations of the Indiana Wage Claims Sta­
+
+tute, and defamation per se.3 [Dkt. 87.] 
+
+
+Mr. George alleges that he engaged in three types of protected activity under ERISA’s 
+
+anti-retaliation statute when he 
+
+1) “complain[ed]” to the DOL about JA’s failure to remit 401(k) and health sav­ing account payments, [dkt. 87 at 8 ¶ 49]; 
+
+2) “made complaints to his supervisor, Jennifer Burk, to members of [JA’s] Board of Directors, and to employees of [JA] and outside consultants to [JA] responsible for [JA] accounting and payroll functions in September and Octo­ber of 2009 about [JA’s] failure to remit 401k and health savings account payments[,]” [dkt. 87 at 8 ¶ 50]; and   
+
+3) “complained to Board Chairman Mark Shaffer” about JA’s possible DOL vi­olations, [dkt. 87 at 8 ¶ 51]. 
+
+3 Mr. George also asserts claims for defamation per se and defamation per quod against Defen­dants Jennifer Burk, Phillip Burk, David Wilson, 500 Festival, Inc., and Kelsey Hanlon.  [Dkt. 87.] Because the Court grants JA’s Motion for Summary Judgment on Mr. George’s ERISA claim and all remaining claims are state law claims that the Court dismisses without prejudice to be refiled in state court should Mr. George choose to do so, the Court has not detailed the alleged factual basis for Mr. George’s state law claims except to the extent they overlap with the allega­tions surrounding the ERISA claim. 
+
+4 Rule 56(a) provides that a party may move for summary judgment, identifying each claim on which summary judgment is sought.  While JA makes a passing reference in its opening brief to an ERISA interference claim (in a likely attempt to head off potential claims Mr. George could have made), [dkt. 57 at 11-12], a careful review of Mr. George’s Second Amended Complaint, filed after JA’s motion for summary judgment, proves that Mr. George solely makes a retaliation claim. [Dkt. 87 at 7-8 (“Count I:  ERISA Retaliation against [JA]”); see also dkt. 59 at 14 (Mr. George’s response brief, which never references an interference claim but, instead, cites argu­ments and case law focusing exclusively on “ERISA Retaliation”).]   
+
+Mr. George alleges that these complaints were a direct and proximate cause of his termination, which thus constitutes a violation of ERISA’s anti-retaliation statute.  [Dkt. 87 at 8 ¶¶ 54-55.] 
+
+JA argues on summary judgment that Mr. George’s retaliation claim fails as a matter of law “because there has never been an ‘inquiry or proceeding’ relating to his claims,” as required for an individual to receive protection under ERISA’s anti-retaliation statute.  [Dkt. 57 at 11 (quoting 29 U.S.C. § 1140).] 
+
+
+
+
+ERISA is a comprehensive statute designed to promote the interests of employees and their beneficiaries in employee benefit plans.  Shaw v. Delta Air Lines, Inc., 463 U.S. 85, 90 (1983). As part of this system, Congress included “various safeguards to preclude abuse and to completely secure the rights and expectations brought into being by this landmark reform litiga­tion.” Ingersoll-Rand Co. v. McClendon, 498 U.S. 133, 137 (1990) (citation omitted).  One of these safeguards is ERISA’s anti-retaliation provision, which provides, in relevant part, that “[i]t shall be unlawful for any person to discharge, fine, suspend, expel, or discriminate against any person because he has given information or has testified or is about to testify in any inquiry or proceeding relating to this Act. . . .”  29 U.S.C. § 1140. 
+
+The Seventh Circuit Court of Appeals has not interpreted the phrase “given information or has testified or is about to testify in any inquiry or proceeding relating to this Act. . . .” to de­termine whether unsolicited complaints are protected activity under ERISA’s anti-retaliation sta­tute. 29 U.S.C. § 1140. When presented with an issue of first impression in the Seventh Circuit, this Court seeks “‘to predict how the Seventh Circuit would rule on the issue.’”  Helcher v. Dearborn County, 500 F. Supp. 2d 1100, 1112 (S.D. Ind. 2007) (quoting Primeco Personal Comm’ns v. Village of Fox Lake, 26 F. Supp. 2d 1052 (N.D. Ill. 1998)). 
+
+The principles that guide the interpretation of federal statutes are “well settled but worth repeating.” United States v. Webber, 536 F.3d 584, 593 (7th Cir. 2008). The Court gives the words of a statute their ordinary meaning unless the context advises otherwise.  Id. (citation omitted).  “When the plain wording of the statute is clear, that is the end of the matter,” id., and the Court need not turn to the legislative history to interpret its meaning, Valero Energy Corp. v. United States, 569 F.3d 626, 634 (7th Cir. 2009). The Court will not conduct further inquiry and, instead, will enforce the statute in accordance with its plain meaning.  Ind. Forest Alliance, Inc. v. United States Forest Serv., 325 F.3d 851, 857 (7th Cir. 2003). 
+
+The federal Courts of Appeals are split on whether unsolicited internal complaints are protected activity under 29 U.S.C. § 1140. The Fifth and Ninth Circuits have held that com­plaints of this nature are protected, Anderson v. Elec. Data Sys. Corp., 11 F.3d 1311 (5th Cir. 1994); Hashimoto v. Bank of Hawaii, 999 F.2d 408 (9th Cir. 1993), while the Second, Third, and Fourth Circuits have held that they are not protected, Edwards v. A.H. Cornell & Son, Inc., 610 F.3d 217, 220 (3d Cir. 2010); Nicolaou v. Horizon Media, Inc., 402 F.3d 325 (2d Cir. 2005); King v. Marriott Int’l Inc., 337 F.3d 421 (4th Cir. 2003). The Third Circuit Court of Appeals conducted an extensive and thoughtful analysis of the circuit split, to which this Court refers, but need not repeat. See Edwards, 610 F.3d at 220-22. 
+
+After reviewing the various opinions from the Circuit Courts interpreting the language at issue, this Court agrees with the analysis from the Third Circuit Court of Appeals, which ulti­mately concludes that the unambiguous language of the ERISA anti-retaliation statute does not protect unsolicited internal complaints.  Edwards, 610 F.3d at 225-26. Edwards persuasively analyzes the statutory language at issue, adhering to principles of construction that are similar, if not identical, to principles of statutory construction employed by the Seventh Circuit.  This Court will apply a similar analysis as Edwards to interpret the meaning of ERISA’s anti-retaliation sta­tute and supplement it with Seventh Circuit authority where applicable. 
+
+As noted above, at issue is the meaning of the phrase “given information or has testified or is about to testify in any inquiry or proceeding relating to this Act. . . .”  29 U.S.C. § 1140. An “inquiry” is generally defined as “‘a request for information.’”  Edwards, 610 F.3d at 223 (quot­ing Black’s Law Dictionary 864 (9th ed. 2009)). The plain meaning of this term implies that un­solicited information given voluntarily, as opposed to solicited information, is not part of an “in­quiry” under the statute’s plain meaning.  Edwards, 610 F.3d at 223. Moreover, ERISA’s anti-retaliation statute protects employees who have “given information” but not employees who have received information, the plain language of the statute only includes inquiries made of an em­ployee, not inquiries made by an employee.  Id.  Likewise, a “proceeding” is commonly defined as “‘the regular and orderly progression of a lawsuit’” or the “‘procedural means for seeking re­dress from a tribunal or agency.’” Id. (quoting Black’s Law Dictionary 1324 (9th ed. 2009)). In addition to the plain meaning of these terms, the phrase “testified or is about to testify” implies that the phrase “inquiry or proceeding” is limited to more formal actions. Edwards, 610 F.3d at 223. 
+
+In attempting to predict how the Seventh Circuit would rule, this Court is mindful of the emphasis the Court of Appeals has placed on the “significant differences” between the anti-retaliation provisions of ERISA and other employment statutes.  See Bilow v. Much Shelist Freed Denenberg Ament & Rubenstein, P.C., 277 F.3d 882, 892 (7th Cir. 2001) (citing the anti-retaliation provisions of ERISA and Title VII and cautioning courts against borrowing aspects of Title VII law to interpret ERISA).  And as Edwards observed, Congress could have, but did not, use broad language similar to the anti-retaliation provision in Title VII, which protects em­ployees who have “opposed any practice made an unlawful employment practice by [Title VII],” 42 U.S.C. § 2000e-3(a). The combination of the Seventh Circuit’s emphasis on the differences between the anti-retaliation provisions of ERISA and Title VII, its admonition against borrow­ing, and the absence of more general language in the ERISA anti-retaliation provision signal that the ERISA anti-retaliation provision should be narrowly construed.  Edwards, 610 F.3d at 223; see also King, 337 F.3d at 427 (holding that ERISA’s anti-retaliation provision is much narrower than the Title VII anti-retaliation provision, which indicates a “much more circumscribed” reme­dy).5 
+
+The Fifth and Ninth Circuit decisions, which reach the opposite conclusion, are not per­suasive because neither court examined the statutory language at issue in detail.  Id. at 223. In­stead, the Fifth Circuit gave the statutory language cursory treatment, Anderson, 11 F.3d at 1314, and the Ninth Circuit relied primarily on what it considered to be a “fair” interpretation of the statute, Hashimoto, 999 F.2d at 411, which is inappropriate if the statutory language is unambi­guous. The Court recognizes that strong policy reasons might favor protecting unsolicited inter­nal complaints.  See Edwards, 610 F.3d at 227 (Cowen, J., dissenting) (“Like the Ninth Circuit, I find it difficult to believe that Congress could have ever intended to exclude from the protection of its remedial anti-retaliation provision employees who are terminated because they bring an 
+
+5 Mr. George directs the Court to the Seventh Circuit’s opinion in Kasten v. Saint-Gobain Per­formance Plastics Corporation, 570 F.3d 834, 838-40 (7th Cir. 2009), vacated by 131 S. Ct. 1325 (2011). [Dkt. 69.] Despite the fact that the United States Supreme Court vacated the Se­venth Circuit’s opinion, 131 S. Ct. at 1336, Mr. George urges the Court to rely on a portion of the opinion that he claims the Supreme Court did not address.  [Dkt. 69 at 2 (arguing that the Su­preme Court’s opinion and the Seventh Circuit’s opinion can be read in conjunction to apply to individuals who make internal oral and written complaints under the Fair Labor Standards Act’s (“FLSA”) anti-retaliation provision).] The Court denies Mr. George’s invitation to rely on the vacated Kasten opinion. Aside from the fact that it is no longer precedential, Kasten interpreted the FLSA’s anti-retaliation statute, which Mr. George admits “contains different language” than ERISA’s anti-retaliation provision.  [Dkt. 69 at 2.] Again, the Seventh Circuit has advised courts not to rely on case law interpreting anti-retaliation statutes not at issue.  Bilow, 277 F.3d at 892. 
+
+ERISA-related problem to the attention of their supervisors.”).  But it is for Congress, not the Court, to set policy. The Court cannot ignore the unambiguous language of the statute.  See Mil­ler Aviation v. Milwaukee County Bd. of Supervisors, 273 F.3d 722, 730 (7th Cir. 2001) (“this court’s inquiry will begin and end with the statute’s text, if the text is unambiguous”). 
+
+For these reasons, the Court concludes that the language of the ERISA anti-retaliation provision is unambiguous and does not protect unsolicited complaints that are not made in the context of an inquiry or a formal proceeding. 
+
+
+
+
+
+Mr. George’s ERISA claim hinges on his allegations that he made unsolicited complaints regarding JA’s failure to remit earned 401(k) and HSA funds to his accounts.  [Dkt. 87 at 7-8.] Mr. George admits that he never told JA that he contacted the DOL,6 [dkt. 58-4 at 19], and that he declined the DOL’s invitation to open a case file, [dkt. 60-2 at 33].  Moreover, Mr. George does not allege than any of his complaints, including his complaint to the DOL, Ms. Burke, members of the JA Board, or outside JA consultants, were solicited or were made as part of a formal inquiry or proceeding.  [Dkt. 87 at 8 ¶ 49 (“George engaged in protected activity by com­plaining” to the DOL) (emphasis added), ¶ 50 (“George engaged in protected activity when he made complaints to his supervisor, Jennifer Burk, to members of [JA’s] Board of Directors, and to employees of [JA] and outside consultants to [JA] . . .” (emphasis added), ¶ 51 (“George en­gaged in protected activity when he complained to Board Chairman Mark Shaffer”) (emphasis added).] 
+
+6 The Court rejects Mr. George’s argument directly contradicting his sworn deposition testimony that JA should have known that he contacted the DOL because he informed JA’s Board President that JA’s failure to deposit funds into Mr. George’s 401(k) plan was a DOL violation, [dkt. 87 at 8 ¶ 52]. Mr. George is only entitled to reasonable inferences on summary judgment, Celotex, 477 U.S. at 330, and the logical leap Mr. George requests is not reasonable, especially given his admission that he did not tell JA that he contacted the DOL. 
+
+Based on the Court’s interpretation of the unambiguous language of ERISA’s anti-retaliation statute, Mr. George did not engage in protected activity because his unsolicited com­plaints were not made in the context of an inquiry or proceeding.7 Therefore, JA is entitled to summary judgment on Mr. George’s ERISA retaliation claim. 
+
+
+
+
+The Court has resolved the sole federal question asserted in this action and, consequently, is left with various state law claims over which it lacks diversity jurisdiction.  Therefore, the Court must determine whether to exercise its discretion to retain jurisdiction over the supplemen­tal claims pursuant to 28 U.S.C. § 1367(a) or to dismiss them pursuant to 28 U.S.C. § 1367(c). 
+
+If a case was originally filed in federal court and the Court determines that it will not ex­ercise supplemental jurisdiction over the remaining state law claims, the proper course is to dis­miss those claims without prejudice, not remand them to state court.  Harvey v. Town of Merrill-ville, 2011 U.S. App. LEXIS 14165 (7th Cir. 2011).  The district court ultimately has discretion whether to exercise supplemental jurisdiction over a plaintiff’s state law claims.  Carlsbad Tech., Inc. v. HIF BIO, Inc., 129 S. Ct. 1862, 1866 (2009); 28 U.S.C. § 1367(c) (“The district courts may decline to exercise supplemental jurisdiction over a claim . . . if . . . the district court has dismissed all claims over which it has original jurisdiction . . . .”).  When deciding whether to 
+
+7 Because Mr. George’s unsolicited complaints were not made in the context of an inquiry or a proceeding, the fact that Mr. George complained to JA’s outside accounting advisor, which was an agent of JA, does not save Mr. George’s ERISA claim. 
+
+8 The Court will not address the majority of the parties’ supplemental summary judgment brief­ing, filed after the Second Amended Complaint, which primarily addresses Mr. George’s state law claims.  [Dkts. 144; 153.] Moreover, the Court rejects Mr. George’s argument raised in that briefing that JA is not entitled to summary judgment on his ERISA claim because Ms. Burk’s credibility has been called into question because of “newly discovered evidence [that] relates to Mr. George’s defamation claim.”  [Dkt. 144 at 20.]  Mr. George’s ERISA claim fails not because of a credibility determination, which is always inappropriate on summary judgment, but because his allegations do not support an ERISA claim as a matter of law. 
+
+exercise supplemental jurisdiction, “‘a federal court should consider and weigh in each case, and at every stage of the litigation, the values of judicial economy, convenience, fairness, and comi­ty.’” City of Chicago v. Int’l Coll. of Surgeons, 522 U.S. 156, 173, (1997) (quoting Carnegie-Mellon Univ. v. Cohill, 484 U.S. 343, 350 n.7 (1988)). It is well-established that the usual prac­tice is to dismiss the state supplemental claims without prejudice. Groce v. Eli Lilly & Co., 193 F.3d 496, 501 (7th Cir. 1999). 
+
+Here, judicial economy favors dismissing the remaining state law claims without preju­dice. Specifically, a majority of the remaining state law claims center around alleged defamatory statements made regarding Mr. George’s departure from JA.  At least one of the defendants, Mr. David Wilson, already has a lawsuit pending against him in state court regarding the same alle­gedly defamatory statements. Therefore, judicial economy could be significantly furthered if the same court could manage both lawsuits, which only the state court can do. 
+
+Additionally, dismissing the state law claims to allow them to be adjudicated in state court is not inconvenient to any of the parties.  Mr. George’s initial complaint, filed in February 2010, only asserted claims against JA.  [Dkt. 1.] The original parties have fully briefed summary judgment on the remaining state law claims, and those issues can be quickly brought before the state court, should the parties choose to do so, with little alteration to the briefs filed here. 
+
+Moreover, Mr. George added defamation claims against five additional non-diverse de­fendants three months ago, [dkt. 87].  There has been little progress on those claims, in large part because the newly added defendants contend that the Court does not possess subject matter juris­diction over the defamation claims against them. [Dkts. 103; 126; 130.] Therefore, the Court concludes that it would not be inconvenient for the parties to adjudicate the remaining state law claims in state court. 
+
+Finally, the Court finds no fairness or comity concerns that weigh in favor of this Court retaining supplemental jurisdiction. 
+
+For these reasons, the Court, in its discretion, declines to exercise supplemental jurisdic­tion over Mr. George’s remaining state law claims and dismisses those claims pursuant to 28 
+
+U.S.C. § 1367(c) without prejudice for Mr. George to refile them in state court should he choose to do so. 
+
+ For the reasons detailed herein, the Court GRANTS IN PART Defendant JA’s Motion for Summary Judgment to the extent that JA is entitled to summary judgment on Mr. George’s ERISA claim. [Dkt. 56.] Because only state law claims remain over which the Court does not have independent jurisdiction, and for the reasons further detailed herein, the Court dismisses those claims without prejudice for Mr. George to refile them in state court. Consequently, the Court DENIES AS MOOT Defendant David Wilson’s Motion to Sever Claims and Motion to Dismiss for Lack of Subject Matter Jurisdiction, [dkt. 103], Defendant Jennifer L. Burk’s Motion to Dismiss for Lack of Jurisdiction, [dkt. 126], and Defendant Kelsey Hanlon’s Motion to Sever and Motion to Dismiss for Lack of Subject Matter Jurisdiction, [dkt. 130].  Final judgment will issue accordingly. 
+
+
+
+

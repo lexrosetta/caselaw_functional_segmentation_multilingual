@@ -1,0 +1,60 @@
+U.S. Department of Labor Administrative Review Board 200 Constitution Avenue, N.W.
+
+Washington, D.C.  20210
+
+In the Matter of:
+
+JOSEPH HERNANDEZ,     ARB CASE NO. 2017-0016
+
+COMPLAINANT,   ALJ CASE NO. 2016-FRS-00023 v.      DATE:   March 1, 2019METRO NORTH COMMUTER RAILROAD COMPANY, INC.,
+
+RESPONDENT.
+
+Appearances:
+
+For the Complainant:
+
+Joseph Hernandez; pro se; Point Pleasant, New York
+
+For the Respondent: Richard L. Gans, Esq.; Metro-North Commuter Railroad; New York, New YorkBefore: William T. Barto, Chief Administrative Appeals Judge, Daniel T. Gresh and James A. Haynes, Administrative Appeals JudgesDECISION AND ORDER
+
+PER CURIAM
+
+This case arises under the Federal Rail Safety Act of 1982 (FRSA).1  Complainant Joseph Hernandez filed a complaint alleging that BNSF Railway Company retaliated against him in violation of FRSA’s whistleblower protection provisions for referencing a co-worker’s arrest for driving under the influence.  Hernandez appeals from a Decision and Order (D. & O.) issued by a (2018) and 29 C.F.R. Part 18, Subpart A (2018).
+
+Department of Labor Administrative Law Judge (ALJ) on November 30, 2016.  In the D. & O., the ALJ granted Respondent’s motion for summary decision and dismissed Hernandez’s complaint because Hernandez failed to show that there was a genuine issue of material fact about whether he engaged in protected activity, or that any protected activity was a contributing factor in Respondent’s denying his re-entry into a training program in 2015.
+
+BACKGROUND
+
+Respondent hired Complainant in 2006.2  In 2013, Complainant applied for and was selected as a candidate for Respondent’s Engineer Training Program (ETP).  Around this time, Respondent provided Complainant with the ETP guidelines, which state that (1) ETP candidates are allowed two attempts to pass each test of the physical characteristics, and (2) two failures to pass any one of the tests would result in termination from the ETP.
+
+During the training program, Kenneth Sciabarassi, Manager of the Locomotive Engineer Training Department, gave Complainant two formal written warning letters stating that his performance was below standard because Complainant had failed to advise his instructor before class that he was going to be late or absent.3  When Sciabarassi presented Complainant with one of the warning letters, Complainant mentioned to Sciabarassi that another ETP candidate had a DUI arrest, which had occurred about eight months earlier.  Complainant knew at the time of this conversation that Sciabarassi already knew about the DUI arrest.
+
+Several months later, in September 2014, Complainant failed his first and second attempts at the physical characteristics test.4  Respondent sent Complainant a notice on September 19, 2014, that he would be terminated immediately from the ETP.  He returned to his former position.
+
+In February 2015, after seeing an online announcement that Respondent was accepting applications for an ETP, Complainant submitted an application to the Business Service Center (BSC).5  The BSC invited Complainant to take a screening examination, which he did on March 4, 2015.  Thereafter, Fred Gill, Human Resources for Respondent, contacted Complainant and told him that his re-entry to the ETP was invalid because he had been released from it earlier. On March 9, 2015, BSC sent Complainant an email informing him that he was not eligible for further consideration in the ETP because he had been recently dismissed from the Program.
+
+On March 13, 2015, BSC sent Complainant another email notifying him that he passed the examination he had taken and he would be subject to a background investigation in furtherance of his ETP application process.6  Complainant provided information for the background investigation.
+
+In July 2015, Complainant called Lorenzo Biagi, an employee in Respondent’s Employee Relations Department, to follow up about the status of his application to enter the ETP.7 Complainant and Biagi met on August 3, 2015, and Complainant asked Biagi about the existence of a rule precluding re-entry into the ETP any candidate who had been terminated from the program in the prior five years.  In September 2015, Biagi confirmed that Respondent had such a policy but did not provide Hernandez with documentation of the policy.
+
+Respondent has produced a document entitled “Metro-North Railroad Locomotive Engineer Hiring Process” which is used by the Human Resources department for recruiting and hiring for the ETP.8  It is used internally and is not provided to applicants.9  It states that minimum requirements for the position locomotive engineer include that the candidate must not have failed within a five year period any agency-sponsored training program for the same or similar position requiring comparable qualifications, testing, or training.10JURISDICTION AND STANDARD OF REVIEW
+
+The Secretary of Labor has delegated to the Administrative Review Board authority to review ALJ decisions in cases arising under the FRSA and issue final agency decisions in these matters.11  The Board reviews the ALJ’s factual determinations under the substantial evidence standard.12  The Board reviews an ALJ’s conclusions of law de novo.13DISCUSSION14
+
+On appeal, Complainant argues that the ALJ erred when she stayed pre-hearing deadlines which “stopped Complainant from pre-hearing discovery,” and granted Respondent’s summary judgment motion before allowing him a hearing in which to develop his case.15  He further contends that the ALJ’s conclusion that there was no genuine issue of material fact regarding the reason Respondent denied Complainant re-entry into the ETP indicates that the ALJ weighed the evidence and engaged in improper fact-finding on a summary judgment motion.16As it constitutes a conclusion of law, we review a decision granting summary decision de novo.  The Board evaluates the decision using the same standard employed by the ALJ: summary decision is appropriate if there is no genuine issue of material fact.17  We view the evidence in the Administrative Review Board), 77 Fed. Reg. 69378 (Nov. 16, 2012); see 29 C.F.R. § 1982.110(a).
+
+Apr. 30, 2013) (citations omitted).
+
+Complainant’s arguments pertaining to that element alone.  While we do not decide this matter regarding the protected activity element, we note that a complainant’s motive in making a protected complaint is irrelevant.  Guay v. Burford’s Tree Surgeons, Inc., ARB No. 2006-0131, ALJ No. 2005- STA-00045, slip op. at 7 (ARB Jun. 30, 2008) ((“However, ‘where the complainant has a reasonable belief that the respondent is violating the law, other motives he may have for engaging in protected activity are irrelevant.’”) (quoting Diaz-Robainas v. Florida Light & Power Co., No. 1992-ERA- 00010, slip op. at 15 (Sec’y Jan. 19, 1996))). In light of our disposition of this appeal, we need not consider the question of whether a unsupported assertion that a co-worker was arrested for an alcohol-related traffic offense, without any specific connection to employment and without any information related to whether the co-worker was convicted, rises to the level of protected activity or was mere office gossip. the light most favorable to the nonmoving party and then determine whether there are any genuine issues of material fact and whether the ALJ correctly applied the relevant law.18Viewing the evidence in the light most favorable to Complainant, we affirm the ALJ’s conclusion that Complainant raised no genuine issues of material fact with respect to whether Respondent terminated him from the ETP because of any protected activity.  Respondent’s submissions show that Metro-North had a written policy, albeit a policy internal to management, that that an individual who had failed out of an ETP could not become an engineer training candidate for five years.  Respondent terminated Complainant from the ETP in September 2014 for failing the physical characteristics test two times, the maximum number allowed before termination from the program.  He therefore did not meet the minimum requirements to re-enter the ETP when Respondent denied him re-entry in March 2015.
+
+Complainant has not set forth any facts which would raise a genuine issue as to any of these facts.  He has not alleged that the policy does not exist.  To survive a summary decision motion, Hernandez “may not rest upon mere allegations or denials of such pleading.”19  Rather, he must cite “to particular facts of materials in the record, including depositions, documents, electronically stored information, affidavits or declarations, stipulations,. . .  admissions, interrogatory answers, or other materials or show[] that the materials [Respondent] cited do not establish the absence . . .  of a genuine dispute.”20Hernandez’s strongest evidence in opposition to the summary decision motion is deposition testimony stating that there was another ETP candidate who was terminated from the program who was allowed to reenter within five years.21  However, Respondent submitted evidence that the other candidate was not terminated from the program for failing a test, but for “extensive absences for medical reasons” whose issues had resolved.22  Hernandez, who was admittedly terminated from the ETP for failing the physical characteristics test twice, was not at 4 (ARB Apr. 30, 2010). similarly situated to the other candidate.23  Thus, Hernandez cannot show that there is a genuine issue of material fact about the rule’s application to him.
+
+While Complainant speculates that he would be able to elicit additional facts in discovery or at a hearing, he must point to facts that he hopes to elicit in the face of Respondent’s evidence showing its policy on the matter or show that Respondent’s submissions do not establish the absence of a genuine issue of material fact.  Hernandez has failed to do either.  The argument that Respondent’s reasons are pretext is not an evidentiary fact that is sufficient to support his opposition to the motion for summary decision.  Nor do Hernandez’s assertions about discovery procedure persuade.  The ALJ did not stay any discovery in this matter, but instead suspended prehearing deadlines and the hearing date—Hernandez still had the opportunity to engage in discovery regarding the motion for summary decision, but other than having Respondent take his deposition, did not do so.
+
+CONCLUSION
+
+Accordingly, we AFFIRM the ALJ order that this complaint be DISMISSED because Complainant has failed to raise a genuine issue of material fact regarding the element of contributing factor causation.
+
+SO ORDERED.
+

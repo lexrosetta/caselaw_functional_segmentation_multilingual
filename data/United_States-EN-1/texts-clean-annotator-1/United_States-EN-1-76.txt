@@ -1,0 +1,70 @@
+ Plaintiffs assert that they were paid on an hourly basis but did not receive overtime pay for hours worked over forty during a work week, to which they believe they were entitled. 
+
+Pending is Defendants’ motion for summary judgment in which they argue only that Plaintiffs cannot show that any violation of the FLSA was willful, a finding that would extend the applicable statute of limitations from two years to three years (D.E. 93). Plaintiffs responded to the motion (D.E. 96) and Defendants filed a reply (D.E. 99). For the reasons set out below, Defendants’ motion is DENIED. 
+
+1/8 
+
+Defendants provide mid-level practitioners,1 such as CRNA’s, nurse practitioners and physician assistants, to client hospitals in Texas and throughout the United States. Plaintiffs are CRNA’s who worked for Defendants in Nueces County and other locations in Texas. Plaintiffs were paid on an hourly basis and regularly worked more than forty hours a week, but did not receive overtime pay. Plaintiffs assert that they were non­exempt employees under the FLSA, and as such were entitled to overtime pay at one­and-a-half times their regular rate when they worked more than forty hours in a work week. They further assert that Defendants “knowingly, willfully, or with reckless disregard” violated the FLSA by failing to pay them overtime. 
+
+In their motion for summary judgment, Defendants argue that Plaintiffs cannot meet their burden of showing willfulness and that therefore, the applicable statute of limitations in this case is two years. Although they do not argue it in their motion for summary judgment, Defendants assert in their original answer that Plaintiffs are independent contractors and not employees of Defendants (D.E. 7 at 3). For purposes of this motion only, it will be assumed without deciding that Defendants violated the FLSA by treating the CRNA’s as independent contractors rather than employees. 
+
+1 The term “mid-level practitioner” is used by the Drug Enforcement Administration to describe health care providers who are authorized to dispense controlled substances. “Mid-level practitioner means an individual practitioner, other than a physician, dentist, veterinarian, or podiatrist, who is licensed, registered, or otherwise permitted by the United States or the jurisdiction in which he/she practices, to dispense a controlled substance in the course of professional practice. Examples of mid-level practitioners include, but are not limited to, health care providers such as nurse practitioners, nurse midwives, nurse anaesthetists, clinical nurse specialists and physician assistants who are authorized to dispense controlled substances by the State in which they practice.” 21 C.F.R. § 1300.01. 2/8 
+
+
+
+ 
+
+The FLSA states in general terms that unless otherwise provided by the statute, employees who work in excess of forty hours per week are entitled to pay at a rate of one and one-half times the regular rate of pay. 29 U.S.C. § 207(a)(1). The statute further provides that causes of action may be commenced within two years after the cause of action accrued, unless the cause of action arises out of a willful violation of the statute, in which case it may be commenced within three years after the cause of action accrued. 29 U.S.C. § 255(a). 
+
+In order to show that a violation was willful, a plaintiff has the burden of presenting evidence that the employer either knew or showed reckless disregard for whether its conduct was prohibited by the statute. McLaughlin v. Richland Shoe Co., 486 
+
+U.S. 128, 133, 108 S.Ct. 1677, 1681, 100 L.Ed.2d 115 (1988) (citing Trans World Airlines, Inc. v. Thurston, 469 U.S. 111, 125-130, 105 S.Ct. 613, 623-626, 83 L.Ed.2d 523 (1985)). In common usage, the word “willful” is considered synonymous with words such as “voluntary,” “deliberate” and “intentional.” McLaughlin, 486 U.S. at 133, 108 S.Ct. at 1681. It generally is understood to refer to conduct that is not merely negligent. Id. If an employer acts reasonably in determining its legal obligation, its action is not willful. Id., 486 U.S. at 135, n.13, 108 S.Ct. at 1682, n. 13. Also, if an employer acts unreasonably, but not recklessly, in determining its legal obligation, it is not considered to have acted willfully. Id. Whether an employer acted willfully is a question of fact, and summary judgment in favor of the employer is inappropriate if the plaintiffs have 
+
+3/8 
+
+introduced evidence sufficient to support a finding of willfulness. Ikossi-Anastasiou v. Bd. of Supervisors of La. State Univ., 579 F.3d 546, 552 (5th Cir. 2009). 
+
+Plaintiffs point out that defendant EmCare, Inc. and two of its related entities, Texas EM-I Medical Services, P.A., and St. Paul ERDocs, P.A., were defendants in a 2003 lawsuit where it was determined that physician assistants and advanced nurse practitioners were non-exempt employees, i.e., they were entitled to overtime pay when they worked more than forty hours per work week. Both the district court and the Fifth Circuit Court of Appeals engaged in lengthy analyses of the relevant statutes and regulations. See Belt v. EmCare, Inc., 351 F.Supp.2d 625 (E.D. Tex. 2005) and Belt v. EmCare, Inc., 444 F.3d 403 (5th Cir. 2006). The case was remanded to district court for further proceedings. Id. at 417. Plaintiffs also point out that while the Belt case was being litigated, Todd Zimmerman, the current president of EmCare, Inc., was serving as the General Counsel at EmCare, Inc. (Decl. of James A. Jones, ¶ 11, Ex. 1 to Resp. to Mot. for Sum. Jmt., D.E. 96-1 at 4; Exec. Leadership Doc., Ex. 1-G to Resp. to Mot. for Sum. Jmt., D.E. 96-8 at 2). Defendants stipulated in the Belt case that the plaintiffs were employees, but limited the stipulation to only that case (Order, Ex. 1-F to Mot. for Sum. Jmt., D.E. 96-7 at 2-3). 
+
+Defendants counter that the fact that they were engaged in a prior lawsuit involving the FLSA is not enough for Plaintiffs to meet their evidentiary burden. In addition, Defendants argue that CRNA’s should be classified differently from the nurse practitioners and physician assistants in the prior case and also that the issue in the prior case was whether the plaintiffs fell into the “professional exemption” under the FLSA, 
+
+4/8 
+
+and the issue in this case is whether the CRNA’s are independent contractors or employees. 
+
+Defendants’ first argument, that CRNA’s are compensated differently from nurse practitioners and physician assistants, is unpersuasive. Defendants assert, without any evidence or reference to the record, that CRNA’s receive different advanced degrees, go through a vastly different licensing and certification process and are authorized to perform significantly different functions than the nurse practitioners and physician assistants in Belt. Regardless of whether the contention is true, it is unclear that it has any bearing on whether they are compensated differently from other mid-level practitioners under the FLSA. In any event, the classification of CRNA’s for purposes of the FLSA is an issue that will be the subject of litigation as this case proceeds. 
+
+Defendants’ second argument, that the issue in this case is not whether the CRNA’s are salaried or hourly employees, but whether they are employees or independent contractors, is equally unavailing. How CRNA’s should be classified and paid is the crux of Plaintiffs’ lawsuit. But the issue in this motion for summary judgment is limited to whether any violation of the FLSA by Defendants was willful. In other words, if it is later determined that Plaintiffs should have been treated and compensated as hourly employees rather than independent contractors, the issue is whether Defendants made a willful decision to treat them as independent contractors in an effort to pay them less compensation than they were due under the FLSA. 
+
+In Belt, the issue was whether the nurse practitioners and physician assistants employed by Defendants were exempt from overtime under the Department of Labor 5/8 
+
+(“DOL”) regulations. Both parties presented detailed and sophisticated arguments parsing the relevant statutes, regulations and DOL interpretations of its own regulations. The motions filed by Defendants and the resulting district and circuit court opinions indicate that Defendants have a comprehensive knowledge of the FLSA and DOL regulations related to overtime pay of health care professionals such as the Plaintiffs in this case. See, generally, D.E. 96. 
+
+Based on Defendants’ participation in the prior litigation, if a jury were to find that Plaintiffs were entitled to overtime pay, they might also find that Defendants knew that Plaintiffs were entitled to the compensation but attempted to circumvent the regulations by classifying the Plaintiffs as independent contractors rather than employees. Where employers have knowledge that they are violating the FLSA but choose to do so anyway, their violations are considered willful. For example, in Singer v. City of Waco, 324 F.3d 813, 821-822 (5th Cir. 2003), the Fifth Circuit found that evidence supported a jury’s finding that the employer’s violation of the FLSA was willful where the assistant fire chief told another supervisor that he knew firefighters were being paid incorrectly, the city cancelled a training seminar which would have informed employees about FLSA, and when questioned about overtime, the city attorney said, “we don’t even want to open that can of worms.” Similarly, in Reich v. Bay, Inc., BBI, Inc., 23 F.3d 110, 117 (5th Cir. 1994), a FLSA violation was deemed willful when the director of the local Wage and Hour board informed defendants’ representative that overtime payment practices violated the FLSA and defendants continued the practices without further investigation. Also, in Brock v. Superior Care, Inc., 840 F.2d 1054, 1062 (5th Cir. 1988), a FLSA violation was 
+
+6/8 
+
+willful when the employer had actual notice of FLSA requirements by virtue of its earlier violations where it had agreed to pay $32,000 in back pay and promised to comply with the FLSA in the future, as well as when a DOL compliance officer had told the employer that nurses were employees and not independent contractors. See also Villegas v. Dependable Construction Services, Inc., Civ. No. 4:07-cv-2165, 2008 WL 5137321 at *27 (S.D. Tex. 2008) (if violations in earlier FLSA litigation resemble those in later litigation, it is possible defendants had knowledge they were violating statute in classifying plaintiffs as exempt). 
+
+Conversely, a jury might find that based on Defendants’ knowledge of the FLSA and DOL regulations, they made a good-faith effort to comply, even if their interpretation was incorrect. In Mireles v. Frio Foods, Inc., 899 F.2d 1407, 1416 (5th Cir. 1990), an employer did not act with reckless disregard when it discussed minimum wage requirements with the Texas Employment Commission and reviewed brochures and pamphlets on the topic, even though the court determined that it acted unreasonably. Likewise, in Halferty v. Pulse Drug Company, Inc., 826 F.2d 2, 3-4 (5th Cir. 1987), an employer acted reasonably and in good faith when it consulted with counsel and examined a DOL bulletin to determine whether its plan violated the FLSA, even though the court determined that the employer owed the employee additional compensation. See also Burns v. Blackhawk Management Corp., 494 F.Supp.2d 427, 436 (S.D. Miss. 2007) (employer who consulted with human resources consultant and attorney, both of whom opined that employee could be classified as exempt, did not act willfully, even if it were determined that plaintiff was entitled to overtime) and Tran v. St. Luke’s Episcopal 
+
+7/8 
+
+
+
+Health Sys., No. H-11-0241, 2012 WL 3985219 at * 2 (S.D. Tex. 2012) (employer who had procedure in place to ensure compliance with the FLSA and specifically reviewed exempt status of employees held sincere belief that employee was exempt and thus did not act willfully even if employee were not exempt). 
+
+Plaintiffs in this case have presented evidence that Defendants have an expansive knowledge of the FLSA and DOL regulations relating to the payment of overtime to mid-level practitioners of health care. The evidence also shows that Defendants previously litigated a closely related overtime issue to an unsuccessful outcome. Thus, Plaintiffs have introduced evidence sufficient to support a finding of willfulness if it is determined that Defendants violated the FLSA in the instant case. Accordingly, whether Defendants in this case willfully violated the FLSA is a fact question, best determined by a jury. Ikossi-Anastasiou, 579 F.3d at 552. 
+
+
+
+ 
+
+Based on the foregoing, Defendants’ motion for summary judgment on the issue of willfulness and the statute of limitations is DENIED. 
+
+ORDERED this 14th day of January, 2013. 
+
+8/8 
+
+
+

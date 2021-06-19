@@ -1,0 +1,106 @@
+
+
+THIS CAUSE comes before the Court upon the Plaintiff's Motion for Conditional Certification and Facilitation of Court-Authorized Notice Pursuant to 29 U.S.C. § 216 and Supporting Memorandum of Law (Dkt. #9) and Defendants' Response in Opposition to Plaintiff’s Motion (Dkt. #11) and Plaintiff’s Reply to Defendant’s Response (Dkt. #15). Upon review and consideration, it is the Court’s conclusion that Plaintiff’s Motion should be granted as more fully described below.   
+
+ 
+
+Plaintiff, Donald Whitaker, brings this collective action to enforce the overtime provisions of the Fair Labor Standards Act against Defendants Kablelink Communications, LLC and Kablelink Communications of North Carolina, LLC (collectively “Kablelink”). Kablelink contracts with companies like Brighthouse Networks to provide cable installation and troubleshooting services. Kablelink hires individuals to perform these services. Plaintiff worked for Kablelink from 2004 through 2005 and then again from October 2011 until February 2013. Plaintiff was originally hired as a Cable Installer and was promoted to the position of “Lead” or “Field Supervisor;” Kablelink uses these terms interchangeably.  Plaintiff’s complaint alleges that Kablelink unlawfully classified him, and others similarly situated, as “independent contractors” and deprived them of overtime compensation during one or more work weeks of their employment. 
+
+ 
+
+
+
+
+
+
+
+Pursuant to 29 U.S.C. § 216(b), Plaintiff brings this Motion to Conditionally Certify a class of individuals consisting of all “Leads” who performed work for Defendants in either Florida or North Carolina within the last three years who were classified as independent contractors and not paid overtime wages in any work week where they worked over forty hours within the applicable statute of limitations. Plaintiff seeks permission to notify all putative class members to their right to participate in this action through mailing and posting a Court-authorized notice and submits a proposed notice for the Court’s approval.  
+
+Plaintiff asserts in his Motion, and supports it with declarations from five other Leads, that all Leads are similarly situated because they perform similar duties including coordinating Kablelink’s installation services and performing manual labor alongside Cable Installers. They also allege that no special skills are needed to perform the task of a Lead, they are not permitted to turn down an assignment, they could not set their own schedules, and they are regularly required to travel to perform their duties.   
+
+Kablelink opposes this motion on several grounds, arguing that: (1) the Motion is premature; (2) Plaintiffs have not shown that the putative class of Florida and North Carolina Leads are similarly situated; (3) Plaintiffs' proposed collective class is over-broad; (4) Plaintiffs have improperly calculated the proposed relevant time frame; and (5) Plaintiffs' proposed notice must be modified.  
+
+
+
+Pursuant to 29 U.S.C. § 216(b), an action to recover for violations of the FLSA may be brought by one or more employees on their own behalf and on behalf of other similarly situated employees. If an employee-plaintiff wants to maintain an opt-in collective action against his employer for FLSA violations, the plaintiff must demonstrate that he is similarly situated to the proposed members of the collective class and that there is a desire by them to join the lawsuit. See Hipp v. Liberty National Life Insurance Company, 252 F.3d 1208, 1217 (11th Cir. 2001); Dybach v. State of Florida Dept. of Corrections, 942 F.2d 1562, 1567–68 (11th Cir. 1991). An employee interested in joining, or opting-in to, the lawsuit must file a written consent in order to become a party to the suit. See 29 U.S.C. § 216(b). 
+
+The Eleventh Circuit has suggested a two-tiered approach for district courts to use when determining whether an opt-in class should be certified: 
+
+The first determination is made at the so-called “notice stage.” At the notice stage, the district court makes a decision—usually based only on the pleadings and any affidavits which have been submitted—whether notice of the action should be given to potential class members. 
+
+Because the court has minimal evidence, this determination is made using a fairly lenient standard, and typically results in “conditional certification” of a representative class. If the district court “conditionally certifies” the class, putative class members are given notice and the opportunity to “opt-in.” The action proceeds as a representative action throughout discovery. 
+
+The second determination is typically precipitated by a motion for “decertification” by the defendant[,] usually filed after discovery is largely complete and the matter is ready for trial. At this stage, the court has much more information on which to base its decision, and makes a factual determination on the similarly situated question. If the claimants are similarly situated, the district court allows the representative action to proceed to trial. If the claimants are not similarly situated, the district court decertifies the class, and the opt-in plaintiffs are dismissed without prejudice. The class representatives—i.e. the original plaintiffs—proceed to trial on their individual claims.  
+
+Hipp, 252 F.3d at 1218 (quoting Mooney v. Aramco Services Co., 54 
+
+F.3d 1207, 1213–14 (5th Cir.1995)). 
+
+
+
+In evaluating whether conditional certification is appropriate, this Court considers 
+
+whether Plaintiffs have shown that the purported class members (i.e., the other Leads) are 
+
+similarly situated to Plaintiffs with respect to their job requirements and with regard to 
+
+their pay provisions. See Dybach, 942 F.2d at 1567–68. In determining whether Plaintiffs 
+
+and the purported class members are similarly situated with respect to their job 
+
+requirements, Plaintiffs only need to show that their positions are similar; Plaintiffs are 
+
+not required to show that their positions are identical. See Grayson v. K Mart Corp., 79 
+
+F.3d 1086, 1096 (11th Cir. 1996) (citations omitted). Furthermore, the similarly situated requirement “is more elastic and less stringent than the requirements found in Rule 20 (joinder) and Rule 42 (severance).” Id. at 1095. 
+
+In support of their argument that all Leads are similarly situated to Plaintiff, Plaintiff filed his own declaration, as well as declarations from five other Leads that work in Florida, that outline the work they performed for Kablelink. A review of these declarations shows that these Leads performed work for Kablelink that was similar to the work performed for Kablelink by Plaintiff. Plaintiff claims that the Leads worked similar hours, but neither they nor Kablelink kept track of their working hours. 
+
+Additionally, a review of these declarations also shows that the Leads were similarly situated with Plaintiff with regard to their pay provisions. Specifically, both Plaintiff and the Leads state that they typically worked five to six days per week, regularly worked over 40 hours and they were never paid overtime.  Additionally, they state that they were all paid on a piece-rate basis and day-rate basis as Leads.  The only tools they used that they owned were their vehicles for travel and their mobile phones.  
+
+Kablelink opposes the statements made in the declarations and filed a declaration of its own by Kablelink’s Chief Executive Officer, Craig Cuffe.  In that declaration, Cuffe states that the potential opt-in plaintiffs have varying job duties, responsibilities, and pay structure which varies from location to location. Further, the amount of pay varies within locations and fluctuates based on factors that vary by location.  The Declaration does not elaborate on what the differences are in the pay structure or amount of pay or provide what factors vary by location that creates these differences. He also states that the Leads pay for their own tools. Kablelink points out that none of Plaintiff’s declarations are from a Lead working in North Carolina, and that the pay structure and job duties of North Carolina Leads are different than those in Florida. 
+
+The Court need not resolve factual determinations at this point in the litigation. The plaintiff meets his burden, which is not heavy, by “making substantial allegations of class-wide discrimination, that is, detailed allegations supported by affidavits which successfully engage defendants' affidavits to the contrary.” Hipp, 252 F.3d at 1219. Further, the fact that the putative plaintiffs work in different geographical locations is not conclusive. Id.; Grayson, 79 F.3d at 1091. 
+
+Based on the Court's review of the Lead’s declarations, the Court concludes, at this early stage of the proceedings, that the Plaintiff has made a sufficient showing that the Leads working in Florida are similarly situated to Plaintiff. Plaintiff did not file a declaration from a North Carolina Lead, and therefore has not presented any evidence that contradicts Kablelink’s assertions that the North Carolina Leads are not similarly situated. The Court therefore concludes that conditional certification should be granted as to all Florida Leads and that Court-authorized notice is warranted. 
+
+
+
+The statute of limitations under the FLSA is two years, unless the violation is willful, in which case the limitations period is extended to three years. 29 U.S.C. § 255(a). Kablelink argues that the Plaintiff has improperly calculated the relevant time frame for the FLSA claims, because a two year period, as opposed to a three year period, should be used. In their proposed Court-authorized notice, Plaintiff used a three-year limitations period. Kablelink argues that a three-year limitations period is not warranted, because Plaintiffs have not produced any evidence that Kablelink willfully violated the FLSA. The Court rejects this argument. 
+
+Plaintiffs have alleged sufficient facts to raise an inference of willfulness in this case and the affidavits submitted in support of the Motion support the same. At this early stage of the proceedings, the Court concludes that Plaintiff's allegations are sufficient to support his request for a three-year period in the Court-authorized notice. White v. Osmose, Inc., 204 F.Supp. 2d 1309, 1318 n. 9 (M.D.Ala. 2002) (stating that “this argument is better taken up on a motion for decertification of the class or a motion for summary judgment, as there is not enough evidence before the court to make this determination.”) Thus, a Lead may file a notice of consent to join this lawsuit in order to pursue a claim for an FLSA violation that occurred within three years prior to the filing of their consent to join. 29 U.S.C. § 256(b). 
+
+The Court wants to make it clear, however, that it is not ruling that the alleged FLSA violations were willful and/or that a three-year limitations period is warranted. Instead, the Court is simply authorizing notice to class members that performed work for Kablelink within the last three years. Kablelink may raise its argument regarding the appropriate limitations period in a motion for decertification or a motion for summary judgment. 
+
+
+
+ 
+
+Kablelink raises eight disputes with Plaintiff’s proposed notice: (1) the notice should reflect the proper time period and geographic scope of any conditionally certified class as ultimately determined by the Court; (2) it opposes sending the notices with “addressed and postage-paid envelopes” and the option to return the notice by fax or email; (3) it requests that the notice mention to potential opt-in plaintiffs that they could be liable for paying costs in this case, as allowed under Fed.R.Civ.P. 54, as well as defendant’s attorney’s fees under the indemnification provisions of the Independent Contractor Agreement; (4) the Notice should reflect a 45-day opt-in period; (5) the notice should exclude any potential opt-in plaintiff that has signed an Independent Contractor Agreement; (6) the language should be neutral; (7) the Notice should not mislead individuals into believing that they will be waiving any rights to any recovery for an FLSA claim if they have signed the Independent Contractor Agreement - the language in the proposed Notice is a “blatant misrepresentation” of the Agreement; and (8) no “follow-up” notice should be allowed as it would constitute “harassment.”  
+
+In his reply to Defendant’s Response, Plaintiff agreed to modify the proposed notice to reflect a 45-day opt-in period. Further, Plaintiff requests seven days after the Court enters this Order to discuss and resolve the issues raised in paragraphs 1, 2, 6, and 7 of Kablelink’s objections to the proposed notice.  The Court will allow the parties time to confer to resolve Kablelink’s objections but, the parties should note the following.  As to the request in paragraph 3, the Court agrees that the Notice should include language regarding potential liability for costs and attorney’s fees if the Court finds that the Plaintiffs are independent contractors and therefore not covered under the FLSA. As to Kablelink’s requests in paragraphs 5 and 8, the Court disagrees that those changes are necessary. If any Lead who has signed the Agreement consents to join, the applicability of the Agreement turns on whether they are employees or independent contractors, which has not yet been decided. Further, one follow up email is not “harassment” of Kablelink’s current and former employees. The parties shall confer on the language in the Court-authorized notice and submit an amended notice for the Court’s review.  
+
+  It is therefore ORDERED AND ADJUDGED that: 
+
+1. 
+
+Plaintiff’s Motion for Conditional Certification and Facilitation of Court-Authorized Notice Pursuant to 29 U.S.C. § 216 and Supporting Memorandum of Law (Dkt. #9) is GRANTED TO THE EXTENT THAT the Court conditionally certifies the following class: 
+
+
+
+All persons currently or formerly employed as “Leads” or “Field Supervisors” by Kablelink Communications, LLC in Florida who were classified as independent contractors and who did not receive overtime compensation for the period beginning August 13, 2010 to the present. 
+
+
+
+2. 
+
+The attorneys for Plaintiff and Defendant Kablelink, LLC shall confer within seven (7) days of date of this Order to finalize the language and method of transmission of the Notice. The parties shall submit the amended Court-authorized notice within fourteen (14) days of this Order for this Court’s review.  
+
+
+
+
+
+
+
+
+

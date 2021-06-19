@@ -1,0 +1,824 @@
+1 
+1 
+1 
+1 
+1 
+ 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+ 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+ 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+ 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+UNITED STATES DISTRICT COURT 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+12 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+13 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+15 
+15 
+15 
+15 
+15 
+15 
+EASTERN DISTRICT OF WASHINGTON 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+15 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+16 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+18 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+19 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNITED BROTHERHOOD OF CARPENTERS AND JOINERS OF AMERICA, BUTCH PARKER, SCOTT FLANNERY, WILLIAM CRAWFORD, and TRUMAN JORDAN, 
+ 
+                                         Plaintiffs, 
+ 
+          v. 
+ 
+METAL TRADES DEPARTMENT, AFL-CIO; and HANFORD ATOMIC METAL TRADES COUNCIL, 
+ 
+                                         Defendants. 
+  
+       
+     NO:  11-CV-5159-TOR 
+ 
+ORDER GRANTING DEFENDANTS’ MOTION TO DISMISS PLAINTIFFS’ AMENDED COMPLAINT 
+ 
+
+  
+ BEFORE THE COURT is Defendants’ Motion to Dismiss Amended Complaint for Failure to State a Claim.  ECF No. 42.  This matter was heard with oral argument on January 10, 2013.   Daniel M. Shanley and C. Matthew Anderson appeared on behalf of the Plaintiff.  Brian A. Powers appeared on behalf of 
+Defendants. The Court has reviewed the relevant pleadings and supporting materials, and is fully informed. 
+BACKGROUND 
+ The four individually named Plaintiffs are members of the United Brotherhood of Carpenters and Joiners of America (“UBC”)(together “Plaintiffs”). ECF No. 34 at ¶ 2.  The Plaintiffs are part of the bargaining unit for which Defendants Metal Trades Department (“MTD”) and Hanford Atomic Metal Trades Council (“HAMTC”) (together “Defendants”) are the exclusive bargaining representatives.  ECF No. 34 at ¶ 27.  Plaintiffs allege Defendant unions violated their federal common law duty of fair representation to their bargaining unit members by acting in an arbitrary, discriminatory, and bad faith manner, which substantially impacted their relationship with their employers.    
+On September 4, 2012, the Court entered an Order dismissing Plaintiffs’ claim with leave to amend.  ECF No. 33.  Plaintiffs filed an Amended Complaint on October 4, 2012.  ECF No. 34.  Presently before the Court is Defendants’ Motion to Dismiss the Amended Complaint.  ECF No. 42.  
+DISCUSSION 
+A. Standard of Review 
+To withstand a motion to dismiss pursuant to Rule 12(b)(6), a complaint must set forth factual allegations sufficient “to raise a right to relief above the 
+speculative level.” Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555 (2007). The tenet that a court must accept as true all of the allegations contained in a complaint is inapplicable to legal conclusions. Threadbare recitals of the elements of a cause of action, supported by mere conclusory statements, do not suffice. Id. (“Although for the purposes of a motion to dismiss we must take all of the factual allegations in the complaint as true, we are not bound to accept as true a legal conclusion couched as a factual allegation” (internal quotation marks omitted)). A pleading that offers “labels and conclusions” or “a formulaic recitation of the elements of a cause of action will not do.”  Id.   
+Under Federal Rule of Civil Procedure 8(a)(2), a pleading must contain a “short and plain statement of the claim showing that the pleader is entitled to relief.”  The pleading standard set by Rule 8 of the Federal Rules of Civil Procedure “does not require ‘detailed factual allegations,’ but it demands more than an unadorned, the-defendant-unlawfully-harmed-me accusation.” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009).  Rule 8 marks a notable and generous departure from the hyper-technical, code-pleading regime of a prior era, but it does not unlock the doors of discovery for a plaintiff armed with nothing more than conclusions.  Id. at 678-79.  In assessing whether Rule 8(a)(2) is satisfied, the Court first identifies the elements of the asserted claim based on statute or case 
+law.  Id. at 678.  The Ninth Circuit follows the methodological approach set forth in Iqbal for the assessment of a plaintiff's complaint: 
+“[A] court considering a motion to dismiss can choose to begin by identifying pleadings that, because they are no more than conclusions, are not entitled to the assumption of truth. While legal conclusions can provide the framework of a complaint, they must be supported by factual allegations. When there are well-pleaded factual allegations, a court should assume their veracity and then determine whether they plausibly give rise to an entitlement to relief.” 
+ 
+Moss v. U.S. Secret Service, 572 F.3d 962, 970 (9th Cir. 2009) (quoting Iqbal, 129 S.Ct. at 1950). 
+B. Duty of Fair Representation 
+
+
+The Court’s previous Order dismissing Plaintiff’s original complaint included a detailed summary of the law pertaining to the duty of fair representation.  ECF No. 33.  In brief review, under the National Labor Relations Act (“NLRA”), a union selected by the majority of the employees in a bargaining unit is empowered to act as the exclusive bargaining agent for that bargaining unit.  29 U.S.C. § 159(a). “[T]he undoubted broad authority of the union as exclusive bargaining agent in the negotiation and administration of a collective bargaining contract is accompanied by a responsibility of equal scope, the responsibility and duty of fair representation.”  Humphrey v. Moore, 375 U.S. 335, 342 (1964).  This judicially created duty of fair representation is breached when a union’s actions toward a member of the bargaining unit are arbitrary, discriminatory, or in bad 
+faith.  Vaca v. Sipes, 386 U.S. 171, 190 (1967); see also Air Line Pilots Ass’n, Inter. v. O’Neill, 499 U.S. 65, 74 (1991) (analogizing the duty of fair representation to the duty owed by fiduciaries to beneficiaries).  
+The duty of fair representation is implicated only when the union is acting in its prescribed role as exclusive bargaining representative in the process of collective bargaining. See Simo v. Union of Needletrades, Industrial & Textile Employees, 322 F.3d 602, 614 (9th Cir. 2003) (citing Felice v. Sever, 985 F.2d 1221 (3rd Cir. 1993)). Therefore, while a union owes a duty to represent fairly the interest of each employee in the unit in dealings with an employer as the exclusive bargaining representative, this duty generally does not extend to union decisions that only affect an individual member within the union structure. See Bass v. International Brotherhood of Boilermakers, 630 F.2d 1058, 1062-63 (5th Cir. 1980).  However, the Ninth Circuit has found that internal union policies and practices may be subject to the duty of fair representation if they have a substantial impact upon the external relationships of members of the unit to their employer.  Retana v. Apartment, Motel, Hotel and Elevator Operators Union, Local No. 14, AFL-CIO, 453 F.2d 1018, 1024-25 (9th Cir. 1972). 
+In Retana, the Ninth Circuit broadly construed the exclusive collective bargaining representative’s duty of fair representation as a “continuous process” that “[a]mong other things, [] involves day-to-day adjustments in the contract and 
+other working rules, resolution of new problems not covered by existing agreements, and the protection of employee rights already secured by contract.”  Retana, 453 F.2d at 1024 (emphasis in original) (citations omitted). Moreover, the court expressly rejected a union argument that the complaint only related to internal union practices and should therefore be dismissed.  Id. It reasoned that  
+[a]s a practical matter intra-union conduct could not be wholly excluded from the duty of fair representation, for as … the allegations of the present complaint suggest, internal union policies and practices may have a substantial impact upon the external relationships of members of the unit to their employer. This does not mean … that the union will be exposed to harassing litigation by dissident members over every arguable decision made in the course of the day-to-day functioning of the union. Though the duty of fair representation is broad, not all union practices have a substantial impact upon members’ rights in relation to the negotiation and administration of the collective bargaining agreement.  
+ 
+Id. at 1024-25 (emphasis added). 
+Defendants argue generally that Plaintiffs fail to state a plausible claim for relief because the alleged harms were all related to intra-union matters that had no substantial impact on the Plaintiffs’ relationship to their employers as a matter of law.  ECF No. 12 at 13. Defendants also contend that many of Plaintiffs’ allegations fail to state a plausible duty of fair representation claim because they are unsupported by adequate factual support in the Amended Complaint.  Plaintiffs respond that the Amended Complaint provides the requisite factual specificity identified by the Court as lacking in the first Complaint in order to plausibly claim 
+that actions by Defendants had a substantial impact on Plaintiffs’ relationships with their employers.  ECF No. 53 at 12.    
+Defendants challenge twelve specific allegations of employment related harms identified by Plaintiffs in the Amended Complaint. As identified in the Court’s previous Order, the central question remains whether the factual allegations in the complaint plausibly state a claim that the actions by the Defendants had a substantial impact on Plaintiffs’ relationships with their employers.1  See Simo, 322 F.3d at 614-15; Retana, 453 F.2d at 1024-25.  The Court will examine each of the challenged allegations in turn. 
+1 Plaintiffs argue that the Court should reject the Defendants’ “erroneous” argument that Plaintiffs’ claims relate solely to internal matters because the Court ruled in its previous Order that internal union policies can implicate the duty of fair representation when those policies have a substantial impact on the relationship of bargaining unit members with their employer.  ECF No. 53.  The Court is keenly aware of its previous ruling on this matter but will consider arguments made by Defendants as to whether or not an alleged internal union policy has a substantial impact on the employment relationship or otherwise fails to plausibly plead a duty of fair representation claim. 
+/// 
+/// 
+1. Removal of Stewards  
+
+
+The Amended Complaint re-alleges that Defendants breached the duty of fair representation by threatening, expelling, and/or removing UBC bargaining unit member stewards.  ECF No. 34 at ¶ 37, 50, 58-60, 92, 96.  Defendants argue that the ability to serve as a steward is not subject to the duty of fair representation because a steward is an individual selected by the MTD and recognized by the employer as the MTD’s representative.  Thus, according to Defendants, the selection and removal of stewards is a purely internal matter as a matter of law.  In support of this argument Defendants cite to Holmes v. Tenderloin Housing Clinic, Inc., in which the court reasoned that “the duty of fair representation requires the Union to represent employees fairly only with regard to matters as to which it represents all employees under the CBA – rates of pay, wages, hours, and other conditions of employment.”  772 F. Supp.2d 1074, 1099 (N.D. Cal. 2011); see also N.L.R.B. v. International Bhd. of Boilermakers, 581 F.2d 473, 476 (5th Cir. 1978).  The court in Holmes found that “election to shop steward has nothing to do with wages, hours, or terms and conditions of employment.  Thus, the dispute over the shop steward issue is irrelevant to the question whether [the union] breached its duty of fair representation.”  Id.  Plaintiffs argue that Holmes is factually distinguishable because the plaintiff in that case only complained about the failure of the union to recognize him as a job steward, rather than any specific job-related 
+consequences flowing from the refusal to recognize him as a steward, nor did he allege consequences under the CBA as was alleged in the instant case. 2  ECF No. 53 at 18.     
+2 Plaintiffs also make the general argument that Defendants misread this “dicta” in Holmes, and that it is at odds with case law holding that the duty of fair representation applies to union conduct that is not wholly dependent on the CBA (whether it be administration or negotiation).  ECF No. 53 at 22-23; See O’Neill, 499 U.S. at 77.   
+The Court notes that while attempting to distinguish the cases cited by Defendants, Plaintiffs’ responsive brief offers no case law affirmatively supporting their argument that the act of removing a stewards could constitute a breach of the duty of fair representation.  Instead, at oral argument, Plaintiffs advanced the general argument that, as held by the Supreme Court in Breininger, “the key is that the union is administering a provision of the contract, something that we have always held is subject to the duty of fair representation.” Breininger v. Sheet Metal Workers Int’l Ass’n Local Union No. 6, 493 U.S. 67, 88 (1989).  However, Plaintiffs make no allegations, and present no evidence, that the MTD and local counsels did not have the discretion to appoint and remove shop stewards under the 
+terms of the CBAs. 3  As argued by Defendants, the CBAs referenced in the Amended Complaint do not appear to contain restrictions on the designation or removal of stewards.  Rather, the CBAs allow for either the MTD or MTD affiliates (e.g., the HAMTC) to appoint stewards. 4  See Bolek Decl., ECF 44, Ex. 
+3 The Solidarity Agreement between Plaintiffs and Defendant MTD states that the UBC “shall have the right to appoint stewards, in accordance with the applicable collective bargaining agreement and [MTD’s] constitution and bylaws, to assist the metal trades council in representing the affiliate’s members.  This right to appoint stewards shall not be taken away during the term of the agreement.” ECF No. 44-1, Ex. 9 at 3.  There is no dispute that the Solidarity Agreement was properly terminated before the alleged removal of stewards.  However, the inclusion of this provision begs the question: if, as argued by Plaintiffs’ counsel at oral argument, each craft within a bargaining unit has the unilateral right to be represented by a steward, why was it necessary to include this provision in the Solidarity Agreement? 
+4 Under the incorporation by reference doctrine, the Court may look at documents beyond the pleadings without converting the 12(b)(6) motion into a motion for summary judgment.  Davis v. HSBC Bank Nevada, N.A., 691 F.3d 1152, 1160 (9th Cir. 2012).  The Court may take into account “documents whose contents are alleged in a complaint and whose authenticity no party questions, but which are not 
+physically attached to the [plaintiff’s] pleading.” Knievel v. ESPN, 393 F.3d 1068, 1076 (9th Cir. 2005). 
+1 at 15; Ex. 2 at 8; Ex. 3 at 5; Ex. 4 at 3-4; Ex. 5 at 4; Ex. 6 at 8; Ex. 7 at 3; Ex. 8 at 6.  Thus, the alleged removal of stewards in this case cannot amount to a breach of the union’s duty of fair representation.  Maddalone v. Local 17, United Bhd. of Carpenters and Joiners of America, No. 95 CIV. 2112 (JSM), 1996 WL 562986 at *5 (S.D.N.Y. Oct. 3, 1996), aff’d in part and rev’d in part on unrelated grounds in 152 F.3d 178 (2nd Cir. 1998).  Moreover, Plaintiffs do not plead sufficient facts to show that despite being removed as stewards, the interests of those particular members of the collective bargaining unit were not adequately protected by the Defendant unions. 
+Finally, Plaintiffs rely heavily on the stories of several named Plaintiffs who were removed as stewards and as a result experienced a substantial impact on their employment relationship, including but not limited to:  “transferring them from preferential office work to physical labor” and “removing substantial and preferential workplace privileges and benefits that come with the steward position, such as less physically taxing work, flexible break and lunch hours, and access to a telephone computer, and office supplies” (ECF No. 34 at ¶ 57); loss of “super-seniority” and accompanying job loss (¶ 65); and ability to investigate and handle grievances (¶ 92).  In response to these factual assertions, Defendants argue that 
+these claims do not demonstrate a significant impact on the employment relationship between UBC members and their employers, rather, “they are protesting the fact that they now share the same relationship with their employers as their fellow bargaining unit employees.” ECF No. 43 at 6.   In other words, Plaintiffs are complaining about the loss of privileged status as representatives of the MTD, instead of terms and conditions of employment that are applicable to all employees.  See Holmes, 772 F. Supp.2d at 1099 (emphasis added).   
+The Court agrees with Defendants that Plaintiffs are basing their duty of fair representation claim on the loss of benefits available under the CBA by virtue of their privileged status as bargaining unit representatives, not benefits available to them as a rank and file bargaining unit employees.  Loss of an office job, flexible hours, telephone access, and the right to process grievances for other employees are not benefits available to all bargaining unit employees under the CBA.   As stated by the Court in Retana, “though the duty of fair representation is broad, not all union practices have a substantial impact upon members’ rights in relation to the negotiation and administration of the collective bargaining agreement.”  Retana, 453 F.2d at 1024-25.   
+For all of these reasons, the Court finds that Plaintiffs’ allegations that removal of stewards breached Defendants’ duty of fair representation again fail to state a plausible claim as a matter of law.  In light of this holding, the Court finds 
+the claims of individual Plaintiffs Butch Parker, Scott Flannery, William Crawford, and Truman Jordan,5 similarly fail to state a plausible claim as they are entirely based on the removal, or threat of removal, of these individuals from steward positions.  Despite citations to their respective CBA agreements in the Amended Complaint indicating that stewards were “entitled to specific material and beneficial terms and conditions of employment,” Plaintiffs fail to allege facts indicating that the Defendant unions did not have the discretion to appoint and remove stewards.  See ECF No. 34 at ¶ 58, 78-79.  Thus, the individual Plaintiffs’ duty of fair representation claims fail to state a claim as a matter of law. 
+5 Plaintiff Jordan’s allegations regarding access to grievance procedures are separately discussed in section B.11. 
+2. Depriving UBC Members of Chosen Representatives  
+
+
+ Plaintiffs’ Amended Complaint once re-alleges that Defendants “intentionally depriv[ed] UBC members of representatives of their own choosing in connection with their employment.”  ECF No. 34 at ¶ 37.  Despite the Court’s previous Order finding a “complete lack of factual support for this allegation,” Plaintiffs offer no evidence to cure this deficiency.  Once again, the Court is left to surmise that Plaintiffs were referring once again to the removal of stewards, which denied UBC members the opportunity to choose their own representative.   As 
+indicated above, the Court finds that the removal of stewards fails to state a plausible claim for breach of the duty of fair representation. 
+3. Denial of a Voice within the Defendants’ unions 
+
+
+The Amended Complaint again alleges that Defendants refused to allow UBC members to have “a say at meetings or on the job concerning contract negotiations, strategies, grievances,6 disputes and/or other bargaining unit related issues.”  ECF No. 34 at ¶ 37.  Defendants argue that absent a particular union rule, the MTD and HAMTC, as the exclusive bargaining unit representatives, have the right to negotiate the CBAs without consulting or giving notice to individual bargaining unit members.  See Simo, 322 F.3d at 614-15 (citing White v. White Rose Rood, 237 F.3d 174, 183 (2nd Cir. 2001).   Plaintiffs do not respond to this legal argument, rather, they point to factual allegations in the Amended Complaint that several UBC members were removed as delegates entitled to vote and/or “voice” UBC “concerns” on matters regarding negotiation and/or ratification of CBAs.  ECF No. 34 at ¶¶ 62, 92(a). 
+6 The grievance issue is discussed in Section B.11. 
+The Court addressed this same allegation in its previous Order dismissing Plaintiffs’ claims, and found “bare allegations are not supported by sufficient factual content to support a claim of the breach of the duty of fair representation.”  ECF No. 33 at 21-22.  Plaintiffs’ Amended Complaint fails to correct this 
+shortcoming.  Similar to section B.1 addressing the removal of stewards, the Court finds that in the Amended Complaint Plaintiffs offer no facts indicating that UBC bargaining unit members, in particular, had a right to participate as delegates or “voice” concerns on CBA matters.  Moreover, the Court finds no facts suggesting that this alleged “lack of a voice” had a substantial impact on the bargaining unit members’ relationship with their employers.  Thus, Plaintiffs’ allegation that Defendants denied Plaintiffs a “voice” within the Defendant unions fails to plead a plausible claim for breach of the duty of fair representation.  
+4. Transfer of UBC Members to Other Unions 
+
+
+ The Amended Complaint alleges that UBC members were transferred to representation by “competing unions” with interests “adverse” to the UBC “resulting in lost work opportunities and pay” to the UBC members.  ECF No. 34 at ¶ 56.  Plaintiffs also make the bare assertion that the transfer of UBC members “substantially and adversely” impacts the terms of conditions of UBC members’ employment and their relationship with employers.  Id. at ¶¶ 5, 50.  Generally, the duty of fair representation does not extend to union decisions that only affect an individual member within the union structure.  See Bass, 630 F.2d at 1062-63; see also Diaz v. Int’l Longshore and Warehouse Union, Local 13, 474 F.3d 1202, 1206 (9th Cir. 2007) (finding transfer of employee within unit is an internal union matter that does not involve the union’s representation of employee).  Defendants argue 
+that since the alleged transfers do not involve the union in its representational capacity, and does not affect the employees’ relationship with their employer, this allegation fails to plead a plausible duty of fair representation claim.  Plaintiffs do not respond to this argument.  The Court finds that the Amended Complaint fails to adequately plead a substantial impact on the UBC members’ relationships with their employers as a result of any alleged transfer of UBC members that would trigger the duty of fair representation in this otherwise internal union matter.   
+5. Threatening UBC Members 
+
+
+The Amended Complaint alleges that Defendants threatened UBC members with loss of their job or “terms and conditions of employment” if they did not resign from UBC membership or join a competing union.  ECF No. 34 at ¶ 37.  Plaintiffs argue that, as required by the Court’s previous Order, they now provide adequate factual content to show a plausible claim on this issue by alleging that UBC steward “BS” was threatened by the local Metal Trades Council President that he must join and pay money to the Boilermakers in order to retain his position as steward, and that as a Boilermaker steward he is only permitted to take 2 hours to “fulfill his steward duties” as opposed to the 20 hours he was previously allowed.  Id. at ¶ 96.  
+ The Court has already held that the removal of stewards in this case does not implicate the duty of fair representation.  ECF No. 43 at 12.  Furthermore, the 
+Court finds this sole factual allegation, when taken as true, is not enough to show a plausible claim that the alleged “threats” substantially impacted Plaintiffs’ employment relationship with their employer sufficient to plead a duty of fair representation claim.   
+6. Instructing Employers Not to Deal with UBC Members 
+
+
+The Amended Complaint alleges that Defendants breached the duty of fair representation by “instructing employers not to deal with or give job-related information to UBC bargaining members.” ECF No. 34 at ¶ 50.  Defendants argue that (1) Plaintiffs fail to provide factual content to support this allegation and (2) the claim fails as a matter of law because the MTD and HAMTC are the exclusive bargaining representatives and the employer violates the NLRA if it bypasses the bargaining representative to deal directly with others.  ECF No. 43 at 12 (citing Sparks Nugget, Inc. v. N.L.R.B., 968 F.2d 991, 998 (9th Cir. 1992)).  Plaintiffs do not respond to these arguments.   
+The Court finds that Plaintiffs do not provide sufficient factual content to support a duty of fair representation claim, such as: which employers were instructed not to give “job-related information,” which UBC members did not receive the information, and the actual information that was withheld.  Thus, this allegation fails to plead a plausible breach of the duty of fair representation. 
+/// 
+7. Alleged Denial of Information 
+
+
+As identified by the Court in its previous Order granting Defendants’ first motion to dismiss, courts have found a breach of the duty of fair representation when unions failed to provide members with information during the union’s administration of the collective bargaining agreement, particularly where the lack of disclosure results in the loss of employment.  See Robesky v. Qantas Empire Airways Ltd., 573 F.2d 1082, 1090 n. 17 (9th Cir. 1978) (under particular facts of the case, failure to inform worker that grievance was withdrawn from arbitration was breach of duty); see also Retana, 453 F.2d at 1024-25 (failure to provide Spanish translation of agreement implicated duty of fair representation).  
+The Amended Complaint re-alleges that Defendants breached the duty of fair representation by “preventing and depriving UBC members from receiving information about their jobs, contracts, grievances, and/or negotiations.” ECF No. 34 at ¶ 5, 37, 50. The Court’s previous Order found that “this allegation [was] completely unsupported by specific facts, such as: who was seeking the information and what specific information was requested.” ECF No. 33 at 20.  Defendants argue that Plaintiffs once again failed to assert specific facts with regard to this alleged refusal to provide information.  ECF No. 43 at 13.  Plaintiffs respond that the Amended Complaint “cures this deficiency by giving specific examples of how Defendants’ removal of UBC-member stewards deprived [UBC 
+members] of their former access to information regarding bargaining unit strategy, governance, and procedure.” ECF No. 53 at 13 (citing ECF No. 34 at ¶¶ 92(a), 93, 95).  For example, one local Council allegedly “effectively prevented” bargaining unit members from receiving information by “cutting off the flow of information” through UBC member stewards by removing UBC member stewards.  See ECF No. 34 at ¶ 93.   
+ As an initial matter, the Court finds the factual assertions offered by Plaintiffs that UBC members were barred from providing “orientation” does not fit within the framework of denial of information in the duty of fair representation context.  In each case cited by the Court above, the duty of fair representation breach was predicated on the failure of the union to provide information to a bargaining unit member, not the failure of the union to allow bargaining unit members to provide other unit members with information.   In addition, while Plaintiffs offer general factual assertions that the flow of information to UBC members allegedly stopped when certain representatives were removed from their steward positions, they fail to support their allegations with the specific facts posited by the Court in its previous Order, namely, who was seeking the information and what specific information was being requested.  See ECF No. 33 at 20.   For this reason, the Court finds that this re-alleged claim again fails to plead a plausible duty of fair representation claim. 
+8. Taking Money from Paychecks without Authorization 
+
+
+The Amended Complaint alleges that Defendants breached the duty of fair representation by “allowing … other unions to take money from the UBC bargaining unit members’ checks without their written authorization.”  ECF No. 34 at ¶¶ 5, 51.  Specifically, Plaintiffs allege that the Albuquerque Metal Trades Council (“AMTC”) directed that a portion of the UBC members’ checks be given to the Sheet Metal Workers.  Id. at ¶ 63.  Defendants argue that Plaintiffs failed to offer sufficient factual content indicating that this conduct substantially impacted the relationship between UBC members and their employers.  ECF No. 43 at 14.  Additionally, Defendants argue that Plaintiffs fail to sufficiently plead that the MTD and/or the HAMTC instigated, supported, ratified or encouraged the specific conduct in question.  See Carbon Fuel Co. v. United Mine Workers of America, 444 U.S. 212, 218 (1979).  Plaintiffs respond that the Amended Complaint details, over the course of ten pages, allegations including “antipathy” by the MTD toward the UBC and its members, participation in a campaign against the UBC at the behest of another non-party union, and the threat to local Metal Trade Councils of “immediate supervision and removal of officers” if the locals refused to implement the MTD’s directives.7  ECF No. 34 at ¶¶ 31-41, 50.   
+argument not alleged in their previous motion to dismiss, and thus Plaintiffs failed to include pertinent facts on this issue in their Amended Complaint because they did not expect it was necessary.  Plaintiffs offered to provide the Court with additional factual material on this issue.  The Court finds this argument inapposite and declines to seek additional facts not already alleged in the Amended Complaint.  It was incumbent upon Plaintiffs to provide all relevant and necessary factual assertions in its Amended Complaint, regardless of whether Defendants raised a particular challenge in its previously granted motion to dismiss. 
+8 The Amended Complaint does allege that the Defendant MTD “instigated, supported, ratified, encouraged, mandated, and/or directed its subordinate bodies, including the HAMTC, to do the things alleged, and/or the things done by its agents were in accordance with their fundamental agreement of association.” ECF No. 34 at ¶ 17.  This type of legal conclusion couched as a factual assertion is insufficient to state a plausible claim.  See Twombly, 550 U.S. at 555. 
+7 At oral argument, Plaintiffs argued that Defendants’ challenge to agency-type relationship between the named Defendants and local councils was a “new” 
+Despite the general allegations that the MTD threatened local councils with adverse action if they did not implement certain directives, and that there was a “campaign” against the UBC members, the Court still finds insufficient factual support that the Defendants MTD and/or HAMTC instigated, supported, ratified or encouraged the specific conduct of allowing other unions to collect money from UBC members’ checks.8  Moreover, as indicated by the Defendants, the Court 
+finds that Plaintiffs fail to allege any facts indicating that this alleged conduct had a substantial impact on the relationship between UBC members and their employers.  Rather, the allegation relates solely to internal union conduct, which does not trigger the duty of fair representation as a matter of law.  See Bass, 630 F.2d at 1063.   
+9. Denying the Right to Refer Fellow Bargaining Unit Members 
+
+
+ The Amended Complaint alleges that Defendants “refus[ed] to refer UBC bargaining members for employment.”  ECF No. 34 at ¶ 5.  Specifically, Plaintiffs allege that the Pascagoula Metal Trades Council (“PMTC”) “denied UBC bargaining members the right to refer their own bargaining unit members for employment or hold orientations with new members of their craft bargaining unit.” Id. at ¶ 95.  Allegedly, there have been over 30 denied referrals or orientation opportunities since the UBC members “have lost their stewards.”  Id.  As in the previous section, Defendants argue that Plaintiffs fail to plead sufficient factual content establishing that the Defendants instigated, supported, encouraged, or ratified this specific conduct by the PMTC.  See Carbon Fuel Co., 444 U.S. at 218.  Plaintiffs respond with the exact same argument as the previous section, referring the Court to general allegations the Defendants participated in a campaign against the UBC at the behest of another non-party union, and made threats to local Metal 
+Trade Councils of “immediate supervision and removal of officers” if the locals refused to implement the MTD’s directives.  ECF No. 34 at ¶¶ 31-41, 50.   
+ The Court remains unpersuaded by Plaintiffs’ argument with respect to this allegation.  Plaintiffs fail to offer any factual assertions to support the claim that the Defendants HAMTC or the MTD instigated, supported, encouraged or ratified the specific conduct of a local Council’s denial of the right to refer fellow UBC members for employment.   
+10.  Denying Access to Employer’s Facility 
+
+
+ The Amended Complaint alleges that Local 234 representatives and UBC bargaining unit members distributed flyers outside the HII Gulfport Facility to inform members of their status and hand out information, but claims that Defendant MTD “arbitrarily and in bad faith ordered Local [UBC] representatives and UBC bargaining unit members to leave the worksite in an attempt to deprive UBC bargaining unit members of valuable job-related information that the [MTD] was refusing to provide, even though they were not interfering with work at the facility.” ECF No. 34 at ¶ 93.  Defendants argue that this allegation fails to state a duty of fair representation claim because it involves the relationship between the employee and the union, and does not involve wages, hours, or other conditions of employment.  ECF No. 43 at 17.  Plaintiffs do not respond to this specific argument except perhaps to offer a generalized argument that the characterization 
+of “conditions of employment” relied on by Defendants, as articulated in Holmes, is “at odds” with case law holding that the duty of fair representation may apply to conduct that it not dependent on the CBA.9  See Holmes, 772 F. Supp.2d at 1099.  Regardless of this legal argument, the Court finds insufficient factual content to state a plausible duty of fair representation claim.  Plaintiffs do not indicate what the “valuable job related information” is, nor do they indicate how ordering the UBC members to leave the worksite substantially impacted the UBC members’ relationship with their employer.   
+9 See n. 2 supra. 
+11.  Grievances 
+
+
+“[I]n order ‘[t]o comply with its duty [of fair representation], a union must conduct some minimal investigation of grievances brought to its attention.” Diaz, 474 at 1207 (citing Peters v. Burlington N. R.R. Co., 931 F.2d 534, 539 (9th Cir. 1990)).  The duty of fair representation is breached when a union handles the processing of a member’s grievance “in an arbitrary or perfunctory way.”  See Tenorio v. N.L.R.B., 680 F.2d 598, 602 (9th Cir. 1982).   The Court’s previous Order dismissing Plaintiffs’ complaint found insufficient factual support for the allegation that Plaintiffs were not able to grieve adverse employment decisions effectively.  ECF No. 33 at 21. 
+The Amended Complaint contains several new allegations regarding grievances.  ECF No. 34 at ¶¶ 70-73, 92(f)-(g).  For example, Plaintiffs allege that Plaintiff Truman Jordan was “effectively barred” from a procedure for processing grievances allowed under the CBA because he was removed as steward.  Id. at ¶¶70-71.  Plaintiff asserts that he “would have grieved” alleged theft of UBC bargaining members’ work by a rival union but actions by Defendants in replacing him as steward “wrongfully interfered” with his and other UBC members’ access to the grievance procedure.  Id. at ¶¶ 72-73.  In addition, Plaintiffs allege that UBC member “JL”’s new steward (a non-UBC member) did not file a grievance despite the merits of his case, and that two other unnamed UBC bargaining members have been terminated by their employer without “any, much less appropriate, representation or recourse” by their non-UBC member steward.  Id. at ¶¶ 92(f)-(g).   
+Defendants argue that Plaintiffs fail to allege that any of these UBC members actually sought representation or brought a grievance to the attention of the union.  Additionally, Defendants contend that Plaintiffs failed to allege that the employer violated the terms of the CBA by terminating the employees, which must be pled when an employee alleges refusal to file or process a grievance.  See Fry v. Int’l Ass’n of Machinists and Aerospace Workers, No. C07-0817MJP, 2008 WL 2345109 (W.D. Wash. 2008) (collecting cases).   
+ Plaintiffs’ Amended Complaint still does not specifically allege that any of the UBC members actually pursued a grievance with the union.  Although Plaintiffs did not respond to this argument in their responsive briefing, at oral argument Plaintiffs insisted that the Amended Complaint included allegations that replacement stewards refused to process grievances by UBC bargaining unit employees.  However, after an exhaustive review of the Amended Complaint, the Court cannot locate this precise allegation.  Plaintiffs indicate that removed stewards were not allowed to investigate and process grievances, and that UBC bargaining unit members did not receive “proper representation” by replacement stewards.  See ECF No. 34 at ¶¶ 70-73, 92(f)-(g).  However, at no time do Plaintiffs allege that a grievance was brought to the attention of the union, and the steward or other union representative refused to process said grievance.  Thus, because a union only has an obligation to conduct investigation of grievances that are “brought to its attention,” the Court again finds insufficient facts in the Amended Complaint to support a plausible claim that the Defendant unions failed to pursue a grievance in breach of the duty of fair representation.  Diaz, 474 at 1207.  
+ Moreover, regarding the allegations by Plaintiff Jordan, the Court finds insufficient facts to support a duty of fair representation claim based only the allegation that he was “effectively” barred from pursuing possible grievances that 
+he would have filed if he still held the steward position.  There is no allegation that Jordan or any other UBC member attempted to file a grievance and that said grievance was not effectively pursued or handled.  Further, the provisions of the CBA applicable to Jordan allows either an employee or a steward to initiate a grievance, thus, Jordan had the same opportunity to file a grievance regardless of whether he was a steward or employee.  Bolek Decl., ECF No. 44, Ex. 3 at 6-11.  However, Plaintiffs do not allege that Jordan filed a grievance or brought it to the attention of the replacement steward.  For all of these reasons, Plaintiff Jordan fails to adequately plead a duty of fair representation claim. 
+12.  Removal of Rights 
+
+
+ The Amended Complaint alleges that Defendants breached the duty of fair representation by “directing and instructing representatives to negotiate or attempt to negotiate agreements removing any rights UBC bargaining members have, including inter alia, the right to select UBC bargaining member unit stewards, the right of UBC bargaining members to be dispatched to jobs, and the right of UBC bargaining members to file, pursue, and handle grievances for UBC bargaining members.” ECF No. 34 at ¶ 50.  Defendants argue that, as explained in previous sections, Plaintiffs lack the right to select stewards or participate individually in all aspects of collective bargaining, and fail to allege a plausible claim that the Defendants are refusing to refer members or process grievances.  ECF No. 43 at 
+20.  Plaintiffs do not respond to this argument.  As this claim appears to be duplicative of the allegations discussed in detail above, primarily relating to the removal of stewards, the Court finds this allegation similarly fails to state a plausible duty of fair representation claim. 
+C. Standing to seek Restitution and Disgorgement 
+
+
+The Court previously dismissed all claims by UBC on behalf of its members for monetary damages, but found that UBC had associational standing to bring claims for injunctive and declaratory relief.  ECF No. 33 at 8.  Under Hunt,  
+an association has standing to bring suit on behalf of its members when: (a) its members would otherwise have standing to sue in their own right; (b) the interests it seeks to protect are germane to the organization’s purpose; and (c) neither the claim asserted nor the relief requested requires the participation of individual members in the lawsuit. 
+ 
+Hunt v. Wash. State Apple Adver. Comm’n, 432 U.S. 333, 343 (1977); United Food and Commercial Workers Union Local 751 v. Brown Group, Inc., 517 U.S. 544, 553 (1996) (elaborating on Hunt and holding union fulfilled third prong of standing test when act of Congress granted unions authority to sue for damages because the third prong of the test is prudential).  
+The Amended Complaint asks the Court to order that Defendants “make restitution and disgorge ill-gotten gains.”  ECF No. 34 at ¶ 104.  Defendants argue that Plaintiffs lack associational standing to pursue restitution or disgorgement because the amount of restitution will differ with the particular harms suffered by 
+each member.  See Lake Mohave Boat Owners Ass’n v. Nat’l Park Svc., 78 F.3d 1360, 1367 (9th Cir. 1995) (finding plaintiff did not have associational standing to assert equitable claim for restitution because the fact of and extent of injury would require individualized proof).  Plaintiffs attempt to distinguish Lake Mohave by noting that the court held that the owner of each slip’s overpayment would require individualized determination based on boat size, slip size, and amount of use.  Lake Mohave Boat Owners Ass’n, 78 F.3d at 1367.  In contrast, according to Plaintiffs, in the instant case the UBC seeks restitution of all fees paid by UBC members to Defendants which is “readily determinable from Defendants’ receipts.” ECF No. 53 at 26. 
+The Court finds Plaintiffs’ argument unpersuasive and surprising in light of the Court’s previous ruling on this issue.  Regardless of the fact that the newfound remedies sought by Plaintiffs are equitable in nature, as opposed to the monetary damages previously dismissed by the Court, they still require the participation of individual members.  Individualized proof would be required as to whether the union breached its duty of fair representation to each individual member, and the manner in which the duty was breached, so as to determine the amount of restitution or disgorgement allegedly owed to each member.  For example, an unnamed UBC member removed from a steward position would presumably seek restitution or disgorgement in an amount different than that owed to a non-steward 
+member who is not alleging the same decrease in pay or benefits.  As noted by the Supreme Court “[t]he appropriate remedy for a union’s breach of the duty of fair representation must vary with the particular circumstances of the breach.”  Vaca, 386 U.S. at 195. 
+Therefore, the Court finds that Plaintiffs fail to sufficiently plead that UBC has associational standing to assert claims for restitution and disgorgement on behalf of its members.  The claims for restitution and disgorgement are dismissed.  However, a named Plaintiff may bring a claim for restitution or disgorgement. 
+D. Leave to Amend 
+
+
+Even when a complaint fails to state a claim for relief, “[d]ismissal without leave to amend is improper unless it is clear that the complaint could not be saved by an amendment.”  Harris v. Amgen, Inc., 573 F.3d 728, 737 (9th Cir. 2009).  The standard for granting leave to amend is generous. See Fed. R. Civ. P. 15(a)(2).  The court considers five factors in assessing the propriety of leave to amend—bad faith, undue delay, prejudice to the opposing party, futility of amendment, and whether the plaintiff has previously amended the complaint.  United States v. Corinthian Colleges, 655 F.3d 984, 995 (9th Cir. 2011).   
+The Court finds no evidence of bad faith or undue delay on the part of Plaintiffs, nor is there any significant prejudice to the opposing party.  However, these factors are outweighed by futility of amendment, and the fact that Plaintiffs 
+have already been given the opportunity to amend their complaint.  In this case, the Court cannot conceive of any additional facts that would render Plaintiffs’ duty of fair representation claim viable.  See Balistreri v. Pacifica Police Dept., 901 F.2d 696, 701 (9th Cir. 1988), abrogated on other grounds by Bell Atl. Corp. v. Twombly, 550 U.S. 544 (2007).  The Court previously granted Plaintiffs the opportunity to amend numerous deficiencies identified in their complaint.  However, as indicated in detail above, many of Plaintiffs’ allegations in the Amended Complaint are, once again, not supported by sufficient factual content to state a plausible duty of fair representation claim, and several allegations fail to state a claim as a matter of law.  Thus, the Court finds that leave to amend would be futile under these circumstances and declines to grant leave to amend the Amended Complaint. 
+ACCORDINGLY, IT IS HEREBY ORDERED: 
+1. Defendants’ Motion to Dismiss, ECF No. 42, is GRANTED.  The Amended Complaint is dismissed, with prejudice.  
+
+
+The District Court Executive is hereby directed to enter this Order, enter Judgment accordingly, provide copies to counsel and CLOSE the file. 
+ DATED this 15th day of January, 2013. 
+s/ Thomas O. Rice 
+                      
+THOMAS O. RICE 
+United States District Judge 
+

@@ -1,0 +1,33 @@
+Case4:09-cv-04534-PJH Document81 Filed02/24/11 Page1 of 3 
+United States District Court
+For the Northern District of California 
+UNITED STATES DISTRICT COURT NORTHERN DISTRICT OF CALIFORNIA 
+LISA BRABOY, 
+Plaintiff,  No. C 09-4534 PJH  
+v.  ORDER GRANTING MOTION FOR  
+SUMMARY JUDGMENT AND DENYING  
+STAPLES, INC., et al.,  MOTION FOR SUMMARY JUDGMENT  
+Defendant.  
+_______________________________/  
+
+The parties’ cross-motions for summary judgment came on for hearing on February 2, 2011 before this court. Plaintiff Lisa Braboy (“plaintiff”) appeared through her counsel, Eric Honig and Kimberly Westmoreland. Defendants Staples Inc. (“Staples”) and Staples Contract and Commercial, Inc. (“SCCI”)(collectively “defendants”) appeared through their counsel, Rod Fliegel and Elizabeth Wilson. Having read all the papers submitted and carefully considered the relevant legal authority, the court hereby GRANTS defendants’ motion for summary judgment and DENIES plaintiff’s cross-motion for summary judgment, as stated at the hearing, and summarized as follows. 
+1. As to the primary issue raised by both parties in their motions – i.e., whether Staples or SCCI is deemed plaintiff’s “employer” for purposes of the instant action – plaintiff has failed to satisfactorily demonstrate that Staples acted as her employer pursuant to the controlling legal standard set forth in Martinez v. Combs. See 49 Cal. 4th 35, 64 (2010)(“[t]o employ then ... has three alternative definitions. It means: (a) to exercise control over the wages, hours or working conditions, or (b) to suffer or permit to work, or (c) to engage, thereby creating a common law employment relationship.”); see also Futrell v. Payday California, Inc., 190 Cal. App. 4th 1419, 119 Cal. Rptr. 3d 513 (2010)(applying 
+Case4:09-cv-04534-PJH Document81 Filed02/24/11 Page2 of 3 
+United States District Court
+For the Northern District of California 
+Martinez). Rather, it is defendants who prevail in their contention that SCCI was plaintiff’s employer. 
+Plaintiff relies primarily upon documents she received and signed in connection with her initial offer of employment: her initial offer letter; a Code of Ethics Policy; a Non-Compete and Non-Solicitation Agreement; a Direct Deposit Form; and a Proprietary and Confidential Information Agreement, all of which purportedly reference the Staples, Inc. entity. See Braboy Decl., Exs. A-G. Plaintiff also relies upon a Performance Improvement Plan that she received prior to her termination from employment, which allegedly references the possibility of termination with Staples. 
+ However, these documents ultimately do no more than establish that Staples, Inc. – which both parties concede is an affiliated entity to SCCI – is merely referenced as such in the content of the documents. Rather, as defendant posits, the evidence of the actual substantive relationship between the parties indicates that with respect to the hiring, and day to day supervision and control over plaintiff’s working environment and job duties, it was SCCI employees and supervisors who were responsible.  As defendant notes: plaintiff was actually interviewed for and hired for her BDA position by employees of SCCI; plaintiff’s offer letter was signed and issued exclusively by SCCI employees; plaintiff’s paycheck stubs referred to the SBA La Palma Sales Office, which is an office belonging to SCCI’s NAD division; plaintiff’s payroll records reference “SCCI” in the company field, and her W-2s show that SCCI paid plaintiff’s compensation; plaintiff reported her daily activities to and was supervised by SCCI employees; and plaintiff’s performance improvement plan was issued by a SCCI employee, and signed by SCCI employees.  See, e.g., Nov. 19 Decl. of Elizabeth Skaggs Wilson (“Wilson Decl.”), Ex. E at 83-84, 146-147, 235, 240, 248-50, 260-63, 277-79; Ex. B at 58; Ex. D at 59-60; see also Declaration of Christine Komola (“Komola Decl.”), ¶ 23. 
+Not only does plaintiff’s evidence – i.e., the terminology contained in the various hiring documents issued to plaintiff – fail to substantively rebut defendant’s evidence 
+2 
+Case4:09-cv-04534-PJH Document81 Filed02/24/11 Page3 of 3 
+United States District Court
+For the Northern District of California 
+regarding the day to day relationship by the parties, but the documents themselves cannot support on their own the existence of an employer relationship in such a scenario.  See Futrell, 119 Cal. Rptr. 3d at 528 (“A party's use of a label to describe a relationship with a worker does not create a material dispute over whether an employment relationship existed; such a label will be ignored where the evidence of their actual conduct establishes that a different relationship exists.”). Moreover, even plaintiff’s reliance on terminology referencing “Staples, Inc.” in the hiring documents is questionable.  For example, both the proprietary and confidential agreement, and the non-compete agreement, expressly define “Staples, Inc.” with reference to it or “any affiliates and subsidiaries thereof” – which reference includes SCCI. See Braboy Decl., Exs. C-D. 
+All of which compels the court to conclude that it is SCCI and not Staples that actually exercised control over plaintiff’s wages, hours and working conditions.  As such, and under Martinez, it is SCCI who acted as plaintiff’s employer for purposes of this action. Defendant’s motion for summary judgment as to this issue is therefore GRANTED, and plaintiff’s cross-motion for summary judgment is DENIED.   
+2. To the extent defendant also seeks summary judgment on the issue whether Staples the Office Superstore – i.e., Staples’ retail subsidiary – was plaintiff’s employer as a matter of law, plaintiff’s counsel clarified at the hearing that the operative complaint, as currently alleged, does not assert that the retail subsidiary is plaintiff’s employer. Accordingly, this issue is beyond the scope of the instant litigation, and is out of the case for all purposes, including discovery and class certification issues. 
+IT IS SO ORDERED. Dated: February 24, 2011 
+PHYLLIS J. HAMILTON 
+United States District Judge 
+
+3 

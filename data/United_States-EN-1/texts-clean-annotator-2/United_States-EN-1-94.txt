@@ -1,0 +1,211 @@
+
+Before the Court are Plaintiffs’ Motion for Summary Judgment (Docket No. 131), Defendants’ Cross Motion for Summary Judgment (Docket No. 166), and related briefing.  Having considered the parties’ written and oral arguments, the Court GRANTS Plaintiffs’ motion and DENIES Defendants’ cross motion. 
+
+
+
+
+Plaintiffs are nurse practitioners and physician assistants in several states who provide nursing services for EmCare, Inc. and Texas Em-1 Medical Services, P.A., (collectively “Defendants”).  Defendants pay Plaintiffs on an hourly basis.  Plaintiffs bring this collective action under the Fair Labor Standards Act (“FLSA”) alleging that they regularly work more than forty hours per week and that Defendants have failed to pay them overtime compensation as required by the FLSA. 
+
+For the purpose of these summary judgments motions only, the parties have stipulated that Plaintiffs are employees, not independent contractors, of Defendants.  The parties have agreed that the summary judgment issue is solely a legal one: whether nurse practitioners and physician assistants, who are paid on an hourly basis, qualify for the FLSA’s professional exception to the overtime requirements. 
+
+
+
+
+If an employee works more than forty hours in one work week, the FLSA requires an employer to pay the employee one and one-half times the employee’s regular wage for each hour over forty the employee works. 29 U.S.C. § 207(a)(1).  This overtime requirement does not apply to “any employee employed in a bona fide executive, administrative, or professional capacity” as these terms are “defined and delimited” by the Labor Secretary through regulations.  Id. § 213(a). 
+
+To satisfy the professional exception to the overtime requirement, persons employed in a professional capacity must satisfy certain work descriptions and be compensated on a salary or fee basis. 29 C.F.R. § 541.3 (1973). An exception is made to the salary-basis test for employees who hold “a valid license or certificate permitting the practice of law or medicine or any of their branches and who is actually engaged in the practice thereof . . . .” Id. § 541.3(e).  Thus, the question here is whether physician assistants and nurse practitioners are exempted from the salary-basis test because they are engaged in “the practice of law or medicine or any of their branches.” 
+
+
+
+
+If Congress expressly delegates authority to an agency to interpret a specific statutory provision through regulations, a court must give controlling weight to the agency’s interpretations unless they are “arbitrary, capricious, or manifestly contrary to the statute.”  Chevron U.S.A., Inc. v. Natural Res. Defense Counsel, Inc., 467 U.S. 837, 842-44 (1984). While an agency’s interpretation of its own ambiguous regulation is not given Chevron deference, the agency’s interpretation is controlling unless it is clearly erroneous or inconsistent with the regulation.  Auer v. Robbins, 519 U.S. 452, 461 (1997); Wells Fargo Bank v. James, 321 F.3d 488, 494 (5th Cir. 2003); see also Christensen v. Harris County, 529 U.S. 576, 588 (2000). To determine whether Auer deference is appropriate, a court must first consider whether the regulation’s language is ambiguous.  Wells Fargo, 321 F.3d at 494.  If “the regulation is ambiguous as to the precise issue in contest, an agency’s interpretation of its own regulation is controlling unless it is clearly erroneous.”  Id. (citing Auer, 519 U.S. at 452). 
+
+
+
+
+Congress delegated to the Labor Secretary the authority to define and delimit the terms in the FLSA’s overtime requirement, and the Secretary has issued such regulations.  29 U.S.C. § 213(a); 29 C.F.R § 541 et seq.1 These regulations do not expressly address whether physician assistants and nurse practitioners are exempted from the salary-basis test, and, on this issue, the regulation is therefore ambiguous.  See 29 C.F.R. § 541.3. Because the Court is asked to interpret an ambiguous regulation rather than an ambiguous statute, Auer deference applies.  See Christensen, 529 U.S. at 588; Wells Fargo, 321 F.3d at 494.  In other words, because the regulation is ambiguous to this issue, the Department of Labor’s (“DOL”) interpretation of the regulation will be controlling unless it is clearly erroneous.  See Auer, 519 U.S. at 452, 461 (“Because the salary-basis test is a creature of the Secretary’s own regulations, his interpretation of it is, under our jurisprudence, controlling unless ‘plainly erroneous or inconsistent with the regulation.’”); Wells Fargo, 321 F.3d at 494. Accordingly, unless the DOL’s interpretation is clearly erroneous, it is outside the Court’s purview to impose its own meaning into the regulations. 
+
+1 The regulations have recently been amended, but the prior regulations govern this case.  To avoid confusion, the Court will refer to the newer regulations as the “2004 Regulations” and the prior regulations as the “1973 Regulations,” which is the date that the relevant portions of the regulations were issued. 
+
+
+
+
+In addition to creating the salary-basis test, the DOL also issued regulations interpreting the 
+
+salary-basis test.2 See 29 C.F.R. § 541.99-.602 (1973).  The DOL has also issued an opinion letter 
+
+that discusses the application of the salary-basis test to physician assistants.3 A DOL handbook also 
+
+interprets the salary-basis test as it applies to physician assistants.  These interpretations will be 
+
+controlling unless they are clearly erroneous. 
+
+The interpretive regulations explain that the exception to the salary-basis test “applies only 
+
+to the traditional professions of law, medicine, and teaching and not to employees in related 
+
+professions which merely service these professions.”  29 C.F.R. § 541.314(a) (1973).  
+
+(b)
+
+ In the case of medicine: 
+
+
+
+(1)
+
+ The exception applies to physicians and other practitioners licensed and practicing in the field of medical science and healing or any of the medical specialties practiced by physicians or practitioners.  The term physicians means medical doctors including general practitioners and specialists, and osteopathic physicians (doctors of osteopathy).  Other practitioners in the field of medical science and healing may include podiatrists (sometimes called chiropodists), dentists (doctors of dental medicine), optometrists (doctors of optometry or bachelors or science in optometry). . . . . 
+
+
+
+(c)
+
+ In the case of medical occupations, the exception from the salary or fee requirement does not apply to pharmacists, nurses, therapists, technologists, sanitarians, dieticians, social workers, psychologists, psychometrists, or other professions which service the medical profession. 
+
+
+
+
+
+Id. § 541.314(b)-(c).  
+
+In 1974, the DOL issued an opinion letter concerning the status of physician assistants under 
+
+2 Subpart A of the 1973 regulations (29 C.F.R. §§ 541.0-.52) define and delimit the substance of the overtime exception for those employed in an executive, administrative, or professional capacity.  Subpart B of the 1973 regulations (29 C.F.R. §§ 541.99-.602) interprets the requirements set forth in Subpart A.  
+
+3 The Division within the DOL responsible for administering and enforcing the FLSA is the Wage and Hour Division, which has also been known as the Wage and Hour and Public Contracts Divisions.  For simplicity, the Court will refer to this Division as the DOL. 
+
+the FLSA.  Administrator’s Op. WH-266 (Wage and Hour Division, Dep’t of Labor May 10, 1974). The letter states that a physician assistant would meet the overtime-exemption criteria of section 
+
+541.3 if the physician assistant satisfies certain duty requirements and “is compensated for his or her services on a salary basis.”  Id.  If these requirements are met, the physician assistant would come within the overtime requirement’s professional exception.  Id. 
+
+The DOL’s 1994 Field Operations Handbook also addresses physician assistants under the FLSA.  According to the handbook, a physician assistant qualifies for the professional exception if the physician assistant meets certain duty and academic requirements and is compensated on a salary basis. WAGE AND HOUR AND DIV., U.S. DEP’T OF LABOR, FIELD OPERATIONS HANDBOOK 22d23 (1994). 
+
+Although the opinion letter and handbook are clear that physician assistants and nurse practitioners are subject to the salary-basis test, the interpretive regulation is unclear as to whether physician assistants and nurse practitioners are “other practitioners licensed and practicing in the field of medical science and healing” or are practitioners that “service the medical profession.” Defendants contend that Plaintiffs are excepted from the salary-basis test because Plaintiffs are “other practitioners licensed and practicing in the field of medical science and healing.” See 29 
+
+C.F.R. § 541.314(b)(1). Defendants argue that, based on Plaintiffs’ job duties and state licensing requirements for their professions, Plaintiffs are more similar to podiatrists, dentists, and optometrists, all of whom are considered to be “other practitioners licensed and practicing in the field of medical science and healing.”  Plaintiffs assert that, as nurse practitioners and physician assistants, the exception does not apply to them because they are not engaged in the traditional practice of medicine but, rather, are in related professions that service the medical profession.  See id. § 541.314(a).  Therefore, the Court will examine the history of the salary-basis test and its interpretive regulations, as well as recent changes to the regulations, to determine the interpretive regulation’s intended application as to these groups. 
+
+
+
+
+The salary-basis test for the professional exception to the overtime requirement was introduced in 1940 to prevent abuses to the expanding definition of “professional.”  29 U.S.C. § 203(d) (1940); 5 Fed. Reg. 4077 (1940); WAGE AND HOUR DIV.,U.S.DEP’T OF LABOR,“EXECUTIVE, ADMINISTRATIVE, PROFESSIONAL . . . OUTSIDE SALESMAN” REDEFINED: REPORT AND RECOMMENDATIONS OF THE PRESIDING OFFICER AT HEARINGS PRELIMINARY TO REDEFINITION 36 (1940) (“Stein Report”)4. The salary-basis test was considered “the best single test of the employer’s good faith in characterizing the employment as of a professional nature.” Stein Report, at 42. At that time, an exception to the salary-basis test was made for any employee “who is the holder of a valid license or certificate permitting the practice of law or medicine, or any of their branches, and who is actually engaged in the practice thereof.” 29 C.F.R. § 541.3(b) (Supp. 1940); see also Stein Report, at 55. This exception to the salary-basis test was to apply “only in the case of the traditional professions of law and medicine, where possession of a State certificate or license is regarded as an adequate equivalent of a salary test.”  Stein Report, at 36. At that time, “[t]he three traditional professions of law, medicine, and theology occup[ied] a distinctive position in the United States,” and members of those professions were considered “quasipublic officials.”  Id. at 42. This special status applied only to those “who have received a State license or certificate to practice law or medicine.” Id. 
+
+4 Harold Stein was the Presiding Officer. 
+
+The DOL revisited the FLSA’s professional exception in 1949.  The DOL considered extending the salary-basis test’s exception to architects and engineers but rejected the idea. The practice of law and medicine has a long history of state licensing and certification; the licensing of engineers and architects is relatively recent. While it is impossible for a doctor or lawyer legally to practice his profession without a certificate or license, many architects and engineers perform work in these fields without possessing licenses, although failure to hold a license may limit their 
+
+permissible activities to those of lesser responsibilities. WAGE AND HOUR AND PUB. CONTRACTS DIVS., U.S. DEP’T OF LABOR, REPORT AND RECOMMENDATIONS ON PROPOSED REVISIONS OF THE REGULATIONS, PART 541: DEFINING THE TERMS “EXECUTIVE” “ADMINISTRATIVE” “PROFESSIONAL” “LOCAL RETAILING CAPACITY” “OUTSIDE SALESMAN”77 (1949) (“Weiss Report”).  Further, it was reasoned that most engineers and architects who hold state licenses and actually perform work permitted by the license will meet the salary requirement and be exempt from the overtime requirement.  Id. at 78. Although the DOL sympathized with the goals of achieving recognition for these fields and placing them on par with medicine and law as professions, these objectives were “unrelated to the purposes of section 13(a)(1) of the Fair Labor Standards Act.” Id. at 78. 
+
+The report also discussed the meaning of “or any of their branches.” Questions have been raised as to the meaning of the phrase “or any of their branches.”  It is therefore advisable to restate the Divisions’ position that this exception applies only to the traditional professions of law and medicine and not to employees in related professions which merely service the professions of law or medicine. For example, in the case of medicine, the exception applies to physicians and other practitioners in the field of medical science and healing, such as dentists, or any of the medical specialties, but it does not include pharmacists, nurses, or other 
+
+professions which service the medical profession. Id. at 78. That same year, the DOL issued explanatory regulations without notice and comment using similar language. 
+
+§ 541.314 Exception for physicians and lawyers.  A holder of a valid license or certificate permitting the practice of law or medicine or any of their branches, who is actually engaged in practicing the profession, is excepted from the salary or fee requirement.  This exception applies only to the traditional professions of law and medicine and not to employees in related professions which merely service the professions of law or medicine. For example, in the case of medicine, the exception applies to physicians and other practitioners in the field of medical science and healing, such as dentists, or any of the medical specialties, but it does not include pharmacists, nurses, or other professions which service the medical profession. 
+
+29 CFR § 541.314 (Supp. 1950); 14 Fed. Reg. 7730, 7743 (1949).  
+
+In 1958, the DOL produced the Kantor Report after hearings on revising the salary-basis test. 
+
+The Kantor Report reaffirmed the salary-basis test as a “practical guide to the investigator as well 
+
+as to employers and employees in borderline cases, and simplif[ies] enforcement by providing a 
+
+ready method of screening out the obviously nonexempt employees.” WAGE AND HOUR AND PUB. 
+
+CONTRACTS DIVS.,U.S.DEP’T OF LABOR,REPORT AND RECOMMENDATIONS ON PROPOSED REVISION 
+
+OF REGULATIONS, PART 541: DEFINING THE TERMS “EXECUTIVE” “ADMINISTRATIVE” 
+
+“PROFESSIONAL” “LOCAL RETAILING CAPACITY” “OUTSIDE SALESMAN” 2-3 (1958) (“Kantor 
+
+Report”).  Reiterating the DOL’s earlier position, the Kantor Report rejected the suggestion that 
+
+licensed engineers and certified public accountants be excepted from the salary-basis test. The regulations contain such an exception for holders of licenses or certificates to practice law or medicine who are actually practicing their professions.  This exception was based on the traditional standing of these professions, the recognition of doctors and lawyers as quasi-public officials, the universal requirement of licensing, and the relatively simple problems of classification in these professions. 
+
+Kantor Report, at 3-4. The versions of the salary-basis test and interpretive regulations now before the Court were 
+
+issued in 1973. See 29 C.F.R. §§ 541.3, 541.314 (1973); see also 32 Fed. Reg. 7823, 7829 (1967) 
+
+(publishing the final rule when the relevant regulations were last substantively amended).  This version followed the previous versions but expanded the salary-basis test’s medical exception to include medical doctors, osteopathic physicians, podiatrists, dentists, and optometrists.  29 C.F.R. § 541.314(b)(1); 32 Fed. Reg. at 7829.  The 1973 Regulations also expanded the list to whom the exception is inapplicable to include “pharmacists, nurses, therapists, technologists, sanitarians, dietitians, social workers, psychologists, psychometrists, or other professions which service the medical profession.”  29 C.F.R. § 541.314(c); 32 Fed. Reg. at 7829.  This version retained the idea that the exception only applies to “traditional professions of law, medicine, and teaching5 and not to employees in related professions which merely serve these professions.”  29 C.F.R. § 541.314(a); 32 Fed. Reg. at 7829. 
+
+Although the practice of medicine exception has slowly expanded to include osteopaths, podiatrists, dentists, optometrists, historically, the exception has always been limited to the “traditional” professions of medicine.  Defendants argue that because physician assistants and nurse practitioners provide direct patient care and make professional judgments about patient care, they are included in the salary-basis exception as “other practitioners licensed and practicing in the field of medical science and healing.” See 29 C.F.R. § 541.314 (1973). Defendants’ arguments about the responsibilities and autonomy of physician assistants and nurse practitioners more appropriately addresses why these groups should be treated as “professionals.”  To be exempt from the overtime requirement as a “professional” an employee must perform work that requires advanced knowledge or “learning customarily acquired by a prolonged course of specialized intellectual instruction and study,” “the consistent exercise of discretion and judgment in its performance,” and is 
+
+5 Teaching was added to the regulation in 1967 pursuant to the Fair Labor Standards Amendment of 1966 (P.L. 89-601). 
+
+“predominately intellectual and varied in character . . . and is of such character that the output produced or the result accomplished cannot be standardized in relation to a given period of time.” Id. § 541.3.  These arguments do not address why physician assistants and nurse practitioners should be considered members of the “traditional professions of law [or] medicine.”  See id § 541.314(a). 
+
+It is undisputed that the physician assistant and nurse practitioner occupations did not develop until the 1960's. Thus, there is no way they could have been within the traditional practice of medicine when the exception was first enacted in 1940. Moreover, it is highly unlikely that the professions could have been considered “traditional” professions of medicine when the relevant regulations were last substantively amended in 1967 or last issued in 1973.  The “FLSA exemptions are to be ‘narrowly construed against . . . employers’ and are to be withheld except as to persons ‘plainly and unmistakably within their terms and spirit.’” Auer, 519 U.S. at 462-63 (quoting Arnold 
+
+v. Ben Kanowsky, Inc., 361 U.S. 388, 392 (1960)). Given the history of the salary-basis test’s exception, it is not plain or unmistakable that physician assistants and nurse practitioners are exempted from the salary-basis test under the interpretive regulations.  
+
+
+
+
+The relevant regulations were recently amended.  See 69 Fed. Reg. 22122 (2004).  Although the Court must decide this case under the earlier regulations, the changes shed light on the previous regulations. The 2004 Regulations eliminate the distinction between the “regulations” of Subpart A and the “interpretations” of Subpart B.  69 Fed. Reg. at 22126.  Thus, all of the 2004 Regulations were issued after notice and comment and carry the force of law.  
+
+The 2004 Regulations continue to use a salary-basis test to determine whether employees qualify for the overtime exemption for executive, administrative, and professional employees.  29 
+
+C.F.R.§ 541.600; 69 Fed. Reg. at 22269. The 2004 Regulations also continue to exempt teachers, 
+
+lawyers, and medical practitioners from the salary requirement.  29 C.F.R. § 541.600(e); 69 Fed. 
+
+Reg. at 22269.  
+
+In the case of professional employees, the compensation requirements in this section shall not apply to employees engaged as teachers (see § 541.303); employees who hold a valid license or certificate permitting the practice of law or medicine or any of their branches and are actually engaged in the practice of thereof (see § 541.304); or to employees who hold the requisite academic degree for the general practice of medicine and are engaged in an internship or resident program pursuant to the practice of the profession (see § 541.304).  In the case of medical occupations, the exception from the salary or fee requirement does not apply to pharmacists, nurses, therapists, technologists, sanitarians, dieticians, social workers, psychologists, psychometrists, or other professions which service the medical profession. 
+
+29 C.F.R. § 541.600(e); 69 Fed. Reg. at 22269.  Section 541.304(b) states: 
+
+In the case of medicine, the exemption applies to physicians and other practitioners licensed and practicing in the field of medical science and healing or any of the medical specialties practiced by physicians or practitioners. The term “physicians” includes medical doctors including general practitioners and specialists, osteopathic physicians (doctors of osteopathy), podiatrists, dentists (doctors of dental medicine), and optometrists (doctors of optometry or bachelors of science in optometry). 
+
+29 C.F.R. § 541.304(b); 69 Fed. Reg. at 22267. Thus, although the structure of the regulation has 
+
+changed, the substantive content has not.  69 Fed. Reg. at 22158 (“Section 541.304 Practice of Law 
+
+or Medicine.  The Department received few comments on this provision and does not believe any 
+
+substantive changes to this section are necessary in light of those comments.”).  
+
+Unlike the 1973 Regulations, the 2004 Regulations specifically address physician assistants. 
+
+The 2004 Regulations state that physician assistants who meet certain educational and certification 
+
+requirements “generally meet the duties requirements for the learned professional exemption.” 29 
+
+C.F.R. § 541.301(e)(4); 69 Fed. Reg. at 22265-66.  This statement is made in the section entitled “Learned Professionals,” which recognizes certain occupations as learned professions.  29 C.F.R. 
+
+§ 541.301(e)(4). These “Learned Professionals” must be paid on a salary basis to qualify for the overtime exemption. See id.§ 541.300(a)(1); 69 Fed. Reg. at 22265. Other occupations that are recognized in this section as learned professions, such as registered or certified medical technologists and nurses, are specifically excluded from the practice of medicine exception to the salary-basis test. 29 C.F.R. §§ 541.301(e), 541.600(e); 69 Fed. Reg. at 22265, 22269.  Thus, it is reasonable to infer that, like registered or certified medical technicians and nurses, physician assistants are not “practitioners licensed and practicing in the field of medical science and healing” who are exempt from the salary-basis test.  
+
+A table listing the FLSA covered workers that are subject to the salary test in the final rule’s preamble is also revealing. This table shows that no physicians, dentists, and optometrists are subject to the salary-basis test. 69 Fed. Reg. at 22245.  The table also shows that 53,420 hourly paid physician assistants and 34,053 salaried physician assistants are subject to the salary-basis test.  Id. 
+
+It is clear to the Court that physician assistants are not excepted from the salary-basis test in the 2004 Regulations.  Because there were no substantive changes in the 2004 Regulations from the 1973 Regulations, there is at least a logical inference that physician assistants were also not intended to be excepted from the salary-basis test in the interpretive 1973 Regulations. Nurse Practitioners 
+
+Nurse practitioners are not specifically mentioned in the 2004 Regulations or the final rule’s preamble.  See 29 C.F.R. § 541 (2004); 69 Fed. Reg. at 22122.  In both the 1973 Regulations and the 2004 Regulations, registered nurses are recognized as learned professions that do not qualify for the salary-basis test’s exception. 29 C.F.R. §§ 541.301(e)(2), 541.600(e) (2004); 29 C.F.R. §§ 541.301(e)(1), 541.314(c) (1973).  The table discussed above does not include nurse practitioners as a category that it considers.  See 69 Fed. Reg. at 22244-48.  Thus, the 2004 Regulations do not give any greater insight to the 1973 Regulations’ meaning than the 1973 Regulations do themselves. 
+
+Although the recent changes to the regulation, the opinion letter, and the handbook do not specifically address nurse practitioners, the Court finds that nurse practitioners are not included in the exception to the salary-basis test as formulated in the interpretive regulation.  Defendants argue that, because physician assistants and nurse practitioners have standardized licensing requirements and perform direct patient care, they should be included in the exception to the salary requirement. As discussed above, despite their licensing requirement, the DOL has determined that physician assistants are not excepted from the salary-basis test.  Accordingly, this argument is not persuasive as to nurse practitioners.  As previously discussed, the history of the salary-basis test’s exception does not support the inclusion of nurse practitioners.  Therefore, the Court finds that the DOL’s interpretive regulations do not include nurse practitioners in the exception to the salary-basis test. The Labor Department’s Interpretations Are Not Clearly Erroneous 
+
+The Court does not find that the DOL’s interpretations of the ambiguous regulation, as expressed in the interpretive regulation, opinion letter, and handbook are clearly erroneous.  The DOL’s interpretation that physician assistants and nurse practitioners are subject to the salary-basis test is not inconsistent with the exception for employees who hold “a valid license or certificate permitting the practice of law or medicine or any of their branches and who is actually engaged in the practice thereof . . . .”  Historically, the exception to the salary-basis test has been limited to the “traditional” practice of medicine. The recent changes to the regulations, which state that they do not substantively change the exception, require physician assistants to be paid on a salary basis to be exempt from the overtime requirements. Given these considerations, the DOL’s interpretations are not clearly erroneous.  
+
+Defendants argue that the opinion letter and handbook should not be given any weight because they do not represent a well-reasoned analysis of the salary-basis test’s exception. Defendants argue the opinion letter is not well reasoned because one cannot discern from the opinion letter what materials were presented to the DOL, the opinion letter does not provide any reasoning or explanation for its conclusion, and it is out of date.  Further, because the handbook is based on the earlier opinion letter, the handbook should be disregarded as well.6  These arguments are not persuasive because an agency’s interpretation of its own ambiguous regulation is entitled to deference unless it is clearly erroneous.  See Auer, 519 U.S. at 452. 
+
+An agency’s interpretation of its own ambiguous regulation expressed through opinion letters warrants a court’s deference.  See Wells Fargo, 321 F.3d at 494-95 (deferring to an opinion letter issued by the Office of the Comptroller of the Currency that interprets “customer” as used 12 C.F.R. § 7.4002(a)).  Like the Court in Auer, this Court has “no reason to suspect that the interpretation does not reflect the agency’s fair and considered judgment on the matter in question.”  Auer, 519 U.S. at 
+
+462. The Court has no reason to believe that the DOL’s interpretation is a post hoc rationalization to defend a past agency action against an attack.  See id.  It makes no sense to require the DOL to interpret its regulations in a specific manner because it is free to write those regulations as it wishes, subject only to the limits imposed by the statute.  See id. at 462-63. Thus, the DOL’s interpretation of its own ambiguous regulation is given deference unless it is clearly erroneous or inconsistent with the regulation.  See Christensen, 529 U.S. at 587.  This situation is unlike that in Christensen, in 
+
+6 Defendants also argue that physician assistants and nurse practitioners are included by the interpretive regulation’s language in the exception to the salary-basis test.  However, as discussed above, the Court disagrees with this position. 
+
+which the agency’s position on the regulation’s meaning was in direct conflict with the regulation’s language.  See Christensen, 529 U.S. at 588 (“Auer deference is warranted only when the language of the regulation is ambiguous.  The regulation in this case, however, is not ambiguous–it is plainly permissive. To defer to the agency’s position would be to permit the agency, under the guise of interpreting a regulation, to create de facto a new regulation.”).  
+
+Further, there is no reason to believe the DOL’s interpretations are out of date.  As the DOL is free to interpret its regulations as it likes, subject to the limitations imposed by the regulation’s language, the DOL is also able to amend those interpretations to reflect changes that have occurred in the industry through the passage of time. Had the DOL believed that its opinion letter was outdated, it could have revisited the issue when it disseminated the policy through the handbook or anytime thereafter.  Because the DOL did not do so, the Court must assume that these  interpretations reflect the DOL’s current interpretation.  
+
+Because the DOL’s interpretations do not conflict with the regulation’s language and are not otherwise inconsistent with the regulation, the Court finds that the DOL’s interpretations are not clearly erroneous.  Therefore, the Court defers to the DOL’s interpretation.  Accordingly, the Court finds that physician assistants and nurse practitioners are not excepted from the salary-basis test. Thus, under the FLSA and its regulations, physician assistants and nurse practitioners, who are paid on an hourly basis, do not qualify for the FLSA’s professional exception to the overtime requirements. 
+
+
+
+
+After reviewing the historical basis for the exception to the salary-basis test, the recent changes in the regulations, and the DOL’s statements on the issue, the Court finds that the DOL interprets its regulation such that physician assistants and nurse practitioners are not exempt from the salary-basis test.  The Court further finds that this interpretation is not clearly erroneous.  The Court declines to rewrite these regulations as legislating is Congress’s role as delegated to the DOL. Accordingly, the Court GRANTS Plaintiffs’ Motion for Summary Judgment and DENIES Defendants’ Cross Motion for Summary Judgment. 
+
+
+
+The Court recognizes that this Order involves a controlling question of law as to which there is substantial ground for difference of opinion and that an immediate appeal from the order may materially advance the termination of the litigation. Accordingly, the Court certifies this Order for interlocutory appeal under 28 U.S.C. § 1292(b). 
+
+
+

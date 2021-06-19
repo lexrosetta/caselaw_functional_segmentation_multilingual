@@ -1,0 +1,336 @@
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Previously, the Court granted preliminary approval to a proposed settlement in the above-referenced class action.  Currently pending before the Court is the motion for final approval as well as the motion for fees, costs, and incentive awards.  Having considered the parties. briefs and accompanying submissions, the filings made by objectors, and the oral argument presented at the hearing on the motions, the Court hereby CONDITIONALLY GRANTS the motion for final approval and DEFERS ruling on the motion for fees, costs, and incentive awards. 
+
+
+
+
+
+
+
+This case has a lengthy history.  In 2004, Plaintiffs initiated this class action against Defendant FedEx Ground Package System, Inc. (“FXG”), asserting, in essence, wage-and-hour claims.  The case was put into MDL proceedings.  While in MDL proceedings, the MDL court granted in part and denied in part Plaintiffs. motion for class certification as to certain claims.  The MDL court subsequently granted FXG.s motion for summary judgment.  Plaintiffs appealed to the Ninth Circuit and prevailed, with the court holding that the class members were employees of FXG and not independent contractors.   
+
+The case was then remanded to this Court where FXG then filed several motions to limit 
+
+liability and/or damages.1 
+
+1 Those motions can be found at Docket Nos. 108, 111, and 113.   
+
+. In the first motion, FXG asked for clarification of the class definition.  The class as defined covered those who drove or will drive on a “full-time” basis.  FXG argued that the term “full-time” needed to be fleshed out – more specifically, to be limited to those “who both drove forty hours in any given week and who drove consistently for at least 11/12ths of the relevant contract year (i.e., had no more than 20 work days of absences).”  Docket No. 108 (Mot. at 1-2).  
+
+
+
+. In the second motion, FXG moved to limit damages.  More specifically, FXG argued that damages should not accrue through then-2015, as advocated by Plaintiffs, but rather should accrue through 2010 only (i.e., when the MDL court issued summary judgment in FXG.s favor).  FXG contended that this limitation was proper because it had made “changes between mid-2007 and late 2010 to [its] business model, Operating Agreement, and policies and procedures, as well as changes to contractor business structure and work activities.”  Docket No. 111 (Mot. at 1) (arguing that the changed circumstances “prevent Plaintiffs from demonstrating that the facts underlying Alexander remain controlling”). 
+
+
+
+. In the third motion, FXG moved to exclude “settlement deductions” from damages.  The term “settlement deductions” is somewhat misleading.  FXG is referring to items that FXG initially paid for (e.g., licenses, taxes) but then “charged back” to the drivers – i.e., deductions were made from the drivers. compensation to take into account the items initially paid for by FXG.  According to FXG, such charge backs were “authorized by the federal motor carrier leasing regulations, and therefore were exempt from the California Labor Code provisions that restrict employer deductions from employee wage payments.”  Docket No. 113 (Mot. at 1). 
+
+
+
+
+
+Thus, even though the class members were now deemed employees (per the Ninth Circuit.s decision), there were still some significant liability and damages issues to be resolved. 
+
+The parties thereafter engaged in settlement negotiations, which were ultimately 
+
+successful.  Plaintiffs thus moved for preliminary approval.  Prior to the hearing on the motion, the Court expressed concerns about the settlement and ordered supplemental briefing.  One of the Court.s main concerns related to the meal-and-rest-break (“MRB”) claim.  In particular, the release extended to these claims, but there was no consideration expressly exchanged therefor.  The parties agreed to restructure the settlement to address this concern (i.e., the parties would ask for certification of a settlement subclass for MRB claims that post-date August 2011 and provide monetary relief therefor), and the Court continued the hearing.2  Promptly thereafter, Henry Zohrabians moved to intervene and sought appointment as a subclass representative.  Mr. Zohrabians seized on the Court.s concerns regarding the MRB claim to support his motions.  The Court ultimately denied Mr. Zohrabians.s motions and granted preliminary approval.  See Docket No. 175 (order denying Mr. Zohrabians.s motions); Docket No. 179 (order granting preliminary approval). 
+
+2 The settlement has, technically speaking, two components: (1) settlement of class action claims that were certified by the MDL court and (2) settlement of the post-August 2011 MRB claims which have never been certified.  Plaintiffs did not seek certification of pre-August 2011 MRB claims because of a likely statute-of-limitations problem.  See Aguilera v. Pirelli Armstrong Tire Corp., 223 F.3d 1010, 1018-19 (9th Cir. 2000) (in considering whether the statute of limitations was tolled during the pendency of a class action (named Anderson), concluding that there was tolling but, “whatever tolling applied, it ceased once the deadline for seeking class certification [in Anderson] passed on October 15, 1996”; the Anderson plaintiffs never moved for class certification).  The settlement makes clear that the release does not cover any pre-August 2011 MRB claims. 
+
+ 
+
+3 “Of the 1544 claims received, one was submitted by an individual who opted out of the class in 2009 [and] was deemed invalid, and 41 were submitted by Estrada class members who were ineligible to recover damages in the Alexander case.”  Supp. Myette Decl. ¶ 14. 
+
+ 
+
+4 With respect to the claims made, the settlement administrator received from class members approximately 61disputes regarding work history and/or estimated award.  “Of the 61 disputes, 8 were sustained and 53 were overruled.”  Supp. Myette Decl. ¶ 16. 
+
+ 
+
+Notice was then issued to the class, which is comprised of 2,016 people.  Because of a technical problem with the mailing list, notice was re-issued.  Ultimately some form of notice was given to all but three members of the class.  See generally Myette Decl.; Supp. Myette Decl.  
+
+As of April 5, 2016, the settlement administrator had received 1,544 claim forms,3 which translates to a response rate of approximately 77 percent (i.e., 1,544 ÷ 2,016).4  The claim forms 
+
+represent claims for payment of approximately $149,394,731.79.  See Supp. Myette Decl. ¶ 12.  The gross settlement fund is $226,500,000.  The net settlement fund is approximately $173,245,000.5  Based on this net figure, roughly 86% of the net settlement fund has been claimed by responding members of the class.  See Supp. Myette Decl. ¶ 12.  Pursuant to the settlement agreement, the remaining portion of the net settlement fund will be distributed to the claiming class members on a pro rata basis.  According to the settlement administrator, based on the above figures, the average pay-out to claiming class members will be approximately $112,000, with “the lowest award at $250 and the highest award [at] $440,670.10.”  Supp. Myette Decl. ¶ 15.  
+
+5 It is not entirely clear how Plaintiffs arrived at the net figure.  The following sums need to be extracted from the gross figure to get to the net: (1) attorney.s fees and costs ($49,830,000); (2) incentive awards ($171,500); (3) settlement administration costs (approximately $30,000); (4) PAGA penalties to the state (approximately $1.2 million); (5) a “reserve fund” ($2,000,000); and (6) settlement of the named Plaintiffs. individual claims ($1 million).  If these amounts are correct, the Court calculates a net of approximately $172,268,500. 
+
+ 
+
+6 It is somewhat disingenuous for Mr. Zohrabians not to have aired many of the specific concerns that he identifies now when he could have done so at preliminary approval. 
+
+ 
+
+7 The Court previously concluded, in its preliminary approval order, that the Rule 23(a) and (b) requirements were met for the proposed MRB settlement subclass. 
+
+The settlement administrator has received no requests for exclusion (with exclusion being an option only for the MRB subclass as all other class members were previously given an opportunity to opt out after the class was certified).  See Myette Decl. ¶ 18.  Only a handful of objections were made to the settlement.  One of the objectors is Mr. Zohrabians.6   
+
+
+
+
+
+
+
+Federal Rule of Civil Procedure 23(e) provides that “[t]he claims, issues, or defenses of a certified class may be settled, voluntarily dismissed, or compromised only with the court.s approval.”  Fed. R. Civ. P. 23(e).  It further provides that, “[i]f the proposal would bind class members, the court may approve it only after a hearing and on finding that it is fair, reasonable, and adequate.”  Fed. R. Civ. P. 23(e)(2).  Where there is a proposed settlement class, a court must also ensure that the requirements for certification under Federal Rule of Civil Procedure 23(a) and (b) have been met.7 
+
+In assessing the fairness of a settlement, a court must consider the following factors: 
+
+ 
+
+(1) the strength of the plaintiffs. case; (2) the risk, expense, complexity, and likely duration of further litigation; (3) the risk of maintaining class action status throughout the trial; (4) the amount offered in settlement; (5) the extent of discovery completed and the stage of the proceedings; (6) the experience and views of counsel; (7) the presence of a governmental participant; and (8) the reaction of the class members to the proposed settlement.  In addition, although “strong judicial policy . . . favors settlements,” the settlement may not be the product of collusion among the negotiating parties. 
+
+Churchill Vill., L.L.C. v. GE, 361 F.3d 566, 575-76 (9th Cir. 2004). 
+
+The Court previously considered these factors and concluded that they warranted a grant of preliminary approval of the proposed settlement.  For example, as to factors (1)-(3), although Plaintiffs. case was significantly strengthened by the Ninth Circuit.s ruling that class members were employees and that the class would not be decertified, FXG filed three-post remand motions that raised substantial liability and damages issues.  As to factor (4), the average recovery for a class member is significant – more than $100,000.  With respect to factor (5), Plaintiffs acquired a substantial amount of discovery from FXG, and this case has been hotly contested for years.  Regarding (6), Plaintiffs. counsel is knowledgeable and experienced (even more so because of their prior experience with the Estrada case), and they support the settlement.  
+
+The Court is now called upon to assess these factors again, particularly now that it has the reaction of the class members to the proposed settlement.  While, in the typical case, the Court would address each of these factors in seriatim, in this case, because this Court has already assessed the factors, it will address these factors as subsumed by the objections raised.  For the reasons discussed below, the Court concludes that the objections raised do not warrant denial of final approval.8 
+
+8 The Court considers only objections that were made in writing.  Objections raised for the first time at the hearing (e.g., El-Hani.s objection to the incentive awards) have been waived.  The Court gives some leeway, however, to objections raised by pro se class members because they are not represented. 
+
+
+
+Mr. Marquez and Mr. Carrera have objected to not receiving overtime.  However, the overtime class certified herein is defined as persons who operated vehicles weighing less than 
+
+10,001 pounds.  Mr. Marquez.s own submission indicates that he drove vehicles weighing 80,000 pounds.  See Docket No. 203 (letter).  At the hearing, Mr. Carrera admitted that his vehicle exceeded 10,001 pounds (albeit by only a few pounds). 
+
+Plaintiffs have a good basis for limiting the overtime class to those who operated vehicles weighing less than 10,001 pounds.  California overtime law contains a motor carrier exemption.  See IWC Wage Order 9-2011(L) (providing that “[t]he provisions of this section are not applicable to employees whose hours of service are regulated by . . . [t]he United States Department of Transportation Code of Federal Regulations, Title 49, Sections 395.1 to 395.13, Hours of Service of Drivers”); see also 49 U.S.C. § 31502(b) (section in the Motor Carrier Act providing that the Secretary of Transportation may prescribe maximum hours of service of employees of motor carriers and motor private carriers).  But drivers of vehicles with a gross vehicle weight rating of less than 10,001 pounds are outside the scope of the exemption – i.e., they (but not those who drive heavier trucks) can get overtime under California law.  See Dunkel v. Warrior Energy Servs., 304 F.R.D. 193, 200 (W.D. Pa. 2014) (noting that federal law passed in 2005 amended the Motor Carrier Act so as to define a “motor private carrier” as a person transporting property by a commercial motor vehicle, and commercial motor vehicle was defined as one with a gross vehicle weight rating of at least 10,001 pounds; while subsequent federal law (passed in 2008) dropped the use of the term “commercial motor vehicle,” it still maintained the 10,001-pound benchmark by now defining a “covered employee” as one whose work affected the safety of operation of motor vehicles weighing 10,000 pounds or less”). 
+
+At the hearing, both Mr. Marquez and Mr. Carrera intimated that other persons are still receiving overtime even though they drove vehicles exceeding 10,000 pounds.  However, there is no evidence before the Court to support this claim.  In any event, Mr. Marquez and Mr. Carrera are properly excluded from the class. 
+
+/// 
+
+/// 
+
+/// 
+
+/// 
+
+ 
+
+9 The Court uses the term “El-Hani” to refer to Mr. El-Hani and an affiliated entity, El-Hani Services, Inc.    
+
+ 
+
+El-Hani is represented by John William Davis and Steven F. Helfand.  At the hearing, Plaintiffs indicated that counsel are serial objectors.  Based on the Court.s ECF review, Mr. Davis appears as an attorney in 12 cases in this District.  In 11 of these cases (including this one), Mr. Davis represented an objector (in one case, himself).  Mr. Helfand was co-counsel for the objector in several of the cases and had Mr. Davis represent him as an objector in one case.  Mr. Helfand has also represented an objector, on his own, in at least one other case in this District. 
+
+ 
+
+10 At the hearing, Plaintiffs noted that El-Hani had neither opted out nor filed a claim, instead simply filing an objection.  El-Hani did not dispute this fact. 
+
+El-Hani (i.e., Mr. El-Hani and an affiliated entity, El-Hani Services, Inc.) has objected to the settlement on the ground that the settlement exposes El-Hani to liability.10  El-Hani explains that, even though FXG hired it to service certain routes, El-Hani then hired drivers to service those routes; El-Hani.s concern is that it will now be sued by these “secondary drivers” for the same claims.  See, e.g., Docket No. 196 (Obj. at 4) (“Class members [like objectors] are now exposed to the very claims they have brought against FedEx.”).  El-Hani argues that the settlement is unsatisfactory unless the secondary drivers are brought into the settlement and their claims against class members released as well. 
+
+As a preliminary matter, the Court questions the timeliness of El-Hani.s objection.  El-Hani is essentially arguing that the class definition should be expanded to include secondary drivers.  But that argument should have been raised at class certification.  Notably, even El-Hani admitted at the hearing that it would have been preferable for the objection to have raised at the certification stage. 
+
+Moreover, on the merits, El-Hani.s argument is problematic.  Plaintiffs had no obligation to bring suit on anyone.s behalf but their own and/or the behalf of others similarly situated, and secondary drivers are not similarly situated because they, unlike the class members, never actually contracted with FXG; thus, their claim an employment relationship with FXG is more difficult to assert.  Furthermore, the entire premise of El-Hani.s objection is that class members and secondary drivers have a conflict, and therefore the two groups cannot be similarly situated.  Including secondary drivers in the class could be problematic. 
+
+To the extent El-Hani is suggesting that there is a joinder problem pursuant to Federal Rule of Civil Procedure 19, the Court does not agree.  The absence of the secondary drivers does not prevent the Court from “afford[ing] complete relief among the existing parties,” and the secondary drivers are not “so situated that disposing of the action in [their] absence may . . . impair or impede [their] ability to protect [their] interest” or leave class members like El-Hani “subject to a substantial risk of incurring double, multiple, or otherwise inconsistent obligations because of the interest.”  Fed. R. Civ. P. 19(a) (addressing required joinder).  El-Hani is not prevented from defending a claim by secondary drivers. 
+
+
+
+Mr. Zohrabians and El-Hani have objected to the use of a claim form.  They argue that, although the response rate is high (approximately 77%), the response rate would be 100% or close thereto in the absence of a claim form as, in that scenario, checks would be issued directly to class members.   
+
+The Court acknowledges that the use of a claim form can, in some circumstances, be unnecessary and can present a needless barrier to relief.  In some situations, class members may well not undertake the effort of filling out and submitting a claim form, particularly where the recovery per class member is small.  Thus, requiring a claim form, in certain situations, can depress the response rate. 
+
+That being said, the Court finds that this is not a case where use of a claim form is unreasonable.  Here, many class members are being offered substantial awards, and thus there is, in the main, a strong incentive for class members to fill out and submit claim forms.  Furthermore, as Plaintiffs argue, given the age of this case (first initiated in 2004) and the size of the checks, a claim process was reasonable to ensure that correct contact information was secured and to protect against fraud.  This is particularly true where nearly all class members have been or will be contacted, if necessary, multiple times to ensure they are informed of their rights under the settlement agreement. 
+
+
+
+Mr. Brooks has objected to the settlement on the ground that untimely claims should still 
+
+be deemed valid.  While there may be an argument that Mr. Brooks.s objection is untimely, the Court need not address that issue because Mr. Brooks.s objection raises an issue that the Court considered independently prior to the filing of his objection.   
+
+While the 77% response rate is high, the Court has concerns over why the response rate is not higher given the substantial recoveries for many class members.11  Implicitly, the parties in this case shared the Court.s concern, as indicated by their agreement to honor late-filed claims.  See Mot. at 9 n.6.  At the hearing, Plaintiffs indicated that the parties had discussed giving the class members additional time to submit claims, more specifically, after a further effort by Plaintiffs to get in touch with those non-claiming class members.  The Court agrees that additional outreach should be undertaken.  Accordingly, Plaintiffs shall undertake all reasonable efforts to further contact all non-claiming class members (although previously notified of the settlement through the class notice).  Plaintiffs shall immediately undertake such efforts as the Court is now requiring all claims to be submitted no later than May 15, 2016.  Moreover, all late filed claims will be accepted up until said date. 
+
+11 The Court recognizes that there is no reverter to FXG in this case and any unclaimed funds would be subject to a second distribution to the class.  However, the Court still has an interest in ensuring that each class member gets his or her due, particularly given that claims for relief are being released.  
+
+ 
+
+Mr. Evans has objected to the settlement on the ground that the claim administrator determined that he had no right to any payment.  At the hearing, however, Plaintiffs explained that Mr. Evans was not eligible for a settlement payment for the time period November 17, 2000, through December 31, 2008 (as explained in the class notice) because he was a member of the certified class in Estrada v. FedEx Ground Package System, Inc., No. BC210130 (L.A. Superior Court) and his claims were dismissed with prejudice under the stipulated judgment entered in that case on December 23, 2008.  
+
+
+
+Mr. Zohrabians has objected to the settlement on the ground that communications with the class, in particular the class notice containing the opt-out provision, have been confusing.  The 
+
+Court does not agree.  The Court carefully vetted the language of the class notice to ensure that it was understandable, particularly for a lay person.  Notably, the opt-out language that Mr. Zohrabians claims is confusing does not come from the class notice; rather, it is language from the settlement agreement. 
+
+At the hearing, Mr. Zohrabians changed his opt-out argument.12  Mr. Zohrabians now argues that all class members should be given a second opportunity to opt out and that absent such, their due process rights will be violated.  This argument lacks merit.  Rule 23(e) provides that, “[i]f the class action was previously certified under Rule 23(b)(3), the court may refuse to approve a settlement unless it affords a new opportunity to request exclusion to individual class members who had an earlier opportunity to request exclusion but did not do so.”  Fed. R. Civ. P. 23(e)(3) (emphasis added).  The term “may” implies courts are not required to give a second opt-out opportunity after class certification.  Mr. Zohrabians has cited no case which holds there is a due process violation where a court declines to give a second opt-out opportunity.  Moreover, Mr. Zohrabians has not articulated why a second opt-out opportunity is warranted here.  Certainly, “[a] decision to remain in the class is likely to be more carefully considered and is better informed when settlement terms are known.”  Fed. R. Civ. P. 23(e)(3), 2003 advisory committee notes.  But Mr. Zohrabians has not pointed to, e.g., any “changes in the information available to class members since expiration of the first opportunity to request exclusion” which might justify a second opt-out opportunity.13  Fed. R. Civ. P. 23(e)(3), 2003 advisory committee notes.  The Court sees no need for a second opportunity to opt out given the positive response rate to the settlement and the limited number of objections.   
+
+12 This is the second time that Mr. Zohrabians, when confronted with a meritorious counter-argument, has changed his tune.  More specifically, Mr. Zohrabians took the same tactic when the Court asked him how he would be prejudiced if the Court were to deny intervention.  Instead of answering this question, Mr. Zohrabians came up with a completely new argument, asserting (without merit) that the MDL court had certified the MRB claim.  See Docket No. 175 (Order at 3-4). 
+
+ 
+
+13 At the hearing, Mr. Zohrabians suggested that there was a chance in circumstances because the settlement release is broader than the class certification.  However, the only broadening is the settlement of the MRB claim.  As to that claim, the settlement notice itself gave subclass members an opportunity to opt out.  Mr. Zohrabians fails to explain why, after the settlement notice, class members should now be given yet another opportunity to opt out of the MRB subclass. 
+
+
+
+Mr. Zohrabians has objected on the basis that Plaintiffs failed to conduct a sufficient analysis as to the total maximum exposure FXG faced.  This objection patently lacks merit.  As Plaintiffs explain in their motion, they acquired 15 years. worth of data for all class members and hired a forensic accounting expert who spent dozens of hours reviewing the documents.  Plaintiffs calculated FXG.s maximum potential exposure assuming, e.g., that they would prevail on every aspect of their damages claims and that the Court would award the full measure of civil penalties under PAGA and the California Labor Code.  While Mr. Zohrabians suggests that Plaintiffs “should have been able to come up with very specific damages information via questionnaires, receipts for expenses, and a host of other methods,” Zohrabians.s Obj. at 14, he fails to take into account that many of the class members likely would not have retained records for all of their expenses, hours, and deliveries for the past 15 years.  Moreover, as Plaintiffs note, Mr. Zohrabians.s approach “would have been extremely onerous, time consuming and counterproductive” as a similar analysis took Plaintiffs. counsel “an entire year to calculate . . . for only 200 people in Estrada” (i.e., compared to the 2,016 class members here).  Mot. at 22. 
+
+
+
+Mr. Zohrabians has objected to the settlement on the basis that the risk of litigation in this case was minimal, i.e., because the class has already been certified and that, post-certification, the Ninth Circuit determined that class members were employees.  Once again, Mr. Zohrabians.s objection lacks merit.  Mr. Zohrabians gives short shrift to the three post-remand motions brought by FXG.  Mr. Zohrabians has failed to give any analysis as to why these three motions were of no real consequence or otherwise lacking in merit. 
+
+
+
+Mr. Zohrabians has objected to the settlement, claiming that it is permeated with conflicts of interest – e.g., between the named Plaintiffs and other class members, between the certified class and the uncertified class, and between the class and counsel.  None of these asserted conflicts has any basis.   
+
+As to the first claimed conflict, this is territory that the Court already covered when it 
+
+denied Mr. Zohrabians.s motions to intervene and for appointment as a subclass representative.  The bottom line is that the MRB subclass is settling only MRB claims from August 2011 and on.  The named Plaintiffs are giving up more and therefore are getting additional payment.  More specifically, the named Plaintiffs are also giving up their MRB claims that pre-date August 2011; the MRB subclass is not releasing pre-August 2011 MRB claims.  Notably, the named Plaintiffs do not face a statute-of-limitations bar for their pre-August 2011 MRB claims but other class members may well have a timeliness problem should they file such claims against FXG now.  Furthermore, it is significant that “[t]he MRB claims of [the] provisionally certified subclass [i.e., 2011 and on] were valued and discounted for risk according to the identical assumptions used to value and discount the Named Plaintiffs. individual MRB claims [pre-2011].”  Mot. at 28. 
+
+As for the second claimed conflict, it makes no sense whatsoever.  As Plaintiffs argue, they had no obligation to litigate claims held by FXG drivers who do not meet the class definition. 
+
+Finally, the Court gives no credit to the third alleged conflict.  Plaintiffs. counsel has spent more than ten years working on this case, and the litigation has been hard fought, with – as Plaintiffs argued at the hearing – counsel ably seizing victory (i.e., the Ninth Circuit appeal) from the jaws of defeat (i.e., the MDL court.s grant of summary judgment to FXG).  When faced with significant post-remand motions, Plaintiffs. counsel still secured a settlement which will give class members substantial relief, with an average pay-out of approximately $112,000 per class member.  See  Supp. Myette Decl. ¶ 15.  The bulk of Mr. Zohrabians.s criticism arises from counsel.s resolution of the named Plaintiffs. MRB claims but the Court has already addressed those issues in its prior orders, in particular, its order denying Mr. Zohrabians.s motion to intervene and for appointment.14 
+
+14 Notably, Mr. Zohrabians.s counsel has not taken up representation of drivers who may have pre-August 2011 MRB claims which were not released by the settlement herein.   
+
+
+
+Both Mr. Zohrabians and El-Hani have objected to the settlement because it contains a clear-sailing provision with respect to attorney.s fees.  This objection lacks merit.  As Plaintiffs note, in Rodriguez v. West Publishing Corp., 563 F.3d 948 (9th Cir. 2009), the Ninth Circuit 
+
+rejected the objectors. contention that  
+
+ 
+
+the “clear sailing” provision by which West and Kaplan [defendants] agreed not to contest attorney.s fees or incentive awards of no more than $ 25,000 evinces collusion. . . . [B]oth payments were to be made from the settlement fund, capped at $49 million.  This scenario does not signal the possibility of collusion because, by agreeing to a sum certain, West and Kaplan were acting consistently with their own interests in minimizing liability.  Cf. Weinberger v. Great N. Nekoosa Corp., 925 F.2d 518, 524 (1st Cir. 1991)  (inferring collusion from a “clear sailing” provision when the attorney.s fees were to be paid on top of the settlement fund as this is counterintuitive defense behavior). 
+
+ 
+
+Id. at 961 n.5; see also In re Bluetooth Headset Prods. Liab. Litig., 654 F.3d 935, 947 (9th Cir. 2011) (identifying as a settlement arrangement that could indicate collusion “when the parties negotiate a „clear sailing. arrangement providing for the payment of attorneys. fees separate and apart from class funds”); Larsen v. Trader Joe’s Co., No. 11-cv-05188-WHO, 2014 U.S. Dist. LEXIS 95538, at *26-27 (N.D. Cal. July 11, 2014) (noting that, even under Bluetooth, “clear sailing provisions generally do not raise concerns where, as here, the fees are to come from the settlement fund”).  Here, attorneys. fees would be paid out of, not on top of, the settlement fund. 
+
+K. El-Hani: Attorney.s Fees and Costs 
+
+Finally, El-Hani has objected to the fee/cost award on the ground that it is excessive.  Plaintiffs are asking for 22% of the gross settlement fund for fees and costs.  This amounts to an award of $49,830,000 – i.e., almost $50 million.  Plaintiffs calculate their lodestar as being between $12-14 million.  (Plaintiffs have provided a range for their lodestar because they have had to extrapolate how much of the MDL work was reasonable and necessary to the Alexander case specifically.)  See Fee Mot. at 18-20.  Thus, Plaintiffs are asking for a multiplier of 3.5 to 4 in order to get to the $50 million fee request. 
+
+
+
+As noted above, Plaintiffs are asking for 22% of the gross settlement fund for fees and expenses.  This is less than the 25% benchmark identified by the Ninth Circuit.  However, given the size of the common fund, even a 22% award would be substantial – it would amount to an award of almost $50 million. 
+
+El-Hani objects that a 22% award is too high because this is a megafund case.  A megafund case is simply a case that has a very large common fund recovery.  This case is fairly deemed a megafund case by virtue of the fact that the common fund recovery is approximately $226 million.  See Ramah Navajo Chapter v. Jewell, No. 90 CV 957 JAP/KBM, 2016 U.S. Dist. LEXIS 27624, at *63 (D.N.M. Mar. 2, 2016) (noting that “a „mega fund. recovery [is] currently defined as cases with common fund recovery of more than $100 million”). 
+
+In megafund cases, use of the percentage method can be tricky.  “[W]hen a common fund is extraordinarily large, the application of a benchmark or standard percentage may result in a fee that is unreasonably large for the benefits conferred.”  In re Copley Pharm., Inc., 1 F. Supp. 2d 1407, 1413 (D. Wyo. 1998).  “„[A]bsent unusual circumstances, the percentage will decrease as the size of the fund increases.[].  This sliding scale . . . is explained in part by economies of scale.  It is not one hundred fifty times more difficult to prepare, try, and settle a $150 million case than it is to try a $1 million case.”  Id.  “„[I]n many instances the increase [in recovery] is merely a factor of the size of the class and has no direct relationship to the efforts of counsel..”15  In re Prudential Ins. Co. America Sales Practice Litig. Agent Actions, 148 F.3d 283, 339 (3d Cir. 1998).   
+
+15 Percentages actually awarded in megafund cases run the gamut – e.g., sometimes as low as 8-15% and sometimes as high as 30%.  See Ramah Navajo, 2016 U.S. Dist. LEXIS 27624, at *63; see also Vizcaino v. Microsft Corp., 290 F.3d 1043, 1052-53 (9th Cir. 2002) (table addressing percentage-based fee awards in common fund cases of $50-200 million from 1996 to 2001; percent awarded ranged from 2.8% to 40%); In re High-Tech Emple. Antitrust Litig., No. 11-CV-02509-LHK, 2015 U.S. Dist. LEXIS 118052, at *50 (N.D. Cal. Sept. 2, 2015) (finding persuasive evidence presented that “the median attorney.s fees award in a sample of 68 „megafund. class action settlements over a 16-year period was 10.2%”). 
+
+Plaintiffs argue that, even if this is a megafund case, it is different from the typical megafund case in that the size of the common fund is not really attributable to the size of the class (2,016 members) but rather to the efforts of counsel and “the size of each class member.s recovery, many of whom will receive over $100,000.”  Fee Mot. at 22.  It is the efforts of counsel, however, that is critical.  See Bluetooth, 654 F.3d at 942 (stating that “where awarding 25% of a „mega-fund. would yield windfall profits for class counsel in light of the hours spent on the case, courts should adjust the [25%] bench-mark percentage or employ the lodestar method instead”).  Indeed, even Plaintiffs. own brief reflects that fees based on “the extent of the damages” often 
+
+results in a windfall.  See Fee Mot. at 22 (arguing that, in megafund cases, “which are usually consumer or securities class actions, courts sometimes reduce the percentage award from a large common fund to avoid a „windfall. to class counsel due to the likelihood that the multiplier over counsel.s lodestar is attributable only to the size of the class or the extent of the damages, rather than to counsel.s efforts”) (emphasis added). 
+
+Given that the issue is what were counsel.s efforts, that makes the lodestar calculation even more important.  The lodestar calculation, plus the multiplier, are addressed below. 
+
+
+
+Plaintiffs are represented by Leonard Carder (“LC”).  LC spent time on the Alexander case both as representatives of Plaintiffs and as one of the co-lead counsel designated in the MDL.  Other counsel in the MDL also worked on the Alexander case by virtue of the MDL.  LC claims a lodestar (with no multiplier) of $12.4 to 14 million.  See Fee Mot. at 18.  The claimed lodestar is based on the following:     
+
+(1) LC has identified hours that it spent on the Alexander case before transfer to the MDL and after remand to this court (2,997.75 hours translating to $1.7 million in fees).  See Fee Mot. at 17-18; Ross Decl., Ex. B.   
+
+
+
+(2) LC has also identified hours that it spent during the MDL but that pertained to the Alexander case specifically (3,594.5 hours translating to $1.9 million in fees).  See Fee Mot. at 18; Ross Decl., Ex. C.   
+
+
+
+(3) Finally, LC has explained that, during the MDL, all MDL counsel spent time on “Omnibus work” (i.e., work not specific to any state/case but rather applicable to all).  LC argues that it and other MDL counsel should be compensated in the Alexander case for “a reasonable portion of the time devoted by the MDL Counsel to the Omnibus work” because “virtually all of the underlying Omnibus fact and expert discovery work done in support of class certification, summary adjudication and non-dispositive motion practice was necessary to establish the California Drivers. employment status.”  Fee Mot. at 18-19 (emphasis in original).  The total fees for all MDL counsel for Omnibus work is approximately $34.8 million.  See Ross Decl., Ex. D.  LC asks, on its behalf and the behalf of the other MDL 
+
+
+
+
+
+counsel, to be compensated for 25-30% of that amount – i.e., $8.7 to 10.4 million.  See Fee Mot. at 18; see also Fee Mot. at 19 (acknowledging that, “[b]ecause [a] singular record was necessary to establish employment status – whether Alexander was litigated as a stand-alone action or in the MDL docket – any effort to allocate an exact percentage of the total MDL lodestar to Alexander is extremely difficult”).  According to LC, $8.7 to 10.4 million represents approximately 21,000-25,000 hours of work.  See Fee Mot. at 18. 
+
+
+
+
+
+As expressed at the hearing, the Court is concerned with regard to (3) above.  Plaintiffs reasonably argue that a portion of the Omnibus work should, in effect, be chargeable to Alexander but more evidence is needed to demonstrate that the 25-30% figure was appropriately selected.  Plaintiffs shall provide a supplemental brief (which may be filed under seal) to support the 25-30% figure.  For example, in its supplemental brief, Plaintiffs could provide additional information as to how much of the Omnibus work has been allocated to other cases (i.e., to ensure that counsel will not get double recovery) and the size of the respective recoveries in the other case which grew out of the MDL, including how much the proposed recovery in the Alexander (i.e., California) case was compared to all other cases in the MDL.  The supplemental brief shall be filed within two (2) weeks from the date of this order. 
+
+The Court will reserve any further analysis, including the lodestar cross-check, pending review of further briefing ordered herein.   
+
+
+
+
+
+
+
+For the foregoing reasons, the Court finds that the objections lack sufficient merit to warrant a denial of final approval.  However, the Court at this juncture grants only conditional approval so that (1) it can consider the response rate after Plaintiffs make additional outreach to nonclaiming class members and (2) it can consider the supplemental brief related to fees.  Because of the latter issue, the Court also defers ruling on the fee motion.   
+
+/// 
+
+/// 
+
+/// 
+
+/// 
+
+As noted above, Plaintiffs. supplemental brief related to fees shall be filed within two (2) weeks from the date of this order.  In addition, by May 23, 2016, Plaintiffs shall file a supplemental brief addressing whether additional claims were made on the common fund. 
+
+This order disposes of Docket No. 204. 
+
+ 
+
+IT IS SO ORDERED. 
+
+ 
+
+
+
+ 
+
+
+

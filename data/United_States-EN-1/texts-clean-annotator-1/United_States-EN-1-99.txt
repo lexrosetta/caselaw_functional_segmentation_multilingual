@@ -1,0 +1,182 @@
+
+
+ Before the Court is the Motion for Summary Judgment filed by defendant Cox Communications Louisiana LLC (“Cox”). (Rec. Doc. 70). For the following reasons, IT IS ORDERED that the Motion for Summary Judgment is GRANTED.  
+
+ 
+
+This lawsuit is a putative collective action under the Fair Labor Standards Act of 1938 (“FLSA”), 29 U.S.C. § 201, et seq., and a putative class action under Louisiana’s wage payment laws, La. Rev. Stat. § 23:631, et seq.1  Plaintiff Scott Gremillion alleges that Cox and defendant Grayco Communications, L.P. (“Grayco”) are liable as his employers for failing to pay him and other installers and technicians for work in excess of 40 hours in a work week “through the guise of the pay-per-point/unilateral charge-back scheme.” (Rec. Doc. 1, ¶13).  The parties consented to proceed before the undersigned magistrate judge and on December 8, 2016, the District Judge ordered the matter be referred to the undersigned pursuant to 28 U.S.C. § 636(c). (Rec. Doc. 61).  
+
+1 The District Court dismissed Mr. Gremillion’s claims under La. Rev. Stat. § 23:631 and § 23:632, but held that he had stated a claim under § 23:635. (Rec. Doc. 56). 
+
+ The parties also agreed to resolve issues related to the alleged liability of Cox as a joint employer with Grayco first, with Mr. Gremillion’s motion for conditional class certification to follow thereafter. In the present Motion for Summary Judgment, Cox maintains that as a matter of law, it is not Mr. Gremillion’s employer under the FLSA and it must be dismissed from this lawsuit. (Rec. Doc. 70-1). Mr. Gremillion opposes. (Rec. Doc. 75).  
+
+  
+
+
+
+
+
+Cox provides cable, telephone and Internet services to residences and businesses in Louisiana and elsewhere in the United States. (Cox Undisputed Facts, ¶ 1, Rec. Doc. 70-2). To access these services, Cox’s customers buy cable equipment from Cox. Id.  ¶ 2. Cox contracts with third parties like Grayco to provide installation and maintenance services to Cox’s customers. Id.  ¶ 4. Grayco began providing these services to Cox in July 2014. Id.  ¶ 5. Cox and Grayco’s relationship for the relevant time period is governed by a June 1, 2015, Field Services Agreement (“FSA”) between them. Id.  ¶¶ 21-23.  Pursuant to the FSA, Grayco is an “independent contractor” and none of Grayco’s employees or representatives is to be deemed a Cox employee, agent or representative. (FSA, ¶ 9, Rec. Doc. 70-6).  
+
+Cox has presented uncontested declarations asserting that Grayco had been operating independently for 15 years before it began servicing Cox customers, that Cox and Grayco maintain separate offices, that Cox does not have an ownership or financial interest in Grayco, and that Grayco does not have an ownership or financial interest in Cox. Id.  ¶6-12. Further, Cox does not supply or share managers or employees with Grayco. Id.  ¶ 11. Instead, Grayco employs managers and supervisory personnel to oversee Grayco’s installation technicians. Id.  ¶ 15. Mr. Gremillion concedes that Grayco does business with other companies besides Cox, but points out that in Louisiana, Grayco solely provides services to Cox. (Mr. Gremillion Opp., at 4, Rec. Doc. 75).  
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+The FSA requires that Grayco “maintain adequate, qualified, experienced and professional-appearing” personnel. (FSA, ¶ 4.1, Rec. Doc. 70-6). The FSA also requires that a Grayco technician must pass a criminal background check and a drug test before performing any work for Cox customers. (Cox Undisputed Facts, ¶ 39, Rec. Doc. 70-2). Cox says this policy ensures that its customers are safe and not subject to individuals who have committed crimes or use illegal drugs. Id.  The FSA requires annual background checks and authorizes Cox to request an additional background check. (FSA, ¶ 4.1, Rec. Doc. 70-6). Pursuant to the FSA, if a person does not meet the background check requirements, Grayco would not continue to allow that person to perform services for Cox customers. Id.   
+
+It is undisputed that Cox did not hire Mr. Gremillion. (Cox Undisputed Facts, ¶ 55, Rec. Doc. 70-2). Mr. Gremillion submitted an application to Grayco, not Cox. Id.  ¶ 56. When Mr. Gremillion applied, Grayco processed a background check as required by the FSA and submitted the results to Cox. Id.  ¶¶ 59-60. Cox then sent Grayco a technician badge for Mr. Gremillion and a technician identification number. Id.  ¶ 61. As Grayco’s corporate representative explained in his deposition, “[t]he hiring of an individual is totally within our discretion, so [Cox] shouldn’t have to approve us hiring someone.” (Williams Depo., at 107, Rec. Doc. 70-6). Once Grayco decides to hire a technician, a clean background check is required “[t]o obtain a badge,” which allows the technician to enter customers’ homes. Id.  It is also undisputed that when Mr. Gremillion resigned, he notified Grayco and not Cox. (Cox Undisputed Facts, ¶ 117, Rec. Doc. 70-2). 
+
+ 
+
+
+
+
+
+When a Cox customer requests installation and maintenance services, the customer contacts Cox and selects a two hour window of time for the service to take place. (Cox Undisputed Fact, ¶ 26, Rec. Doc. 70-2). This request creates a “work order” in Cox’s automated billing system. Id.    ¶ 27. Cox has a separate computer application that automatically generates bundles of work orders and assigns each bundle to a particular Grayco technician number. Id.  ¶ 28-29. Cox explains that the Grayco technician numbers serve as placeholders and that Grayco can assign the work orders to technicians in any manner it sees fit and Cox learns the technician number for the individual who performed the work order when the work order is completed and recorded in Cox’s automated billing system. Id.  ¶¶ 31-32. Mr. Gremillion does not dispute this explanation. However, he points out that the FSA prohibits Grayco from using a technician number assigned to one personnel for another personnel without Cox’s permission. (FSA, ¶ 2.1, Rec. Doc. 70-6). Mr. Gremillion also points to language in the FSA that Cox assigns work orders “on an ‘as needed’ basis in Cox’s sole discretion.” Id.  ¶ 2.1. Mr. Gremillion further notes that the FSA requires Grayco to assign work to its personnel “in a manner reasonably calculated to not adversely affect the quality of the work and to not result in high first call resolution leading to chargebacks.” Id.  ¶ 2.4 
+
+Cox conducts random quality control checks and requests that its customers complete surveys. (Cox Undisputed Facts, ¶ 34-35, Rec. Doc. 70-2). Mr. Gremillion does not dispute the evidence presented by Cox that it only discusses customer complaints, surveys and quality control checks with Grayco management and never with Grayco’s technicians. Id.  ¶¶36-37.  
+
+Mr. Gremillion admitted in deposition that he was supervised by Grayco manager Louis Hall and that he was not supervised by anyone at Cox. Id.  ¶¶ 97-98. Mr. Gremillion testified that if he was sick or needed to leave work early or arrive late, he checked in with Mr. Hall. Id.  ¶100. He testified that he did not contact Cox if he had issues with an installation and only contacted Cox if Grayco’s computer system was shut down or if he needed Cox to turn on its cable service to a specific location so he could determine if the cable box had been properly installed. Id.  ¶¶ 101-103. Mr. Gremillion could not recall the name of anyone that worked at Cox. Id.  ¶ 104.  
+
+The FSA requires that Grayco train all technicians on safety, quality and legal requirements of the agreement, including training on Cox’s guidelines and requirements. (FSA, ¶ 2.3, Rec. Doc. 70-6). Mr. Gremillion does not dispute that he had prior training as a cable installer and that he did not receive any training from Cox (or Grayco). Id.  ¶¶ 113-115.  
+
+“For safety reasons,” the FSA requires that technicians “at all times represent and identify themselves as independent contractors of Cox and follow Cox’s branding and identification guidelines and procedures for independent contractors.” Id.  ¶ 2.14. The technicians wear badges and drive vehicles stating “Authorized Vendor for Cox Communications.” (Cox Undisputed Facts, ¶ 38, Rec. Doc. 70-2). 
+
+Cox does not supply Grayco technicians with tools or supplies to perform their work. Id.  ¶ 40. It only supplies Grayco with the Cox equipment that is purchased or leased by Cox’s customers. Id.   ¶ 41.  
+
+ 
+
+
+
+
+
+Mr. Gremillion received his paychecks from Grayco, not Cox. (Cox Undisputed Facts, ¶ 73, Rec. Doc. 70-2). Grayco, not Cox, issued Mr. Gremillion a Form 1099. Id.  ¶ 74. Mr. Gremillion signed a Wage Deduction Authorization form allowing Grayco to deduct from his paycheck and it is undisputed that Grayco, not Cox, deducted from Mr. Gremillion’s paychecks. Id.  ¶75-76. Mr. Gremillion did not submit any evidence to contradict Grayco’s deposition testimony that Cox had no involvement or input in how Grayco paid Mr. Gremillion or the amount Grayco deducted from his paychecks.  Id.  ¶ 78. Nor does Mr. Gremillion dispute that Cox had no knowledge of how many hours Mr. Gremillion worked. Id.  ¶ 68.  
+
+Mr. Gremillion notes that the FSA authorizes Cox to withhold payment from Grayco to repair damage connected to the services performed or related to any failure of Grayco to complete or carry out work in a timely manner. (FSA, ¶3.3, Rec. Doc. 70-6). Further, Cox’s payments are contingent on Grayco’s “full, satisfactory and timely Completion of the Services.” Id.  ¶2. However, Mr. Gremillion has not directed the Court to any evidence that Cox could withhold or deduct payment from the Grayco technicians or direct Grayco to do so. Indeed, Grayco’s corporate representative testified that if Cox issued charge backs to Grayco for failed quality control inspections, Grayco did not necessarily deduct that amount from its technicians’ pay, if it deducted from them at all. Id.  ¶ 79.  
+
+e. Employment Records 
+
+
+
+
+
+Cox’s corporate representative testified that Cox does not maintain employment records for Mr. Gremillion or any other Grayco technicians. Id.  ¶121. The only information maintained by Cox related to Mr. Gremillion was the information on his badge (his name and technician number). Id.  ¶ 127.   
+
+
+
+
+
+
+
+ Summary Judgment under Federal Rule of Civil Procedure 56 must be granted where “there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.” Fed. R. Civ. Proc. 56. The movant has the initial burden of “showing the absence of a genuine issue as to any material fact.” Adickes v. S. H. Kress & Co., 398 U.S. 144, 157 (1970). The respondent must then “produce evidence or designate specific facts showing the existence of a genuine issue for trial.” Engstrom v. First Nat. Bank of Eagle Lake, 47 F.3d 1459, 1462 (5th Cir. 1995). Evidence that is “merely colorable” or “is not significantly probative” is not sufficient to defeat summary judgment. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 249 (1986). 
+
+“An issue is material if its resolution could affect the outcome of the action.” Daniels v. City of Arlington, Tex., 246 F.3d 500, 502 (5th Cir. 2001). Thus, “there is no issue for trial unless there is sufficient evidence favoring the nonmoving party for a jury to return a verdict for that party.” Anderson, 477 U.S. at 249. Although this Court must “resolve factual controversies in favor of the nonmoving party,” it must only do so “where there is an actual controversy, that is, when both parties have submitted evidence of contradictory facts.” Antoine v. First Student, Inc., 713 F.3d 824, 830 (5th Cir. 2013) (quoting Boudreaux v. Swift Transp. Co., 402 F.3d 536, 540 (5th Cir. 2005). The Court must not, “in the absence of any proof, assume that the nonmoving party could or would prove the necessary facts.” Little v. Liquid Air Corp., 37 F.3d 1069, 1075 (5th Cir. 1994). 
+
+Summary judgment is also appropriate if the party opposing the motion fails to establish an essential element of his case. See Celotex Corp. v. Catrett, 477 U.S. 317, 322-23 (1986). 
+
+2. Joint Employer Liability under FLSA 
+
+
+
+
+
+Under the Fair Labor Standards Act (“FLSA”), employers must pay their employees a minimum wage. 29 U.S.C. § 206(a). The FLSA defines “employer” as “any person acting directly or indirectly in the interest of an employer in relation to an employee.” Id.  § 203(d). “The Fifth Circuit uses the ‘economic reality’ test to evaluate whether there is an employer/employee relationship.” Gray v. Powers, 673 F.3d 352, 354 (5th Cir. 2012). “In joint employment contexts, each employer must meet the economic reality test.” Orozco v. Plackis, 757 F.3d 445, 448 (5th Cir. 2014). Thus, as to each alleged employer, “the court considers whether the alleged employer: “(1) possessed the power to hire and fire the employees, (2) supervised and controlled employee work schedules or conditions of employment, (3) determined the rate and method of payment, and (4) maintained employment records.” Gray, 673 F.3d at 355. Not each element must be established in every case. Orozco, 757 F.3d at 448. “Moreover, ‘[t]he remedial purposes of the FLSA require the courts to define ‘employer’ more broadly than the term would be interpreted in traditional common law applications.’” Id.  (quoting McLaughlin v. Seafood, Inc., 867 F.2d 875, 877 (5th Cir. 1989)). 
+
+Courts in other districts have considered facts similar to those presented here, where a technician seeks to hold a communications company liable under the FLSA as a joint employer. As here, the communications company contracted with an installation company to install its equipment and the technician worked as an employee or independent contractor of the installation company. In all but one of the cases the parties have presented to the Court, the district court found the communication company was not liable as a joint employer.  The case cites by Cox in favor of its motion for summary judgment present facts similar to the present matter:  the communication companies had no direct control or supervision of any part of the employment of the technicians with only minimal quality and safety measures such as background checks, customer service surveys, identification badges, labeled vehicles, a contract between the installer and communication company establishing certain requirements for the performance of services, work initially distributed by the communication company but subject to redistribution by the installer without consent of the communication company, and an ability of the communication company to de-authorize a technician for poor quality work.2 See Thornton v. Charter Commc’ns, LLC, No. 
+
+2 Here the parties have not submitted any evidence indicating that Cox can de-authorize a technician for poor quality work. Mr. Gremillion only points to Cox’s requirement that a technician who does not pass a background check cannot continue to enter customers’ homes. It appears his argument hinges on Cox’s requirement that Grayco personnel be subjected to annual background checks and that Grayco submit its personnel to an additional background check if requested by Cox. (FSA ¶ 4.1, Rec. Doc. 70-6).  
+
+4:12CV479 SNLJ, 2014 WL 4794320, at *16 (E.D. Mo. Sept. 25, 2014); Valdez v. Cox Commc’ns Las Vegas, Inc., No. 2:09-CV-01797-PMP, 2012 WL 1203726, at *6 (D. Nev. Apr. 11, 2012); Zampos v. W & E Commc’ns, Inc., 970 F. Supp. 2d 794, 805–06 (N.D. Ill. 2013); Jean-Louis v. Metro. Cable Commc’ns, Inc., 838 F. Supp. 2d 111, 137–38 (S.D.N.Y. 2011); Jacobson v. Comcast Corp., 740 F. Supp. 2d 683, 693–94 (D. Md. 2010).  The only communication company-technician case relied on by Mr. Gremillion differs significantly from the present because the communication company exercised far more control than Cox does here. Perez v. Lantern Light Corp., No. C12-1406, 2015 WL 3451268, at *17 (May 29, 2015 W.D. Wash.). For example, in Perez, a case filed by the Department of Labor involving a bankrupt installation company,  the installation company was prohibited by contract from engaging with other communication companies, giving greater significance to a de-authorization; the installer could not reassign work orders without at least tacit approval by the communication company; and the communication company monitored technician arrivals and departures, approved and denied time off requests, at one point required technicians to work ten-hour shifts, and maintained a significant amount of employee related documentation. Id.   
+
+
+
+
+
+
+
+Cox has no authority to hire or fire Grayco technicians. Although some of Cox’s contractual requirements bear on Grayco’s hiring practices, these specifications do not amount to direct or even indirect power or control over hiring and firing. For example, Cox requires that Grayco maintain adequate, qualified, experienced and professional-appearing personnel and that technicians must pass a background check before Cox will permit them to enter a Cox customer home. However, these specifications amount to minimal quality controls and safety measures. They do not indicate that Cox dictates which applicants are hired or how many. Indeed, Grayco’s corporate representative testified that Grayco has total discretion over hiring decisions and that Cox does not dictate who Grayco can hire. This evidence is uncontradicted. And there is no dispute that Mr. Gremillion submitted his application to Grayco and that Cox did not hire him, Grayco did. Simply requiring a background check has not been found sufficient to conclude that a communication company possesses authority to hire and fire. E.g., Thornton, 2014 WL 4794320, at *2, 14 (finding the communication company was not a joint employer where the technicians applied and interviewed with the install company, although the communication company pre-approved technicians and required background checks); Jean-Louis, 838 F. Supp. 2d at 123-24 (finding the communication company was not a joint employer where the install company interviewed and hired technicians, although the communication company required a background check).  
+
+The Court is not persuaded by Mr. Gremillion’s argument that Cox can “effectively fire a Grayco installer by requiring Grayco to de-authorize anyone who has ‘not successfully met all the Background Checks.’” (Rec. Doc. 75, at 13). The Grayco-Cox contract is not exclusive.  Although Grayco does not conduct installation services for other clients in Louisiana, it has work in other states. A technician de-authorized by Cox could be employed by Grayco elsewhere or could perform duties that do not require entry into customers’ homes. Importantly, because the contract with Cox is not exclusive, Grayco is not precluded from obtaining other installation work in Louisiana. Other courts have determined that the ability to de-authorize a technician does not, on its own, amount to the authority to fire. Thornton, 2014 WL 4794320, at *14 (finding no joint employer relationship although the communication company could de-authorize a technician); Jean-Louis, 838 F. Supp. 2d at 125 (same); but see Perez, 2015 WL 3451268, at *17 (finding a joint employer relationship where the communication company could de-authorize a technician pursuant to an exclusive contract with the install company). As the Thornton court explained, the ability to de-authorize a technician “was to ensure customer safety and quality of service” and did “not evidence a joint employer relationship.” 2014 WL 4794320, at *14; see Zampos, (“To the extent [the communication company] plays a role in the hiring and  firing process, it is only in the context of quality control, safety and security of [its] customers . . . .”).   
+
+In addition to arguing that the ability to de-authorize technicians who fail to meet the background check requirements of subpart 4.1 of the FSA vests Cox with effective authority to fire a technician, Mr. Gremillion argues that the FSA “goes on to vest Cox with ultimate authority to ‘terminate this Agreement without Notice to [Grayco] and without further obligation to [Grayco].’ This unilateral and ultimate right is the best and most compelling evidence of the authority wielded by Cox over Grayco’s employment decisions.” (Rec. Doc. 75, at 13). The fact that Mr. Gremillion finds this the “best and most compelling evidence of the authority wielded by Cox over Grayco’s employment decisions” highlights just how weak Mr. Gremillion’s case is for joint employer status by Cox. Mr. Gremillion’s brief fails to develop a connection between this FSA provision and any ability of Cox to control Grayco’s employment decisions. Surely Mr. Gremillion is not arguing that all entities that contract for the services of another entity but reserve the right to cancel the agreement without notice, an extremely common contractual provision, thus have the ability to wield authority over the employees of the entity performing the work? He cannot possibly contend that all such contracts vest the party requesting services with sufficient authority to render them joint employers as a matter of law.  
+
+Here, Cox’s requirement that technicians entering its customers’ homes pass its background check and that Grayco maintain experienced and professional-appearing personnel does not give Cox the authority to hire and fire. These specifications amount to minimal safety and quality measures. Accordingly, this factor weighs against finding a joint employment relationship.  
+
+b. Supervision and Control 
+
+
+
+
+
+Cox does not supervise or control the work schedules or conditions of employment of Grayco technicians. Although Cox’s computer system allocates work orders to technician numbers, it is undisputed that Grayco can unbundle and reassign the work orders as it sees fit. Grayco can do so without discussing with Cox or obtaining Cox’s consent. Mr. Gremillion admits that if he wanted to alter his work schedule because he was sick or needed to leave work early, he would discuss these matters with his Grayco supervisor. Indeed, Mr. Gremillion admits that he was not supervised by any Cox employee and could not recall the names of any Cox employees he might have run into incidentally. Mr. Gremillion only contacted Cox to turn on cable service or when Grayco’s computer system was down.   
+
+Mr. Gremillion points to language in the FSA providing that Cox can assign work at its discretion, but this does not affect the Court’s analysis above. This provision appears in the context of a paragraph making clear that Grayco is not entitled to a minimum amount of work from Cox. It has no bearing on which technician is assigned a particular work order. Moreover, Grayco remains able to re-assign work as it sees fit. Mr. Gremillion also notes that the FSA prohibits re-use of a technician number. Mr. Gremillion seems to interpret this language as preventing Grayco from re-assigning work orders, but the language clearly prevents Grayco from using one number for two technicians or using a terminated technician’s number for a new hire. This does not indicate any control or supervision by Cox of the work schedules of Grayco’s technicians. Mr. Gremillion’s strained reading of the contract does not create a fact issue. Mr. Gremillion also notes that FSA requires that Grayco train its personnel on all safety, quality and legal requirements, including Cox guidelines. This provision makes clear that it is Grayco, and not Cox, that supervises and trains its technicians. It does not indicate any control by Cox over the process, even if Cox requires that its equipment be installed in certain ways.  
+
+Further, although Cox requires that Grayco technicians wear clothing and drive vehicles identifying them as Cox approved, this is merely a safety measure to ensure that Cox customers know that the appropriate person is entering their home. Cox’s random quality control checks and customer surveys result in feedback to Grayco, not directly to the technicians. There is no suggestion by Mr. Gremillion that these quality control measures amount to supervision. As the Jacobson court explained, even a high degree of supervision or control may not trigger a joint employer finding where the purpose of the control is to maintain customer safety, whereas this factor might indicate a joint employer relationship where the purpose of the control is day-to-day management. Compare Jacobson, 740 F. Supp. 2d at 691 (finding no joint employer relationship where the technicians wore communication company badges and the communication company monitored the location of technicians, specified the time they were to arrive at appointments, and regularly evaluated completed work, but the communication company had no role in developing human resources policies and did not dictate the technicians’ working conditions or determine the conditions upon which they would receive payment) with Perez, 2015 WL 3451268 (finding a joint employer relationship where the technicians wore communication company badges and the communication company monitored arrival and departure time, at one point required ten-hour shifts, and approved and denied time off requests); see also Smilie v. Comcast Corp., No. 07-CV-3231, 2009 WL 9139890, at *4 (N.D. Ill. Feb. 25, 2009) (holding that the communication company’s requirement that the technicians meet its quality standards and wear shirts identifying them with the communication company did not establish control); Herman v. Mid-Atl. Installation Servs., Inc., 164 F. Supp. 2d 667, 672–73 (D. Md. 2000), aff'd sub nom. Chao v. Mid-Atl. Installation Servs., Inc., 16 F. App'x 104 (4th Cir. 2001) (holding that the cable company’s requirement that technicians meet the cable company’s installation specifications, pass background checks and wear ID badges and uniforms identifying them with the cable company were not sufficient to make technicians employees of the cable company); Santelices v. Cable Wiring, 147 F. Supp. 2d 1313, 1327–28 (S.D. Fla. 2001) (holding that the cable company was not a joint employer although the company required installers be neatly dressed and polite and required work be done according to its specifications, but there was no evidence that the cable company checked the installers’ work on a daily basis, gave work commands, or otherwise intervened in the installers’ duties).   
+
+Here, the purpose of identifying Cox on the technician’s badge and vehicle is to ensure customer safety and the purpose of the surveys and quality control checks is to ensure satisfaction of Cox customers. These examples do not amount to day to day supervision or control of a Grayco technician’s schedule or working conditions. This factor weighs against a finding that Cox is Mr. Gremillion’s employer.  
+
+  
+
+
+
+
+
+There is no dispute that Mr. Gremillion received his paychecks and tax forms from Grayco. It is undisputed that Cox had no involvement in how Grayco paid Mr. Gremillion or the amount, if any, that was deducted from his paychecks. Mr. Gremillion argues that the FSA’s requirement that Cox pay Grayco upon the full and timely completion of the services indicates Cox’s control over the technician’s pay. Mr. Gremillion also points to the FSA provision authorizing Cox to withhold payment to Grayco to repair damage or related to failure of Grayco to carry out services. Mr. Gremillion misses the point. While Cox may have rules determining when and how it pays Grayco, there is no indication that Cox has any rules or influence over how Grayco pays its technicians. There is no evidence that Grayco’s payments to its technicians were contingent on receiving payment from Cox. Indeed, it is uncontroverted that if Cox reduced payments to Grayco, Grayco did not necessarily deduct that amount (or any amount) from the technician’s paycheck. See Herman, 164 F. Supp. 2d at 672–73 (holding that the cable company’s ability to deduct from payments to the install company did not show control over technicians where there was no evidence that the install company “generally docked pay as a result of [the technician’s] mistakes”). This factor weighs against a finding of joint employer liability.  
+
+
+
+
+
+
+
+It is uncontested that the only records Cox maintains are related to the technician badges. Mr. Gremillion concedes that there is no evidence Cox maintained any records of his employment. (Rec. Doc. 75, at 18). This factor weighs against a finding that Cox is a joint employer.  
+
+
+
+
+
+
+
+The undisputed facts lead to no other conclusion but that Cox is not Mr. Gremillion’s employer under the FLSA. Cox’s background check requirement, distribution of work orders and customer satisfaction surveys reflect no more than a legitimate contractor relationship. Cox’s specifications merely reflect its concern for the services being provided to its customers. Cox’s involvement in hiring, firing, supervision, scheduling, and payment of technicians is minimal and indirect at best. Mr. Gremillion disingenuously distorts and exaggerates the implications of boilerplate provisions of the FSA to attempt to prove a case of joint employer status, with no evidence of actual control by Cox as a practical matter. His reliance on Perez is similarly ill-fated because Perez is so easily distinguished. Instead, Cox’s relationship with Grayco, and its extremely limited role in the work lives of Grayco’s employees, is obviously much more akin to the cable and communications companies discussed in Jacobson, Thornton, Valdez, Zampos, Jean-Louis, Herman, Smilie, Santilices, and others. The law governing joint employer status is well developed in this industry. There is simply no doubt that Cox was not Mr. Gremillion’s joint employer and there are no material issues of fact to be developed at trial. The court finds that summary judgment in Cox’s favor is appropriate: Cox is not Mr. Gremillion’s employer under the FLSA. 
+
+
+
+
+
+
+
+Cox argues that Mr. Gremillion’s state law claims must also be dismissed because Cox is not Mr. Gremillion’s employer. Mr. Gremillion’s sole remaining claim under the Louisiana Wage Payment Act (“LWPA”) is under the provision prohibiting a person from “assess[ing] any fines against his employees or deduct[ing] any sum as fines from their wages.” La. Rev. Stat. 23:635. Thus, Cox points out, only an employer can be liable. Louisiana courts consider a variety of factors in determining whether an individual is an employee under the Louisiana Wage Payment Act:  
+
+(1) whether there is a valid contract between the parties; (2) whether the work being done is of an independent nature such that the contractor may employ nonexclusive means in accomplishing it; (3) whether the contract calls for specific piecework as a unit to be done according to the independent contractor's own methods, without being subject to the control and direction of the principal, except as to the result of the services to be rendered; (4) whether there is a specific price for the overall undertaking agreed upon; and (5) whether the duration of the work is for a specific time and not subject to termination or discontinuance at the will of either side without a corresponding liability for its breach. 
+
+ 
+
+Mendoza v. Essential Quality Const., Inc., 691 F. Supp. 2d 680, 686 (E.D. La. 2010). As Cox points out, the principal factor is whether the purported employer had the ability to control the work. See Hulbert v. Democratic State Cent. Comm. of Louisiana, 2010-1910 (La. App. 1 Cir. 6/10/11), 68 So. 3d 667, 670, writ denied, 2011-1520 (La. 10/7/11), 71 So. 3d 316. Cox argues that for the reasons it is not Mr. Gremillion’s employer under the FLSA, it is not Mr. Gremillion’s employer under the LWPA. The Court agrees. The factors above related to hiring, firing, supervision, control of schedule and pay all result in the conclusion that Cox does not have the ability to control Mr. Gremillion’s work. Cox is also entitled to summary judgment on Mr. Gremillion’s state law claims because Cox is not Mr. Gremillion’s employer.  
+
+ 
+
+ For the foregoing reasons, Cox’s Motion for Summary Judgment is GRANTED and Cox is hereby dismissed with prejudice.  
+
+ 
+
+ 
+
+ 
+
+       
+
+ 
+
+ 
+
+
+

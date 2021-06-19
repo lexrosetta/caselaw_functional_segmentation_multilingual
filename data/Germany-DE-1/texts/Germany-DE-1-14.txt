@@ -1,0 +1,504 @@
+
+
+JURE129012694
+
+BPatG
+
+München
+
+3. Senat
+
+20120502
+
+3 Ni 28/11 (EP)
+
+Urteil
+
+Art 3 EGV 469/2009
+
+Titel
+
+Patentnichtigkeitsklageverfahren - ergänzendes Schutzzertifikat für Arzneimittel - "Ranibizumab" – zu den Voraussetzungen der Erteilung des ergänzenden Schutzzertifikats: Erfordernis der Benennung des Wirkstoffs und/oder seiner Zusammensetzung in den Ansprüchen des Grundpatents – gleiches gilt für Präparate aus Einzelwirkstoffen und für Kombinationspräparate
+
+Leitsätze
+
+Ranibizumab
+
+1. Der EuGH hat in den Entscheidungen „Medeva“ (GRUR 2012, 257) "Queensland" (GRUR Int 2012, 356 (red. Leitsatz) seine frühere Rechtsprechung (vgl. EuGH Urteil v. 16.09.1999 C-392/97 Rn. 26 ff. GRUR Int. 2000, 69 f. - Farmitalia) dahingehend präzisiert, dass ein ergänzendes Schutzzertifikat für Arzneimittel gemäß Art. 3 lit. a der Verordnung (EG) Nr. 469/2009 nur für Wirkstoffe erteilt werden kann, die in den Ansprüchen des Grundpatents genannt bzw. bezeichnet sind.
+
+2. Für die Erteilung des ergänzenden Schutzzertifikats für Arzneimittel kann daher nicht - wie von der früheren Rechtsprechung (vgl. BGH GRUR 2002, 415 - Sumatriptan) - auf den Schutzbereich des Grundpatents abgestellt werden, sondern es ist entscheidend, ob der Wirkstoff und/oder seine Zusammensetzung für die das ergänzende Schutzzertifikat begehrt wird, in den Ansprüchen des Grundpatents genannt bzw. bezeichnet werden.
+
+3. Das Erfordernis, dass ein ergänzendes Schutzzertifikat nur für Wirkstoffe erteilt werden kann, die in den Ansprüchen des Grundpatents genannt bzw. bezeichnet sind, gilt gleichermaßen für Präparate aus Einzelwirkstoffen und für Kombinationspräparate.
+
+Tenor
+
+In der Patentnichtigkeitssache
+
+…
+
+betreffend das ergänzende Schutzzertifikat für Arzneimittel
+
+DE 12 2010 000 026
+
+hat der 3. Senat (Nichtigkeitssenat) des Bundespatentgerichts auf Grund der mündlichen Verhandlung vom 2. Mai 2012 unter Mitwirkung des Vorsitzenden Richters Schramm sowie des Richters Guth, der Richterin Dipl.-Chem. Dr. Proksch-Ledig, des Richters Dipl.-Chem. Dr. Gerster und der Richterin Dipl.-Chem. Dr. Münzberg
+
+für Recht erkannt:
+
+I. Das ergänzende Schutzzertifikat DE 12 2010 000 026 wird für nichtig erklärt.
+
+II. Die Beklagten tragen die Kosten des Rechtsstreits.
+
+III. Das Urteil ist gegen Sicherheitsleistung in Höhe von 120 % des zu vollstreckenden Betrages vorläufig vollstreckbar.
+
+Tatbestand
+
+1
+
+Die Klage richtet sich gegen das mit Beschluss vom 2. Februar 2011 des Deutschen Patent- und Markenamts für den Wirkstoff "Ranibizumab" erteilte ergänzende Schutzzertifikat DE 12 2010 000 026. Dem Schutzzertifikat liegt das am 10. Juli 1991 beim Europäischen Patentamt angemeldete, die Prioritäten der britischen Patentanmeldungen 9015198 vom 10. Juli 1990, 9022845 vom 19. Oktober 1990, 9024503 vom 12. November 1990, 9104744 vom 6. März 1991 und 9110549 vom 15. Mai 1991 in Anspruch nehmende und mit Wirkung für die Bundesrepublik Deutschland erteilte europäische Patent EP 2 055 777 B1 (Grundpatent) zu Grunde, das vom Deutschen Patent- und Markenamt unter der Nummer DE 691 33 625 geführt wird und dessen Schutzdauer am 10. Juli 2011 abgelaufen ist.
+
+2
+
+Das Grundpatent betrifft ein "Verfahren zur Herstellung von spezifischen Bindungspaargliedern" und umfasst in der erteilten Fassung 5 Patentansprüche. Die nebengeordneten Patentansprüche 1, 4 und 5 lauten in der erteilten englischen Fassung:
+
+3
+
+"1. A method for producing a molecule with binding specificity for a particular target, which method comprises:
+
+4
+
+producing a population of filamentous bacteriophage particles displaying at their surface a population of binding molecules having a range of binding properties, wherein the binding molecules comprise antibody antigen-binding domains for complementary specific binding pair members, wherein the binding molecules are displayed at the surface of the filamentous bacteriophage particles by fusion with a gene III protein of the filamentous bacteriophage particles, and wherein each filamentous bacteriophage particle contains nucleic acid encoding the binding molecule expressed from the nucleic acid and displayed by the particle at its surface;
+
+5
+
+selecting for a filamentous bacteriophage particle displaying a binding molecule with a desired binding property by contacting the population of filamentous bacteriophage particles with a particular target so that individual binding molecules displayed on filamentous bacteriophage particles with the desired binding property bind to said target;
+
+6
+
+separating bound filamentous bacteriophage particles form the target;
+
+7
+
+recovering separated filamentous bacteriophage particles displaying a binding molecule with the desired binding property;
+
+8
+
+isolating nucleic acid encoding the binding molecule from separated filamentous bacteriophage particles;
+
+9
+
+inserting nucleic acid encoding the binding molecule, or a fragment or derivative thereof with binding specificity for the target, in a recombinant system; andproducing in the recombinant system separate from filamentous bacteriophage particles a molecule with binding specificity for the target, wherein the molecule is said binding molecule or a fragment or derivative thereof with binding specificity for the target.
+
+10
+
+4. A filamentous bacteriophage particle displaying on its surface a binding molecule which comprises a binding domain able to bind a complementary specific binding pair member, wherein the binding molecule is displayed on the surface of the filamentous bacteriophage particle by fusion with a gene III protein of the filamentous bacteriophage particle, wherein the binding domain is an antibody antigen-binding domain, the particle containing nucleic acid encoding the binding molecule expressed from the nucleic acid and displayed by the particle at its surface.
+
+11
+
+5. A population of filamentous bacteriophage particles according to claim 4 displaying a population of said binding molecules having a range of binding properties.”
+
+12
+
+Die rückbezogenen Patentansprüche 2 und 3 betreffen weitere Ausgestaltungen des Verfahrens nach Patentanspruch 1.
+
+13
+
+Die Klägerinnen machen geltend, das ergänzende Schutzzertifikat sei entgegen den Vorschriften des Art. 3 lit. a der VO-(EG) Nr. 469/2009 erteilt worden, da der Antikörper "Ranibizumab", der Gegenstand des Streitschutzzertifikats sei, nicht durch das Grundpatent EP 2 055 777 B1 geschützt werde. Weder die Ansprüche des Grundpatents noch die Beschreibung enthielten einen Hinweis auf "Ranibizumab" bzw. auf das von ihm erkannte Antigen VEGF. Das Grundpatent schütze auch kein Herstellungsverfahren für Ranibizumab, sondern betreffe ein Screening-Verfahren, mit dem keine Neuherstellung eines Bindungsmoleküls erfolge. Im Übrigen unterscheide sich die Herstellung von "Ranibizumab" in entscheidenden Schritten vom Verfahren laut Streitgegenstand. Vor allem aber sei zu beachten, dass nach den jüngsten EuGH-Entscheidungen C-322/10 vom 24. November 2011 (GRUR 2012, 257 m. Anm. Seitz - "Medeva") und C-630/10 vom 25. November 2011 (GRUR Int. 2012, 356 (red. Leitsatz)) - "Queensland") ein Schutzzertifikat nur für einen Wirkstoff erteilt werden könne, der in den Ansprüchen des Grundpatents, auf das die betreffende Anmeldung gestützt werde, genannt sei bzw. in den Ansprüchen des Grundpatents als das durch das fragliche Herstellungsverfahren gewonnene Erzeugnis bezeichnet sei. Diese Voraussetzung werde vorliegend allerdings nicht erfüllt.
+
+14
+
+Zur Begründung ihres Vorbringens verweisen sie auf folgende Druckschriften:
+
+15
+
+BM1 EP 2 055 777 B1 (Grundpatent)
+
+16
+
+BM2 Merkmalsanalyse des erteilten Patentanspruchs 1
+
+17
+
+BM3 Smith G.P., Virology, 1988, 167, 156 bis 165
+
+18
+
+BM4 Bass S. et al., PROTEINS: Structure, Function and Genetics, 1990, 8, 309 bis 314
+
+19
+
+BM5 Gutachten von Prof. W.D. Huse vom 18. Februar 2010
+
+20
+
+BM6 Chen Y. et al., J. Mol. Biol., 1999, 293, 865 bis 881
+
+21
+
+BM7 Baca M. et al., J. Biol. Chem., 1997, 272, 10678 bis 10684
+
+22
+
+BM8 Müller Y.A. et al., Structure, 1998, 6, 1153 bis 1167
+
+23
+
+BM9 EuGH-Urteil in der Rechtssache C-322/10 vom 24. November 2011 (EuGH "Medeva")
+
+24
+
+BM9T deutsche Übersetzung von BM9
+
+25
+
+BM10 EuGH-Urteil in der Rechtssache C-630/10 vom 25. November 2011 (EuGH "Queensland")
+
+26
+
+BM10T deutsche Übersetzung von BM10
+
+27
+
+BM11 Entscheidung des HIGH COURT OF JUSTICE HC09C04770
+
+28
+
+BM12 Entscheidung des HIGH COURT OF JUSTICE HC11C01304.
+
+29
+
+Die Klägerinnen beantragen,
+
+30
+
+das deutsche ergänzende Schutzzertifikat 12 2010 000 026 für nichtig zu erklären.
+
+31
+
+Die Beklagten beantragen,
+
+32
+
+die Klage abzuweisen,
+
+33
+
+hilfsweise das Verfahren bis zum rechtskräftigen Abschluss des bei dem Landgericht Düsseldorf anhängigen Rechtsstreits (4a O 143/10) auszusetzen.
+
+34
+
+Weiterhin regen beide Parteien jeweils hilfsweise eine Vorlage gem. Art. 234 Abs. 1 Buchstabe b und Abs. 3 des EG-Vertrages zum Gerichtshof der Europäischen Gemeinschaften an.
+
+35
+
+Zur Stütze ihres Vorbringens verweisen die Beklagten auf folgende Dokumente:
+
+36
+
+NB1 Einwendung der Novartis Pharma AG gegen die Erteilung des Streitschutzzertifikats vom 11. Dezember 2009
+
+37
+
+NB2 Einwendung der Novartis Pharma AG gegen die Erteilung des Streitschutzzertifikats vom 11. Juni 2010
+
+38
+
+NB3 Erwiderung der SPC-Anmelder auf NB1 und NB2 vom 8. No-vember 2010
+
+39
+
+NB4 Urteil des LG Düsseldorf vom 10. November 2011 in der Sache 4a 143/10
+
+40
+
+NB5 Vom LG Düsseldorf vorgenommene Merkmalsanalyse
+
+41
+
+NB6 Schriftsätze der Klägerin im Verletzungsverfahren vor dem LG Düsseldorf mit Anlagen vom 18. März 2010
+
+42
+
+NB7 Schriftsätze der Beklagten im Verletzungsverfahren vor dem LG Düsseldorf mit Anlagen zum Az.: 4a O 143/10 vom 21. März 2010
+
+43
+
+NB8 Entscheidung des HIGH COURT OF JUSTICE HC11C01304
+
+44
+
+NB9 Commission of the European Communities - Vorschlag für eine Vorschrift betreffend ein ergänzendes Schutzzertifikat für medizinische Produkte vom 11. April 1990
+
+45
+
+NB10 Entscheidung des EuGH C-392/97 "Farmitalia"
+
+46
+
+NB11 Entscheidung des HIGH COURT OF JUSTICE CH/2008/APP0077
+
+47
+
+NB12 Entscheidung des UK Patent Office im Fall Medeva BL O/357/09
+
+48
+
+NB13 Entscheidung EuGH C-518/10 "Yeda"
+
+49
+
+NB14 Court of Appeal Den Haag Entscheidung vom 24. Januar 2012 Nr. 200.044.332/01
+
+50
+
+NB14a Übersetzung von NB14
+
+51
+
+NB15 Anlagenkonvolut: Meinungen zur Anwendbarkeit von Art. 3 lit. a der VO-(EG) Nr. 469/2009, Claim No: HC 11 C01304
+
+52
+
+NB16 Vorschlag für Vorlagefragen an den EuGH
+
+53
+
+NB17 Stellungnahme der Generalanwältin im Fall C-322/10.
+
+54
+
+Sie treten dem Vorbringen der Klägerinnen in vollem Umfang entgegen. Insbesondere sind sie der Ansicht, dass auch nach der neueren Rechtsprechung des EuGH darauf abzustellen sei, ob das betreffende Erzeugnis in den Schutzumfang des Grundpatents falle, was vorliegend gegeben sei.
+
+Entscheidungsgründe
+
+55
+
+Die Klage ist gem. Art. 15 Abs. 2 der Verordnung (EG) Nr. 429/2009 i. V. m. § 81 PatG zulässig. Sie ist auch begründet, da das Streitzertifikat entgegen Art. 3 lit. a dieser Verordnung erteilt worden ist. Denn weder werden der monoklonale Antikörper Ranibizumab, der Gegenstand des streitgegenständlichen ergänzenden Schutzzertifikates ist, oder dessen Zusammensetzung oder Eigenschaften in den Ansprüchen des Grundpatents EP 2 055 777 B1 genannt, noch fällt dieser Wirkstoff in den Schutzbereich des Grundpatents.
+
+I.
+
+56
+
+1. Nach Art. 3 der Verordnung (EG) Nr. 429/2009 wird ein ergänzendes Schutzzertifikat erteilt, wenn das betreffende Erzeugnis durch ein in Kraft befindliches Grundpatent geschützt ist, für das Erzeugnis als Arzneimittel eine gültige Genehmigung für das Inverkehrbringen gemäß der Richtlinie 2001/83/EG bzw. der Richtlinie 2001/82/EG erteilt wurde, für das Erzeugnis nicht bereits ein Zertifikat erteilt wurde und die Genehmigung für das Inverkehrbringen die erste Genehmigung dieses Erzeugnisses als Arzneimittel ist.
+
+57
+
+An der Voraussetzung des Schutzes durch ein in Kraft befindliches Grundpatent fehlt es hier. Das Erzeugnis "Ranibizumab" war nicht durch das europäische Patent 2 055 777 geschützt im Sinne von Art. 3 Abs. 1 lit. a der Verordnung (EG) Nr. 429/2009. Damit liegt der geltend gemachte Nichtigkeitsgrund vor.
+
+58
+
+2. Die frühere Rechtsprechung stellte für die Frage, ob ein Erzeugnis vom Grundpatent geschützt ist, darauf ab, dass der Umfang des durch das Grundpatent gewährleisteten Schutzes anhand der einschlägigen Vorschriften zu bestimmen ist, die nicht zum Gemeinschaftsrecht gehören, da es an einer Harmonisierung des Patentrechts in der Gemeinschaft fehlte (vgl. EuGH Urteil v. 16.09.1999 C-392/97 Rn. 26 ff. GRUR Int. 2000, 69 f. - Farmitalia; vgl. dazu BGH GRUR 2002, 415, 416 f. - Sumatriptan). Die gegenwärtige nationale Rechtsprechung prüft daher, ob der betreffende Wirkstoff in den Schutzbereich des Grundpatents fällt bzw. von dessen Schutzumfang erfasst wird. Bei europäischen Patenten bestimmt sich der Schutzumfang nach Art. 64 und 69 EPÜ und richtet sich nach den Patentansprüchen, zu deren Auslegung die Beschreibung und Zeichnungen heranzuziehen sind und bei Verfahrenspatenten auch nicht in den Ansprüchen ausdrücklich genannte unmittelbare Verfahrenserzeugnisse umfasst (vgl. etwa Schulte, Patentgesetz, 8. Aufl., § 16a Rn. 11 mit Nachweisen; Benkard, Patentgesetz, 10. Aufl., § 16a Rn. 18).
+
+59
+
+Nach den jüngsten in englischer Sprache ergangenen Entscheidungen des EuGH C-322/10 - "Medeva" vom 24. November 2011 (GRUR 2012, 257 m. Anm. Seitz; vgl. dazu auch Brückner, GRUR Int. 2012, 300) und C-630/10 - "Queensland" vom 25. November 2011 (GRUR Int. 2012, 356 (red. Leitsatz) darf ein ergänzendes Schutzzertifikat gemäß Art. 3 lit. a der Verordnung (EG) Nr. 469/2009 allerdings nur für Wirkstoffe erteilt werden, die die im ersten Leitsatz genannte Bedingung "which are specified in the wording of the claims of the basic patent" erfüllen (deutsche Übersetzung: "die in den Ansprüchen des Grundpatents, auf das die betreffende Anmeldung gestützt wird, genannt sind"; sämtliche sprachliche Fassungen jeweils abrufbar unter http://curia.europa.eu). Nach Leitsatz 3. der Entscheidung "Queensland" ist Art. 3 lit. a dieser Verordnung außerdem dahingehend auszulegen, dass ein ergänzendes Schutzzertifikat nur für solche Erzeugnisse erteilt werden darf, für die gilt: "identified in the wording of the claims of that patent as the product deriving from the process in question" (deutsche Übersetzung: "das in den Ansprüchen dieses Patents als das durch das fragliche Herstellungsverfahren gewonnene Erzeugnis bezeichnet ist"; vgl. dazu z. B. auch EuGH Beschl. vom 25.11.2011, GRURPrax 2012, 193 (red. Leitsatz, Kurzwiedergabe) - "Daiichi Sankyo"; EuGH Beschluss vom 25. November 2011 C-518/10, EuGH GRUR-RR 2012, 55 - "Yeda").
+
+60
+
+Dies wirft die Frage auf, ob und inwieweit der EuGH nunmehr in Abkehr von der bisherigen Rechtsprechung ein neues einschränkendes Kriterium dahingehend aufstellt, dass das betreffende Erzeugnis und/oder seine Zusammensetzung und/oder seine Eigenschaften in den Ansprüchen des Grundpatents explizit genannt werden müssen (vgl. etwa NB15, NB8, NB11, NB12).
+
+61
+
+3. 1. Bereits der Wortlaut der Entscheidungen und der Verwendung der Formulierungen "identified in the wording of claims" und "specified in the wording of claims " zeigt nach Auffassung des Senats, dass der betreffende Wirkstoff in den Ansprüchen des Grundpatents "spezifiziert, beschrieben, einzeln genannt, genau benannt, genau beschrieben" bzw. identifiziert, genau bestimmt, festgelegt" sein muss (vgl. LEO Deutsch-Englisches Wörterbuch online dict.leo.org; Collins English Dictionary, 2010, jeweils Stichwörter "specify" und "identify").
+
+62
+
+3.2. Dies wird auch bestätigt durch die Begründung der genannten Entscheidungen des EuGH.
+
+63
+
+Ausgangspunkt in beiden Entscheidungen ist, dass gemäß Art. 3 lit. a der Verordnung (EG) Nr. 429/2009 ein Schutzzertifikat nur für ein durch das Grundpatent geschütztes Erzeugnis erteilt werden kann und dass gemäß Art. 5 dieser Verordnung das Schutzzertifikat dieselben Rechte wie das Grundpatent begründet sowie denselben Bedingungen und Verpflichtungen unterliegt, wobei auf die "Farmitalia-Entscheidung" (a. a. O.) Bezug genommen wird. Weiterhin führt der EuGH aus, dass die Verordnung (EG) Nr. 469/2009 des Europäischen Parlaments und des Rates vom 6. Mai 2009 über das ergänzende Schutzzertifikat für Arzneimittel insoweit eine einheitliche Lösung auf Unionsebene vorsieht, als ein Schutzzertifikat eingeführt wird, das der Inhaber eines nationalen oder europäischen Patents unter denselben Voraussetzungen in jedem Mitgliedsstaat erhalten kann. Die Verordnung soll auf dieser Weise einer heterogenen Entwicklung der nationalen Rechtsvorschriften vorbeugen (EuGH a. a. O. "Medeva" Rn. 24; EuGH a. a. O. "Queensland" Rn. 29). Dann nimmt der Gerichtshof in der "Medeva-Entscheidung" außerdem Bezug auf Nr. 20 Abs. 2 der Begründung des Vorschlags für die Verordnung (EWG) des Rates vom 11. April 1990 über die Schaffung eines ergänzenden Schutzzertifikats für Arzneimittel, wo hinsichtlich des Schutzgegenstands des Grundpatents ausdrücklich und ausschließlich auf den Wortlaut der Ansprüche des Grundpatents Bezug genommen wird sowie auf den 14. Erwägungsgrund der Verordnung (EG) Nr. 1610/96 des Europäischen Parlaments und des Rates vom 23. Juli 1996 über die Schaffung eines ergänzenden Schutzzertifikats für Pflanzenschutzmittel (ABl. 1996, L 198, S. 30), in dem auf das Erfordernis verwiesen wird, dass "Erzeugnisse" "Gegenstand von Patenten sind, in denen sie besonders beansprucht werden" (EuGH a. a. O. "Medeva" Rn. 27).
+
+64
+
+Daraus folgert der Gerichtshof, dass es nicht zulässig ist, ein Schutzzertifikat für ein Erzeugnis zu erteilen, das "not specified in the wording of claims" bzw. "identified in the wording of the claims" wird.
+
+65
+
+3.3. Diese auf Wortlaut, Sinn, Zweck, Entstehungsgeschichte und Systematik der einschlägigen Regelungen basierende Argumentation, die von der bisherigen Rechtsprechung ausgeht, sowie der eindeutige Wortlaut der Entscheidungen sprechen nach Auffassung des Senats dafür, dass der EuGH zur Erreichung des Ziels der Verordnung, einheitliche Voraussetzungen in jeden Mitgliedsstaat zu gewährleisten, mit seiner neueren Rechtsprechung ein weiteres, die "Farmitalia-Entscheidung" (a. a. O.) einschränkendes und präzisierendes gemeinschaftsrechtliches Kriterium aufstellt. Er stellt darum - anders als die bisherige nationale Rechtsprechung - nicht ausschließlich auf den Schutzbereich des Grundpatents, d. h. nicht allein auf die möglichen Verbietungsrechte aus dem Grundpatent ab, sondern setzt engere Voraussetzungen für die Erteilung des ergänzenden Schutzzertifikats. Dies zeigt auch der 3. Leitsatz der "Queensland-Entscheidung", nach dem es - anders als Art. 64 Abs. 2 EPÜ oder § 9 Nr. 3 PatG für den Schutzbereich des Patents - für die Erteilung eines ergänzenden Schutzzertifikat unerheblich ist, ob das betreffende Erzeugnis unmittelbar durch das Verfahren des Streitpatents gewonnen werden kann.
+
+66
+
+Wegen dieses rein gemeinschaftsrechtlichen Ansatzes verbietet sich - anders als die Beklagte meint - eine Auslegung der genannten Entscheidungen anhand nationaler Vorschriften oder der Auslegung nationaler Vorschriften (vgl. auch EuGH C-103/01 Urteil vom 22. Mai 2003 Rn. 33).
+
+67
+
+Auch die Argumentation der Beklagten, die o. g. Rechtsprechung des EuGH gelte nur für Kombinationspräparate mit mehreren Wirkstoffen, wobei nur ein Teil der Wirkstoffe durch das Grundpatent geschützt ist, greift nicht durch. Die Argumentation der Entscheidungen "Medeva" und "Queensland" gilt gleichermaßen für Präparate aus Einzelwirkstoffen und für Kombinationspräparate. Aus dem Wortlaut und der Begründung der auf die Beantwortung von abstrakten Fragen abstellenden Entscheidungen ist kein Anhaltspunkt dafür erkennbar, dass der EuGH ein Bedürfnis für eine derartige Differenzierung sieht und seine Ausführungen auf Kombinationspräparate beschränkt. Im Gegenteil würde eine derartige Ansicht zu unterschiedlichen Voraussetzungen für die Erteilung von Schutzzertifikaten für Präparate aus Einzelwirkstoffen und Kombinationspräparate führen, wofür kein sachlicher Grund besteht. Wollte man außerdem - wie bisher - bei Präparaten aus Einzelwirkstoffen anders als bei Kombinationspräparaten auf die nationale Rechtsprechung zum Schutzumfang des Grundpatents abstellen, so würde dies insbesondere dem Zweck der Verordnung (EG) Nr. 469/2009 widersprechen, nach der der Inhaber eines nationalen oder europäischen Patents ein Schutzzertifikat unter denselben Voraussetzungen in jedem Mitgliedsstaat erhalten kann und die auf diese Weise einer heterogenen Entwicklung der nationalen Rechtsvorschriften vorbeugen soll (EuGH a. a. O. "Medeva" Rn. 24; EuGH a. a. O. "Queensland" Rn. 29).
+
+68
+
+Aus der "Yeda-Entscheidung" (a. a. O.) des EuGH, die von derselben Begründung wie die Entscheidungen "Medeva" und "Queensland" ausgeht, ergibt sich nichts anderes, da dort ebenso wie in den Fällen "Medeva" und "Queensland" eine abstrakte Vorlagefrage in allgemeiner Form beantwortet wird und der EuGH in diesem Vorlageverfahren zur Auslegung von Gemeinschaftsrecht weder Anlass noch die Befugnis hatte, darauf einzugehen, ob die in der Antwort auf die vorgelegte Frage abstrakt definierten Kriterien im konkreten, vom nationalen Gericht zu entscheidenden Vorlagefall auch vorlagen. Aus diesen Gründen gibt es auch keine Anhaltspunkte dafür, dass sich diese Aussagen auf Kombinationspräparate beschränken und für Präparate mit einem einzigen Wirkstoff nicht gelten.
+
+69
+
+3.4. Diese vom EuGH geforderten Voraussetzungen sind hier nicht erfüllt. Denn weder wird der monoklonale Antikörper Ranibizumab, der Gegenstand des streitgegenständlichen ergänzenden Schutzzertifikates ist, in den Ansprüchen des Grundpatents EP 2 055 777 B1 genannt, noch werden dessen Zusammensetzung oder Eigenschaften in den Patentansprüchen angegeben.
+
+II.
+
+70
+
+Auch wenn man nach der bisherigen Rechtsprechung vom Schutzumfang des Grundpatents ausgeht, kommt man zum selben Ergebnis, denn das angegriffene Schutzzertifikat wurde nicht für einen Wirkstoff erteilt, der nach nationaler Rechtsprechung in den Schutzbereich des Grundpatents fällt, da "Ranibizumab" kein Erzeugnis des durch das Grundpatent geschützten Verfahrens ist (§ 9 Nr. 3 PatG bzw. Art. 64 Abs. 2 EPÜ)
+
+71
+
+1. Das Grundpatent betrifft ein Verfahren zur Herstellung von Bindungspaargliedern, die Antigen-Antikörper-Bindungseigenschaften aufweisen. Monoklonale Antikörper werden üblicher Weise mit Hilfe immortalisierter Säugetierzellen hergestellt. Obwohl monoklonale Antikörper, ihre Fragmente und Derivate von erheblichem Vorteil sind, weisen sie dennoch einige Nachteile auf. So sind monoklonale Antikörper, bei deren Herstellung Zellen aus Nagetieren verwendet werden, nur begrenzt von therapeutischem Nutzen. Zudem können mit den bekannten Methoden nur etwa 103 bis 104 Antikörper auf ihrer Spezifität getestet werden, während menschliche Lymphozyten ein Repertoire von etwa 1012 Antikörpern unterschiedlicher Spezifität bereitstellen. Um dieses Problem zu umgehen, werden bei der Herstellung von Antikörpern einer bestimmten Spezifität sog. Immunisierungs-Verfahren angewendet, bei denen Labortiere mit einem Immunogen geimpft werden, welches das gewünschte Epitop enthält. Auf diese Weise wird das Immunsystem der Versuchstiere zur vermehrten Produktion solcher Lymphozyten angeregt, die überwiegend Antikörper der gesuchten Spezifität exprimieren. Diese Vorgehensweise ist allerdings nur in den Fällen erfolgreich, in denen das gesuchte Epitop bereits zur Verfügung steht und keine monoklonalen Antikörper menschlichen Ursprungs benötigt werden. In den vergangenen Jahren ist man daher dazu übergegangen, rekombinante DNA-Techniken anzuwenden, um Antikörper oder Antikörperfragmente in Bakterienzellen wie E. coli herzustellen und zu isolieren. Die von den Bakterienzellen ausgeschleusten löslichen Antikörper/Antikörperfragmente können danach aufgrund ihrer unterschiedlichen Bindungsaktivität einem Screening unterzogen werden. Allerdings stellt sich bei dieser Vorgehensweise ebenso wie beim Einsatz immortalisierter Zellen das Problem, einen spezifischen Antikörper aus einem verhältnismäßig kleinen Antikörper-Repertoire auffinden zu können. Zudem sollte das Problem, eine Vielzahl unterschiedlicher Spezifitäten in Prokaryonten direkt einem Screening unterziehen zu können, gelöst werden (vgl. BM1, Abs. [0003 bis 0013]).
+
+72
+
+2. Ausgehend davon liegt dem Grundpatent EP 2 055 777 die Aufgabe zugrunde, ein Screening-System zu entwickeln, welches die unter Punkt II. 1 genannten Probleme beseitigt oder minimiert. Ein solches System soll die Bereitstellung einer sehr großen Zahl von Spezifitäten (106 und größer), eine rasche Sortierung der Antikörper bei jeder Klonierungsrunde sowie einen schnellen Transfer des genetischen Materials, welches für das Bindungsmolekül kodiert, von einer zur nächsten Stufe des Produktionsprozesses ermöglichen (vgl. BM1, Abs. [0014]).
+
+73
+
+3. Gemäß Patentanspruch 1 wird diese Aufgabe durch ein Verfahren mit den folgenden Merkmalen gelöst:
+
+74
+
+(1.1) Verfahren zur Herstellung eines Moleküls, das in Bezug auf ein spezielles Target Bindungsspezifität aufweist,
+
+75
+
+wobei das Verfahren Folgendes umfasst:
+
+76
+
+(1.2.1) das Herstellen einer Population filamentöser Bakteriophagenpartikel,
+
+77
+
+(1.2.2) die an ihrer Oberfläche eine Population von Bindungsmolekülen präsentieren
+
+78
+
+(1.2.3) mit einem Bereich von Bindungseigenschaften,
+
+79
+
+(1.2.4) worin die Bindungsmoleküle Antikörper-Antigenbindungsdomänen
+
+80
+
+(1.2.5) für spezifische komplementäre Bindungspaarelemente aufweisen,
+
+81
+
+(1.2.6) worin die Bindungsmoleküle auf der Oberfläche der filamentösen Bakteriophagenpartikel durch die Fusion mit einem Gen-III-Protein der filamentösen Bakteriophagenpartikel präsentiert werden und
+
+82
+
+(1.2.7) worin jeder filamentöse Bakteriophagenpartikel eine Nukleinsäure enthält,
+
+83
+
+(1.2.8) die für das aus der Nukleinsäure exprimierte und von dem Partikel auf seiner Oberfläche präsentierte Bindungsmolekül kodiert;
+
+84
+
+(1.3.1) das Selektieren eines filamentösen Bakteriophagenpartikels, das ein Bindungsmolekül mit einer gewünschten Bindungseigenschaft präsentiert,
+
+85
+
+(1.3.2) durch Kontaktieren der Population filamentöser Bakteriophagenpartikel
+
+86
+
+(1.3.3) mit einem bestimmten Target,
+
+87
+
+(1.3.4) so dass einzelne Bindungsmoleküle mit der gewünschten Bindungseigenschaft, die auf filamentösen Bakteriophagenpartikeln präsentiert werden, an das Target binden;
+
+88
+
+(1.4) das Trennen von gebundenen filamentösen Bakteriophagenpartikeln von dem Target;
+
+89
+
+(1.5) das Gewinnen abgetrennter filamentöser Bakteriophagenpartikel, die ein Bindungsmolekül mit der gewünschten Bindungseigenschaft präsentieren;
+
+90
+
+(1.6) das Isolieren der Nukleinsäure, die für das Bindungsmolekül kodiert, aus den abgetrennten filamentösen Bakteriophagenpartikeln;
+
+91
+
+(1.7.1) das Insertieren von für das Bindungsmolekül kodierender Nukleinsäure in ein rekombinantes System; oder
+
+92
+
+(1.7.2) das Insertieren von einem Fragment oder Derivat davon mit Bindungsspezifität in Bezug auf das Target in ein rekombinantes System; und
+
+93
+
+(1.8.1) das Produzieren eines Moleküls mit Bindungsspezifität für das Target in dem rekombinanten System getrennt von den filamentösen Bakteriophagenpartikeln,
+
+94
+
+(1.8.2) worin das Molekül das Bindungsmolekül ist oder
+
+95
+
+(1.8.3) worin das Molekül ein Fragment oder Derivat davon mit Bindungsspezifität für das Target ist.
+
+96
+
+4. Fraglich ist bereits, ob das Verfahren gemäß Patentanspruch 1 nicht ein reines Screening-Verfahren, d.h. ein Arbeitsverfahren darstellt, das lediglich dazu dienen soll, eine große Zahl von Bindungsmolekülen zu analysieren und selektieren (vgl. BM1, Abs. [0014]), die einzelnen Moleküle aber unverändert lässt, und dessen Schutzumfang daher nur das Verfahren, nicht aber die selektierten Moleküle selbst umfasst (vgl. dazu Schulte, Patentgesetz, 8. Aufl., § 9 Rn. 83; Benkard/Scharen, Patentgesetz, 10. Aufl., § 9 Rn. 54; vgl. Benkard, EPÜ, 2. Aufl., Art. 64 Rn. 20 ff., 22, 24). In einem solchen Fall wäre bereits Art. 1 lit. c der VO-(EG) Nr. 469/2009 nicht erfüllt, wonach erforderlich ist, dass das Grundpatent ein Verfahren zur Herstellung eines Erzeugnisses schützt.
+
+97
+
+Diese Problematik kann aber letztlich dahingestellt bleiben, weil "Ranibizumab" jedenfalls kein unmittelbares Erzeugnis des durch das Grundpatent geschützten Verfahrens ist (§ 9 Nr. 3 PatG bzw. Art. 64 Abs. 2 EPÜ).
+
+98
+
+5.1 Damit ein Erzeugnis im Sinne von. Art. 64 Abs. 2 EPÜ bzw. § 9 Nr. 3 PatG als unmittelbar durch ein Verfahren hergestellt gelten kann, muss ein hinreichender Zusammenhang zwischen dem Erzeugnis und dem Verfahren bestehen. Dies ist regelmäßig dann zu bejahen, wenn es sich um das Erzeugnis handelt, das mit Abschluss sämtlicher Verfahrensschritte des geschützten Verfahrens entstanden ist (vgl. Benkard/Scharen, PatG, 10. Aufl., § 9 Rn. 55; vgl. Benkard Jestaedt/Osterrieth, EPÜ, 2. Aufl., Art. 64 Rn. 20 ff., 22, 24).
+
+99
+
+Über die Entwicklung von "Ranibizumab" gibt die nachveröffentlichte Druckschrift BM6 Auskunft. Die Autoren Chen at al. berichten darin von den einzelnen Verfahrensschritten, die für den Erhalt des humanisierten monoklonalen Fab-Antikörpers Y0317 erforderlich sind, der den internationalen Freinamen (INN) "Ranibizumab" trägt. Hinsichtlich der Übereinstimmung des Fab-Antikörpers Y0317 mit dem als "Ranibizumab" bezeichneten Antikörper wird auf die im Schutzzertifikats-Erteilungsverfahren als Dokument SP 2b zitierte Veröffentlichung von Ferrara et al. aus dem Jahr 2006 in der Zeitschrift Retina hingewiesen (vgl. Retina 26, 2006, S. 859 bis 870, insbesondere S. 864, li. Sp., erster Abs., letzter Satz). Bei der Entwicklung von Y0317 gehen die Autoren der BM6 von dem bereits bekannten, für VEGF spezifischen monoklonalen Antikörper A4.6.1 murinen Ursprungs aus, wobei sie in ihren Versuchen ausschließlich dessen humanisierte Fab-Variante "Fab12" einsetzten (vgl. BM6, S. 865, Abstract, 1. Satz, S. 866, li. Sp., erster Abs. und zweiter Abs., jeweils erster Satz und S. 877, re. Sp., zweiter Abs.). Über den Fab-Antikörper "Fab12" wissen die Autoren aus früheren Studien, dass an dessen Antigenbindungsstelle nur bestimmte Aminosäurereste der Complementary Determining Regions CDR-H1, -H2 und -H3 sowie der Framework-Region FR-H3 beteiligt sind (vgl. BM6, S. 866, li. Sp., dritter Abs., und S. 867, spaltenübergreifender Abs.). Um "Fab12"-Varianten mit einer optimierten VEGF-Affinität zu finden, konstruieren sie daher Phagenbibliotheken, in denen die an der Antigenbindung beteiligten Aminosäurereste der jeweiligen CDR- oder FR-Domäne randomisiert, d. h. gegen eine beliebige andere Aminosäure ausgetauscht werden (vgl. BM6, S. 866, re. Sp., erster ganzer Abs.). Durch die gezielte Randomisierung einzelner an der Antigenbindung beteiligter Aminosäurereste minimieren die Autoren der BM6 zudem die Wahrscheinlichkeit, dass sich die genetischen Veränderung auch auf andere Eigenschaften des "Fab12"-Antikörpers, wie dessen Stabilität oder Immunogenität, auswirken, da sie in der Annahme, dass ein Antikörper mit einer erhöhten VEGF-Affinität auch eine erhöhte therapeutische Wirksamkeit besitzt, ausschließlich die Verbesserung der Affinität von "Fab12" im Blick haben (vgl. BM6, S. 866, li. Sp., zweiter Abs., erster Satz und letzter Abs., erster und zweiter Satz sowie S. 874, re Sp., letzter Abs., erster Satz und S. 877, li. Sp., erster vollständiger Abs.). Bei der Erstellung der jeweiligen CDR-H1, -H2, -H3 und der FR-H3- Bibliothek verwenden sie den Phagemid-Vektor pY0192. In pY0192 liegt die für den "Fab12"-Antikörper kodierende Nukleinsäure mit der für das C-terminale Ende des Hüllproteins III (Gen III) kodierenden Nukleinsäure fusioniert vor. Dadurch wird sichergestellt, dass die mit diesem Vektor transformierten E.coli Zellen, wenn sie gemeinsam mit dem Helferphagen M13KO7 kultiviert werden, Phagenpartikel produzieren, die auf ihrer Oberfläche einen funktionellen Fab-Antikörper präsentieren (vgl. BM6, S. 867, re. Sp., erster ganzer Abs. und S. 877, re. Sp., "Material and Methods", erster und zweiter Abs.). Anschließend werden die Phagenpartikel von den E.coli-Zellen abgetrennt und mit einem VEGF-beschichteten Träger in Kontakt gebracht (vgl. BM6, S. 867, re. Sp., erster ganzer Abs., vorletzter Satz). Phagenpartikel, die eine erhöhte Affinität zu VEGF aufweisen, werden isoliert, amplifiziert und anschließend erneut einer Affinitätsselektionen unterzogen. In sieben wiederholten Phage Display-Verfahren werden auf diese Weise in den einzelnen-Bibliotheken Klone angereichert, die gegenüber dem Ausgangs-Klon Y0192 eine erhöhte VEGF-Affinität aufweisen (vgl. BM6, S. 867, re. Sp., erster ganzer Abs., letzter Satz und zweiter ganzer Abs. i. V. m. Tab. 1 sowie S. 877/878, seitenübergreifender Abs.). In der CDR-H1- und CDR-H3-Bibliothek werden die Klone Y0243-1 (CDR-H1) und Y0238-3 (CDR-H3) identifiziert, die aufgrund vorteilhafter Mutationen eine deutlich verbesserte VEGF-Affinität besitzen (vgl. BM6, S. 869, li. Sp., spaltenübergreifender Abs. bis S. 870, li. Sp., letzter Abs. i. V. m. Tab. 2 bis 5).
+
+100
+
+Um auch die Affinität dieser Klone weiter zu verbessern, führen die Autoren der BM6 im Anschluss daran eine ortsspezifische Mutagenese durch, bei der sie die Mutationen in den Klonen Y0238-3 und Y0243-1 miteinander kombinieren. Unter den Produkten dieser Mutagenese erweist sich der Fab-Antikörper Y0313-1 als derjenige mit der höchsten VEGF-Affinität. Im letzten Schritt des Verfahrens wird mittels ortsspezifischer Mutagenese die in den Ausgangs-Antikörper Y0192 eingefügte Mutation zur Verstärkung der Phagen-Expression in der CDR-L1 Region wieder entfernt und schließlich der Fab-Antikörper Y0317 erhalten, der im Vergleich zum Antikörper "Fab12" sechs Muationen aufweist (vgl. BM6, S. 870, re Sp. bis S. 871, li. Sp., erster bis dritter Abs. i. V. m. Tabelle 7 und S. 874/875, seitenübergreifender Abs.).
+
+101
+
+Den Angaben in BM6 zur Folge sind für den Erhalt von "Ranibizumab", der gegenüber dem ursprünglichen "Fab12"-Antikörper eine deutlich stärkere Affinität zu VEGF aufweist, somit mehrere Selektionsschritte in Form eines Phage Display sowie ortsspezifische Mutagenese-Schritte erforderlich, wobei das in BM6 angewandte Phage Display - wie vorstehend dargelegt - die patentgemäßen Merkmale 1.2 bis 1.5 aufweist (vgl. BM6, S. 871, li. Sp., zweiter und dritter Abs. i. V. m. Fig. 2 und Tabelle 8).
+
+102
+
+Der in BM6 beschriebene Zell-Proliferations-Test, in dem die durch Phage Display isolierten Antikörper Y0238-3 und Y313-1 auf ihre Fähigkeit getestet werden, die biologische Aktivität von VEGF inhibieren zu können, setzt ferner voraus, dass im Verfahren der BM6 auch eine Isolierung der für diese Antikörper-Klone kodierenden Nukleinsäuren, deren Einführung in ein rekombinantes System sowie die Expression der Nukleinsäure in diesem System stattfindet (vgl. BM6, S. 868, re. Sp. bis bis S. 870, li. Sp. sowie S. 871/872, re. Sp., seitenübergreifender Abs. und S 879, li. Sp., zweiter Abs.). Folglich werden in BM6 auch die patentgemäßen Verfahrensschritte 1.6 (Nukleinsäure-Isolierung), 1.7 (Insertion in ein rekombinantes System) und 1.8 (Produktion im rekombinanten System) durchgeführt.
+
+103
+
+Im Gegensatz zum patentgemäßen Verfahren endet das in BM6 bei der Herstellung von "Ranibizumab" angewendete Verfahren jedoch nicht mit dem Vervielfältigungsschritt 1.8 (vgl. BM6, S. 867, re. Sp., erster ganzer Abs., letzter Satz), sondern weist im Anschluss daran noch eine ortsspezifische Mutagenese auf. Demzufolge unterscheidet sich das Verfahren der BM6 vom patentgemäßen Verfahren durch eine den Selektionsschritten nachgeschaltete Derivatisierung in Form einer ortsspezifischen Mutagenese.
+
+104
+
+Eine solche Derivatisierung kann entgegen den Ausführungen der Beklagten im Verfahren des Patentanspruchs 1 gemäß Grundpatent EP 0 255 777 selbst unter Berücksichtigung der in den patentgemäßen Merkmalen 1.7.2 und 1.8.3 genannten "Derivate" allerdings nicht mitgelesen werden. Es ist zwar zutreffend, dass sich - wie von den Beklagten vorgetragen wurde - in der Beschreibung des Grundpatents EP 2 055 777 für den Begriff "Derivate" eine allgemeine Definition findet, die Mutationen, wie sie in BM6 während der ortsspezifischen Mutagenese durchgeführt werden, mit einschließt und zudem den Zeitpunkt der Derivatisierung offen lässt (vgl. BM1, S. 11, Abs. [0081]). Der im Patentanspruch 1 in den Merkmalen 1.7.2 und 1.8.3 verwendete Begriff "Derivate" ist jedoch so zu deuten, wie ihn der angesprochene Fachmann nach dem Gesamtinhalt der Patentschrift unter Berücksichtigung der in ihr objektiv offenbarten Lösung versteht (vgl. BGH GRUR 2001, 232 bis 235, Ls. - Brieflocher). Als Lösung der patentgemäßen Aufgabe wird in den Patentansprüchen des Grundpatents EP 2 055 777 ein Verfahren offenbart, bei dem aus einer möglichst großen Zahl von Antikörperspezifitäten mit Hilfe des Phage Display ein spezifischer Antikörper selektiert und danach amplifiziert wird. Der Schutzbereich des Grundpatents reicht somit nur soweit, wie das patentgemäße Selektionsverfahren in den Patentansprüchen seinen Ausdruck findet (vgl. Schulte, PatG, 8. Auflage, § 14 Rn. 12). Darüber hinausgehende verfahrenstechnische Maßnahmen, die zwar in der Beschreibung erwähnt werden, in den Patentansprüchen aber keinen Niederschlag finden, sind daher grundsätzlich nicht in den Patentschutz einbezogen (vgl. BGH GRUR 2011, 701 bis 705, Ls. und Rn. 23 - Okklusionsvorrichtung; Schulte, Patentgesetz, 8. Aufl., § 14 Rn. 21). Die Beschreibung darf somit nur soweit berücksichtigt werden, als sie der Erläuterung des Patentanspruchs dient. Die in den patentgemäßen Merkmalen 1.7.2 und 1.8.3 genannten "Derivate" müssen folglich im Kontext der vom Grundpatent EP 2 055 777 geschützten Erfindung gedeutet werden. Nachdem sich weder in den Patentansprüchen noch in der Beschreibung des Grundpatents EP 2 055 777 nähere Angaben zu den einzelnen Verfahrensschritten des patentgemäßen Selektionsverfahrens finden, wird der Fachmann die im Patentanspruch 1 angegebenen Verfahrensschritte in einer für ihn technisch sinnvollen Weise interpretieren und sie daher als zeitliche Abfolge verstehen. Demnach kann eine Derivatisierung im patentgemäßen Verfahren nur vor oder während der Selektionsschritte, nicht aber wie in BM6 nach der Selektion erfolgen, da die für Derivate mit Bindungsspezifität kodierenden Nukleinsäuren unmittelbar nach der Selektion, d. h. ohne zusätzlichen Derivatisierungsschritt, in ein rekombinantes System kloniert werden. Unter dem in den patentgemäßen Merkmalen 1.7.2 und 1.8.3 verwendeten Begriff "Derivate" wird der Fachmann auch keine durch ortsspezifische Mutagenese erhaltenen Derivate verstehen, da es hierfür erforderlich wäre, Art und Umfang der Derivatisierung genau zu kennen. Die Durchführung gezielter Mutationen wie sie das Dokument BM6 bei der Herstellung von "Ranibizumab" beschreibt (vgl. BM6, S. 871, li. Sp., erster Abs., dritter Satz), sind dem Grundpatent EP 2 055 777 im Zusammenhang mit dem in den Patentansprüchen beschriebenen Verfahren jedoch nicht zu entnehmen. Zudem ist nicht erkennbar, dass die im patentgemäßen Verfahren genannten Derivate aufgrund ihrer genetischen Veränderung gegenüber den durch Selektion gewonnenen Antikörpern verbesserte Bindungseigenschaften aufweisen, wie dies bei der Herstellung von "Ranibizumab" der Fall ist (vgl. BM6, S. 870, seitenübergreifender Abschnitt). Der Schutzbereich des Grundpatents EP 2 055 777 erfasst daher kein Selektionsverfahren mit einer abschließenden ortsspezifischen Mutagenese, wie es bei der Herstellung von "Ranibizumab" verwendet wurde.
+
+105
+
+Auch die offene Formulierung des Patentanspruchs 1 gemäß Grundpatent EP 2 055 777 B1, die sich aus dem im Merkmal 1.1 verwendeten Begriff "umfasst" ergibt, führt - anders als von den Beklagten angenommen - nicht dazu, dass der Fachmann nach dem Vervielfältigungsschritt 1.8 weitere Derivatisierungsschritte im patentgemäßen Verfahren mitliest. Es ist zwar zutreffend, dass in der Beschreibung des Grundpatents EP 2 055 777 außer den im Patentanspruch 1 genannten Verfahrensschritten noch zahlreiche andere Verfahrensschritte wie eine "Affinitätsreifung " (vgl. BM1, S. 15. Z. 20) oder ein zielgerichteter Gentransfer erwähnt werden (vgl. BM1, S. 7, Z. 55). Allerdings werden sie nicht im Zusammenhang mit der in den Patentansprüchen des Grundpatents EP 2 055 777 formulierten technischen Lehre genannt und stellen daher einen Überschuss dar, der dem Schutz des Grundpatents nicht zuzurechnen ist (vgl. Schulte, Patentgesetz, 8. Aufl., § 14 Rn. 21). Nach alledem ist festzustellen, dass die für den Erhalt von "Ranibizumab" ausschlaggebende und im Verfahren der BM6 als letzter Verfahrensschritt durchgeführte ortsspezifische Mutagenese nicht Bestandteil des im Patentanspruch 1 gemäß Grundpatent EP 2 055 777 beschriebenen Verfahrens ist.
+
+106
+
+Abgesehen davon, enthält das Grundpatent auch keine Hinweise auf Edukte, die zu "Ranibizumab" führen könnten (vgl. BM1, S. 24 bis 66, Bsp. 1 bis 38 i. V. m. Beschreibung S. 11 bis 15, Abs. [0082] bis [0121]). Die Beschreibung des Grundpatents EP 2 055 777 lässt somit keine andere Interpretation zu, als dass die Derivatisierungen im patentgemäßen Selektionsverfahren vor oder während der Selektion erfolgen.
+
+107
+
+Bei dem von Streitschutzzertifikat geschützten Erzeugnis "Ranibizumab" handelt es sich folglich um kein unmittelbares Verfahrensprodukt des vom Grundpatent EP 2 055 777 geschützten Verfahrens, da auch nach Abschluss aller in diesem Verfahren vorgesehenen Verfahrensschritte kein Antikörper erhalten wird, der die Eigenschaften von "Ranibizumab" aufweist (vgl. Benkard/Scharen, PatG, 10. Aufl., § 9 Rn. 55; vgl. Benkard Jestaedt/Osterrieth, EPÜ, 2. Aufl., Art. 64 Rn. 20 ff., 22).
+
+III.
+
+108
+
+1. Der Senat sah keinen Anlass für eine Vorlage gem. Art. 234 Abs. 1 Buchstabe b und Abs. 3 des EG-Vertrages zum Gerichtshof der Europäischen Gemeinschaften, da die Frage, ob der Wirkstoff, für den ein ergänzendes Schutzzertifikat begehrt wird, in den Ansprüchen des Grundpatents als das durch das fragliche Herstellungsverfahren gewonnene Erzeugnis bezeichnet ist, hier nicht allein entscheidungserheblich war, in den Entscheidungen "Medeva" (EuGH a. a. O.) und "Queensland" (EuGH a. a. O.) bereits beantwortet worden ist und eine weitere Vorlage lediglich eine gemeinschaftsrechtlich nicht vorgesehene Auslegung der Rechtsprechung des EuGH bezwecken könnte.
+
+109
+
+2. Eine Aussetzung des Nichtigkeitsverfahrens bis zum rechtskräftigen Abschluss des bei dem Landgericht Düsseldorf anhängigen parallelen Verletzungsverfahrens (4a O 143/10) gem. § 148 ZPO kam ebenfalls nicht in Betracht, da die Entscheidung über die Nichtigkeitsklage nicht abhängig vom Erfolg der Verletzungsklage ist (vgl. etwa Benkard, Patentgesetz, 10. Aufl., § 22 Rn. 7; Busse, Patentgesetz, 6. Aufl., vor § 81 Rn. 3)
+
+IV.
+
+110
+
+Die Kostenentscheidung beruht auf § 84 Abs. 2 PatG i. V. m. § 91 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit ergeht auf Grund von § 99 Abs. 1 PatG i. V. m. § 709 Satz 1 und 2 ZPO.
+

@@ -1,0 +1,116 @@
+UNITED STATES DISTRICT COURT EASTERN DISTRICT OF MICHIGAN SOUTHERN DIVISION 
+JUDITH PERRY, et al.,  
+Plaintiffs,    CIVIL ACTION NO. 14-cv-11240  
+v.     DISTRICT JUDGE JOHN CORBETT O’MEARA  
+RANDSTAD GENERAL  MAGISTRATE JUDGE MONA K. MAJZOUB  
+PARTNER (US) LLC,   
+Defendant.  
+_________________________/  
+
+OPINION AND ORDER DENYING PLAINTIFFS’ MOTION TO COMPEL [28] AND GRANTING IN PART AND DENYING IN PART PLAINTIFFS’ MOTION TO COMPEL [85] 
+This matter comes before the Court on Plaintiffs Judith Perry, Erin Lane, Suhaima Choudhury, and Aimee Dooling’s Motions to Compel Discovery.  (Docket nos. 28 and 85.) Defendant responded to Plaintiffs’ Motions (docket nos. 31 and 89), and Plaintiffs replied to Defendant’s Responses (docket nos. 33 and 91). The parties have also filed Joint Statements of Resolved and Unresolved Issues regarding both Motions.  (Docket nos. 34, 88, and 90.) The Motions have been referred to the undersigned for consideration. (Docket nos. 29 and 86.) The undersigned has reviewed the pleadings and dispenses with oral argument pursuant to Eastern District of Michigan Local Rule 7.1(f)(2).  The Court is now ready to rule pursuant to 28 U.S.C. § 636(b)(1)(A). 
+I. BACKGROUND 
+Plaintiffs initiated this matter on March 26, 2014, on behalf of themselves and all others similarly situated, alleging that Defendant violated the Fair Labor Standards Act (FLSA) by misclassifying its staffing employee positions as exempt from the FLSA’s overtime requirements, thereby not paying its staffing employees overtime wages for time worked in excess of forty hours per week. (See docket no. 1.) Plaintiffs filed their first Motion to Compel Answers to Discovery on September 16, 2014.  (Docket no. 28.) Defendant responded to Plaintiffs’ Motion on October 3, 2014 (docket no. 31), and Plaintiffs replied to Defendant’s Response (docket no. 33) on October 10, 2014. The parties filed two Joint Statements of Resolved and Unresolved Issues regarding Plaintiffs’ first Motion on October 30, 2014, and April 6, 2015. (Docket nos. 34 and 88.) Plaintiffs filed their second Motion to Compel Production of Documents on April 1, 2015. (Docket no. 85.)  Defendant responded to Plaintiffs’ Motion on April 20, 2015, and Plaintiffs replied to Defendant’s Response on April 30, 2015. (Docket nos. 89 and 91.) The parties filed a Joint Statement of Resolved and Unresolved Issues regarding Plaintiffs’ second Motion to Compel on April 28, 2015.  (Docket no. 90.) Also, on April 23, 2015, District Judge O’Meara conducted a motion hearing, at which he took Plaintiffs’ Motion for Conditional Class Certification (docket no. 36) and Defendant’s Motion for Summary Judgment (docket no. 54) under advisement. 
+
+
+II. GOVERNING LAW 
+The scope of discovery under the Federal Rules of Civil Procedure is traditionally quite broad. Lewis v. ACB Bus. Servs., 135 F.3d 389, 402 (6th Cir. 1998).  Parties may obtain discovery on any matter that is not privileged and is relevant to any party’s claim or defense if it is reasonably calculated to lead to the discovery of admissible evidence.  Fed.R.Civ.P. 26(b)(1). “Relevant evidence” is “evidence having any tendency to make the existence of any fact that is of consequence to the determination of the action more probable or less probable than it would be without the evidence.” Fed.R.Evid. 401. But the scope of discovery is not unlimited. 
+“District courts have discretion to limit the scope of discovery where the information sought is overly broad or would prove unduly burdensome to produce.”  Surles ex rel. Johnson v. Greyhound Lines, Inc., 474 F.3d 288, 305 (6th Cir. 2007). 
+Rules 33 and 34 allow a party to serve interrogatories and requests for production of documents on an opposing party.  Fed.R.Civ.P. 33, 34.  A party receiving these types of discovery requests has thirty days to respond with answers or objections.  Fed.R.Civ.P. 33(b)(2), 34(b)(2)(A).  Rule 30 allows a party to conduct a deposition of any person without leave of the Court, subject to certain exceptions. Fed.R.Civ.P. 30(a)(1).  If the party receiving discovery requests under Rules 33 or 34 fails to respond properly, or if the person whose deposition is sought under Rule 30 fails to properly comply with the rule, Rule 37 provides the party who sent the discovery or noticed the deposition the means to file a motion to compel.  Fed.R.Civ.P. 37(a)(3)(B).  If a court grants a Rule 37 motion to compel, or if discovery is received after a Rule 37 motion is filed, then the court must award reasonable expenses and attorney’s fees to the successful party, unless the successful party did not confer in good faith before the motion, the opposing party’s position was substantially justified, or other circumstances would make an award unjust. Fed.R.Civ.P. 37(a)(5)(A). 
+
+III. ANALYSIS 
+According to the parties’ Joint Statements of Resolved and Unresolved Issues, the parties have been unable to resolve any of the issues raised in Plaintiffs’ Motions to Compel.  (See docket nos. 34, 88, and 90.) Accordingly, the Court will fully address Plaintiffs’ Motions below.  
+A. Plaintiffs’ Motion to Compel [28]1 
+1 Defendant asserts that Plaintiffs failed to seek concurrence under Local Rules 7.1 and 37.1 before filing the instant motion.  After a review of several email communications between the parties from the month prior to the date the motion was filed, the Court has no reason to believe that further communications would have resolved the discovery issues that are the subject of the instant motion.  The Court will address this motion on the merits.  
+1. Plaintiffs’ First Set of Interrogatories, No. 2 
+Plaintiffs’ Interrogatory no. 2 of their First Set of Interrogatories asks Defendant to 
+“[e]xplain in detail the relationship between you and the following entities: 
+a. 
+Randstad US (L.P.) 
+
+b. 
+Ran[d]stad Horizons, L.P. 
+
+c. 
+Randstad Inhouse Services, L.P. 
+
+d. 
+Accountants International, L.P. e. B2B Workforce 
+
+f. 
+Clinical One 
+
+g. 
+Compliance L.P. 
+
+h. 
+DB Concepts 
+
+i. 
+Delta Pharma 
+
+j. 
+Human Resources International 
+
+k. 
+Locum Medical Group 
+
+l. 
+OPIS 
+
+m. 
+Placement Pros, L.P. 
+
+n. 
+Ran[d]stad Managed Services 
+
+o. 
+Randstad Professionals US, L.P. 
+
+p. 
+Sapphire Technologies, L.P. 
+
+q. 
+Think Resources, L.P. 
+
+
+(Docket no. 28-3 at 5.) Defendant responded as follows: 
+In addition to the General Objections, Defendant objects to Interrogatory No. 2 on the grounds that the term “relationship” is vague and ambiguous.  Defendant further objects to Interrogatory No. 2 on the grounds that it is overly broad, unlimited in time, and unduly burdensome.  Responding further, Defendant objects to Interrogatory No. 2 because the only defendant in this litigation is Randstad General Partner (US) LLC and Plaintiffs worked only for Randstad General Partner (US) LLC during the relevant time frame.  To the extent the Interrogatory seeks information regarding entities other than Defendant or entities other than those for which Plaintiffs worked during the relevant time frame, it seeks information not relevant to the claims asserted in this case and constitutes an unreasonable fishing expedition. 
+(Id. at 5-6.) 
+The Court finds that Plaintiffs’ Interrogatory no. 2 is vague and ambiguous as written. 
+As Defendant points out, the term “relationship” is not well defined, which has left both 
+Defendant and the Court to speculate about the type and scope of information Plaintiffs seek. 
+For example, Defendant and the Court are left to speculate as to whether Plaintiffs are asking for information regarding the type, status, and/or condition of Defendant’s relationship with the listed entities, and/or whether Plaintiffs are inquiring about Defendant’s legal relationship, corporate relationship, employment relationship, day-to-day business relationship, or financial relationship with the entities, or a combination of those relationships.  It is also not clear whether Plaintiffs are seeking information regarding Defendant’s current relationship with those entities or the entire history of the alleged relationships.  The Defendant and the Court should not have to engage in speculation in order to decipher the substance of the inquiry for purposes of formulating a response.   
+In their Motion to Compel, Plaintiffs argue that Interrogatory no. 2 in fact seeks information regarding Defendant’s corporate relationship with the listed entities (docket no. 28 at 8-9); however, in light of the analysis above, the defects in Plaintiffs’ interrogatory are not cured and Defendant’s objections to the interrogatory are not invalidated.  Accordingly, the Court will deny Plaintiffs’ Motion to Compel Defendant’s response to Interrogatory no. 2 of Plaintiffs’ First Set of Interrogatories. 
+2. Plaintiffs’ First Request for Production of Documents, No. 7 
+In Request for Production (RFP) no. 7 of their First Request for Production of Documents, Plaintiffs seek all of Defendant’s “organizational charts in effect at any time between the date of [Defendant’s] answer and three years before the commencement of this action.” (Docket no. 28-3 at 16.) Defendant objected to this request as vague, ambiguous, undefined, overly broad, unduly burdensome, and calling for irrelevant information not reasonably calculated to lead to the discovery of admissible evidence.  (Id.) 
+Plaintiffs assert that Defendant’s boilerplate objections are meritless and tantamount to filing no objections at all. (Docket no. 28 at 15.)  Plaintiffs also assert that Defendant should be compelled to produce the organizational charts requested because it is well established that organizational charts are discoverable, relevant, and reasonably calculated to lead to the discovery of admissible evidence, as they aid in the identification of witnesses. (Id. (citing cases).) Defendant argues that Plaintiffs’ request is vague because it asks for “all organizational charts” without giving any explanation as to the type of charts Plaintiffs seek.  (Docket no. 31 at 12.) Nevertheless, Defendant contends that it was able to discern from Plaintiffs’ subsequent representations that they “likely seek a document that reflects the personnel working at Plaintiffs’ former work location.”  (Id.) Defendant states that it twice asked Plaintiffs to confirm whether its understanding of RFP no. 7 was correct.  (Id.) Defendant asserts that Plaintiffs did not disagree, so Defendant indicated that it would conduct a reasonable search for such an organizational chart and supplement its production if necessary.  (Id.) Defendant claims that Plaintiffs’ motion to compel a response to RFP no. 7 is now moot because Plaintiffs did not dispute Defendant’s interpretation of the request, and Defendant has agreed to produce an organizational chart in accordance with its interpretation.  (Id.) Plaintiffs counter that they never confirmed that Defendant’s unilateral limitation of RFP no. 7 was correct, and they maintain that their motion to compel a response to RFP no. 7, as written, is outstanding. (Docket no. 33 at 6.) 
+Plaintiffs’ motion with respect to RFP no. 7 is not moot; however, Plaintiffs’ RFP no. 7 suffers from the same deficiency as Plaintiffs’ Interrogatory no. 2. The Court agrees with Defendant that Plaintiffs’ request vaguely asks Defendant to produce “all organizational charts in effect at any time” over the course of a three-year period without providing any explanation regarding the type of charts sought.  There is no specificity as to whether Plaintiffs seek organizational charts at the corporate level and at the branch level; departmental organizational charts; and/or the organizational charts of Defendant’s successor, predecessor, related, parent, and subsidiary entities. If Plaintiffs do indeed seek all of Defendant’s organization charts as stated in RFP no. 7, issues of relevance, burden, and breadth arise.  Also, Plaintiffs assert that RFP no. 7 is a standard request, which will help them identify witnesses, but the vague and broad language of Plaintiffs’ request does not comport with their purported reason for the request. Consequently, the Court will deny Plaintiffs’ Motion to Compel Defendant’s response to RFP no. 7 of Plaintiffs’ First Request for Production of Documents.      
+
+B. Plaintiffs’ Motion to Compel [85] 
+The sole RFP in Plaintiffs’ Third Request for Production of Documents asks Defendant 
+to “[p]roduce all Stack Reports and/or Stack Rankings from March 26, 2011 through present.”2 
+(Docket no. 85-2 at 3.) Defendant responded to this RFP as follows: 
+In addition to the General Objections, Defendant objects to Request No. 1 to the extent that the terms “Stack Report” and “Stack Rankings” are vague, ambiguous, and undefined. Defendant objects to Request No. 1 to the extent that it is overbroad and seeks documents that are not relevant or not likely to lead to the discovery of admissible evidence regarding the claims or defenses of any party. Defendant further objects to Request No. 1 to the extent it seeks documents concerning employees and/or branch locations, other than Plaintiffs’ and the branch location in which Plaintiffs worked, as this matter has not been certified as a collective action pursuant to 29 U.S.C. § 216(b).  Subject to and without waiving its objections, Defendant states that it does not maintain Stack Reports and/or Stack Rankings that reflect information regarding the individual performance of Plaintiffs. 
+(Docket no. 85-3 at 4.) 
+Plaintiffs assert that Defendant’s objections are flawed and maintain that the Stack 
+Reports and/or Stack Rankings are relevant to this matter.  (Docket. no. 85 at 7, 8-9.)  Plaintiffs 
+2 Defendant asserts that Plaintiffs’ Third Request for Production of Documents is actually their Fifth Request for Production of Documents.  (Docket no. 89 at 4 n.2.)  Any such discrepancy here is immaterial to the resolution of Plaintiffs’ Motion. 
+assert that they, as well as all others similarly situated, were required by Defendant to follow the Work Planning Index (WPI)3, which assigned points to various job tasks.  (Docket no. 85 at 6.) Plaintiffs further assert that failure to score 100 points per week could result in termination.  (Id.) They allege that Plaintiffs and all other staffing employees regularly work in excess of 40 hours per week to meet the 100-point requirement, yet they have all been misclassified as exempt from federal overtime law.  (Docket no. 1 ¶ 59; docket no. 85 at 6.)  Plaintiffs assert that the Stack Ranking or Stack Report is a monthly report that contains the WPI scores of each of Defendant’s branches and is distributed to each branch every month.  (Docket no. 85 at 8.) Plaintiffs claim that the Stack Ranking/Stack Reports are relevant because they will demonstrate that each of Defendant’s branches used the WPI to monitor employee performance.  (Id.) 
+Defendant maintains that the Stack Rankings/Stack Reports are not relevant to Plaintiffs’ claims or defenses.  (See docket no. 89.) At the outset, Defendant asserts that the reports contain confidential financial information regarding the performance of more than 250 Mass Customized branches nationwide and that Plaintiffs have not sufficiently demonstrated that the discovery of such sensitive information is relevant or necessary to their claims.  (Id. at 8-10.) Defendant also claims that the existing Protective Order would not adequately protect this information against disclosure if the Court were to grant Plaintiffs’ Motion.  (Id.) Next, Defendant argues that the Stack Rankings are irrelevant because they only include the aggregate WPI score of each branch, and the aggregate score does not reflect Plaintiffs’ duties, the number of hours they spent on such duties, or the level of discretion they exercised in performing their duties.  (Id. at 10-11.) Defendant also contends that the Stack Rankings are irrelevant to Plaintiffs’ Motion for Conditional Class Certification and do not show that Defendant used the WPI for similar 3 Defendant explains that it does not utilize anything called the “Work Planning Index” and that “WPI” actually refers to “Workload Productivity Index.”  (Docket no. 89 at 4 n.1.)  For purposes of this motion, the Court will refer to the index as “WPI.” 
+purposes nationwide because (1) Plaintiffs filed their Motion for Conditional Class Certification long before the instant discovery request; and (2) the Stack Rankings do not apply to the employees that Plaintiffs seek to represent because they only contain information regarding Defendant’s branches rather than individual employee performance or job duties.  (Id. at 12-14.) 
+Defendant’s objections and arguments are not persuasive.  The Court finds that the Stack Rankings/Reports are indeed relevant to Plaintiffs’ request for conditional certification. As Plaintiffs assert, the Reports will demonstrate that Defendant used the WPI on a company-wide basis. This information is reasonably likely to bear upon the probability of whether Plaintiffs and the putative class members are similarly situated.  For this reason, the Court will grant Plaintiffs’ Motion to Compel the production of all of Defendant’s Stack Reports and/or Stack Rankings from March 26, 2011 through present.  The Court acknowledges that these reports purportedly contain confidential financial information that Defendant wishes to protect against disclosure.  Accordingly, the Court will order that the documents be produced under cover of the existing Protective Order (docket no. 27) and be designated as “Attorneys’ Eyes Only.”  The Court will deny Plaintiffs’ Motion with respect to fees and costs because Defendant’s arguments were not so unreasonable to warrant such an award. 
+IT IS THEREFORE ORDERED that Plaintiffs’ Motion to Compel Answers to Discovery [28] is DENIED. 
+IT IS FURTHER ORDERED that Plaintiffs’ Motion to Compel Production of Documents [85] is GRANTED IN PART and DENIED IN PART. Defendant will produce all Stack Reports and/or Stack Rankings from March 26, 2011 through present within thirty (30) days of this Order. The documents will be produced under cover of the Protective Order previously entered in this matter [27] and will also be designated as “Attorneys’ Eyes Only.” Plaintiffs’ Motion for attorney fees and costs is DENIED. 
+
+
+NOTICE TO THE PARTIES 
+Pursuant to Federal Rule of Civil Procedure 72(a), the parties have a period of fourteen days from the date of this Order within which to file any written appeal to the District Judge as may be permissible under 28 U.S.C. § 636(b)(1). 
+Dated: May 8, 2015 s/ Mona K. Majzoub 
+     MONA K. MAJZOUB
+     UNITED STATES MAGISTRATE JUDGE 
+
+PROOF OF SERVICE 
+I hereby certify that a copy of this Order was served upon Counsel of Record on this date. 
+Dated: May 8, 2015 s/ Lisa C. Bartlett      Case Manager 
+

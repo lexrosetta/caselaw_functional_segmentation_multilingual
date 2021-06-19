@@ -1,0 +1,76 @@
+U.S. Department of Labor Administrative Review BoardWashington, DC 20210-0001In the Matter of:
+
+ANJALI SACHDEV, ARB CASE NO. 2019-0069
+
+COMPLAINANT, ALJ CASE NO. 2019-CFP-00002 v. DATE:  May 19, 2020WELLS FARGO BANK,
+
+RESPONDENT.
+
+Appearances:
+
+For the Complainant:
+
+Anjali Sachdev; pro se; Maple Valley, Washington
+
+For the Respondent:
+
+John A. Berg, Esq. and Bradley J. Krupicka, Esq.; Littler Mendelson,P.C.; Portland, OregonBefore:  James A. Haynes, Heather C. Leslie and James D. McGinley,Administrative Appeals JudgesDECISION AND ORDER
+
+PER CURIAM. The Complainant, Anjali Sachdev, filed a retaliation complaint under the employee protection provisions of the Consumer Financial Protection Act of 2010 (“CFPA”), 12 U.S.C. § 5567 (2018), and Section 806 of the Corporate andCriminal Fraud Accountability Act of 2002, Title VIII of the Sarbanes-Oxley Act, 18U.S.C. § 1514A (2010) (SOX) with the Department of Labor’s Occupational Safety and Health Administration (OSHA) on December 4, 2018. Sachdev alleged that she was retaliated against for raising concerns to management about opening bank accounts that customers did not want. OSHA dismissed the claim as untimely because it was not filed within 180 days of the alleged adverse action.
+
+The case was referred to the Office of Administrative Law Judges (OALJ) perSachdev’s request of January 18, 2019. Respondent moved to dismiss for untimeliness. Complainant filed an opposition to the motion. On June 28, 2019, theAdministrative Law Judge (ALJ) issued a Decision and Order GrantingRespondent’s Motion to Dismiss, concluding the claim was untimely and that no equitable modification principles applied. Complainant objected to the ALJ’s order and filed a petition for review with the Administrative Review Board (ARB orBoard). We affirm.
+
+JURISDICTION AND STANDARD OF REVIEW
+
+The Secretary of Labor has delegated to the ARB the authority to issue agency decisions in review or on appeal of matters arising under the SOX and CFPA and their implementing regulations at 29 C.F.R. Part 1980 (2019) and 29 C.F.R.
+
+Part 1985 (2019), respectively. Secretary’s Order No. 01-2020 (Delegation ofAuthority and Assignment of Responsibility to the Administrative Review Board (Secretary’s discretionary review of ARB decisions)), 85 Fed. Reg. 13,186 (Mar. 6, 2020). The ARB will affirm the ALJ’s factual findings if supported by substantial evidence but reviews all conclusions of law de novo. 29 C.F.R. §1980.110(b); 29C.F.R. §1985.110(b); Burns v. The Upstate Nat’l Bank, ARB No. 2017-0041, ALJ No.
+
+2017-SOX-00010, slip op. at 2 (ARB Feb. 26, 2019).
+
+DISCUSSION
+
+The SOX provides that any employee who believes he has been discharged or otherwise discriminated against in violation of the SOX, shall commence “[a]n action under paragraph (1) . . . not later than 180 days after the date on which the violation occurs, or after the date on which the employee became aware of the violation.” 18 U.S.C. § 1514A(b)(2)(D). The implementing regulations provide that “[w]ithin 180 days after an alleged violation of the Act occurs or after the date on which the employee became aware of the alleged violation of the Act, any employee who believes that he or she has been retaliated against in violation of the Act may file, or have filed on the employee's behalf, a complaint alleging such retaliation.” 29C.F.R. §1980.103(d).
+
+The CFPA contains similar provisions. The statute provides that “[a] person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) may, not later than 180 days after the date on which such alleged violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor alleging such discharge or discrimination and identifying the person responsible for such act.” 12 U.S.C.
+
+§5567(c)(1)(A). Likewise, the CFPA regulations provide that “[w]ithin 180 days after an alleged violation of CFPA occurs, any person who believes that he or she has been retaliated against in violation of the Act may file, or have filed by any person on his or her behalf, a complaint alleging such retaliation.” 29 C.F.R. §1985.103(d).
+
+In whistleblower cases, filing periods begin to run the date an employee receives “final, definitive, and unequivocal notice of the adverse employment action.” McManus v. Tetra Tech. Constr. Inc., ARB No. 16-063, ALJ No. 2016-SOX- 012, slip op. at 3 (ARB Dec. 19, 2017) (quoting Rollins v. Am. Airlines, ARB No.
+
+2004-0140, ALJ No. 2004-AIR-00009, slip op. at 3 (ARB Apr. 3, 2007)). Such notice means unambiguous “communication that is decisive or conclusive, leaving no room for further action, discussion, or change.” Id. Again, the relevant date is the date the employee has final, definitive, and unequivocal notice of the adverse action, not the date that the termination or adverse act is felt or takes effect. Id. (citing Snyder v.
+
+Wyeth Pharms., ARB No. 2009-0008, ALJ No. 2008-SOX-00055 (ARB Apr. 30, 2009); Delaware State Coll. v. Ricks, 449 U.S. 250, 258 (1980); Chardon v.
+
+Fernandez, 454 U.S. 6, 8 (1981) (proper focus contemplates the time the employee receives notification of the discriminatory act, not the point at which the consequences of the act become apparent)).
+
+As the ALJ explained, Complainant should have filed a complaint under theSOX and CFPA alleging whistleblower protection within 180 days of the termination of her employment. While her termination date is unclear, it appears from the submissions that it occurred no later than 2006,1 and even at the latest date Complainant asserts it occurred, in 2016, Complainant’s complaint is untimely.2Even assuming that Complainant did not have sufficient notice of an adverse employment action at the time she was fired, she clearly had notice that she had suffered a legal wrong (beginning the filing period) as of September 21, 2016, whenCongressional hearings “revealed how Wells Fargo management had kept the regulatory organizations fooled.” Complainant’s Brief at 3. Complainant admits that as of this date, she “realized [she] was a victim of organized corporate fraud, and [her] life had been ruined because [she] stood up to wrongdoing and protected consumers from harm.” Id. However, she did not file a complaint until 804 days was the date listed by Respondent as the termination date in response to Complainant’s unemployment benefits claim. Decision at 5. Viewing other evidence, including the fact thatComplainant had not worked for Respondent for seven years prior to this date, the ALJ noted that the May 30, 2012 date, appeared to be a clerical error. Id. In any event, a May 30, 2012 termination date would not change the fact that Complainant’s complaint was untimely filed. indicating that she consulted an attorney in 2016, presumably after her termination, and the attorney told her she did not have a cause of action for wrongful termination. Comp. Br. at 7. later, on December 4, 2018. Thus, whichever of these dates is used, Complainant’s complaint was untimely.
+
+To begin addressing Complainant’s appeal, we first recognize thatComplainant is acting pro se and we “construe complaints and papers filed by pro se complainants ‘liberally in deference to their lack of training in the law’ and with a degree of adjudicative latitude.” Wimer-Gonzales v. J.C. Penney Corp., Inc., ARB No.
+
+2010-0148, ALJ No. 2010-SOX-00045, slip op. at 4 (ARB Feb. 7, 2012) (quotingWilliams v. Domino’s Pizza, ARB No. 09-092, ALJ No. 2008-STA-052, slip op. at 4 (ARB Jan. 31, 2011) (quoting Cummings v. USA Truck, Inc., ARB No. 04-043, ALJNo. 2003-STA-047, slip op. at 2 (ARB Apr. 26, 2005) (citations omitted))).
+
+Nevertheless, interpreting Complainant’s filings, we conclude that Complainant’s assertions that her complaint was timely and that equitable tolling is warranted are not persuasive.
+
+First, Complainant appears to make the argument that her complaint was timely filed because she did not know of the circumstances giving rise to her claim until November 2, 2018, when she received a settlement offer from Wells Fargo.3However, as has already been discussed, it is clear and Complainant has admitted that she became aware on September 21, 2016, about Wells Fargo’s alleged wrongdoing, and she knew that Wells Fargo had fired her. Comp. Br. at 7. Thus, her complaint was untimely.
+
+Complainant asserts that equitable tolling should apply because (1) she “came to know of that wrongdoing had been done to [her] after the Attorney GeneralReport on crimes committed by Wells Fargo in Sept 2016 and the CongressionalHearings aired on C-Span on September 21, 2016,” and (2) she joined a class action lawsuit against Wells Fargo on December 27, 2016, in U.S. District Court for theNorthern District of California (which was the precise statutory claim filed in the wrong forum). Comp. Br. at 7-8.
+
+The Board has held that circumstances justifying equitable tolling include situations in which (1) the respondent has actively misled the complainant respecting the cause of action, (2) the complainant has been prevented from asserting his rights in some extraordinary way, or (3) the complainant has raised the precise statutory claim but has mistakenly done so in the wrong forum. DeFazio v. Sheraton Steamboat Resorts & Villas, ARB No. 2011-0063, ALJ No. 2011-SOX- 00035, slip op. at 3 (ARB Oct. 23, 2012) (quoting Sch. Dist. of the City of Allentown given the opportunity to present all of the evidence in her defense, and that she did not receive all of the mail or emails that the ALJ referenced in his decision. Viewing all of the evidence in the light most favorable to Complainant, neither of these arguments is persuasive in determining that her complaint was untimely filed or that equitable tolling is not warranted. v. Marshall, 657 F.2d 16, 20 (3d Cir. 1981)). While these categories are not exclusive, limitations periods and other filing deadlines should be equitably modified only in exceptional circumstances. Larrick v. Bechtel Nat’l Inc., ARB No.
+
+2017-0053, ALJ No. 2017-ERA-00004, slip op. at 4, n.5 (ARB Feb. 20, 2020) (citingHill v. Tennessee Valley Authority, Nos. 1987-ERA-023, -024, slip op. at 3 (Sec’yApril 21, 1994)). Complainant bears the burden of justifying the application of equitable tolling principles. Williamson v. Washington Savannah River Co., ARBNo. 07-071, ALJ No. 2006-ERA-030, slip op. at 4 (ARB June 28, 2007) (citation omitted).
+
+First, as already discussed, Complainant does not dispute, and indeed asserts several times, that she received notice that Wells Fargo engaged in wrongdoing such that her termination may have been prohibited by SOX and CFPA onSeptember 21, 2016, when the Congressional hearings already referenced took place. Therefore, Complainant’s only argument pertaining to this fact appears to be that the limitations period should be forgiven because of the importance of the underlying criminal activity Wells Fargo engaged in, and its actions in covering up its criminal activity. However, as the ALJ stated, citing Ubinger v. CAE Int’l, ARBNo. 2007-0083, ALJ No. 2007-SOX-00036, slip op. at 6 (ARB Aug. 27, 2008), the seriousness of the complaint has not been found to be grounds for equitable tolling.
+
+By Complainant’s own admission, again, she filed 804 days after she received this notice, and that the notice provides no basis for tolling regardless of the seriousness of Wells Fargo’s acts.
+
+Complainant also argues for the first time in her reply brief that she filed the precise statutory claim in the wrong forum. As a result, she claims that she should be entitled to an equitable tolling of the filing period. However, although she may have entered into a class action lawsuit against Wells Fargo in December 2016, rather than showing grounds for equitable tolling, this action detracts from her argument because it clearly shows that she aware of her SOX and CFPA claims against Wells Fargo at that time and should have filed them with the appropriateOSHA office. See 29 C.F.R. §1980.103(c) and 29 C.F.R. §1985.103(c) (“Place of filing. The complaint should be filed with the OSHA office responsible for enforcement activities in the geographical area where the complainant resides or was employed, but may be filed with any OSHA officer or employee.”). Her intentional action in joining the class action removes any possibility thatComplainant “mistakenly” filed in the wrong forum.
+
+Considering all of Complainant’s submissions, we conclude that she has failed to show either that her complaint was timely or that equitable tolling principles should apply. Therefore, we affirm the ALJ’s Decision and OrderGranting Respondent’s Motion to Dismiss, and dismiss Complainant’s untimely complaint.
+
+CONCLUSION
+
+Accordingly, we AFFIRM the ALJ’s decision that the claim filed onDecember 4, 2018, was untimely, and deny the complaint.
+
+SO ORDERED.
+

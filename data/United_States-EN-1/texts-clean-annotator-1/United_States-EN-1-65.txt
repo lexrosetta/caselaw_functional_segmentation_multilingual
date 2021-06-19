@@ -1,0 +1,312 @@
+
+
+Before the Court are two motions for partial summary judgment, one filed by the Victoria’s Secret entities that are defendants in this case (the “Corporate Defendants”) (Dkt. No. 76) and the other filed by the individual defendant, Ann O’Malley (Dkt. No. 82).  (O’Malley and the Corporate Defendants are together referred to as the “Defendants”).  Defendants’ motions seek partial summary judgment dismissing claims brought by Plaintiff Fredda Malena under the Fair Labor Standards Act, 29 U.S.C. § 216 et seq. (the “FLSA”); New York State Labor Law, N.Y. Lab. Law §§ 162(2), 195 et seq. (“NYSLL”); New York state labor regulations, N.Y. Comp. Codes R. & Regs. tit. 12, § 142-2.4; the Family Medical Leave Act, 29 U.S.C. § 2601 et seq. (the “FMLA”); the New York State Human Rights Law, N.Y. Exec. Law § 290, et seq. (“NYSHRL”); and the New York City Human Rights Law, New York City Administrative Code § 8-101 et seq. (“NYCHRL”).1  (Dkt. Nos. 76, 82; see also Complaint, Dkt. No. 1 (“Compl.”).)  For the reasons discussed below, both of Defendants’ motions are granted in part and denied in part. 
+
+1 Plaintiff has also brought additional claims under the FLSA and NYSLL which are not at issue in the instant motions. 
+
+ 
+
+
+
+ From November 2006 to February 2009, Plaintiff Fredda Malena worked as an executive assistant to Defendant Ann O’Malley.  (Affidavit of Fredda Malena dated February 24, 2012 (“Malena Aff. II”) ¶ 2, appended as Ex. A to Certification of Anthony Carabba, Jr. in Opposition to Defendants’ Motion for Summary Judgment, Dkt. No. 92 (“Carabba Decl.”).)  At the start of Malena’s employment, the group headed by O’Malley managed “creative services,” including photography, catalog design, and copy for the Victoria’s Secret catalog and internet site.  (Transcript of September 9, 2010 Deposition of Ann O’Malley (“O’Malley Tr.”) at 19-20, 24-25, 361-62, appended as Ex. C to Carabba Decl. and as Ex. 4 to Declaration of Michael C. Griffaton in Support of Defendants’ Motion for Summary Judgment, Dkt. No. 78 (“Griffaton Decl. I”).) 
+
+O’Malley and her group, including Malena, first worked within Victoria’s Secret Direct, LLC (“VSD”),2 but were moved in about October 2007 to Victoria’s Secret Stores Brand Management, Inc. (“SBM”) to oversee creative services at both VSD and SBM.  (Declaration of Pia Ferrario, Dkt. No. 79 (“Ferrario Decl. I”), ¶¶ 7-9; Declaration of Shannon Foley, Dkt. No. 80 (“Foley Decl. I”), ¶¶ 8-10.) 
+
+2 In fact, Malena worked at a subsidiary of VSD, Victoria’s Secret Direct Media, Inc. (now known as Limited Brands Direct Media Production, Inc.), but, for simplicity, this opinion will follow Defendants’ practice of referring to all entities within VSD as VSD. 
+
+Malena’s work responsibilities included: opening and sorting mail, organizing files, maintaining O’Malley’s calendar, assisting with meeting agendas and materials, and providing various personal assistance to O’Malley, such as watering plants or meeting service providers at O’Malley’s apartment.  (Position Profile, appended as Ex. H to Carabba Decl.; Affidavit of Fredda Malena dated April 7, 2010 (“Malena Aff. I”) ¶ 6, appended as Ex. GG to Carabba Decl.) 
+
+O’Malley praised Malena’s performance in various notes to Malena.  (See Carabba Decl., Exs. I, J, K, L, M, N, O, P, Q.)  Malena also received an “Impact Award,” recognizing how she had “touched everyone with her amazing, can-do attitude, her enthusiastic creativity, her boisterous spirit and her constant drive to help the company flourish” and how she “consistently [went] above and beyond the call of duty by supporting not only [O’Malley] but also [O’Malley’s] direct reports and [was] quick to help anyone and everyone on the creative team in any capacity possible.”  (See Impact Award, appended as Ex. R to Carabba Decl.; Impact Award remarks, appended as Ex. S to Carabba Decl.)  Malena’s 2008 performance review shows that she received an overall performance rating of 2, the second-highest of five ratings, about which the review form states, “Few associates fall into this category.  This person always accomplishes results well beyond what is expected.”  (Performance Review Form dated April 16, 2008 at cover, 5, appended as Ex. T to Carabba Decl.) 
+
+ 
+
+Malena became pregnant and took maternity leave, which began in late July 2008.  (Malena Aff. II ¶ 10; Transcript of April 16, 2010 Deposition of Beth Fallacaro (“Fallacaro Tr.”), appended as Ex. D to Carabba Decl. and as Ex. 5 to Griffaton Decl. I, at 117; FMLA Approval Letter, appended as Ex. II to Carabba Decl.)  Malena testified that, shortly after she announced her pregnancy, a “coldness develop[ed]” in her relationship with O’Malley.  (Transcript of June 29, 2010 Deposition of Fredda Malena (“Malena Tr.”), appended as Ex. B to Carabba Decl. and as Ex. 3 to Griffaton Decl. I, at 241.) 
+
+Upon Malena’s return from maternity leave, O’Malley began criticizing her for issues that had never been problematic before her maternity leave, including Malena’s clothing, her purportedly excessive friendliness, and her email etiquette.  (See Malena Tr. 251, 261-62; Malena Aff. II ¶¶ 5-8, 13; O’Malley Tr. at 298; January 16, 2009 Email from Fredda Malena, appended as Ex. W to Carabba Decl.; Undated Email from Fredda Malena to Ann O’Malley, appended as Ex. V to Carabba Decl.)  Malena testified that O’Malley never mentioned Malena’s pregnancy in Malena’s presence (Malena Aff. II ¶ 4; Malena Tr. at 243), but prohibited Malena from posting pictures of her children and coworkers’ children in her cubicle as she had done before her maternity leave (Malena Aff. II ¶¶ 8, 13). 
+
+O’Malley met with the human resources (“HR”) manager assigned to her group, Beth Fallacaro, on January 15, 2008.  O’Malley told Fallacaro that she was concerned about Malena’s performance and “concerned that a second child may keep her out of the office.”  (Fallacaro Tr. at 226.)  Fallacaro’s hand-written notes from the meeting include these bullet points: “Fredda is not ‘on’ all the time”; “her kid is always sick & taking time off,” followed by “not chronic illness” and “now a second child”; “need someone 24/7 (weekends)”; “not getting support she needs from Fredda”; “finding Jen Pincus to be more supportive and better fit w/ what Ann needs”; “hormonal?  not focused”; “can Fredda keep up w/ pace.”  (Fallacaro Notes dated January 15, 2008, appended as Ex. EE to Carabba Decl.; see also Fallacaro Tr. at 221.)  In her deposition, O’Malley confirmed that she had been concerned about Malena’s absences, purportedly due to her child’s illnesses.  (O’Malley Tr. at 277-78.) 
+
+O’Malley also testified that there had been discussions about the possibility of replacing Malena with Jennifer Pincus, another executive assistant in O’Malley’s group, though O’Malley could not recall the timing of these discussions.  (O’Malley Tr. 346-47.)  A second meeting between O’Malley and Fallacaro took place on September 8, 2008; Fallacaro’s notes from this meeting mention a “possible move” or “switch” of Malena and Pincus.  (Fallacaro Notes dated September 8, 2008, appended as Ex. JJ to Carabba Decl.)  Fallacaro made notes two days later about a discussion with her supervisor, Debra Bierman, about O’Malley and a “confidential search for admin but not too far in advance.”  (Fallacaro Notes dated September 10, 2008, appended as Ex. KK to Carabba Decl.)  O’Malley later testified, “There was no confidential search, just so you know.  There was no confidential search.”  (O’Malley Tr. at 346.) 
+
+The evidence shows that Malena, too, met with Fallacaro in HR and raised concerns about O’Malley’s unfriendly behavior towards her—once in early February 2009 and once “[a]pproximately two days before [Malena] was terminated” in late February 2009.  (Malena Aff. II ¶¶ 15-16.)  However, in these meetings, Malena did not attribute any of O’Malley’s conduct to dissatisfaction with Malena’s pregnancy or maternity leave.  (Malena Tr. at 308 (“There was no way I was going to bring up discrimination to Beth Fallacaro.”).) 
+
+
+
+In February 2009, SBM and VSD both undertook a reduction-in-force (“RIF”).  (Ferrario Decl. I ¶ 12; Foley Decl. I ¶ 13.)  As part of the associated restructuring, numerous employees were reassigned to different jobs.  (Ferrario Decl. I ¶ 13; Foley Decl. I ¶ 14.)  O’Malley’s group, which had been at SBM, was returned to VSD.  (Ferrario Decl. I ¶ 14-15; Foley Decl. I ¶ 15-16.)  Then, thirty-two VSD employees, including Malena, were terminated in the RIF.  (Ferrario Decl. I ¶ 13; Foley Decl. I ¶ 14.) 
+
+Defendants have adduced evidence that all decisions about terminations in the VSD RIF were made by VSD’s CEO Pia Ferrario and VSD’s Senior Vice President of Human Resources Sheena Foley.  (Ferrario Decl. I ¶ 16; Foley Decl. I ¶ 17.)  Ferrario and Foley had been given a dollar figure by which they were to reduce VSD’s costs.  (Ferrario Decl. I ¶ 17; Foley Decl. I ¶ 18.)  The two held discussions with various managers, including O’Malley, regarding which employees were critical to the Victoria’s Secret business.  (Ferrario Decl. I ¶ 19; Foley Decl. I ¶ 20.)  However, Ferrario and Foley insist that they did not ask O’Malley about the people in her own group, including Malena, because O’Malley did not then know that she would be demoted to her previous position at VSD, that her group would be returned to VSD, or that her group would be at all affected by the restructuring.  (Ferrario Decl. I ¶¶ 19-21; Foley Decl. I ¶¶ 21-22.)  They stress that O’Malley “was not . . . involved in, asked about, or a decision maker with regard to her own team.”  (Foley Decl. I ¶ 22; see also Ferrario Decl. I ¶ 21; O’Malley Tr. at 364-85.)  The RIF and its consequences were announced to VSD employees on February 25 and 26, 2009; only days before, SBM leadership had informed O’Malley that she would be returned to VSD.  (Ferrario Decl. I ¶ 15; Foley Decl. I ¶ 16.) 
+
+In materially identical language, Ferrario and Foley explain their decision to terminate Malena this way: 
+
+Before the 2009 RIF, Lynette Cortez’s role was Senior Vice President for Creative Services of VSD, reporting directly to Ms. Ferrario (the CEO).  At that time, Jennifer Pincus was employed as Cortez’s administrative assistant; Pincus earned $55,000 annually. . . .  After the restructuring, Cortez was demoted to a position that would instead report to O’Malley.  Due to Cortez’s demotion, Cortez was no longer senior enough to have an assistant (Pincus). . . .  This meant that Creative Services for VSD had two assistants—Malena and Pincus—but only one open assistant position, the one reporting to O’Malley. . . .  Ms. Ferrario and [Ms. Foley] selected Pincus as O’Malley’s assistant for O’Malley’s new, reduced role, and [they] identified Malena to be terminated as part of the RIF, because Malena’s salary was $75,000 and Pincus’ salary was $55,000. 
+
+ 
+
+(Foley Decl. I ¶¶ 23-26; see also Ferrario Decl. I ¶¶ 22-25.)  Foley and Ferrario also averred that, “[i]n the year prior to the RIF, 17 associates from VSD took FMLA leave for reasons related to pregnancy, birth, or adoption; only two of those 17 associates (including Malena) were terminated as part of the RIF” and that “to the best of [Ferrario and Foley’s] knowledge, none of the other 31 individuals at VSD who lost their jobs in the 2009 RIF were pregnant.”  (Foley Decl. I ¶¶ 29-30; Ferrario Decl. I ¶ 27.) 
+
+
+
+ According to evidence adduced by Defendants and not refuted by Plaintiff, O’Malley did not have authority to hire or fire Plaintiff; did not maintain employment records; did not classify employees as being exempt or non-exempt from federal or state overtime pay requirements; did not have sole authority to set her associates’ salary, working hours, or schedules; and did not accept, process, or approve associates’ requests for FMLA leave.  (Foley Decl. I ¶¶ 32-36.) 
+
+ Plaintiff’s Interrogatory Number 5 asked Defendants to “[i]dentify all persons who have knowledge of any facts and/or circumstances relating to the cessation of Plaintiff’s employment with Defendants.”  (Defendants’ Responses to Plaintiff’s First Set of Interrogatories on Individual Claims, appended as Ex. BB to Carabba Decl. (“Interrogatory Responses I”), at 6.)  While objecting that the “request exceed[ed] the parameters of permissible discovery under Local Rule 33.3(a),” Defendants responded: 
+
+Plaintiff 
+
+Ann O’Malley 
+
+Beth Fallacaro 
+
+Debra Bierman 
+
+Sheena Foley 
+
+Pia Ferrario 
+
+ 
+
+(Id.; see also Verification of Ann O’Malley, appended as Ex. DD to Carabba Decl.) 
+
+ Plaintiff’s Interrogatory Number 6 asked Defendants to “[i]dentify all persons involved in the decision to reassign some, but not all of the employees in Plaintiff’s department.” (Interrogatory Responses I at 6.)  Defendants responded: 
+
+Ann O’Malley 
+
+Sheena Foley 
+
+Pia Ferrario 
+
+ 
+
+(Id. at 7.)  With the filing of their reply papers, Defendants amended their answer to Interrogatory Number 6 to remove O’Malley’s name from the list given above and to explain that “Ann O’Malley provided some input into the reorganization process regarding certain associates of Victoria’s Secret Direct, but not regarding the four-person department” of O’Malley, Malena, and two others.  (Defendants’ Amended Response to Plaintiff’s First Set of Interrogatories on Individual Claims (“Amended Interrogatory Response”), appended as Ex. 6 to Reply Declaration of Michael G. Long, Dkt. No 95.)  
+
+II. Legal Standard for Summary Judgment 
+
+Summary judgment is appropriate where “the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.”  Fed. R. Civ. P. 56(a).  The “mere existence of some alleged factual dispute between the parties will not defeat an otherwise properly supported motion for summary judgment; the requirement is that there be no genuine issue of material fact.”  Scott v. Harris, 550 U.S. 372, 380 (2007) (internal quotation marks and citation omitted).  “A fact is ‘material’ when it might affect the outcome of the suit under governing law,” and “[a]n issue of fact is ‘genuine’ if the evidence is such that a reasonable jury could return a verdict for the nonmoving party.”  McCarthy v. Dun & Bradstreet Corp., 482 F.3d 184, 202 (2d Cir. 2007) (internal quotation marks and citation omitted). 
+
+When determining whether a genuine dispute of material fact exists, a court must view the facts in the light most favorable to the non-moving party and draw all reasonable inferences in that party’s favor.  See Fincher v. Depository Trust & Clearing Corp., 604 F.3d 712, 720 (2d Cir. 2010). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ This discussion addresses in turn (1) Plaintiff’s claims against the Corporate Defendants for discrimination and retaliation; (2) her claims against O’Malley for discrimination and retaliation; (3) her claims for aiding and abetting pregnancy discrimination; (4) her spread-of-hours claim; and (5) certain claims that Plaintiff has withdrawn in the face of Defendants’ motions. 
+
+ 
+
+Against the Corporate Defendants, Malena asserts claims for pregnancy discrimination under the NYSHRL and NYCHRL and for retaliation under the FMLA and NYSHRL and NYCHRL. 
+
+ 
+
+Though neither the NYSHRL nor the NYCHRL explicitly names pregnancy as a type of actionable discrimination, courts have deemed pregnancy discrimination actionable under both laws.  See Elaine W. v. Joint Disease N. Gen. Hosp., Inc., 81 N.Y.2d 211, 216, 613 N.E.2d 523 (1993) (explaining that, under the NYSHRL, “distinctions based solely upon a woman’s pregnant condition constitute sexual discrimination”); Caralp v. Credit Agricole Cheuvreux North America, Inc., 2009 N.Y. Misc. LEXIS 4575, at *8, 2009 N.Y. Slip Op 30174 [U] (N.Y. Sup. Ct. Jan. 26, 2009) (stating that “without question,” under both NYSHRL and NYCHRL, “Plaintiff is female and was pregnant, and so is and was a member of a protected class”); Wenping Tu v. Loan Price Corp., 21 Misc 3d 1104[A], at *6, 873 N.Y.S.2d 238, 2008 N.Y. Misc. LEXIS 5606 (N.Y. Sup. Ct., September 23, 2008) (recognizing an NYCHRL claim for discriminatory hostile environment because of pregnancy, stating that the City Law “was designed to be more protective than its State and Federal counterparts”). 
+
+Pregnancy discrimination claims under the NYSHRL and NYCHRL are analyzed using the three-step burden-shifting framework established in McDonnell Douglas v. Green, 411 U.S. 792 (1973).  See Lambert v. McCann Erickson, 543 F. Supp. 2d 265, 277 (S.D.N.Y. 2008) (citing Weinstock v. Columbia University, 224 F.3d 33, 42 n.1 (2d Cir. 2000); Kerzer v. Kingly Mfg., 156 F.3d 396, 400-01 (2d Cir.1998)); Kerman-Mastour v. Fin. Indus. Regulatory Auth., Inc., 814 F. Supp. 2d 355, 366 (S.D.N.Y. 2011) (explaining that, though the NYCHRL has broader scope than the NYSHRL and federal law, “[i]n analyzing whether a plaintiff has raised a triable issue of fact as to whether her termination was motivated by discriminatory animus under the NYCHRL, the courts have continued to employ the familiar burden-shifting analysis of McDonnell Douglas . . .”). 
+
+Under the McDonnell Douglas framework,  
+
+plaintiff must first establish a prima facie case of discrimination.  Plaintiff may do so by showing that: (1) she is a member of a protected class; (2) she satisfactorily performed the duties required by the position; (3) she was discharged; and (4) her position remained open and was ultimately filled by a non-pregnant employee.  A plaintiff may also establish the fourth element by demonstrating that the discharge occurred in circumstances giving rise to an inference of unlawful discrimination.  A plaintiff’s burden to establish a prima facie case of discrimination is de minimis. 
+
+ 
+
+Lambert, 543 F. Supp. 2d at 277 (internal quotation marks and citation omitted).  “Plaintiff must also be able to point to some admissible evidence from which a rational jury could infer that the employer knew that the plaintiff was pregnant.”  Id.  “Once a plaintiff meets this initial burden, the burden then shifts to the defendant to offer a legitimate nondiscriminatory reason for the termination.  If defendant does so, the burden returns to the plaintiff to show that the real reason for plaintiff’s termination was [her pregnancy].”  Kerman-Mastour, 814 F. Supp. 2d at 366.  This final burden “may often be carried by reliance on the evidence comprising the prima facie case, without more.”  Cronin v. Aetna Life Ins. Co., 46 F.3d 196, 203 (2d Cir. 1995). 
+
+“To avoid summary judgment in an employment discrimination case, the plaintiff is not required to show that the employer’s proffered reasons were false or played no role in the employment decision, but only that they were not the only reasons and that the prohibited factor was at least one of the ‘motivating’ factors.”  Holcomb v. Iona College, 521 F.3d 130, 138 (2d Cir. 2008) (citing Cronin, 46 F.3d at 203; Holtz v. Rockefeller & Co., Inc., 258 F.3d 62, 78 (2d Cir. 2001).3  The employer “may still raise the defense . . . that it would have [terminated Plaintiff] regardless of her [pregnancy].  But the validity of this defense is ordinarily for the jury to decide at trial rather than for the court to determine on a motion for summary judgment.”  Holtz, 258 F.3d at 79 (citation omitted).  Indeed, the Second Circuit has “repeatedly expressed the need for caution about granting summary judgment to an employer in a discrimination case where . . . the merits turn on a dispute as to the employer’s intent.”  Holcomb, 521 F.3d at 137. 
+
+3 This rule is not inconsistent with St. Mary’s Honor Ctr. v. Hicks, 509 U.S. 502 (1993), which explains that “a reason cannot be proved to be a pretext for discrimination unless it is shown both that the reason was false, and that discrimination was the real reason.”  Id. at 515 (internal quotation marks omitted).  St. Mary’s governs where a plaintiff seeks to show pretext, but “a plaintiff who . . . claims that the employer acted with mixed motives is not required to prove that the employer’s stated reason was a pretext.”  Holcomb, 521 F.3d at 137.  Pretext is but one way to raise a genuine issue of material fact whether the adverse action was motivated by discriminatory intent.  The question in St. Mary’s was whether evidence that a proffered nondiscriminatory reason was false—in the absence of evidence of discriminatory intent—could be sufficient to reestablish a presumption of unlawful discrimination.  It cannot.  St. Mary’s, 509 U.S. 502.  But evidence that discriminatory intent was one factor motivating the employer’s decision can, by itself, make summary judgment for the employer inappropriate. 
+
+It is well settled in the Second Circuit that,  
+
+[b]ecause writings directly supporting a claim of intentional discrimination are rarely, if ever, found among an employer’s corporate papers, affidavits and depositions must be carefully scrutinized for circumstantial proof which, if believed, would show discrimination.  However, even in such cases, a [p]laintiff must provide more than conclusory allegations of discrimination to defeat a motion for summary judgment, and show more than some metaphysical doubt as to the material facts. 
+
+ 
+
+Britt v. Merrill Lynch & Co., 2011 U.S. Dist. LEXIS 96881, at *20-21 (S.D.N.Y. Aug. 26, 2011) (citing, inter alia, Gorzynski v. Jetblue Airways Corp., 596 F.3d 93, 101 (2d Cir.2010)) (internal quotation marks and additional citations omitted). 
+
+  a. Plaintiff’s Prima Facie Case 
+
+Defendants “assum[e], for the purposes of summary judgment only, that Plaintiff could establish a prima facie case of pregnancy discrimination.”  (Defs.’ Br., Dkt. No. 77, at 11.)  Plaintiff has adduced evidence that she was pregnant and that her employer knew that she was pregnant when it approved her FMLA maternity leave.  She has shown that she received an award and various forms of praise for her job performance before her pregnancy.  She has shown that she was terminated, and she has shown that some of the circumstances surrounding her termination—O’Malley’s expression of concern to HR about Plaintiff’s pregnancy and hormones—give rise to an inference of unlawful discrimination.  Plaintiff has met the de minimis burden of establishing a prima facie case of pregnancy discrimination, creating a presumption of discrimination. 
+
+  b. Legitimate Nondiscriminatory Reason 
+
+Plaintiff concedes that Defendants have proffered a legitimate, nondiscriminatory reason for terminating Plaintiff’s employment: the company’s cost-saving reduction-in-force.  (Pl.’s Br., Dkt. No. 90, at 14.)  The RIF was a legitimate, nondiscriminatory reason for Plaintiff’s termination and is sufficient to overcome the presumption of discrimination created by Plaintiff’s prima facie case.  See, e.g., Sabatino v. Flik Int’l Corp., 286 F. Supp. 2d 327, 334 (S.D.N.Y. 2003) (agreeing with the “many courts [that] have found that a reduction in workforce for financial reasons is sufficient to fulfill a defendants’ burden of production” under the McDonnell Douglas framework).  
+
+  c. Discriminatory Motivation for Termination 
+
+Though the presumption of discrimination has dropped away, Plaintiff “may still prevail by showing, without the benefit of the presumption, that the employer’s determination was in fact the result of . . . discrimination.”  Holcomb, 521 F.3d at 138.  Defendants argue that Plaintiff cannot meet this burden because there is no evidence imputing O’Malley’s potentially discriminatory intent to Ferrario and Foley, who made the decision to terminate Plaintiff.  It is true that no evidence indicates that Ferrario or Foley knowingly acted with any impermissible intent.  The question then arises whether the Corporate Defendants are entitled to summary judgment or whether Ferrario and Foley’s termination of Plaintiff, even if executed with an innocent state of mind, might nonetheless have been tainted by animus attributable to O’Malley. 
+
+The Supreme Court recently “consider[ed] the circumstances under which an employer may be held liable for employment discrimination based on the discriminatory animus of an employee who influenced, but did not make, the ultimate employment decision.”  Staub v. Proctor Hosp., 131 S. Ct. 1186, 1189 (2011).  The Court concluded that, “if a supervisor performs an act motivated by [discriminatory] animus that is intended by the supervisor to cause an adverse employment action, and if that act is a proximate cause of the ultimate employment action, then the employer is liable” under applicable nondiscrimination law.4  Id. at 1194.  “Proximate cause requires only some direct relation between the injury asserted and the injurious conduct alleged, and excludes only those link[s] that are too remote, purely contingent, or indirect.”  Id. at 1192 (internal quotation marks and citation omitted).  Further, “it is common for injuries to have multiple proximate causes.”  Id. (citation omitted). 
+
+4 Though Staub concerned the Uniformed Services Employment and Reemployment Rights Act of 1994, 38 U.S.C. § 4301 et seq., Plaintiff and at least the Corporate Defendants agree that the case applies here.  (See Pl.’s Br. at 20-21; Defs.’ Reply Br., Dkt. No. 94, at 2-3 n.1.) 
+
+Here, Plaintiff has adduced evidence that, months prior to her termination, agents of the Corporate Defendants discussed a “confidential search for [an] admin” to replace Plaintiff.  (Fallacaro Notes dated September 10, 2008.)  She has shown that O’Malley met with an HR official on two occasions to express “concerns” about Malena’s pregnancy, hormones, and parental obligations.  (Id.; Fallacaro Notes dated January 15, 2008; Fallacaro Notes dated September 8, 2008; Fallacaro Tr. at 221.) 
+
+Ferrario and Foley have averred that O’Malley “was not . . . involved in, asked about, or a decision maker with regard to” Plaintiff’s termination.  (Foley Decl. I ¶ 22; Ferrario Decl. I ¶ 21; see also O’Malley Tr. at 364-85.)  But Defendants have not adduced evidence that, in deciding to terminate Malena, Ferrario and Foley did not consider (or were unaware of) O’Malley’s dissatisfaction with Malena and/or a confidential HR plan to replace Plaintiff.  
+
+Defendants argue that Plaintiff is relying only on her own speculation that Ferrario and Foley were influenced by O’Malley’s potential bias against Malena.  And that argument may well be persuasive at trial.  For now, however, no evidence shows that O’Malley’s potential bias did not influence the decision to terminate Malena or that it did.  Given such a gap in the evidence, the Court must make all reasonable inferences in favor of the non-moving party—here, the plaintiff.  It is not unreasonable to infer that Ferrario and especially HR chief Foley would have learned about O’Malley’s dissatisfaction with Plaintiff, which O’Malley reported to HR.  Malena may have an uphill battle at trial to show that O’Malley’s reports to HR, “motivated by [discriminatory] animus” and “intended . . . to cause an adverse employment action,” were “a proximate cause” of her termination.  Staub, 131 S. Ct. at 1194.  But Defendants have not adduced evidence that O’Malley’s potentially animus-motivated actions were not a proximate cause for the termination—only that financial concerns were.  Thus, the evidence currently before the Court does not entitle the Corporate Defendants to summary judgment on Plaintiff’s discrimination claims. 
+
+ 
+
+ 
+
+ 
+
+Malena also claims that, in violation of the FMLA, the Corporate Defendants retaliated against her for taking maternity leave.  FMLA retaliation claims are also analyzed using the McDonnell Douglas burden-shifting test.  Potenza v. City of New York, 365 F.3d 165, 167 (2d Cir. 2004). 
+
+ 
+
+To make out a prima facie case of retaliation under the FMLA, a plaintiff must establish that: (1) she exercised rights protected under the FMLA; (2) she was qualified for her position; (3) she suffered an adverse employment action; and (4) the adverse employment action occurred under circumstances giving rise to an inference of retaliatory intent.  Id. at 168. 
+
+Plaintiff has shown that she took maternity leave pursuant to the FMLA.  As discussed above vis-à-vis her pregnancy discrimination claims, she has shown that she was qualified for her position and that she suffered an adverse employment action in the form of her termination.  And Malena has adduced evidence that O’Malley complained to HR that Malena took off too much time to care for her children and was therefore unfit to be O’Malley’s assistant, as well as that O’Malley treated Malena in an unfriendly way after her return from FMLA leave.  A reasonable jury could find that O’Malley’s state of mind included dissatisfaction with Malena’s departure from her job to take maternity leave under the FMLA.  These are circumstances which give rise to an inference of retaliatory intent on O’Malley’s part, which, as discussed above, may be attributable to the Corporate Defendants.  Thus, Plaintiff has met her de minimis burden of stating a prima facie case. 
+
+ 
+
+ 
+
+  
+
+As discussed above vis-à-vis Plaintiff’s pregnancy discrimination claims, the Corporate Defendants have stated a legitimate nondiscriminatory basis on which they might have terminated Malena: the February 2009 reduction-in-force at Victoria’s Secret. 
+
+ 
+
+As also discussed above, Defendants have adduced evidence that the decision-makers in Plaintiff’s termination considered financial reasons for the termination.  However, no evidence shows whether or not those decision-makers also considered O’Malley’s complaints about Plaintiff, which may have been motivated by discriminatory or retaliatory intent.  Just as with Plaintiff’s pregnancy discrimination claims, the Corporate Defendants have failed to show that there is no genuine issue of material fact as to the motivations that were proximate causes of Plaintiff’s termination.  Accordingly, the Corporate Defendants are not entitled to summary judgment on Plaintiff’s FMLA retaliation claim. 
+
+
+
+Plaintiff additionally alleges that the Corporate Defendants “discriminated against Plaintiff in retaliation for, and on account of, her opposing discrimination and asserting her rights under the anti-discrimination laws with respect to compensation, terms, conditions and privileges of employment in violation of the [NYSHRL] and [NYCHRL].”  (Compl. ¶ 92.) 
+
+“Retaliation claims under . . . the State and City Human Rights Laws are analyzed under the same ‘burden-shifting’ framework set forth by the Supreme Court in McDonnell Douglas Corp. v. Green.”  Apionishev v. Columbia Univ. in N.Y., 2012 U.S. Dist. LEXIS 8160, at *27 (S.D.N.Y. Jan. 23, 2012) (citing Spiegel v. Schulmann, 604 F.3d 72, 80 (2d Cir. 2010)).   
+
+The NYSHRL provides that “[i]t shall be an unlawful discriminatory practice for any person engaged in any activity to which this section applies to retaliate or discriminate against any person because he or she has opposed any practices forbidden under this article.”  N.Y. Exec. Law § 296(7).  Here, the relevant “practice forbidden” is “[f]or an employer . . . because of an individual’s [pregnancy] . . . to discriminate against such individual in compensation or in terms, conditions or privileges of employment.”  N.Y. Exec. Law § 296(1)(a). 
+
+To establish a prima facie case of retaliation under the NYSHRL, as under federal employment anti-discrimination law, a plaintiff-employee must show that (1) she engaged in protected activity; (2) the employer was aware of this activity; (3) the employer took adverse action against the employee; and (4) a causal connection exists between the protected activity and the adverse action.  Dumay v. City of New York, 2011 U.S. Dist. LEXIS 118932, at *24-25 (S.D.N.Y. Oct. 13, 2011).  “‘[G]eneral corporate knowledge that the plaintiff has engaged in protected activity’ is sufficient.”  Holland v. City of New York, DoITT, 2011 U.S. Dist. LEXIS 144941, at *25-26 (S.D.N.Y. Dec. 15, 2011) (quoting Patane v. Clark, 508 F.3d 106, 115 (2d Cir. 2007)).5 
+
+5 General corporate knowledge is insufficient, however, if there is an “absence of any evidence of causation.”  Britt v. Merrill Lynch & Co., 2011 U.S. Dist. LEXIS 96881, at *48-49 (S.D.N.Y. Aug. 26, 2011); see also Gordon v. New York City Bd. of Educ., 232 F.3d 111, 117 (2d Cir. 2000) (“The lack of knowledge on the part of particular individual agents is admissible as some evidence of a lack of a causal connection, countering plaintiff’s circumstantial evidence of proximity or disparate treatment.”); Murray v. Visiting Nurse Servs. of N.Y., 528 F. Supp. 2d 257, 271 (S.D.N.Y. 2007) (“[D]istrict courts have consistently held that, with regard to the causation prong of the prima facie standard, absent any evidence to support an inference that the decisionmakers knew of plaintiff’s complaints, plaintiff cannot rely on circumstantial evidence of knowledge as evidence of causation.”). 
+
+As to the NYCHRL, the traditional view held that “the Federal civil rights statute proscribing retaliation (42 USC § 2000e-3 [a]) and Administrative Code § 8-107 (7) are virtually identical.”  Pace Univ. v. New York City Comm’n on Human Rights, 200 A.D.2d 173, 182, 611 N.Y.S.2d 835 (N.Y. App. Div. 1994), rev’d on other grounds, 85 N.Y.2d 125 (1995).  However, the Local Civil Rights Restoration Act of 2005, N.Y.C. Local Law No. 85 (2005) (the “Restoration Act”) amended the NYCHRL to confirm the legislative intent to eliminate “parallelism” between the NYCHRL and the federal and state anti-discrimination laws: 
+
+The provisions of this . . . title shall be construed liberally for the accomplishment of the uniquely broad and remedial purposes thereof, regardless of whether federal or New York State civil and human rights laws, including those laws with provisions comparably-worded to provisions of this title, have been so construed. 
+
+ 
+
+Restoration Act § 7.  Thus, NYCHRL claims must be “reviewed independently from and ‘more liberally’ than their federal and state counterparts.”  Loeffler v. Staten Island Univ. Hosp., 582 F.3d 268, 278 (2d. Cir. 2009) (citing Williams v. New York City Hous. Auth., 61 A.D.3d 62, 66-69, 872 N.Y.S.2d 27 (N.Y. App. Div. 2009)). 
+
+The text of the NYCHRL provides that “[i]t shall be an unlawful discriminatory practice for any person engaged in any activity to which this chapter applies to retaliate or discriminate in any manner against any person because such person has (i) opposed any practice forbidden under this chapter.”  NYCHRL § 8-107(7).  “The [NY]CHRL is slightly more solicitous of retaliation claims than federal and state law because, rather than requiring a plaintiff to show an ‘adverse employment action,’ it only requires him to show that something happened that was ‘reasonably likely to deter a person from engaging in protected activity.’”  Rozenfeld v. Dep’t of Design & Constr., 2012 U.S. Dist. LEXIS 97030, at *37 (E.D.N.Y. July 11, 2012) (citation omitted).  Otherwise, a prima facie case of retaliation faces the same requirements under the NYCHRL as under the NYSHRL.  See id. 
+
+ 
+
+As discussed above, it is not in dispute that Plaintiff’s termination was an adverse employment action.  To state a prima facie case of retaliation under the NYSHRL and NYCHRL, Plaintiff must adduce evidence that she engaged in protected activity by voicing concerns to Fallacaro in HR about O’Malley’s negative treatment of her, that her employer was aware of this activity, and that there was a causal connection between the protected activity and her termination. 
+
+Malena’s affidavit states that she twice raised concerns about O’Malley’s behavior with Fallacaro, once in early February 2009 and once “[a]pproximately two days before [she] was terminated” in late 2009.  (Malena Aff. II ¶¶ 15-16.)  However, in these visits, Malena never characterized any of O’Malley’s behavior as discriminatory or related to Malena’s pregnancy or maternity leave.  (Malena Tr. at 308 (“There was no way I was going to bring up discrimination to Beth Fallacaro.”).)   
+
+It is true that “[n]ot every complaint garners its author protection under [anti-discrimination laws]” and that, generally, “[w]hile no ‘magic words’ are required, the complaint must in some way allege unlawful discrimination, not just frustrated ambition.”  Broderick v. Donaldson, 437 F.3d 1226, 1232 (D.C. Cir. 2006) (citation omitted); see also Miller v. Am. Family Mut. Ins. Co., 203 F.3d 997, 1008 (7th Cir. 2000) (“An employee can honestly believe she is the object of discrimination, but if she never mentions it, a claim of retaliation is not implicated, for an employer cannot retaliate when it is unaware of any complaints.”).6 
+
+6 See also Ramos v. City of New York, 1997 U.S. Dist. LEXIS 10538, at *7 (S.D.N.Y. July 21, 1997) (“While there are no magic words that must be used when complaining about a supervisor, in order to be protected activity the complainant must put the employer on notice that the complainant believes that discrimination is occurring. . . .  To be actionable, the unfair treatment must be due to one’s membership in a protected class and the complaint must make that point sufficiently clear.”); Long v. Russell County Comm’n, 2010 U.S. Dist. LEXIS 136618, at *49-51 (M.D. Ala. Dec. 27, 2010) (“[T]o engage in protected activity, the employee must still, ‘at the very least, communicate her belief that discrimination is occurring to the employer,’ and cannot rely on the employer to ‘infer that discrimination has occurred.’” . . .  [A]n employer is put on notice of discrimination by the content of the discussion, not by unspoken motivations.” (quoting Demers v. Adams Homes of Nw. Florida, Inc., 321 F. App’x. 847, 852 (11th Cir. 2009)). 
+
+However, there are times when even inaction can constitute protected activity for retaliation purposes under federal anti-discrimination law.  See, e.g., Crawford v. Metro. Gov’t of Nashville & Davidson County, Tenn., 555 U.S. 271, 277 (2009) (stating that, with regard to Title VII’s prohibition against retaliation for “opposition” to discrimination, “we would call it ‘opposition’ if an employee took a stand against an employer’s discriminatory practices not by ‘instigating’ action, but by standing pat, say, by refusing to follow a supervisor’s order to fire a junior worker for discriminatory reasons”); McDonnell v. Cisneros, 84 F.3d 256, 262 (7th Cir. 1996) (concluding that Title VII prohibits retaliation “where the employer retaliate[d] against an employee for having failed to prevent the filing of a complaint” by another). 
+
+Here, though Plaintiff did not mention discrimination in her HR complaints, her complaints about O’Malley’s treatment of her were lodged with the very HR official with whom O’Malley had raised concerns about Plaintiff’s pregnancy, parental obligations, hormones, and professional abilities.  Though Malena did not voice her suspicions that discriminatory intent lay behind O’Malley’s negative treatment of Malena, there is evidence that Fallacaro already knew that O’Malley may have harbored discriminatory intent toward Plaintiff.  Thus, the evidence permits a finding that, in voicing concerns to Fallacaro, Plaintiff “opposed . . . practices forbidden under [the NYSHRL and NYCHRL],” i.e., what may have been pregnancy-motivated discrimination by O’Malley “in terms, conditions or privileges of employment.”  N.Y. Exec. Law §§ 296(1), (7); NYCHRL § 8-107(1), (7).  And since “general corporate knowledge that the plaintiff has engaged in protected activity is sufficient,” Holland, 2011 U.S. Dist. LEXIS 144941, at *25-26, evidence of Fallacaro’s existing knowledge of O’Malley’s state of mind constitutes evidence that the Corporate Defendants knew that Plaintiff had opposed negative treatment which, they knew, may have been motivated by discriminatory animus.  Plaintiff has thus made a sufficient showing at this stage that she engaged in protected activity and that the Corporate Defendants were aware of that activity. 
+
+Plaintiff may show that retaliation for her protected activity caused her termination “either: (1) indirectly, by showing that the protected activity was followed closely by discriminatory treatment, or through other circumstantial evidence such as disparate treatment of fellow employees who engaged in similar conduct; or (2) directly, through evidence of retaliatory animus directed against the plaintiff by the defendant.”  Gordon v. N.Y. City Bd. of Ed., 232 F.3d 111, 117 (2d Cir. 2000) (citing Cosgrove v. Sears, Roebuck & Co., 9 F.3d 1033, 1039 (2d Cir. 1993)).  Here, Plaintiff’s visits to Fallacaro in HR occurred approximately three weeks before her termination and two days before her termination.  The proximity of these visits and the adverse employment action create an inference of a causal relationship between them.  See Gorzynski, 596 F.3d at 110 (“Though this Court has not drawn a bright line defining, for the purposes of a prima facie case, the outer limits beyond which a temporal relationship is too attenuated to establish causation, we have previously held that five months is not too long to find the causal relationship.” (citation omitted)). 
+
+Accordingly, Plaintiff has stated a prima facie case of retaliation under the NYSHRL and the NYCHRL. 
+
+
+
+As discussed above vis-à-vis Plaintiff’s claims of pregnancy discrimination and FMLA retaliation, the Corporate Defendants have stated a legitimate nondiscriminatory basis on which they might have terminated Malena: the February 2009 reduction-in-force at Victoria’s Secret. 
+
+n 
+
+As also discussed above, Defendants have adduced evidence that the decision-makers in Plaintiff’s termination considered financial reasons for the termination.  However, no evidence shows whether or not those decision-makers also considered O’Malley’s complaints about Plaintiff, which may have been motivated by discriminatory or retaliatory intent; nor does any evidence show whether or not the decision-makers considered the complaints Plaintiff made to HR about O’Malley immediately before the Corporate Defendants terminated Plaintiff.  Just as with Plaintiff’s claims of pregnancy discrimination and FMLA retaliation, the Corporate Defendants have failed to show that there is no genuine issue of material fact as to the motivations for Plaintiff’s termination.  Accordingly, the Corporate Defendants are not entitled to summary judgment on Plaintiff’s NYSHRL and NYCHRL retaliation claims. 
+
+y 
+
+For the reasons discussed below, O’Malley cannot be held directly liable on Plaintiff’s FMLA retaliation and NYSHRL discrimination claims, but she may be liable for retaliation under the NYSHRL and for discrimination and retaliation under the NYCHRL 
+
+
+
+A person can face individual liability under the FMLA only if that person is an “employer.”  See Smith v. Westchester County, 769 F. Supp. 2d 448, 475 (S.D.N.Y. 2011).  The term “employer,” in this context, can include “any person who acts directly or indirectly in the interest of an employer to any of the employer’s employees,” 29 C.F.R. § 825.104(d), but to determine whether an individual qualifies as an individual employer acting “in the interest of [another] employer,” courts in this Circuit have adopted an “economic reality” test, Smith, 769 F. Supp. 2d at 475.  
+
+Under this test, to determine whether a person or entity is an employer, courts consider whether the alleged employer “(1) had the power to hire and fire the employees, (2) supervised and controlled employee work schedules or conditions of employment, (3) determined the rate and method of payment, and (4) maintained employment records.”  Herman v. RSR Sec. Servs., Ltd., 172 F.3d 132, 139 (2d Cir.1999) (internal quotation marks and citation omitted).  “No one of the four factors standing alone is dispositive.  Instead, the ‘economic reality’ test encompasses the totality of circumstances . . . .”  Id. (citation omitted).  The Second Circuit has clarified that its cases do not “support[] the application of a rigid four-part test” and that the four factors above “can be sufficient to establish employer status” but are not “necessary to establish an employment relationship.”  Ling Nan Zheng v. Liberty Apparel Co. Inc., 355 F.3d 61, 69 (2d Cir. 2003).  On the other hand, to grant summary judgment to a defendant, “the Court need not decide that every factor weighs” in the defendant’s favor.  Id. at 77. 
+
+According to evidence adduced by Defendants and not refuted by Plaintiff, O’Malley (1) did not have authority to hire or fire Plaintiff, (2) did not have sole authority to set Plaintiff’s working hours or schedule, did not classify employees as being exempt or non-exempt from federal or state overtime pay requirements, and did not accept, process, or approve associates’ requests for FMLA leave; (3) did not have sole authority to set Plaintiff’s salary; and (4) did not maintain employment records.  (Foley Decl. I ¶¶ 32-36.) 
+
+To be sure, O’Malley was Malena’s boss and hence supervised her schedule and conditions of employment.  And she played a part in setting Plaintiff’s salary.  (See Performance Review Form dated April 16, 2008.) 
+
+But in view of all the circumstances, O’Malley was not, in economic reality, Malena’s employer.  Accordingly, O’Malley cannot be liable for the FMLA retaliation that Plaintiff alleges.  O’Malley’s motion for summary judgment is granted as to this claim. 
+
+
+
+Again, under the NYSHRL’s Section 296(1)(a), it is “an unlawful discriminatory practice: (a) [f]or an employer . . . because of an individual’s . . . sex [or pregnancy] . . . to discharge from employment such individual or to discriminate against such individual in compensation or in terms, conditions or privileges of employment.”  N.Y. Exec. Law § 296(1). 
+
+Individual liability may lie under § 296(1) but is “limited to individuals with ownership interest or supervisors, who themselves, have the authority to hire and fire employees.”  Banks v. Corr. Servs. Corp., 475 F.Supp.2d 189, 199 (E.D.N.Y. 2007) (internal quotation marks and citation omitted); see also Hubbard v. No Parking Today, Inc., No. 08 Civ. 7228 (DAB), 2010 U.S. Dist. LEXIS 101218, at *29-30 (S.D.N.Y. Sept. 22, 2010); Patrowich v. Chemical Bank, 63 N.Y.2d 541, 542, 483 N.Y.S.2d 659, 473 N.E.2d 11 (1984) (per curiam); Tomka v. Seiler Corp., 66 F.3d 1295, 1317 (2d Cir. 1995) (citing Patrowich). 
+
+As discussed above, the evidence shows that O’Malley did not have authority to hire or fire Plaintiff or to unilaterally set Plaintiff’s schedule, hours, or salary.  No evidence shows that O’Malley had an ownership interest in Victoria’s Secret or any of its subsidiaries.  Accordingly, O’Malley cannot be held directly liable as an employer under the NYSHRL’s § 296(1) and is granted summary judgment on Plaintiff’s discrimination claim pursuant to that section. 
+
+ 
+
+The NYSHRL also provides that it is “an unlawful discriminatory practice for any person engaged in any activity to which this section applies to retaliate or discriminate against any person because he or she has opposed any practices forbidden under this article.”  N.Y. Exec. Law § 296(7).  O’Malley may be subject to liability under this provision because it applies to “any person,” not only employers. 
+
+The NYCHRL provides a broader basis for direct individual liability than the NYSHRL.  The NYCHRL makes it unlawful for “an employer or an employee or agent thereof, because of the actual or perceived . . . gender [or pregnancy] . . . of any person . . . to discharge from employment such person or to discriminate against such person in compensation or in terms, conditions or privileges of employment.”  NYCHRL § 8-107(1)(a) (emphasis added).  Thus, the NYCHRL provides for individual liability of an employee “regardless of ownership or decision-making power.”  Banks, 475 F. Supp. 2d at 200 (citing Murphy v. ERA United Realty, 251 A.D.2d 469, 674 N.Y.S.2d 415, 417 (N.Y. App. Div. 1998)).   
+
+However, as is clear from the text of the NYSHRL retaliation provision and the NYCHRL, individual liability under them is limited to cases where “an individual defendant . . . ‘actually participates in the conduct giving rise to’ the plaintiff’s [discrimination or] retaliation claim.”  Hozer v. Pratt Indus. (USA), No. 10 Civ. 3874 (TLM), 2012 U.S. Dist. LEXIS 78811, at *2 n.1 (E.D.N.Y. June 6, 2012) (retaliation) (internal quotation marks and citation omitted); see also Schanfield v. Sojitz Corp. of Am., 663 F. Supp. 2d 305, 344 (S.D.N.Y. 2009) (NYCHRL discrimination). 
+
+As discussed above, the claims against the Corporate Defendants survive summary judgment on the basis that the Corporate Defendants, knowingly or not, may have terminated Plaintiff because of discriminatory or retaliatory intent attributable to O’Malley.  By supplying the intent and the complaints that may have led to Plaintiff’s termination, O’Malley may have “actually participate[d] in the conduct giving rise to the plaintiff’s . . . claim[s].”  Hozer, 2012 U.S. Dist. LEXIS 78811, at *2 n.1; cf. Feingold v. New York, 366 F.3d 138, 158 (2d Cir. 2004) (finding “triable question as to whether each of the named individual defendants ‘actually participate[d]’ in the conduct giving rise to [the] claim of unlawful discrimination in violation of the NYSHRL” where the defendants “merely had the ability to review and comment on the plaintiff’s performance”) (citing Tomka, 66 F.3d at 1317); Chapkines v. N.Y. Univ., No. 02 Civ. 6355 (RJH)(KNF), 2004 U.S. Dist. LEXIS 2990, at *15 (S.D.N.Y. Feb. 25, 2004) (finding, for aiding and abetting purposes, that one defendant “participated in [plaintiff’s termination] by recommending that plaintiff not be reappointed”).  Accordingly, O’Malley is not granted summary judgment as to the direct-liability claims raised against her for retaliation under the NYSHRL or for discrimination and retaliation under the NYCHRL. 
+
+
+
+ In addition to direct liability, the NYSHRL and NYCHRL each provide for aider-and-abettor liability, and Plaintiff raises claims under these provisions as well.  In the complaint, Plaintiff’s aiding-and-abetting claims appear to be raised against both O’Malley and the Corporate Defendants.  (Compl. ¶ 89-90 (alleging “aiding and abetting engaged in by each of the named defendants”).) 
+
+ The NYSHRL’s § 296(6) states that “[i]t shall be an unlawful discriminatory practice for any person to aid, abet, incite, compel or coerce the doing of any of the acts forbidden under this article [including discrimination and retaliation], or to attempt to do so.”  N.Y. Exec. Law § 296(6).  To be liable under § 296(6), an individual employee need not have supervisory or hiring and firing power, but must have “actually participated in the conduct giving rise to the claim.”  Feingold, 366 F.3d at 157.  The NYCHRL’s § 8-107(6) also supports claims for aiding and abetting, which are “susceptible to the same standard as under the NYSHRL, as language of the two laws is virtually identical.”  See Schanfield, 663 F. Supp. 2d at 344 (internal quotation marks and citation omitted). 
+
+
+
+ As discussed above, there is evidence that would allow a jury to infer that O’Malley “actually participated in the conduct giving rise to the claim of discrimination” in the sense that she may have provided the intent and the complaints that may have led to Plaintiff’s termination.  Cf. Chapkines, 2004 U.S. Dist. LEXIS 2990, at *15 (finding, for aiding and abetting purposes, that one defendant “participated in [plaintiff’s termination] by recommending that plaintiff not be reappointed.”)  Therefore, if the Corporate Defendants are indeed liable for discriminating and retaliating against Malena, O’Malley may potentially have “aid[ed], abet[ted], [or] incite[d]” their violation of the human rights laws.  Accordingly, O’Malley is not granted summary judgment as to the aiding-and-abetting claims raised against her under the NYSHRL and the NYCHRL. 
+
+   
+
+ Under the NYSHRL, “[a]n individual may not be held liable . . . merely for aiding and abetting his own discriminatory conduct but only for assisting another party in violating” that law.  Virola v. XO Commc’ns, Inc., No. 05 Civ. 5056 (JG) (RER), 2008 WL 1766601, at *20, 2008 U.S. Dist. LEXIS 30413 (E.D.N.Y. Apr. 15, 2008)).7  This rule applies as well to NYCHRL aider-and-abettor claims.  See Schanfield, 663 F. Supp. 2d at 344 (explaining that claims under both statutes are “susceptible to the same standard”). 
+
+7 See also Chamblee v. Harris & Harris, Inc., 154 F. Supp. 2d 670, 677 n.1 (S.D.N.Y. 2001) (“[A] primary actor cannot be aider and abettor of his own actions . . . .”) (citing Hicks v. IBM, 44 F. Supp. 2d 593, 600 (S.D.N.Y. 1999)); Strauss v. New York State Dep’t of Educ., 26 A.D.3d 67, 73, 805 N.Y.S.2d 704 (N.Y. App. Div. 2005) (“[W]e hold that individuals cannot be held liable under Executive Law § 296(6) for aiding and abetting their own violations of the Human Rights Law.”). 
+
+ Plaintiff’s brief appears to recant her aider-and-abettor claim against the Corporate Defendants.  (See Pl.’s Br. at 22 (“[W]e are seeking direct liability against the Corporate Defendants, as well as direct and aiding and abetting liability against O’Malley.”).)  This recanting is wise because there can be no aider-and-abettor liability as to the Corporate Defendants for aiding and abetting their own conduct.  Nor can there be such liability as to the Corporate Defendants for aiding and abetting O’Malley’s conduct: though O’Malley may be directly liable for retaliation under the NYSHRL or discrimination or retaliation under the NYCHRL, these claims against her are still derivative of the claims against the Corporate Defendants.  This is so because, if the Corporate Defendant’s termination of Malena was not unlawful, then O’Malley cannot be liable for it.  Just as the Corporate Defendants cannot be liable for aiding their own conduct, so too they cannot be liable for aiding O’Malley to aid their own conduct.  Accordingly, the Corporate Defendants are granted summary judgment as to the aider-and-abettor claim against them. 
+
+  
+
+ Plaintiff also raises a claim under New York’s spread-of-hours law, which provides that an “employee shall receive one hour’s pay at the basic minimum hourly wage rate, in addition to the minimum wage required [by New York’s minimum wage law] for any day in which . . . the spread of hours exceeds 10 hours.”  N.Y. Comp. Codes R. & Regs. tit. 12, § 142-2.4. 
+
+ As Magistrate Judge Andrew Peck has noted, “[m]ost courts in this Circuit have ruled that New York’s spread of hours provision applies only to employees earning minimum wage,” though some “[o]ther [c]ourts have applied New York’s spread of hours provision to all employees, even those earning more than minimum wage.”  Li Ping Fu v. Pop Art Int’l Inc., No. 10 Civ. 8562 (DLC) (AJP), 2011 U.S. Dist. LEXIS 113614, at *22-23 (S.D.N.Y. Sept. 19, 2011), report and recommendation adopted in pertinent part by 2011 U.S. Dist. LEXIS 140414 (S.D.N.Y. Dec. 6, 2011) (citation omitted).  Among other reasons, Judge Peck  
+
+agree[d] with the majority view because the language of New York’s spread of hours provision specifically states that the premium is ‘in addition to the minimum wage.’  N.Y. Comp. Codes R. & Regs. tit. 12, § 142-2.4.  ‘It is therefore to be expected that the provision will not affect workers whose total weekly compensation is already sufficiently above the minimum rate.’  Chan v. Triple 8 Palace, Inc., 2006 U.S. Dist. LEXIS 15780, 2006 WL 851749 at *21; see also, e.g., Sosnowy v. A. Perri Farms, Inc., 764 F. Supp. 2d at 474 (‘Based on the Court’s own reading of the statute, the Court agrees with the cases that find that the explicit reference to the “minimum wage” in section 142-2.4 indicates that “the spread-of-hours provision is properly limited to enhancing the compensation of those receiving only the minimum required by law.”’); Espinosa v. Delgado Travel Agency, Inc., 05 Civ. 6917, 2007 U.S. Dist. LEXIS 15149, 2007 WL 656271 at *2 (S.D.N.Y. Mar. 2, 2007) (‘By its plain language, section 142-2.4(a) only provides supplemental wages to workers who are paid the minimum wage required under New York law.  It does not ensure additional compensation to employees whose wages sufficiently exceed that floor.”), modified on other grounds, 2007 U.S. Dist. LEXIS 30676, 2007 WL 1222858 (S.D.N.Y. Apr. 24, 2007). 
+
+Moreover, the New York State Department of Labor (‘DOL’) has issued Opinion Letters interpreting New York’s spread of hours provision as applying only to employees earning minimum wage.  See N.Y.S. Dep’t of Labor 3/16/07 Opinion Letter at 1, File No. RO-07-0009, http://labor.ny.gov/legal/counsel/pdf /Minimum%20Wage%20Orders/RO-07-0009A.pdf (last visited Sept. 16, 2011) 
+
+ 
+
+Li Ping Fu, 2011 U.S. Dist. LEXIS 113614, at *24-25. 
+
+ The Court agrees with Judge Peck’s reasoning that New York’s spread-of-hours law does not apply to plaintiffs who earned substantially more than the minimum wage.  Plaintiff earned $75,000 annually (roughly $36 per hour), well above New York’s minimum wage, which was $7.15 per hour or lower at all times during Plaintiff’s employment at Victoria’s Secret.  See N.Y. Comp. Codes R. & Regs. tit. 12, § 142-2.1(a).  Accordingly, the New York spread-of-hours law does not apply to this case, and Defendants are entitled to summary judgment with regard to Plaintiff’s spread-of-hours claim. 
+
+ 
+
+ Plaintiff has withdrawn three of her claims for (1) failure to keep accurate records under the FLSA, 29 U.S.C. § 211; (2) failure to keep accurate records under the NYSLL, § 195(4); and (3) failure to provide meal breaks under the NYSLL, § 162.2.  (See Pl.’s Br. at 13.)  Accordingly, these claims are dismissed. 
+
+
+
+ For the foregoing reasons, Defendants’ motions are GRANTED in part and DENIED in part. 
+
+ Specifically, the Corporate Defendants’ motion for summary judgment is granted as to the claims for aiding and abetting under the NYSHRL and NYCHRL and for violation of the NYSLL’s spread-of-hours provision.  The Corporate Defendants’ motion is denied in all other respects.  O’Malley’s motion for summary judgment is granted as to the claims for FMLA retaliation, direct liability for discrimination under the NYSHRL, and violation of the NYSLL’s spread-of-hours provision.  O’Malley’s motion is denied in all other respects.  Plaintiff’s withdrawn claims—for failure to keep accurate records under the FLSA, failure to keep accurate records under the NYSLL, and failure to provide meal breaks under the NYSLL—are dismissed. 
+
+ The Clerk of Court is directed to close the motions at docket entry numbers 76 and 82. 
+
+ 
+
+SO ORDERED. 
+
+
+
+ 
+
+
+

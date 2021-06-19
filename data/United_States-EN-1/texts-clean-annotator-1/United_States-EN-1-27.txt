@@ -1,0 +1,808 @@
+
+
+This ruling replaces the Court’s ruling dated September 23, 2014 [Doc. # 381]. 
+
+In this case, Plaintiffs who marketed vacuum cleaners either door-to-door or as telemarketers, sue the manufacturer of the vacuum cleaners under the Fair Labor Standards Act, Connecticut wage and worker protection statutes, and state common law. After a lengthy discovery period, both sides moved for summary judgment. I have reviewed all of the summary judgment papers and have heard oral argument. I have also reviewed supplemental briefs submitted by the parties. Familiarity with the facts is assumed. For the reasons that follow, the Motion for Summary Judgment filed by Defendant The Scott Fetzer Companies d/b/a Kirby (“Kirby”) [doc. # 301] is GRANTED in part and DENIED in part, and the Plaintiffs’ Partial Motion for Summary Judgment [doc. # 305] is DENIED.  
+
+The Court GRANTS Kirby summary judgment on all counts as to the telemarketers, i.e., the “Appointment Setter Plaintiffs”: Count One (FLSA Minimum Wage), Count Two (FLSA Overtime), Count Three (Connecticut Wage Payment Laws – Failure to Pay Minimum Wage), Count Four (Connecticut Overtime), Count Five (Connecticut Failure To Pay Moneys and Wages Due), and Count Six (Connecticut Wage Payment Laws – Failure to Pay Wages in a Timely Manner). 
+
+The Court GRANTS Kirby summary judgment on Count Three, Count Six, Count Seven (Fraudulent Misrepresentation), Count Eight (Negligent Misrepresentation), and Count Nine (Unjust Enrichment) as to the door-to-door sellers, i.e. the “Independent Dealer Plaintiffs.”  
+
+The Court DENIES Kirby summary judgment on Count One and Count Five as to the Independent Dealers.  
+
+Finally, the Court DENIES Plaintiffs’ motion for partial summary judgment as to whether Plaintiffs are employees or independent contractors, and whether Kirby is the joint employer of the Independent Dealers.  
+
+
+
+
+
+ Kirby manufactures high-end vacuum cleaners and sells them exclusively through in-home product demonstrations with potential customers. Kirby contracts with a network of local distributors, which in turn contract with Independent Dealers who sell Kirby vacuums door-to-door. The Named Plaintiffs worked for two of Kirby’s distributors in Connecticut: S.Z. Enterprises, owned by Defendant Scott Zabka (collectively, “Zabka”) and GP Industries, owned by Vesselin Zaprianov (collectively, “Zaprianov”). The Independent Dealer Plaintiffs are Ruth Dixon, Ishea Anderson-Rodriguez, Kenny Ford, Sam Hirth and Andre Smith. The Appointment Setter Plaintiffs are Ishea Anderson-Rodriguez, Mahagany Bivens, and Shanteema Pallet. These Named Plaintiffs filed a nine-count class action complaint against Zabka and Kirby claiming violations of the Fair Labor Standards Act (“FLSA”) and the Connecticut Minimum Wage Act (“CMWA”), and raising common law claims for fraudulent and negligent misrepresentation and unjust enrichment. (See Second Amended Class Action Complaint [doc. # 152], hereafter “2d Am. Compl.”) The Named Plaintiffs bring this action on behalf of two subclasses of individuals: (1) Independent Dealers, who sold Kirby vacuum cleaners door-to-door and (2) Appointment Setters, who scheduled in-home demonstrations for the Independent Dealers. (See id. ¶¶ 35, 36.) The Named Plaintiffs have settled their claims against Zabka, leaving Kirby the sole remaining defendant in the case. (See Order Approving FLSA Settlement [doc. # 192].)  
+
+ The Court approved a bifurcated discovery process for this case. (See Orders [doc. ## 89, 163].) The parties have completed First Phase Discovery and have filed summary judgment motions. Kirby has now moved for summary judgment on all nine counts. The Independent Dealer Plaintiffs have filed a partial motion for summary judgment seeking determinations that: (1) they were employees, not independent contractors of Kirby, and (2) Kirby is liable as their joint employer under the FLSA. The Court will address Kirby’s motion first. 
+
+
+
+
+
+
+
+ Summary judgment is appropriate only when “the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.” Fed. R. Civ. P. 56(a). The moving party bears the burden of demonstrating that no genuine issue exists as to any material fact. See Celotex Corp. v. Catrett, 477 U.S. 317, 323–25 (1986). “A dispute regarding a material fact is genuine if the evidence is such that a reasonable jury could return a verdict for the nonmoving party.” Williams v. Utica Coll. of Syracuse Univ., 453 F.3d 112, 116 (2d Cir. 2006) (internal quotation marks and citation omitted). “The substantive law governing the case will identify those facts that are material, and ‘[o]nly disputes over facts that might affect the outcome of the suit under the governing law will properly preclude the entry of summary judgment.’” Bouboulis v. Transp. Workers Union of Am., 442 F.3d 55, 59 (2d Cir. 2006). If the moving party carries its burden, “the opposing party must come forward with specific evidence demonstrating the existence of a genuine dispute of material fact.” Brown v. Eli Lilly & Co., 654 F.3d 347, 358 (2d Cir. 2011).  
+
+
+
+
+
+
+
+
+
+
+
+ In Count One, the Independent Dealers and the Appointment Setters claim that Kirby violated the FLSA by failing to pay them minimum wage. The Independent Dealers seek payment for “time they spent in mandatory training during the first week of their employment,” and the Appointment Setters seek payment for “all weeks worked.” (2d Am. Compl. ¶¶ 74, 75.) In Count Two, the Appointment Setters seek overtime compensation under the FLSA for hours worked in excess of forty hours per week. (Id. ¶ 80.) Kirby argues that Counts One and Two fail because Kirby was not the joint employer of the Independent Dealers and the Appointment Setters as a matter of law. (Def.’s Mot. Summ. J. [doc # 302] at 23-37.) Further, Kirby argues that Count One also fails with respect to the Independent Dealers because they are exempt under the outside sales exemption. (Id. at 13-23.) 
+
+
+
+
+
+
+
+
+
+ 
+
+ As a preliminary matter, the Named Plaintiffs concede that Appointment Setters Bivens and Anderson-Rodriguez did not work more than 40 hours in any workweek. (Pls.’ L.R. 56(a)(2) Stmt. ¶ 92.1) Accordingly, the Court grants Kirby summary judgment on Counts Two and Four 
+
+1 Paragraph 92 of Plaintiff’s Local Rule 56(a)(2) Statement: “Appointment Setter Plaintiffs Bivens and Anderson-Rodriguez did not work more than 40 hours in any workweek. (Bivens Aff. dated October 29, 2010, ¶¶ 5-6; Bivens Tr. 53; Anderson-Rodriguez Tr. 139.).” Response: Admit. 
+
+as to the FLSA and Connecticut overtime claims of Appointment Setters Bivens and Anderson-Rodriguez. b. Joint Employment 
+
+
+
+
+
+
+
+  Kirby argues that it is entitled to summary judgment on the Independent Dealers’ and Appointment Setters’ FLSA claims because it is not their joint employer. The FLSA contemplates that more than one employer may be responsible for violations of the statute. See 29 C.F.R. §§ 791.2(a)-(b). Employment for FLSA purposes is a “flexible concept to be determined on a case-by-case basis by review of the totality of the circumstances,” and is a fact-intensive inquiry. Barfield v. N.Y.C. Health & Hosps. Corp., 537 F.3d 132, 141-42 (2d Cir. 2008) (internal citation omitted); see also Zheng v. Liberty Apparel Co., 355 F.3d 61, 76 n.13 (2d Cir. 2003) (noting that the “fact-intensive character of the joint employment inquiry is highlighted by the fact that two of the three leading cases in this circuit were appeals from judgments following bench trials,” and “[i]n the third case, we decided that genuine issues of material fact precluded summary judgment on the ultimate issue of FLSA coverage.”) (emphasis in original) (internal citations omitted). 
+
+ The FLSA defines “employ” broadly as including “to suffer or permit to work” 29 U.S.C. § 203(g). It defines “employee” as “any individual employed by an employer,” Id. § 203(e), and it defines an “employer” as “any person acting directly or indirectly in the interest of an employer . . . .” Id. § 203(d). 
+
+To determine who qualifies as an “employer” under the FLSA, the Second Circuit applies the “economic realities” test and has identified a series of formal and functional control factors that the court may consider. See Barfield, 537 F.3d at 142-44. Although the ultimate conclusion of whether a party is an “employer” under the FLSA is a legal question, the existence and weight to be given to each relevant factor are questions of fact. Zheng, 355 F.3d at 76. To grant summary judgment to Kirby, the Court must conclude that “even where both the historical facts and the relevant factors are interpreted in the light most favorable to plaintiffs, [Kirby] is still entitled to judgment as a matter of law. To reach this conclusion, the Court need not decide that every factor weighs against joint employment.” Id. at 76-77 (emphasis in original).  
+
+The formal control factors identified by the Second Circuit include: “whether the alleged employer (1) had the power to hire and fire the employees, (2) supervised and controlled employee work schedules or conditions of employment, (3) determined the rate and method of payment, and (4) maintained employment records.” Carter v. Dutchess Cmty. Coll., 735 F.2d 8, 12 (2d Cir. 1984) (internal quotation marks and citation omitted).  
+
+The functional control factors include: 
+
+(1) whether the [putative joint employer]’s premises and equipment were used for the plaintiffs’ work; (2) whether the [direct employer] had a business that could or did shift as a unit from one putative joint employer to another; (3) the extent to which plaintiffs performed a discrete line job that was integral to the [putative joint employer]’s process of production; (4) whether responsibility under the contracts could pass from one [direct employer] to another without material changes; (5) the degree to which the [putative joint employer] or [its] agents supervised plaintiffs’ work; and (6) whether plaintiffs worked exclusively or predominantly for [the putative joint employer]. 
+
+ 
+
+Zheng, 355 F.3d at 72 (citations omitted).  
+
+These various factors “provide a nonexclusive and overlapping set of factors to ensure that the economic realities test mandated by the Supreme Court is sufficiently comprehensive and flexible to give proper effect to the broad language of the FLSA.” Barfield, 537 F.3d at 143 (internal quotations and citations omitted). The Court is also free to consider any additional factors that “it deems relevant to its assessment of the economic realities.” Zheng, 355 F.3d at 71. The “overarching concern . . . is whether the alleged employer possessed the power to control the workers in question.” Herman v. RSR Sec. Services Ltd., 172 F.3d 132, 139 (2d Cir. 1999). “[E]ven when one entity exerts ‘ultimate’ control over a worker, that does not preclude a finding that another entity exerts sufficient control to qualify as a joint employer under the FLSA.” Barfield, 537 F.3d at 148.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The first “formal control” factor is “whether the alleged employer had the power to hire and fire the employees.” Carter, 735 F.2d at 12. Kirby highlights that its Distributorship Agreements with Zabka and Zaprianov placed “managerial authority for the day-to-day operations of the distributorship” with the distributors and that this authority included the “development of a sales force.” (S. Zabka Tr. 321-322, Ex. 36, ¶ 1; Nichols Decl. ¶ 8, Ex. A, Distributor Agreement, ¶ 1.) Kirby cites evidence that the distributors, not Kirby, were responsible for retaining and terminating Independent Dealers, including receiving and reviewing applications, interviewing, and deciding whom to retain. (S. Zabka Tr. 41-44, 51, 55, 269, 274-275, 278-280; Zaprianov Tr. 106-109, 112-113, 309-311). Further, it is undisputed that the Independent Dealer Plaintiffs submitted their applications directly to the distributors and were interviewed and offered positions by managers at their respective distributors. (See, e.g., Anderson-Rodriguez Tr. 56-58, 149, 153; Dixon Tr. 74-84, 87-88, 132; Ford. Tr. 13-15, 92; Hirth Tr. 14-18, 20-31; Smith Tr. 19-20, 22-23, 117.)  
+
+ With respect to hiring, the Independent Dealers counter with evidence demonstrating that Kirby exercised some level of control over the hiring and recruitment process, including issuing guidelines concerning how to recruit Independent Dealers, advertising dealer positions, receiving some dealer applicant information directly and forwarding it to distributors, reviewing and recommending changes in distributors’ recruiting efforts, and requiring that dealers pass background checks and sign form Independent Dealer Agreements. There is also evidence that Kirby banned certain Independent Dealers from selling Kirby products. (See, e.g., Pls.’ L.R. 56.1 Stmt. ¶¶ 32, 48-51, 54, 59, 60-62, 68;
+
+2 Although some of this evidence includes Kirby documents dated after the last plaintiff left S.Z. Enterprises in March 2011, these documents do not suggest that a change in Kirby policy or practice occurred after that date, or that there was anything novel about Kirby banning certain Independent Dealers from selling Kirby products. Therefore, such evidence is still relevant and might support a finding by a reasonable jury that Kirby operated as a joint employer of Independent Dealers prior to March 2011. 
+
+With respect to firing, the Independent Dealer Agreement between Zabka and his Independent Dealers provides that the Independent Dealers will be terminated if Kirby terminates Zabka’s Distributor Agreement. (Pls.’ Ex. 233, Kirby Independent Dealer Agreement, Kirby000659, ¶11 (“This Agreement shall automatically terminate in the event Distributor’s distribution agreement by and between Distributor and The Kirby Company terminates.”).) The Independent Dealers also cite evidence that Kirby had the power to require that distributors terminate Dealers (See, e.g., Pls.’ Ex. 243 at Kirby019581 (“Per Rob, he called DS Helo and told him that FD Wofford must remove Kris Balentine from his distributorship effective immediately. Ryan, I know you will follow up on this matter during your Review. Rudi, please continue monitoring warranty cards for Wofford to ensure Balentine is not going into homes.”) (emphasis in original).) Finally, some evidence suggests that Kirby had the power to terminate dealers directly if they failed to abide by Kirby’s policies. (See, e.g., Pls.’ Ex. 61 at Kirby036167 (“If you suspect that there are any ‘wayward’ Dealers, Canvassers, DTs, FDs, Sales Managers, Division Consultants, etc. in your in your [sic] Division I recommend you take immediate action to eliminate them from you [sic] Division. If I have to get involve [sic] it will not be with positive results.” (emphasis added).) 
+
+ Reviewing all this evidence in the light most favorable to the Independent Dealers, the Court finds that there are disputed issues of material fact concerning whether Kirby had the power to hire and fire the Independent Dealers. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The second factor is whether the alleged employer “supervised and controlled employee work schedules or conditions of employment.” Carter, 735 F.2d at 12. Kirby argues that to the extent that anyone exercised control over the Independent Dealers’ work schedules, it was the distributors who, through their respective management teams, set the schedule for the Independent Dealers’ three-day classroom training and, in later weeks, offered company-scheduled appointments for the Independent Dealers through their telemarketing departments. (See, e.g., S. Zabka Tr. 51-52, 62, 279-280, 287-288; Zaprianov Tr. 117-118, 122-123, 339-340.) Further, Kirby argues that any control it might have exercised over the Independent Dealers’ conditions of employment was more aptly described as “quality control” measures that were limited to “protect[ing] and maintain[ing] the Kirby trade names, reputation and competitiveness in the marketplace.” (S. Zabka Tr. 321-322, Ex. 36, ¶ 1; Nichols Decl. ¶ 8, Ex. A, Distributor Agreement at KIRBY031976.) This type of control, Kirby argues, cannot satisfy the joint employer test as a matter of law. See Zheng, 355 F.3d at 75 (noting that “supervision with respect to contractual warranties of quality and time of delivery has no bearing on the joint employment inquiry, as such supervision is perfectly consistent with a typical, legitimate subcontracting arrangement.”); Jean-Louis v. Metro. Cable Commc’ns, Inc., 838 F. Supp. 2d 111, 126-27 (S.D.N.Y. Sept. 30, 2011) (finding no joint employer liability where service provider’s routine quality control assessments of technicians’ work did not demonstrate that service provider controlled the “day-to-day manner in which technicians provided that service.”). 
+
+ By contrast, the Independent Dealers cite evidence from which a reasonable juror could find that Kirby exercised a level of control over their working conditions that went beyond mere quality control. Indeed, the Independent Dealers rely on evidence that suggests that Kirby required Independent Dealers to sign the Kirby Independent Dealer Agreement, classifying them as independent contractors. (Pls.’ L.R. 56.1 Stmt. ¶¶ 14-16.) Further, there is evidence that suggests Kirby required, through its distributors, that Independent Dealers follow numerous Kirby policies that governed dealers’ day-to-day working conditions, including attending mandatory training for which they were not paid, following Kirby’s 10-step demonstration sequence, making sales through in-home demonstrations only, using or discussing only Kirby products during demonstrations, and selling only Kirby products. (See, e.g., id. ¶¶ 19-22, 81, 94.)  
+
+ Based on the foregoing, the Independent Dealers have demonstrated a genuine factual dispute concerning whether Kirby supervised and controlled the Independent Dealers’ schedules and conditions of employment.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The third factor is whether the alleged employer “determined the rate and method of payment.” Carter, 735 F.2d at 12. Kirby cites evidence that Zabka and Zaprianov set the compensation structure at their respective dealerships and that they could—and did—change that structure without seeking prior approval from Kirby. (S. Zabka Tr. 281-283, 289-296, 309; Zaprianov Tr. 341-350; see also Nichols Tr. 174 (“we don’t get into the – the compensation program that a dealer and a distributor enter into.”).) The Independent Dealers counter that it was Kirby that set the policies for Independent Dealer pay by requiring that they sign form agreements classifying them as independent contractors, thereby denying them minimum wage protections, and by requiring that they attend mandatory, unpaid training. (Pls.’ L.R. 56.1 Stmt. ¶¶ 14-16, 94; see, e.g., Pls.’ Ex. 1 Kirby Company Overview, Feb. 2012, KIRBY040101 (“Dealers who are accepted are expected to attend an unpaid orientation program” and “Dealers do not get paid for the orientation.”); Pls.’ Ex. 58 Zabka Customer Relations Review, June 2010 (where the reviewer said, under the category “Compliance with Company Policies and Procedures,” that he “randomly reviewed dealer files, and every file included . . . [a] Signed Independent Dealer Agreement . . . [a] No Control Policy (indicates dealer [sic] are independent contractors and not employees) . . . [and a] Voluntary, Unpaid Orientation Policy.”).) 
+
+A reasonable juror could find, based on this evidence, that Kirby exercised some control over the rate and method of payment for the Independent Dealers. Thus, there are disputed issues of material fact as to the third Carter factor.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The fourth factor is whether the alleged employer “maintained employment records.” Carter, 735 F.2d at 12. Kirby cites evidence that Zabka and Zaprianov maintained files on the Independent Dealers, including such documents as their employment applications, independent contractor agreements, results of criminal background checks, company appointment schedules, records of demonstrations conducted and referrals obtained, tax forms, and various signed policies including those relating to sexual harassment, zero tolerance, and the unpaid orientation. (S. Zabka Tr. 42, 44-45, 54, 165, 168-169, 173-175, 251-252, 283; Zaprianov Tr. 41-44, 175-179, 309, 361.) In response, the Independent Dealers cite no evidence that even suggests that Kirby maintained employment records generally, let alone records on the Independent Dealers. The evidence that the Independent Dealers rely upon shows only that Kirby directed that distributors maintain copies of certain dealer records, such as independent contractor agreements and the results of criminal background checks. (Pls.’ L.R. 56.1 Stmt. ¶¶ 110.) Further, the Independent Dealers cite evidence that shows Kirby generated certain reports that tracked high performing Independent Dealers and that Kirby recorded sales using warranty cards that identified the Independent Dealer that made the sale. (See, e.g., id. ¶¶ 108-110, 113-114, 150-151.) This evidence is insufficient to establish that Kirby “maintained employment records” under the Carter test. See, e.g., Barfield, 537 F.3d at 144 (“In this case there is no question that [the alleged joint employer] maintained employment records on the matter most relevant to overtime obligations under the FLSA: the hours worked at the hospital by temporary employees.”); Hugee v. SJC Group, Inc., No. 13-0423, 2013 WL 4399226, at *7 (S.D.N.Y. Aug. 14, 2013) (employment records include “an employee’s personnel files, time sheets, pay stubs, and government employment forms.”) Accordingly, this factor weighs against joint employment.  
+
+ In sum, there are genuine issues of material fact as to three of the four “formal control” factors, with only the fourth factor weighing against joint employment. The Court now turns to a review of the “functional control” factors. 
+
+b) Functional Control i) Premises and Equipment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The first “functional control” factor is whether the alleged employer’s “premises and equipment were used for the plaintiffs’ work.” Zheng, 355 F.3d at 72. It is undisputed that the Independent Dealers were interviewed and trained in Zabka and Zaprianov’s offices, that their work took place entirely at those offices and in the homes of potential customers, and that the Independent Dealers never set foot on Kirby’s premises. (S. Zabka Tr. 29, 67-68, 257-259, 287-288; Zaprianov Tr. 94, 106, 108, 304-306; Pls.’ Opp. Mot. Summ. J. [doc. # 343] at 37.) Further, all the equipment that the Independent Dealers used, including the vacuums, were owned by the distributors, not Kirby. (S. Zabka Tr. at 257-259; Zaprianov Tr. at 304-306.) Therefore, this factor weighs against joint employment.  
+
+ii) Whether the Direct Employer Shifts as a Unit 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The second factor is whether the direct employer “had a business that could or did shift as a unit from one putative joint employer to another.” Zheng, 355 F.3d at 72. This factor “is relevant because a [direct employer] that seeks business from a variety of [putative joint employers] is less likely to be part of a subterfuge arrangement than a [direct employer] that serves a single client.” Id. Here, it is undisputed that Zabka and Zaprianov worked only for Kirby and that their distributor agreements with Kirby required that they work exclusively for Kirby. (See, e.g., Pls.’ Ex. 3, Zabka Distributor Agreement, Kirby000014.) Although, as Kirby highlights, the distributors did lease their own office space and owned their own office equipment, the Independent Dealers have cited substantial evidence that the distributors’ businesses were very much tied to the Kirby marketing system. (See, e.g., id. at Kirby00008 (“Distributor agrees that all Kirby Systems purchased hereunder are purchased solely and exclusively for resale by in-home individualized customer demonstration to consumer end users pursuant to the Company’s Marketing System unless the Company otherwise expressly agrees in writing.”).) Distributors could not shift their business away from Kirby to another purported joint employer. Accordingly, this factor weighs in favor of joint employment. 
+
+iii) Whether Plaintiffs Performed Integral Work 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The third factor is “the extent to which plaintiffs performed a discrete line job that was integral to the [putative joint employer]’s process of production.” Zheng, 355 F.3d at 72. Kirby argues that because the Independent Dealers had no involvement in the production process of Kirby vacuums, they could not have performed “integral” work as contemplated by the third Zheng factor. Several courts, however, have applied this factor to employees not engaged in “production” jobs to find that they performed work integral to their employers’ businesses. See, e.g., Barfield, 537 F.3d at 145 (applying third Zheng factor to find no material issue of fact that “[plaintiff nurse] performed work integral to [hospital’s] operation.”); Hart v. Rick’s Cabaret Int’l, Inc., 967 F. Supp. 2d 901, 921 (S.D.N.Y. 2013) (“No reasonable jury could conclude that exotic dancers were not integral to the success of a club that marketed itself as a club for exotic dancers.”) (citations omitted); Ansoumana v. Gristede’s Operating Corp., 255 F. Supp. 2d 197, 200 (S.D.N.Y. 2003) (“The delivery workers assigned to Duane Reade performed an integral service for Duane Reade.”) (citations omitted). Similarly, here, the evidence demonstrates that Independent Dealers played an integral role in the sale of Kirby vacuums—namely, by performing in-home product demonstrations, the exclusive method for selling Kirby vacuums to consumers. (See, e.g., Pls.’ L.R. 56.1 Stmt. ¶¶ 3-10.) Thus, this factor weighs in favor of joint employment. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The fourth factor is “whether responsibility under the contracts could pass from one [direct employer] to another without material changes.” Zheng, 355 F.3d at 72. In Zheng, the Second Circuit reasoned that this factor would weigh in favor of joint employment where, for example, a direct employer was replaced with another employer and “the same employees would continue to do the same work in the same place.” Id. at 74 (emphasis in original). By contrast, where employees work for an alleged joint employer “only to the extent that their direct employer is hired by that entity, this factor does not in any way support the determination that a joint employment relationship exists.” Id; see also Jean-Louis, 838 F. Supp. 2d at 135 (finding that this factor weighs against joint employment “[s]ince . . . rather than hiring technicians, Time Warner hires contractors who hire technicians, [and] all of the evidence suggests that when a [contractor] dissolves, technicians wishing to continue working on behalf of [Time Warner] are required to apply and be hired for a position from another [contractor].”). Here, the Independent Dealers concede that “[w]hen Kirby terminates a Distributor’s contract, the associated Dealers’ contracts are immediately terminated as a result.” (Pls.’ Opp. Mot. Summ. J. at 38.) Therefore, the Independent Dealers would not continue to do the same work in the same place if their direct employers, Zabka and Zaprianov, were terminated. Accordingly, this factor weighs against joint employment.   
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The fifth factor is “the degree to which the [putative joint employer] or [its] agents supervised plaintiffs’ work.” Zheng, 355 F.3d at 72. The Zheng Court reasoned that “extensive supervision weighs in favor of joint employment only if it demonstrates effective control of the terms and conditions of plaintiff’s employment,” and that, “[b]y contrast, supervision with respect to contractual warranties of quality and time of delivery has no bearing on the joint employment inquiry, as such supervision is perfectly consistent with a typical, legitimate subcontracting arrangement.” Id. at 75. Because this factor is “essentially duplicative of the second Carter factor,” see, e.g., Hugee, 2013 WL 4399226, at *5 n.7, the Court applies the same analysis as detailed above, and finds that there is a genuine issue of material fact as to whether Kirby supervised the Independent Dealers’ work. See Section III.A.1.b.i.a)ii), supra. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ The sixth factor is “whether plaintiffs worked exclusively or predominantly for [the putative joint employer.” Zheng, 355 F.3d at 72. Kirby does not contest that the Independent Dealers “worked exclusively selling vacuums exclusively for Kirby” during their relatively short tenures with their respective distributors. (Def.’s Reply Mot. Summ. J. [doc. # 354] at 12.) Although Kirby cites evidence that Zabka and Zaprianov did not prohibit the Independent Dealers from working for others, the fact remains that none of them did. Thus, this factor weighs in favor of joint employment.  
+
+ In sum, three of the six “functional control” factors weigh in favor of joint employment, two weigh against joint employment, and there are genuine issues of material fact as to the “supervision” factor. Accordingly, the Court finds that there are genuine issues of material fact as to whether Kirby is the Independent Dealers’ joint employer and the Court denies Kirby’s motion for summary judgment on this ground. 
+
+i
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Kirby cites evidence that the direct employer, Zabka, reviewed the Appointment Setters’ applications, interviewed them, and hired them. (S. Zabka Tr. 261-263, A. Zabka Tr. 90-93; Anderson-Rodriguez Tr. 114-115, 143-144; Bivens Tr. 9-14, 76-77, 85-86; Pallet Tr. 72-77, 98-105, 114-116, 146.) Further, the Appointment Setters were all terminated by Zabka managers. (Anderson-Rodriguez Tr. 122-126; Bivens Tr. 117-122; Pallet Tr. 82, 110, 115, 139-140.) Although the Appointment Setters counter that Kirby had the power to hire them, the evidence that they rely on in support of this proposition suggests only that Kirby had some minimal, macro-level involvement in the hiring process, including directing that distributors build telemarketing departments and hire certain numbers of appointment setters to fill certain roles. (See, e.g., Pls.’ L.R. 56(a)(2) Stmt. ¶¶ 22, 29, 48.) When a Distributor Agreement is terminated, the Distributorship can no longer sell Kirbys, and as a result, the distributors’ employees, including Appointment Setters, would no longer be able to sell Kirbys either, unless they found employment with another distributor. (Pls.’ Ex. 3, Zabka Distributor Agreement, Kirby000014.) Unlike the Independent Dealers, however, the Appointment Setters cite no evidence that Kirby had the power to terminate an Appointment Setter directly or to direct that a distributor terminate an Appointment Setter. Accordingly, this factor weighs against joint employment. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kirby cites evidence that Amphone and Scott Zabka, not Kirby, trained the Appointment Setters, set their work schedules, and oversaw their working conditions on a day-to-day basis. (S. Zabka Tr. 264; A. Zabka Tr. 14-15, 36-37, 50, 53; Anderson-Rodriguez Tr. 114-116; Bivens Tr. 16-18, 21-24, 33-35; Pallet Tr. 43-45, 60, 108-109.)  
+
+The Appointment Setters argue that Kirby exercised a level of control over their working conditions that went beyond mere quality control. See Zheng, 355 F.3d at 75 (noting that “supervision with respect to contractual warranties of quality and time of delivery has no bearing on the joint employment inquiry, as such supervision is perfectly consistent with a typical, legitimate subcontracting arrangement.”). For example, the Appointment Setters cite testimony from Scott Zabka that people from the Kirby headquarters came to Distributor meetings and talked about the importance of increasing sales, how to run a telemarketing program, what telemarketers should say on the phone, and how to compensate telemarketers. (Pls.’ Ex. 63 Zabka Tr. 32:22-35:15.)3 
+
+3 See also Pls.’ Ex. 322, Ferrante Tr. 25:9-25:24 (“Scott and Amphone Zabka had frequently [sic] the Kirby representatives there. As to my time there[,] there were several different representatives, they referred to them as their regional Kirby managers who would come in and discuss with us and discuss with Amphone Zabka and Scott Zabka how we could alter our script and improve and how we could be better to sell the Kirby products to the customers. How we could better set up the appointments with them.[sic] I was under the impression that they were bosses, they were our bosses, that that is the company that we worked for.”).) 
+
+ 
+
+In addition to the federal Do Not Call List, Kirby appeared to have a practice of requesting that telemarketers refrain from calling people that Kirby placed on its own “No Call/No Visit” lists, based on complaints Kirby received. (Pls.’ Ex. 317, Jan. 21, 2011, Letter to Consumer, Kirby08609 (“we have forwarded your contact information to all current authorized distributors within 100+ miles of your zip code and requested that you be placed on their ‘Do Not Contact/Do Not Visit’ lists.”); Pls.’ Ex. 318, Sept. 20, 2010 Memo from Kirby to Patriot Division Distributors, Kirby07442 (“Consumer requested to be put on a ‘No Call/No Visit List.’”).) The evidence suggests, however, that Kirby simply notified distributors that customers requested to be placed on such lists, and did not mandate compliance by distributors and their appointment setters.  
+
+Plaintiffs cite evidence that Kirby exercised control over what Appointment Setters could say on calls, including, for example, prohibiting them from saying that they were calling from “Kirby” or from an office with Kirby in the name, requiring that they state that the cleaning being offered included a demonstration of the Kirby system, and prohibiting them from telling prospective customers that Kirby is a subsidiary of Berkshire Hathaway. (Id. ¶¶ 40-43; Pls.’ Ex. 58, Zabka Customer Relations Review, Kirby000317-26.) A Kirby reviewer told Zabka that telemarketers need to announce themselves as calling from “S.Z. Enterprise,” and that they “cannot make reference to Warren Buffet in any way.” 4 (Pls.’ Ex. 58, Zabka Customer Relations Review, Kirby000317-26.) Kirby’s Customer Relations Department conducted on-site reviews of Distributors’ operations, including a review of Distributor’s telemarketing room, telemarketing policy, and telemarketing scripts. (See Pls.’ Ex. 120 April 9, 2009, Hanniewich Email, Kirby040973; Pls.’ Ex. 58, Zabka Customer Relations Review, Kirby000317-26.) 
+
+4 The Scott Fetzer Company, which owns The Kirby Company and its marks, is a subsidiary of Berkshire Hathaway, which is controlled by Warren Buffet. 
+
+However, Kirby’s attempt to prohibit Appointment Setters from associating themselves with Kirby, Berkshire Hathaway, and Warren Buffet can be seen as Kirby and Berkshire Hathaway policing their marks and disassociating themselves from distributors—companies Kirby does not own. A trademark owner is “required to exercise reasonable supervision and control over licensees it allows to use the trademark so as to insure uniform standards of quality.” Billy Baxter, Inc. v. Coca-Cola Co., 431 F.2d 183, 193 (2d Cir. 1970). The Distributor agreement says “[p]rior to the use of any [Kirby] trademark, service mark, symbol, logo, emblem or commercial signature in any form of advertising or printed document, Distributor must receive advance written approval from [Kirby].” (Pls.’ Ex. 3, Zabka Distributor Agreement, Kirby000014.) Finally, Kirby required distributors to comply with Kirby’s June 2011 agreement with the Connecticut Department of Consumer Protection called the “Assurance of Voluntary Compliance” (“AVC”). The AVC stated that it was part of Kirby’s “ongoing commitment to require that its contract distributors, their salespersons or representatives, and distributor trainees located in Connecticut (collectively, “Distributors”) comply with Connecticut’s Unfair Trade Practices Act, Chapter 735a of the Connecticut General Statutes, Connecticut’s Home Solicitation Sales Act, Chapter 740 of the Connecticut General Statutes and Connecticut’s Telemarketing Act, Chapter 743m of the Connecticut General Statutes.” (Pls.’ Ex. 66, Connecticut Department of Consumer Protection AVC, 6/1/11, Kirby034753.) Under the AVC, Kirby agreed to require its distributors, “during the first contact with a potential customer,” to provide: 1) the name of the person contacting the potential customer and the name and the address of the Distributor; 2) the purpose of the contact, which is to interest the potential customer in viewing an in-home demonstration and in purchasing a Kirby; 3) that the in-home demonstration is expected to last one-half hour; and 4) that the potential customer may terminate the demonstration at any time. (Id. at Kirby034753-54.) Kirby agreed that its distributors would provide this information during the first contact with the potential customer, whether the first contact was in person or over the phone. (Id.) The reference to “over the phone” suggests that this directive also applied to Appointment Setters, because the Independent Dealers’ first contact with customers is ordinarily in person. In the AVC, Kirby agreed that failure to comply with such terms provides grounds for Kirby to terminate the distributorship. (Id. at Kirby034754.) Plaintiffs argued during oral argument that the fact that Kirby signed the AVC shows that Kirby had the power to control Appointment Setters’ terms and conditions of employment through its Distributor Agreement. However, the requirements that Appointment Setters state certain identifying information about themselves and their distributor, as well as the purpose of the call, the length of the demonstration, and the customer’s right to end it, are consistent with “quality control’s purpose to ensure compliance with the law or protect clients’ safety.” Godlewska v. HDA, 916 F. Supp. 2d 246, 259 (E.D.N.Y. 2013); see, e.g., Lawrence v. Adderley Indus., Inc., No. 09–2309, 2011 WL 666304 (E.D.N.Y. Feb. 11, 2011). The AVC Agreement does not demonstrate Kirby’s control over Appointment Setters’ working conditions; rather, it is designed to protect potential customers and to comply with Connecticut consumer protection laws.  
+
+Plaintiffs cite evidence purporting to show that Kirby controlled the scheduling of Appointment Setters by requiring that Appointment Setters work in split shifts. Even construing this evidence in the light most favorable to Plaintiffs, it does not show control over work schedules of individual Appointment Setters. Plaintiffs have offered no evidence showing that Kirby played any role in determining which workers worked during any particular shifts. (Pls.’ L.R. 56(a)(2) Stmt. [doc. # 342] at 18 (“Kirby did not assign the Appointment Setters to specific shifts at S.Z. Enterprises.”) 
+
+Taken together, the relevant evidence suggests that Kirby did not supervise and control Appointment Setters’ schedules and conditions of employment beyond what is typical in a legitimate subcontracting relationship (e.g. quality control). Thus, this factor weighs against joint employment. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Kirby argues that Zabka set the Appointment Setters’ hourly rate, decided when that rate would change, and that the Appointment Setters received their paychecks from Zabka. (See, e.g., S. Zabka Tr. 263-264; A. Zabka Tr. 37-38; Anderson-Rodriguez Tr. 125-126; Bivens Tr. 57, 70-73, Pallet Tr. 139-140.) The Appointment Setters counter with evidence that Kirby made recommendations concerning how to compensate Appointment Setters, what their hourly wage should be, and how their bonuses should be structured. Zabka testified that people from the Kirby headquarters came to Distributor meetings and talked about the importance of increasing sales, and how to compensate telemarketers. (Pls.’ Ex. 6, Zabka Tr. 32:22-35:15.) Kirby Divisional Supervisor for the Patriot Division, Mark Helo, testified that telemarketers are generally paid “[w]hatever Cumberland Farms is paying plus 25 cents.” (Pls.’ Ex. 5, Helo Tr. 356:4-11.) None of this evidence demonstrates that Kirby exercised control over Appointment Setters wages or method of payment beyond mere suggestions and recommendations. Such evidence is not sufficient to create a genuine issue of fact as to whether Kirby exercised control over the Appointment Setters’ rate and method of payment. Thus, this factor weighs against joint employment. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Kirby cites evidence that Zabka maintained the Appointment Setters’ personnel files. (S. Zabka Tr. 265-267; A. Zabka Tr. 54-62.) The Appointment Setters admit that Kirby did not keep personnel files for the Appointment Setters and instead cite evidence that Kirby had “the power to require Distributors to do so and to make such files available to Kirby at its request,” according to the Distributor Agreement. (Pls.’ L.R. 56(a)(2) Stmt. ¶ 26.) As detailed above for the Independent Dealers, this type of evidence is insufficient to satisfy the fourth Carter factor. This factor weighs against joint employment. See Section III.A.1.b.i.a)iv), supra. 
+
+ In sum, the four “formal control” factors weigh against joint employment. The Court now turns to a review of the “functional control” factors. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ It is undisputed that the Appointment Setters worked exclusively at Zabka’s offices, that all the equipment they used was owned by Zabka, and that they never went to Kirby’s offices. (Anderson-Rodriguez Tr. 128; Bivens Tr. 19, 30; Pallet Aff. ¶ 5; Pls.’ Opp. Mot. Summ. J. at 44.) Thus, this factor weighs against joint employment.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As detailed above for the Independent Dealers (see Section III.A.1.b.i.b)ii), supra) this factor weighs in favor of joint employment because it is undisputed that Zabka worked only for Kirby, its distributor agreement required that it work exclusively for Kirby, and although Zabka leased its own office space and owned its own equipment, there is significant evidence that the distributor’s business was very much tied to the Kirby marketing system. (See e.g., Pls.’ Ex. 3, Zabka Distributor Agreement, Kirby00008 (“Distributor agrees that all Kirby Systems purchased hereunder are purchased solely and exclusively for resale by in-home individualized customer demonstration to consumer end users pursuant to the Company’s Marketing System unless the Company otherwise expressly agrees in writing.”).) Distributors could not shift their business away from Kirby to another purported joint employer. This factor weighs in favor of joint employment. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Kirby asserts that because the Appointment Setters were not involved in the production of Kirby vacuums, this factor weighs against joint employment. However, as detailed above (see Section III.A.1.b.i.b)iii), supra) this fact is not dispositive. The evidence demonstrates that the Appointment Setters played a significant role in the sale of Kirby vacuums, namely scheduling appointments for the Independent Dealers to conduct in-home product demonstrations—the exclusive method for selling Kirby vacuums to consumers. (See, e.g., Pls.’ L.R. 56(a)(3) Stmt. ¶ 21.) However, not all distributorships had Appointment Setters or telemarketers, and Distributorships could still operate without Appointment Setters, as long as they had Independent Dealers doing in-home demonstrations. For example, the Distributor Agreement specifically refers to Independent Dealers and their roles throughout but does not specifically mention Appointment Setters, leads, or telemarketers. Although the Distributor Agreement does include the following sentence: “Distributor shall: (i) maintain an appropriate number of active full and part-time sales personnel to adequately solicit sales in and service his/her Area,” that function could be filled in a number of ways, including by hiring “Canvassers.” And unlike Appointment Setters or telemarketers, “Canvassers” are specifically mentioned in the Distributor Agreement by name. Canvassers are individuals that may assist Independent Dealers by knocking on doors.5 Furthermore, during Mark Helo’s deposition, his answers suggested that not all Distributors have telemarketers. (See, e.g., Helo Tr. 298-299, “Q. But in your experience, all the distributors in the 
+
+5 “When a van of Dealers goes to a neighborhood, some will use Canvassers. These are typically outgoing girls and guys that are good at knocking on the door and convincing the homeowner to let them come in and do a demonstration. Once the homeowner agrees, then the Canvasser sends one of the Dealers into the home to do the demo[.] Canvassers are paid on commission based on the number of sales their knock-ins lead to[.]” (Pls.’ Ex. 1, Kirby Company Overview, Kirby040103-04.) 
+
+Patriot Division have telemarking scripts, right? A. If they have telemarketers, yes.”) Thus, Appointment Setters are not integral to Kirby’s business, and this factor weighs against joint employment. iv) Whether the Direct Employers are Fungible 
+
+
+
+
+
+
+
+
+
+
+
+
+
+For the reasons detailed above for the Independent Dealers (see Section III.A.1.b.i.b)iv), supra) this factor weighs against joint employment because under Zabka’s distributor agreement with Kirby, if Kirby were to terminate its contract with Zabka, Zabka would need to immediately cease its operations, and the Appointment Setters could not continue telemarketing Kirby products. (See S. Zabka Tr. 321-322, Ex. 36 ¶¶ 14, 16.)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ As detailed above, because this factor is “essentially duplicative of the second Carter factor,” see, e.g., Hugee, 2013 WL 4399226, at *5 n.7, the Court applies the same analysis to find that this factor weighs against joint employment. See Section III.A.1.b.b)1)ii), supra.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ Kirby does not contest that the Appointment Setters worked exclusively in the telemarketing of Kirby products during their relatively short tenures with their respective distributors. Although Kirby cites evidence that Zabka did not prohibit the Appointment Setters from working for others, the fact remains that none of them did. Thus, this factor weighs in favor of joint employment.  
+
+ In sum, four of the six “functional control” factors weigh against joint employment, and two weigh in favor of joint employment. But the two that weigh in favor—no direct shifting as a unit and working exclusively for Kirby—do not weigh heavily, as, by themselves, they do not suggest a significant degree of control. Further, all four formal factors weigh against joint employment. Considering the totality of the circumstances, the Court finds that Kirby is not the Appointment Setters’ joint employer as a matter of law and grants Kirby’s motion for summary judgment as to the remaining Appointment Setter Plaintiff, Pallet, for Counts One and Two. 
+
+ 
+
+
+
+
+
+
+
+ Kirby argues that the Independent Dealers’ claims also fail because the Independent Dealers are exempt from the FLSA under the outside sales exemption. In analyzing whether the outside sales exemption applies, I am guided by the principle that “because the FLSA is a remedial act, its exemptions . . . are to be narrowly construed. . . . Indeed, an employer bears the burden of proving that its employees fall within an exempted category of the Act.” Martin v. United States Dep’t of Labor v. Pirnie, Inc., 949 F.2d 611, 614 (2d Cir. 1991) (citations omitted); see also Davis v. J.P. Morgan Chase & Co., 587 F.3d 529, 531 (2d Cir. 2009) (“Exemptions from the FLSA’s requirements are to be narrowly construed against the employers seeking to assert them and their application limited to those establishments plainly and unmistakably within their terms and spirit.” (internal quotations and citations omitted); McCluskey v. J.P. McHale Pest Mgmt., Inc., 147 Fed. Appx. 203, 205 (2d Cir. 2005) (“we construe the outside sales exemption narrowly to further the remedial purpose of the statute, and only apply the exemption if unmistakably directed to do so.”) (internal quotations and citations omitted). Further, although the determination of whether an employee’s particular work activities qualify for the exemption is a question of law, disputes concerning how an employee spends his working day are questions of fact. See, e.g., Icicle Seafoods, Inc. v. Worthington, 475 U.S. 709, 714 (1986).  
+
+ Under 29 U.S.C. § 213(a)(1), “any employee employed in . . . the capacity of an outside salesman” is exempted from the FLSA’s minimum wage and overtime requirements. The term “outside salesman” includes any employee “(1) [w]hose primary duty is: (i) making sales within the meaning of section 3(k) of the Act, . . . and (2) [w]ho is customarily and regularly engaged away from the employer’s place or places of business in performing such duty.” 29 C.F.R. § 541.500(a).  
+
+ “Primary duty” means the “principal, main, major or most important duty that the employee performs.” Id. § 541.700. “In determining the primary duty of an outside sales employee, work performed incidental to and in conjunction with the employee’s own outside sales . . . shall be regarded as exempt outside sales work.” Id. § 541.500(b). “Other work that furthers the employee’s sales efforts also shall be regarded as exempt work including, for example, writing sales reports, updating or revising the employee’s sales or display catalogue, planning itineraries and attending sales conferences.” Id. 
+
+Under another federal regulation promulgated by the Department of Labor, however, the outside sales exemption does not apply to “employees training for employment in an . . . outside sales . . . capacity who are not actually performing the duties of an outside sales employee.” Id. § 541.705 (emphasis added). As the Department of Labor has explained: 
+
+The inquiry in all cases simply involves determining whether or not the employee is ‘actually performing the duties of’ an . . . outside sales . . . employee. The Department recognizes that there may be formalized, . . . training programs that involve employees “actually performing” exempt work, but other training programs can involve performance of significant nonexempt work. For example, an employee in a management training program of a restaurant who spends the first month of the program washing dishes and the second month of the program cooking does not have a primary duty of management. Accordingly, it is not appropriate to adopt a blanket exemption for ‘all trainees.’ 
+
+ 
+
+69 Fed. Reg. 22122, 22189 (Apr. 21, 2004) (emphasis added).  
+
+ Here, the Independent Dealers limit their FLSA claims to time spent in training during their first week of work. (Pls.’ L.R. 56(a)(2) Stmt. ¶ 72.) It is undisputed that all Independent Dealers went through training during their first week. (Id. at ¶ 78.) It is further undisputed that, during their training, the Independent Dealers attended a three day classroom orientation (usually Wednesday through Friday) and conducted in-home demonstrations of the Kirby vacuum for family and friends during “Friends and Family Weekend” or “Countdown Weekend” starting Friday afternoon/evening after training and going through Sunday. (Id. ¶¶ 72, 74, 87.) The pay period at Zabka’s distributorship was Sunday through Saturday, and at Zaprianov’s distributorship it was Saturday through Friday. (Pls.’ Ex. 63, Zabka Tr. 89:07-09; Pls.’ Ex. 345, Zaprianov Tr. 385:21-386:12.)  
+
+Kirby argues that the Independent Dealers’ FLSA claims fail because they are exempt under the outside sales exemption, and the “trainees regulation” does not apply because the Independent Dealers’ first week of work consisted of selling and related activities that fall squarely within the exemption for outside sales work. During their first week, Independent Dealers “planned for Friends and Family selling by identifying potential sales prospects, and contacting them to set up appointments for in-home sales presentations,” and four of the Independent Dealers “conducted in-home demonstrations for their friends and family members in their first week.” (Pls.’ L.R. 56(a)(2) Stmt. ¶¶ 86, 87.) Kirby also cites evidence that two of the Independent Dealers actually sold vacuums to their friends and family during their first week. (Anderson-Rodriguez Tr. 73-74, 103-106, 112-113, 169-171 (admitting that she sold a vacuum cleaner to a family friend and received a commission for the sale); Dixon Tr. 112, 136-137, 162 (admitting that she sold a vacuum to her daughter and received a commission for the sale).) Further, Kirby cites evidence that Zabka and Zaprianov testified that Friends and Family selling was among the best sales opportunities for Independent Dealers. (S. Zabka Tr. 303-306; Zaprianov Tr. 269-270, 327-330, 333-341, 350 (“A customer would feel more comfortable buying from someone they know than from a complete stranger. That’s human nature.”); see also 2d Am. Compl. ¶ 50(c) (alleging that “promotional opportunities with workers’ family and friends . . . are the bedrock of Defendant Kirby’s sales and therefore profits.”).) Kirby argues that Plaintiffs’ “classroom” training, during which they learned about the product and sales techniques, also qualifies as exempt work because it “furthers . . . sales efforts,” and is equivalent to “attending sales conferences.” (Def.’s Mot. Summ. J. at 17-18.)  
+
+The Independent Dealers counter that they were not performing the duties of outside sales employees during their first week of work. To support this contention, the Independent Dealers highlight that their three-day classroom training involved primarily learning about the Kirby vacuum system and how to perform an in-home product demonstration in accordance with Kirby’s demonstration program, entitled the “10-step sequence.” (Def.’s L.R. 56(a)(2) Stmt. ¶ 83.) Independent Dealers also practiced taking the Kirby machine apart and putting it back together. They learned how to close a sale and about the paperwork necessary for financing the sales of Kirby vacuums. (Id. ¶¶ 82, 86-87.) The Independent Dealers argue that this classroom training did not include actual sales duties. Moreover, Plaintiffs were not “customarily and regularly engaged away from” distributors’ places of business during this time, as required by regulation 29 C.F.R. § 541.500(a). Further, the Independent Dealers argue that the in-home demonstrations that were scheduled and conducted during Friends and Family weekend were “learning by doing” exercises that were done for practice and were distinct from actual sales work. (See, e.g., Hirth Tr. 58 (“[w]e were told to contact our family and friends, and to do practice demonstrations on them.”); Smith Aff. ¶ 6, Dixon Aff. ¶ 6; Ford Aff. ¶ 6 (“Towards the end of the training week, and between my first and second weeks with the company, I was told to practice the ‘10 Step Demo Sequence’ with family members and friends as part of my training.”); Zabka Tr. 297 (describing Countdown Weekend as “[w]e would let the reps know that when they left on Friday, you know, in order for them to, you know, start going on appointments with strangers, they really needed to get practice and experience with the equipment.”).) 
+
+ Kirby cites several cases in support of its argument that the Plaintiffs may not “isolate their initial workweek from their job as a whole.” (Def.’s Mot. Summ. J. at 19.) For example, Kirby says that United States v. Klinghoffer Bros. Realty Corp., 285 F.2d 487, 490 (2d Cir. 1960) defeats Plaintiffs’ claims because it “requires that an employer’s minimum wage obligation be decided not on a day-to-day basis, but on a workweek basis.” (Def.’s Reply Mot. Summ. J. at 3.) Klinghoffer Bros. Realty Corp. requires that the total wage paid to each employee divided by total time the employee worked must exceed the minimum wage. Thus, the determination of whether employees were paid a minimum wage is determined on a weekly basis. However, the case does not say that the character of the work—whether trainee or outside sales exempt—must be determined on a weekly basis. Furthermore, Klinghoffer Bros. Realty Corp. does not discuss the “primary duty” test, the outside sales exemption, or the trainee exception. Id. Kirby also cites Counts v. S. Carolina Elec. & Gas Co., 317 F.3d 453, 454 (4th Cir. 2003) and other cases, but again, these cases do not consider new hires who are training for a position, nor do they consider the training exception at all. Instead, they address administrative and managerial employees and suggest that “primary duty” should not be interpreted on a workweek basis. Only one case Kirby cites even mentions the outside sales exemption, and in that case the court found that the plaintiffs were not exempt for several reasons, including use of the “holistic approach” to determining “primary duty.” Ahle v. Vercity Research Co., 738 F. Supp. 2d 896, 911 (D. Minn. 2010).   
+
+Plaintiffs cite cases that involve new hires that are classified as non-exempt trainees while they are in training programs. See e.g., Harris v. Vector Mktg. Corp., 656 F. Supp. 2d 1128, 1142-43 (N.D. Cal. 2009) (outside sales exemption inapplicable to three-day training for new hires where not performing outside sales work); Andrade v. Aerotek, Inc., No. 08-2668, 2009 WL 2757099 (D. Md. Aug. 26, 2009) (employer classifies “new hires . . . being prepared for possible positions” as non-exempt work); Bullard v. Babcock & Wilcox Technical Servs. Pantex, L.L.C., No. 07-049, 2009 WL 1704251, n.1 (N.D. Tex. June 17, 2009) (trainee “regulation applies” while “in training for the position” because as “a trainee he was not in an exempt position”) (vacated for unrelated reasons); Tyler v. Payless Shoe Source, Inc., No. 05-33, 2005 WL 3133763 (M.D. Ala. Nov. 23, 2005) (employer Payless agreed with plaintiffs that “Store Manager Trainees could not have been exempt because Department of Labor Regulations provide that the overtime exemption does not apply to ‘employees training to become executives and not actually performing the duties of an executive.’”). Kirby contends that the Plaintiffs, in their depositions, “admit that selling door-to-door was their most important duty, and thus, their primary duty.” (Def.’s Mot. Summ. J. at 15.) But Kirby did not ask Plaintiffs about their primary duty during the first training week.  
+
+Reviewing this evidence in the light most favorable to the Independent Dealers, and drawing all reasonable inferences in their favor, as I must at the summary judgment stage, I find that there is a genuine issue of material fact concerning how the Independent Dealers spent their working days during their first week, and whether the Independent Dealers, “actually perform[ed] . . . the duties of an . . . outside sales employee” during their first week, and were “customarily and regularly engaged away from the employer’s place or places of business in performing such duty.” 29 C.F.R. § 541.705. Especially because “[e]xemptions from the FLSA's requirements are to be narrowly construed against the employers seeking to assert them and their application limited to those establishments plainly and unmistakably within their terms and spirit,” Davis, 587 F.3d at 531 (internal quotations and citations omitted), summary judgment is DENIED on this point. 
+
+
+
+
+
+
+
+
+
+ 
+
+The Independent Dealers and the Appointment Setters claim that Kirby violated Conn. Gen. Stat. § 31-60 by failing to pay them at a rate greater than or equal to the Connecticut minimum hourly wage. The Independent Dealers seek payment for “time they spent in mandatory training during the first week of their employment,” and the Appointment Setters seek payment for “all weeks worked.” (2d Am. Compl. ¶¶ 86, 87.)  
+
+As it did with the FLSA, Kirby argues that Count Three fails as to the Independent Dealers and the Appointment Setters because Kirby was not their joint employer as a matter of law. (Def.’s Mot. Summ. J. at 39-40.) Further, Kirby argues that Count Three also fails as to the Independent Dealers because they are exempt as outside salespersons. (Id. at 13-23.) 
+
+The Connecticut Minimum Wage Act (“CMWA”) is similar to the FLSA, and “federal precedent can be used to interpret Connecticut laws that are analogous to provisions contained in the FLSA.” Hendricks v. J.P. Morgan Chase Bank, N.A., 677 F. Supp. 2d 544, 560 (D. Conn. 2009). It is a violation of the CMWA for an employer to pay or agree “to pay to an employee less than the minimum fair wage or overtime wage.” Conn. Gen. Stat. § 31-60. Conn. Gen. Stat. § 31-58 defines “employer,” much like the FLSA,6 as “any owner or any person, partnership, corporation, limited liability company or association of persons acting directly as, or on behalf 
+
+6 The FLSA defines “employer” as “any person acting directly or indirectly in the interest of an employer. . .” 29 U.S.C. § 203(d). 
+
+of, or in the interest of an employer in relation to employees.”  “Employ” is defined the same as the FLSA: “to employ or suffer to work.” Id. § 31-58(g). Finally, for purposes of minimum wages, the CMWA defines “employee” as “any individual employed or permitted to work by an employer but shall not include . . . an outside salesman as defined in the regulations of the federal Fair Labor Standards Act.” Id. § 31-58(e). “The burden rests on the employer to establish that the employee comes within the statutory exemption.” Butler v. Hartford Technical Inst., Inc., 243 Conn. 454, 466 (1997).  
+
+
+
+
+
+
+
+
+
+The Independent Dealers limit their FLSA and CMWA claims to time spent in training during their first week of work. (2d Am. Compl. ¶¶ 75, 87.) Kirby points out that, unlike the FLSA, the CMWA has not promulgated, nor specifically incorporated by reference, a “trainees” regulation. See 29 C.F.R. § 541.705. The CMWA defines “employee” as “any individual employed or permitted to work by an employer but shall not include . . . an outside salesman as defined in the regulations of the federal Fair Labor Standards Act.” Conn. Gen. Stat. § 31-58(e). None of the regulations that “define” outside sales employees (29 C.F.R. §§541.500-541.504) refer to the FLSA’s “trainees” regulation, 29 C.F.R. § 541.705.7 The “trainees” regulation is not referenced in any of the regulations that define terms—such as “primary duty,” “customarily and regularly,” “directly and closely related”— that are found in the regulations defining “outside 
+
+7 Plaintiffs claim that the CMWA incorporates all FLSA regulations relating to the outside sales exemption, including the trainee exception. The CMWA, however, defines “employee” as “any individual employed or permitted to work by an employer but shall not include . . . an outside salesman as defined in the regulations of the federal Fair Labor Standards Act.” Conn. Gen. Stat. § 31-58(e) (emphasis added). The CMWA does not use the phrase “related to.” Furthermore, Plaintiffs argue that “when the Connecticut legislature did not wish to adopt an FLSA regulation, it said so. See id. (authorizing the Labor Commissioner to enact regulations defining certain exemptions and not adopting the FLSA regulations relating to these exemptions).” (Supplemental Memorandum of Law in Support of Plaintiffs’ Motion for Partial Summary Judgment [doc. # 377] at 1.) The fact that Conn. Gen. Stat. § 31-58(e) defers to the Labor Commissioner, and not the FLSA, to define executive, administrative or professional exemptions, undermines Plaintiffs’ argument because it suggests that the Connecticut Legislature would have specifically incorporated the trainee regulation, or its own similar regulation, if that had been its intent. 
+
+ 
+
+salesperson.” See 29 C.F.R. §§541.700-541.703. Therefore, the trainee exemption is not part of the definition of “outside salesman” and is not incorporated into the CMWA. Without applying a trainee exception to the outside sales exemption, the Court must view the Independent Dealers’ positions as a whole. Because Independent Dealers’ first week of training is merely a small portion of the position as a whole, and because the primary duty of the position is outside sales, the Independent Dealers would be classified as exempt outside sales people, and not “employees,” under the CMWA. The Court therefore grants summary judgment to Kirby on this point. ii. Joint Employment 
+
+
+
+
+
+
+
+
+
+It remains necessary to address the joint employment issue under state law with respect to Appointment Setters. Kirby argues that the Connecticut Supreme Court declined to adopt the “economic reality test” for determining joint employment status under the CMWA. Instead, “Connecticut courts consider factors such as whether the alleged employer set the hours of employment, paid wages, exercised control over day-to-day responsibilities, or ran other daily operations,” and whether the defendant “caused” the CMWA violations. Flemming v. REM Connecticut Cmty. Services Inc., 2012 WL 6681862 at *2, 6 (citing Butler v. Hartford Technical Inst., 243 Conn. 454, 462 n. 8 (1997)). Plaintiffs counter that Flemming and Butler interpret whether joint employer liability exists for a particular provision of the Connecticut statutes that governs civil actions by the Labor Commissioner to collect unpaid wages, Conn. Gen. Stat. § 31–72, which is not at issue here. And Conn. Gen. Stat. § 31–72 has a narrower definition of “employer” than the definition for minimum wage claims used in Conn. Gen. Stat. § 31-60. Compare Conn. Gen. Stat. § 31-71a(1) (defining “employer” for purposes of wage collection as including “any individual, partnership, association, joint stock company, trust, corporation . . . employing any person), with Conn. Gen. Stat. § 31-58(d) (defining “employer” for purposes of minimum wage as “any owner or any person, partnership, corporation, limited liability company or association of persons acting directly as, or on behalf of, or in the interest of an employer in relation to employees . . .”) (emphasis added).  
+
+The Court agrees with Plaintiffs on this point. Butler addressed the issue of whether Conn. Gen. Stat. § 31-72 imposes liability on an individual when a corporate entity is already identified as the employer. In conducting its statutory analysis, the Butler court considered Conn. Gen. Stat. § 31-72 along with other relevant statutes, and the remedial purpose of Connecticut’s overtime laws, which support construing terms liberally “in favor of those whom the legislature intended to benefit.” Butler, 243 Conn. at 463 (internal quotations omitted). The Butler court concluded that both an individual, as well as a corporate entity, could be found liable for unpaid wages, “if the individual is the ultimate responsible authority to set the hours of employment and to pay wages and is the specific cause of the wage violation.” Butler, 243 Conn. at 463-64. But the liability of an individual versus a corporate entity is not at issue in this case. Furthermore, the definition of “employer” in Conn. Gen. Stat. § 31-58, for purposes of minimum wage claims in Conn. Gen. Stat. § 31-60, more closely tracks the FLSA definition8 than the definition in Conn. Gen. Stat. § 31-71a(1) for wage collection purposes. Thus it is more appropriate to apply the “economic reality” test that is used in FLSA cases for Connecticut minimum wage claims, instead of only the Flemming factors. Using the economic reality test, the Court has already found that Kirby is not the joint employer of the Appointment Setters as a matter of law. 
+
+8 The FLSA defines “employer” as “any person acting directly or indirectly in the interest of an employer . . .” 29 U.S.C. § 203(d). Conn. Gen. Stat. Ann. § 31-58 (d) defines “employer” as “any owner or any person, partnership, corporation, limited liability company or association of persons acting directly as, or on behalf of, or in the interest of an employer in relation to employees, including the state and any political subdivision thereof.” 
+
+Even assuming that only the Flemming factors apply to minimum wage claims, the Court reaches the same conclusions. The Flemming factors closely track the Carter formal control factors. See Flemming, 2012 WL 6681862, at *5 (applying the Carter factors in denying the motion to dismiss). The Flemming opinion says that courts consider “factors such as whether the alleged employer set the hours of employment, paid wages, exercised control over day-to-day responsibilities, or ran other daily operations,” and whether the defendant “caused” the CMWA violations. Flemming, 2012 WL 6681862, at *2, 6 (internal citations omitted). These factors track two of the Carter formal control factors: factor (2), whether the putative employer supervised and controlled employee work schedules or conditions of employment, and factor (3), whether the putative employer determined the rate and method of payment. Carter, 735 F.2d at 12. Because the Court finds that factors (2) and (3) weigh against joint employment with respect to Appointment Setters, the Court finds that Kirby is not the joint employer of Appointment Setters as a matter of law. 
+
+Because the Independent Dealers are exempt outside sales people under Connecticut law and Kirby is not the joint employer of Appointment Setters under Connecticut law, the Court grants summary judgment to Kirby on Count Three. 
+
+
+
+
+
+
+
+
+
+ 
+
+Appointment Setter Pallet claims that Kirby violated Conn. Gen. Stat. § 31-60 and 31-76c by failing to pay him overtime, at a rate greater than one and one half times his regular hourly rate, for hours worked in excess of forty hours a week. (2d Am. Compl. ¶ 92.) This claim fails because, as detailed above (see Sections III.A.1.b.ii. and III.A.2.a.ii, supra), Kirby is not a joint employer of Appointment Setter Pallet under the FLSA or Connecticut law. Thus, the Court grants summary judgment to Kirby on Count Four. 
+
+  
+
+
+
+
+
+
+
+The Independent Dealers and Appointment Setters claim that Kirby violated Conn. Gen. Stat. § 31-71b9 by failing to pay them “all moneys due” for each week they worked, as a result of Kirby’s policy of treating Independent Dealers as independent contractors, and because Kirby failed to pay Appointment Setters for training, mandatory staff meetings, overtime, time “off the clock,” and a half hour deducted when Appointment setters worked a double shift. Plaintiffs also claim that Kirby violated Conn. Gen. Stat. § 31-71c10 by failing to pay “all wages due” at the time of discharge or voluntary termination. 
+
+9 “[E]ach employer, or the agent or representative of an employer, shall pay weekly all moneys due each employee on a regular pay day. . . .” Conn. Gen. Stat. § 31-71b(a)(1). 
+
+10 C.G.S. § 31-71c provides as follows: 
+
+“(a) Whenever an employee voluntarily terminates his employment, the employer shall pay the employee's wages in full not later than the next regular pay day, as designated under section 31-71b, either through the regular payment channels or by mail. 
+
+(b) Whenever an employer discharges an employee, the employer shall pay the employee's wages in full not later than the business day next succeeding the date of such discharge. 
+
+(c) When work of any employee is suspended as a result of a labor dispute, or when an employee for any reason is laid off, the employer shall pay in full to such employee the wages earned by him not later than the next regular pay day, as designated under section 31-71b.” 
+
+11 “Whenever an employer discharges an employee, the employer shall pay the employee's wages in full not later than the business day next succeeding the date of such discharge.” C.G.S. § 31-71c(b). 
+
+ 
+
+Kirby argues that Plaintiffs’ claims fail because Kirby was not their “employer” under the FLSA and the CMWA. The Court has already addressed these arguments. Therefore, Kirby’s motion for summary judgment is denied as to the Independent Dealers and granted as to the Appointment Setters. 
+
+
+
+
+
+
+
+
+
+Appointment Setters and Independent Dealers also claim that Kirby did not pay “all wages due” the next day after an employee was discharged, in violation of Conn. Gen. Stat. § 31-71c(b)11 (2d Am. Compl. ¶ 104.)  
+
+Kirby argues that the Independent Dealer Plaintiffs who resigned voluntarily do not qualify for relief under this count because it invokes only Conn Gen. Stat. § 31-71c(b), which addresses situations in which “an employer discharges an employee.” (Def.’s Mot. Summ. J. [doc. # 302] at 44; Def.’s Reply Mot. Summ. J. at 17.) Plaintiffs did not respond to this in their brief, and, in their statement of undisputed material facts, they state that each of the Plaintiff Independent Dealers—Dixon, Anderson-Rodriguez, Smith, Ford, and Hirth—quit their positions. (Pls.’ L.R. 56.1 Stmt. [doc. # 306] at ¶¶ 254, 262, 273, 286, 299.) Therefore, the Court grants summary judgment to Kirby as to the Independent Dealer Plaintiffs because they voluntarily terminated their positions. Because I find that Kirby is not the Appointment Setters’ joint employer as a matter of law, I grant summary judgment on Count Six as to the Appointment Setters. 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Plaintiffs Dixon, Anderson-Rodriguez, Smith, and Ford claim that Kirby fraudulently misrepresented the nature of its business and the terms and conditions of employment, or aided and abetted distributors in doing so. (2d Am. Compl. ¶¶ 106, 108.)  
+
+The elements of fraudulent misrepresentation are 1) a false representation was made as a statement of fact; 2) it was untrue and known to be untrue by the party making it; 3) it was made to induce the other party to act on it; and 4) that the other party acted on it to his injury. Paiva v. Vanech Heights Const. Co., 159 Conn. 512, 515 (1970).  
+
+There is evidence that distributors published advertisements that promised payments of at least $400 per week, these promises were false and known to be false, and plaintiffs relied on them to their detriment. (See, e.g., Pls.’ Ex. 87 Dixon Tr. 11:25-12:25, 22:05-25; Pls.’ Ex. 349, Dixon Tr. 85:24- 90:14; Pls.’ Ex. 350, Ford Tr. 45:03-47:05; Pls.’ Ex. 372 Anderson-Rodriguez Tr.53:5-14, 54:21-55:5, 171:12-17, 186:13-187:17.) Nevertheless, Plaintiffs cite no evidence showing that Kirby made these false representations. Distributors were responsible for drafting and publishing recruiting advertisements and did not seek input or approval from Kirby on their advertisements. (S. Zabka Tr. 328-331.) Supervisor for the Patriot Division, Mark Helo, provided distributors with examples of successful, top-producing advertisements, many of which stated that starting pay is $400 per week and higher and several of which offered sign-on bonuses of $1,000. (Helo Tr. 265-66; Pls.’ Ex. 379 and Pls.’ Ex. 380). But the evidence shows that Kirby cautioned distributors that the statements in their advertisements “must be true and not misleading” and that distributors are “prohibited from stating or guaranteeing minimum earnings or salaries, unless the distributor is willing to, in a position to, and does in fact, pay a salary or minimum guarantee to those that qualify.” (Zabka Tr. 328-331, Def.’s Ex. 38, SZE001088). The bottom of each page of sample advertisements contains a warning that “[a]dvertisements must conform to your local laws and regulations, must not contain any misleading information, and must be accurate based on the statistics for your specific area. These sample ads may not be appropriate for your distributorship.” (Def.’s Ex. 38, SZE001088-102.) Furthermore, Kirby told distributors that ads should not even “contain potential earnings figures unless they are CUSTOMARY earnings for your area and can be supported by fact.” (S. Zabka Tr. 328-332, Def.’s Ex. 38 SZE001088, KIRBY041085) (emphasis in original). Kirby also required Zabka to sign a zero tolerance acknowledgment form agreeing that he “will monitor the job postings” of S.Z. Enterprises “in newspapers and online, including craigslist, to ensure the earnings are properly qualified and stated.” (Pls.’ Ex. 59 KIRBY 000066; Helo Tr. 164-169, 179-183, KIRBY000377.) Finally, in reviewing S.Z. Enterprises in May 2010, Kirby found that Zabka’s 
+
+Plaintiffs do not support their alternative contention that Kirby aided and abetted distributors’ alleged fraudulent misrepresentations. The elements of aiding and abetting are: “(1) the party whom the defendant aids must perform a wrongful act that causes an injury; (2) the defendant must be generally aware of his role as part of an overall illegal or tortious activity at the time that he provides the assistance; [and] (3) the defendant must knowingly and substantially assist the principal violation....” Flannery v. Singer Asset Fin. Co., LLC, 312 Conn. 286 (2014) quoting Efthimiou v. Smith, 268 Conn. 499, 505 (2004). (Internal quotation marks omitted).  
+
+Even if the distributors’ conduct was tortious and injured Plaintiffs, Plaintiffs still fail to show that there are genuine issues of material fact as to the second and third elements concerning whether Kirby “knowingly and substantially” assisted distributors’ fraudulent misrepresentations. In light of the other evidence discussed above, the fact that Mark Helo sent distributors sample advertisements from top-selling distributors is not enough to demonstrate “knowing and substantial” assistance.  
+
+Thus, the Court grants summary judgment to Kirby for Count Seven. 
+
+ 
+
+
+
+
+
+
+
+Plaintiffs Dixon, Anderson-Rodriguez, Smith, and Ford claim that Kirby did not use reasonable care when providing false information about career opportunities, or aided and abetted in doing so. (2d Am. Compl. ¶ 110.)  
+
+“Traditionally, an action for negligent misrepresentation requires the plaintiff to establish (1) that the defendant made a misrepresentation of fact (2) that the defendant knew or should have known was false, and (3) that the plaintiff reasonably relied on the misrepresentation, and (4) suffered pecuniary harm as a result.” Coppola Const. Co., Inc. v. Hoffman Enterprises Ltd. P'ship, 309 Conn. 342, 351-52 (2013) (internal citations omitted). 
+
+Plaintiffs cite no evidence that Kirby supplied Plaintiffs with false information, and therefore the Court grants Kirby summary judgment on the claim that Kirby negligently misrepresented information about career opportunities. Plaintiffs also do not provide evidence that Kirby “knowingly and substantially” assisted in distributors’ alleged negligent misrepresentation. Therefore, the Court grants Kirby summary judgment on the claim that Kirby aided and abetted distributors’ negligent misrepresentation 
+
+
+
+
+
+
+
+
+
+Independent Dealer Plaintiffs Dixon, Anderson-Rodriguez, Smith, and Ford claim that Kirby deceived them by promising minimum compensation of $500 per week, and Kirby benefited from their “long and intense hours of work marketing Defendants’ products by realizing a profit from the sales of their products with artificially low labor costs.” (2d Am. Compl. ¶ 113.) In order to recover for unjust enrichment, Plaintiffs “must prove (1) that the defendants were benefited, (2) that the defendants unjustly did not pay the plaintiffs for the benefits, and (3) that the failure of payment was to the plaintiffs' detriment.” (Internal quotation marks omitted.) Hartford Whalers Hockey Club v. Uniroyal Goodrich Tire Co., 231 Conn. 276, 282-83 (1994). 
+
+At oral argument, Plaintiffs’ counsel conceded that if Counts Seven and Eight fail, Count Nine also fails because it is based on the same alleged unlawful conduct. (See also 2d Am. Compl. ¶¶ 112-16.) Therefore, because the Court grants Kirby summary judgment on the Plaintiffs’ claims of negligent misrepresentation and fraudulent misrepresentation, and aiding and abetting the same, the Court also grants summary judgment to Kirby as to Plaintiffs’ claims that 1) Kirby was unjustly enriched by Plaintiffs and 2) Kirby aided and abetted in the unjust enrichment of Zabka. 
+
+
+
+
+
+
+
+The Independent Dealer Plaintiffs move for partial summary judgment, seeking a holding, as a matter of law, that they are employees of Kirby under the FLSA and Connecticut law. 
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+The Independent Dealer Plaintiffs argue that they were improperly misclassified as independent contractors rather than employees. The test for whether an individual is an employee or an independent contractor under the FLSA is an “economic reality test,” including the following factors: “(1) the degree of control exercised by the employer over the workers, (2) the workers' opportunity for profit or loss and their investment in the business, (3) the degree of skill and independent initiative required to perform the work, (4) the permanence or duration of the working relationship, and (5) the extent to which the work is an integral part of the employer's business.” Brock v. Superior Care, Inc., 840 F.2d 1054, 1058-59 (2d Cir. 1988). No single factor is dispositive, and these factors are not exclusive. “The existence and degree of each factor is a question of fact while the legal conclusion to be drawn from those facts—whether workers are employees or independent contractors—is a question of law.” Id. at 1059. “Since the test concerns the totality of the circumstances, any relevant evidence may be considered, and mechanical application of the test is to be avoided.” Id. “The ultimate concern is whether, as a matter of economic reality, the workers depend upon someone else's business for the opportunity to render service or are in business for themselves.” Id. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Plaintiffs argue that Kirby exercised substantial control over them by closely monitoring them and requiring them to follow Kirby policies that defined the terms and conditions of their work. In response, Kirby cites the evidence of its lack of control over Independent Dealers in support of its motion for summary judgment (e.g. Kirby did not hire or fire Independent Dealers,  set their work schedules, pay them, or set their compensation, etc.). Kirby also argues that some of Plaintiffs’ evidence that Kirby required Plaintiffs to follow its policies lacks foundation and/or is irrelevant. Kirby argues that the “policies” that Plaintiffs claim demonstrate that Kirby controlled Dealers’ working conditions were either not policies, were optional recommendations, or were not in effect during the time periods that Plaintiffs were Independent Dealers. Finally, Kirby argues that Plaintiffs’ evidence that Kirby closely monitored Independent Dealers’ working conditions pertains to Kirby’s review of other distributors, not the distributors with which the Plaintiff Independent Dealers worked. Plaintiffs respond with evidence of Kirby’s control over Plaintiffs from Kirby’s admissions in Defendants’ Local Rule 56(a)(2) Statement in Response to Plaintiffs’ 56(a)(1) Statement (hereafter, “Def.’s L.R. 56(a)(2) Stmt.”). 
+
+In determining the degree of control exercised by an employer, courts consider the Carter formal control factors: “whether the alleged employer (1) had the power to hire and fire the employees, (2) supervised and controlled employee work schedules or conditions of employment, (3) determined the rate and method of payment, and (4) maintained employment records.” Spiteri v. Russo, 2013 WL 4806960, at *58 (E.D.N.Y. 2013) (internal quotations omitted) (applying the Carter factors to decide whether a defendant exercised control over the plaintiff); Solis v. Gen. Interior Sys., Inc., 2012 WL 1987139, at *3-4 (stating that courts in the Second Circuit consider the Carter factors when evaluating degree of control exercised). The Court has already analyzed these factors with respect to the Independent Dealers and determined that there are genuine issues of material fact as to three of the four factors, with only the fourth factor weighing against joint employment. See Section III.A.1.b.i.a), supra.  
+
+Viewing the evidence in the light most favorable to Kirby, the Court finds that there is a genuine issue of material fact as to the degree of control Kirby exercised over the Independent Dealers. Although the distributors had more direct control over the Independent Dealers than Kirby, Plaintiffs provide evidence that Kirby exercised some control over their hiring and firing and terms and conditions of employment. For example, Kirby had the power to ban individuals from being affiliated with Kirby. (See, e.g., Pls.’ L.R. 56.1 Stmt. ¶¶ 32, 48-51, 54, 59, 60-62, 68; Pls.’ Ex. 9, Nichols Tr. 277:01-15.) Furthermore, if Kirby terminated its relationship with a distributor, that distributor’s Independent Dealers would also be terminated. Kirby controlled some aspects of Plaintiffs’ employment by requiring criminal background checks (Def.’s L.R. 56(a)(2) Stmt. ¶ 18), prohibiting the sale of third-party products during demonstrations, and requiring the sale of its vacuums exclusively through its in-home demonstration method. (Def.’s L.R. 56(a)(2) Stmt. ¶¶ 17, 20, 22.) Although distributors were responsible for compensating Independent Dealers, Kirby required that their compensation plans be “clear and fair.” (Def.’s L.R. 56(a)(2) Stmt. ¶ 98.) As stated above, there is no evidence that Kirby maintained employment records. Thus, there are genuine issues of material fact as to the degree of control Kirby exercised over the Independent Dealers. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Kirby argues that commission-based workers, by definition, have opportunities for profit and loss. But this is not dispositive. See, e.g., Schwind v. EW & Assocs., Inc., 357 F. Supp. 2d 691, 701 (S.D.N.Y. 2005) (“Although plaintiff had an opportunity for profit because he worked on commission, he did not invest significantly in EWA with his own money.”); Evans v. MassMutual Fin. Group, 856 F. Supp. 2d 606, 610 (W.D.N.Y. 2012) (“The fact that plaintiff received commissions rather than a salary . . . tends to indicate that he may have been an independent contractor . . . although it is not dispositive.”).  
+
+Independent Dealers often used their own vehicles, and would therefore incur losses for gas and wear and tear to their vehicles when they did not make sales. Merely supplying a vehicle, which plaintiffs “also used for personal purposes,” and paying the vehicle’s expenses, is a small investment compared to the larger business expenses of office space, supplies, telephones, and utilities. See Campos v. Zopounidis, 2011 WL 2971298, at *6-7 (D. Conn. July 20, 2011). Kirby cites Browning, in which plaintiffs who provided pick-up and delivery services were found to be independent contractors. There, however, plaintiffs not only used their own vehicles, but also used their own tools and supplies. Browning v. Ceva Freight, LLC, 885 F. Supp. 2d 590, 608 (E.D.N.Y. 2012) (“Plaintiffs made substantial investments in their businesses. They utilized their own vehicles and all of their own tools and supplies, which of course supports a finding of independent contractor status.”) Furthermore, in Browning, “whether the Plaintiffs made more money or less money depended largely on their investment in bigger vehicles and hiring additional employees in order to increase their efficiency and capacity.” Browning v. Ceva Freight, LLC, 885 F. Supp. 2d 590, 608 (E.D.N.Y. 2012). Here, Independent Dealers were not required to invest any funds to obtain vacuums on consignment, and advertisements for the position said that no investment is necessary to become an Independent Dealer. (Pls.’ L.R. 56.1 Stmt. ¶¶ 48, 74-76, 238). Furthermore, unlike a pickup and delivery service, any investments Independent Dealers made in purchasing bigger vehicles or hiring assistants would not improve their profit margins in selling Kirby vacuums. The fact that Plaintiffs did not invest significantly weighs in favor of finding employee status. Schwind, at 701. Independent Dealers also cite evidence that Kirby prohibited them from selling non-Kirby products or working for more than one distributor without permission. (Pls.’ L.R. 56(a)(1) Stmt. ¶¶ 21, 35.) Therefore, there are genuine issues of material fact as to Plaintiffs’ opportunities for profit or loss and their investment in the business. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Plaintiffs argue that Independent Dealers were unskilled and had no specialized training. The advertisements for the position stated that no experience or investment was required. (Pls.’ L.R. 56.1 Stmt. ¶¶ 48, 75-76, 238.) Kirby counters with witness statements suggesting that Plaintiffs were required to exercise independent initiative and skill in identifying customers, demonstrating vacuums, and persuading customers to purchase them. (S. Zabka Tr. 310-13.) Kirby also argues that Plaintiffs were not required to follow Kirby’s 10-step demonstration process. (Nichols Decl. ¶ 40.)  
+
+Independent Dealers “did not need education or experience to perform” their jobs. Campos v. Zopounidis, 2011 WL 2971298, at *7 (D. Conn. 2011). No reasonable juror could find, based on this evidence, that Independent Dealers exercised skill and independent initiative in selling vacuums. Thus, the degree of skill and independent initiative required to perform the work weighs in favor of employment status. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Independent Dealer Plaintiffs had short tenures with the distributors ranging from one week to two months. Plaintiffs were also free to hold other jobs and sell competing products. The fact that a plaintiff cannot “point to any evidence that the parties expected the relationship to be permanent” weighs in favor of independent contractor status. Edwards v. Cmty. Enterprises, Inc., 251 F. Supp. 2d 1089, 1100 (D. Conn. 2003). Here, although the Independent Dealer agreements “were terminable at any time by either party,” they did not have time-limited terms. Furthermore, Independent Dealers could be promoted within the Kirby distribution network from Independent Dealer to Distributor Trainee to Distributor along Kirby’s “Road to Success.” (See, e.g., Pls.’ L.R. 56.1 Stmt. ¶¶ 69-70, 73, 112, 130, 150.) In Hart v. Rick's Cabaret Int'l, Inc., 967 F. Supp. 2d 901, 921 (S.D.N.Y. 2013), the facts that “dancers were free to work at other clubs or in other lines of work, and that they were not permanent employees, do not distinguish them from countless workers in other areas of endeavor who are undeniably employees under the FLSA—for example, waiters, ushers, and bartenders.” 
+
+Therefore, there are genuine issues of material fact as to this factor, the permanence or duration of the working relationship, and whether it weighs in favor of independent contractor or employee status. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Because Kirby relies exclusively on Independent Dealers’ in-home demonstrations to sell its vacuums, the Independent Dealers argue that their work is integral to Kirby’s business. (Pls.’ L.R. 56.1 Stmt. ¶¶ 7-10.) Kirby counters that the Independent Dealers’ work is interchangeable and easily replaceable, which weighs in favor of classifying them as independent contractors. See Velu v. Velocity Exp., Inc., 666 F. Supp. 2d 300, 307 (E.D.N.Y. 2009). As discussed above (see Section III.A.1.b.i.b)iii), supra), this factor weighs in favor of employment status. 
+
+Considering the totality of the circumstances under the economic realities test, the Court finds that there are genuine issues of material fact as to whether the Independent Dealer Plaintiffs are independent contractors or employees. The Court denies Plaintiffs’ motion for partial summary judgment on the issue of whether the Independent Dealers were independent contractors or employees under the FLSA. 
+
+b. CMWA 
+
+
+
+
+
+
+
+Because the Court has concluded that the Independent Dealers are exempt outside salespersons under the Connecticut Minimum Wage Act, the issue whether they are independent contractors or employees under the CMWA is moot. See Section III.A.2.a.i. 
+
+
+
+
+
+
+
+For the reasons articulated above in deciding Kirby’s motion for summary judgment, the Court denies summary judgment on the issue of whether Kirby is the joint employer of the Plaintiff Independent Dealers. See Section III.A.1.b.i., supra. 
+
+
+
+
+
+
+
+In light of the Court’s ruling, the remaining Counts are: Count One as to the Independent Dealers and Count Five as to the Independent Dealers.  
+
+
+
+
+

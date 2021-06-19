@@ -1,0 +1,94 @@
+ This case arises under the employee protection provisions of theClean Air Act (CAA), 42 U.S.C. § 7622 (1977), the Solid Waste Disposal Act (SWDA), 42 U.S.C. § 6971 (1980), and the Toxic Substances Control Act (TSCA), 15U.S.C. § 2622 (1986) (collectively, the “Environmental Acts”). Christopher Green filed a complaint alleging Opcon, Inc. (Opcon) and VSGI, LLC Construction ServicesSeries (VSGI) retaliated against him for engaging in activities protected by theEnvironmental Acts. On October 31, 2017, a Department of Labor AdministrativeLaw Judge (ALJ) entered a Summary Decision and Order Denying Complaint (D. &O.).1 The ALJ found that Green had not shown he was a covered “employee” ofRespondents, which was an essential element of his claim, and denied his complaint. For the following reasons, we affirm.
+
+
+According to Green’s complaint with the Occupational Safety and HealthAdministration (OSHA), Respondents held contracts to perform roof and window renovations for the United States Department of Veterans Affairs (the VA Projects).
+
+Green Amended Complaint (Am. Complaint) at ¶ 8. Respondents, in turn, subcontracted the renovations to Priority Construction and Roofing Co. (Priority) and Tactical Construction Corp. (Tactical). Id. at ¶¶ 9-10. Tactical and Priority employed Green as their project manager on the VA Projects. Am. Complaint,Exhibits C & E. Green did not submit any evidence suggesting he had a contractual relationship directly with either Respondent.
+
+Green avers that Respondents ordered Priority and Tactical to work with and dispose of asbestos-containing materials without following the applicable regulations for asbestos abatement. Am. Complaint at ¶ 1. Green claims that when he objected to and opposed such orders, Respondents retaliated by ordering Priority and Tactical to remove Green from the VA Projects. Id. at ¶¶ 1-2, 13-18.
+
+OSHA determined that Green was not a “covered employee” under theEnvironmental Acts and denied his claim. OSHA Determination at 1. Green requested a hearing before an ALJ. Upon assignment of the case, the ALJ issued aNotice of Assignment, Filing Notice of Appearance, and Order to Show Cause (Order to Show Cause). The Order to Show Cause ordered Green to show why his case should not be dismissed for failing to establish that he was a “covered employee” of Respondents:
+
+Appeals Judge of the Administrative Review Board but did not participate in the consideration of this case while it was pending on appeal before the Board.
+
+I would like to address one important issue in limine before scheduling a hearing in this matter. Complainant alleges that Respondents caused him to suffer adverse action because of Complainant’s protected activity. But after investigation, the Regional Supervisory Investigator dismissed this complaint of retaliation becauseComplainant had failed to establish that he was a “covered employee” of either Respondent under any of the statutes at issue. In the interest of judicial economy, I hereby ORDER that Complainant will SHOW CAUSE why this request for hearing should not also be dismissed for the same reason.
+
+Order to Show Cause at 2. The ALJ ordered Green to submit a memorandum of points and authority and affidavits, declarations, or other evidentiary proof to establish the factual and legal basis for his position. Id. The Order to Show Cause also gave Respondents the opportunity to file oppositions to Complainant’s submission. Id.
+
+In response to the Order to Show Cause, Green submitted a letter from counsel and certain exhibits, including his employment agreements with Tactical and Priority, a signed subcontractor agreement between Opcon and Priority, an unsigned subcontractor agreement between VSGI and Priority, letters and correspondence, and certain filings the parties apparently submitted to OSHA.
+
+Green did not provide any declarations or affidavits in support of his position.
+
+Opcon filed a letter in opposition to Complainant’s response disputing Green’s various factual allegations, but did not supply evidence or exhibits. VSGI did not submit an opposition or evidence.
+
+On October 31, 2017, before any discovery had been conducted, the ALJ issued the D. & O., finding that Green had not produced sufficient evidence showing that he was an “employee” of either Respondent. The ALJ therefore denied the complaint. D. & O. at 10-11. Green appealed the ALJ’s decision to the Board.2
+The Secretary of Labor has delegated to the ARB authority to review ALJ decisions and issue agency decisions in cases arising under the Environmental Acts.
+
+Secretary’s Order No. 01-2020 (Delegation of Authority and Assignment ofResponsibility to the Administrative Review Board), 85 Fed. Reg. 13,186 (Mar. 6, 2020); 29 C.F.R. § 24.110. The ARB reviews an ALJ’s grant of summary decision de novo, applying the same standards that ALJs employ under 29 C.F.R. Part 18.
+
+Siemaszko v. First Energy Nuclear Operating Co., Inc., ARB No. 2009-0123, ALJ No.
+
+2003-ERA-00013, slip op. at 3 (ARB Feb. 29, 2012).
+
+Under 29 C.F.R. § 18.72, an ALJ may enter summary decision for either party if the pleadings, affidavits, materials obtained by discovery, or matters officially noticed show that there is no genuine issue as to any material fact and that based on the law a party is entitled to summary decision. If the complainant fails to show an essential element of his case, there can be no “genuine issue as to any material fact,” since a complete failure of proof concerning an essential element necessarily renders all other facts immaterial. Mehan v. Delta Air Lines, ARB No.
+
+2003-0070, ALJ No. 2003-AIR-00004, slip op. at 3 (ARB Feb. 24, 2005); Rockefeller v. Dep’t of Energy, ARB Nos. 2003-0048, -0084, ALJ Nos. 2002-CAA-00005, 2003-ERA-00010, slip op. at 4 (ARB Aug. 31, 2004) (citing Celotex Corp. v. Catrett, 477U.S. 317, 322-23 (1986)). On summary decision, the ALJ in the first instance and the Board on appeal must review the record in the light most favorable to the nonmoving party. Micallef v. Harrah’s Rincon Casino & Resort, ARB No. 2016-0095,ALJ No. 2015-SOX-00025, slip op. at 3 (ARB July 5, 2018).
+
+
+
+1. Green Did Not Show He Had an Employment Relationship with RespondentsThe Environmental Acts require that the complainant be a covered “employee” and have an employment relationship with the respondent. 42 U.S.C. § 7622(a); 42 U.S.C. § 6971(a); 15 U.S.C. § 2622(a); Reid v. Methodist Med. Ctr., 1993-CAA-0004, 1995 WL 847960, at *3-4 (Sec’y Apr. 3, 1995). To determine whetherGreen, who albeit was not a direct or immediate employee of either Respondent, was nonetheless a covered “employee” under the Environmental Acts, the ALJ applied a test derived from the common law of agency as articulated in NationwideMut. Ins. Co. v. Darden, 503 U.S. 318 (1992) and its progeny. D. & O. at 6.
+
+The relevant factors under the common law test include the “(1) extent of the [purported] employer’s control and supervision over the worker, including directions on scheduling and performance of work, (2) the kind of occupation and nature of skill required, including whether skills are obtained in the workplace, (3) responsibility for the costs of operation, such as equipment, supplies, fees, licenses, workplace, and maintenance of operations, (4) method and form of payment and benefits, and (5) length of job commitment and/or expectations.” Nischan v.
+
+Stratosphere Quality, 865 F.3d 922, 929 (7th Cir. 2017) (citation omitted); accordDarden, 503 U.S. at 323 (citing Cmty. for Creative Non-Violence v. Reid, 490 U.S.
+
+Upon review of the D. & O., we conclude the ALJ’s analysis is a well-reasoned application of the common law test to the undisputed facts on the record. Green did not present evidence that Respondents controlled or supervised Green’s day-to-day work, that Respondents directed the manner in which Green completed his tasks, that Respondents played a role in the development of Green’s skills or providedGreen training, that Respondents and Green had anything more than just a temporary and indirect relationship, or that Respondents conferred any pay or benefits on Green. D. & O. at 6-9. Therefore, considering the record as a whole in the light most favorable to Green, we agree with the ALJ that Green failed to make a showing sufficient to establish the existence of an employment relationship withRespondents under the common law test.
+
+Green contends on appeal that the ALJ erred by using the common law test.
+
+Green argues that the ALJ should have instead applied a “control” test to determine whether he was a covered employee of Respondents under the Environmental Acts.
+
+Complainant’s Brief (Comp. Br.) at 13-15. Even applying the control test, we conclude that Green still has not demonstrated an employment relationship withRespondents.3Respondents under either the control test or the common law test, we need not decide whether one test or the other should have been applied or would have been determinative under the facts and circumstances of this case.
+
+The crucial factor in finding an employer-employee relationship under the control test is “whether the respondent acted in the capacity of an employer, that is, exercised control over, or interfered with, the terms, conditions, or privileges of the complainant’s employment.” Seetharaman v. Gen. Elec. Co., ARB No. 2003-0029,ALJ No. 2002-CAA-00021, slip op. at 5 (ARB May 28, 2004); accord Stephenson v.
+
+NASA, ARB No. 1996-0080, ALJ No. 1994-TSC-00005, slip op. at 3 (ARB Feb. 13, 1997). Such control includes “the ability to hire, transfer, promote, reprimand, or discharge the complainant, or influence another employer to take such action against a complainant . . . .” Seetharaman, ARB No. 03-0029, slip op. at 5.
+
+The only indicia of control that Green points to in this appeal is Respondents’ power to remove Green from the VA Projects. Comp. Br. at 16. Green has not argued that Respondents had any other ability to control the terms, conditions, or privileges of his employment.
+
+In the context of putative indirect employers like Respondents, the power to order an individual’s removal from a particular contract or project, without more, is not tantamount to control over the terms and conditions of the individual’s employment. Love v. JP Cullen & Sons, 779 F.3d 697, 703-04 (7th Cir. 2015);Knitter v. Corvias Military Living, LLC, 758 F.3d 1214, 1228-29 (10th Cir. 2014);Godlewska v. HDA, 916 F.Supp.2d 246, 258 (E.D.N.Y 2013), aff’d sub nom.
+
+Godlewska v. Human Dev. Ass’n, Inc., 561 F. App’x. 108 (2d Cir. 2014); cf. Nischan, recommendations on personnel decisions does not establish control over the terms and conditions of employment). Notably, Green did not argue to the ALJ or to thisBoard that his removal from the VA Projects resulted in his termination fromPriority or Tactical, or otherwise impacted his employment with those companies.
+
+There is no indication that Green could not be reassigned to other contracts held byPriority or Tactical. Green also did not argue or supply evidence suggesting thatRespondents intended to jeopardize Green’s employment with Priority and Tactical or influence those companies to take unfavorable personnel actions against him. SeeLove, 779 F.3d at 703 (finding no control where “the record lack[ed] any evidence that [defendant] attempted to jeopardize [plaintiff’s] continued employment with [his direct employer] or his placement on other . . . projects.”). Therefore, we find that Green has not made a showing that Respondents had control over the terms and conditions of his employment.
+
+For the foregoing reasons, we conclude that Green has not shown he had an employment relationship with Respondents under the common law test applied by the ALJ or the control test for which Green advocates. Because Green has not shown facts sufficient to establish an essential element of his retaliation claim, we affirm the denial of his complaint. See Mehan, ARB No. 03-0070, slip op. at 3.
+
+2. The ALJ Did Not Err by Entering Summary Decision without DiscoveryGreen also argues that the ALJ erred by entering summary decision without first allowing time for discovery. Green did not argue to the ALJ below that he needed to conduct discovery to respond to the Order to Show Cause or that dismissing his case prior to discovery would be premature or improper. Under the applicable regulation, Green had the opportunity to submit an affidavit or declaration identifying his need to conduct discovery to present facts essential to his claim, but he did not do so. See 29 C.F.R. §18.72(d); accord Fed. R. Civ. P. 56(d) (providing the same procedural mechanism in federal courts). We generally do not consider arguments raised for the first time on appeal, even when reviewing a summary decision de novo. Saporito v. Cent. Locating Servs., LTD, ARB No. 2005- 0004, ALJ No. 2001-CAA-00013, slip. op. at 10 (ARB Feb. 28, 2006); Lewandowski v.
+
+Viacom Inc., ARB No. 2008-0026, ALJ No. 2007-SOX-00088, slip op. at 10 (ARB Oct.
+
+30, 2009).
+
+Yet even if we consider Green’s argument, we find it lacks merit. An ALJ’s limitation on the scope of discovery lies within his or her sound discretion. Saporito,ARB No. 05-0004, slip op. at 10 (citing High v. Lockheed Martin Energy Sys., ARBNo. 2003-0026, ALJ No. 1996-CAA-00009, slip op. at 4 (ARB Sept. 29, 2004)). To establish an abuse of that discretion, the appellant must, at a minimum, articulate what materials he hoped to obtain during discovery and how he expects those materials would have helped him avoid dismissal of his case. Id.; see also Bucalo v.
+
+United Parcel Serv., Inc., ARB No. 2010-0107, ALJ Nos. 2008-SOX-00053, 2008-STA-00059, slip op. at 4 (ARB March 21, 2012); Moore v. Dep’t of Energy, ARB No.
+
+1999-0047, ALJ No. 1998-CAA-00016, slip op. at 4 (ARB June 25, 2001). The appellant may not avoid dismissal merely by insisting that he should have been permitted to complete discovery on all issues, generally, before his case was dismissed. Saporito, ARB No. 05-0004, slip op. at 10; Moore, ARB No. 99-0047, slip op. at 4.
+
+Green has not articulated what facts were missing regarding his relationship with Respondents, what specific discovery he wanted to conduct, or how discovery could have avoided denial of his complaint. Green’s general proffer that he needed to complete discovery, without articulating why or identifying what discovery was necessary, is not sufficient to establish the ALJ abused his discretion.
+
+Green cites several cases from the federal courts for his proposition that discovery must always be permitted before the entry of summary decision. Comp.
+
+Br. at 11-12. Yet, consistent with ARB precedent and the applicable rules and regulations, the courts in the cases cited by Green stated that the party seeking to avoid dismissal of a claim before discovery had to actually articulate what facts were missing and identify a need for discovery. Moore v. Shelby Cty., 718 F. App’x 315, 319 (6th Cir. 2017) (“[T]he non-movant bears the obligation to inform the district court of its need for discovery…We have observed that filing an affidavit that complies with Rule 56(d) is essential, and that in the absence of such a motion or affidavit, ‘this court will not normally address whether there was adequate time for discovery.’” (quoting Plott v. Gen. Motors Corp., 71 F.3d 1190, 1196 (6th Cir.
+
+1995))); Shelton v. Bledsoe, 775 F.3d 554, 565-66 (3d Cir. 2015) (citing the Rule 56(d) requirement that a non-movant supply an affidavit or declaration setting forth what discovery was necessary in order to avoid judgment); Rattigan v. Holder, 982F. Supp. 2d 69, 76, 83-84 (D.D.C. 2013) (same). As a result, these cases do not support Green’s argument.
+
+Green also cites to the Board’s decision in Zavaleta v. Alaska Airlines, Inc.,ARB No. 2015-0080, ALJ No. 2015-AIR-00016 (ARB May 8, 2017) for the proposition that the ALJ was obligated to make sure Green was aware of his right to discovery before entering summary decision. Comp. Br. at 12. However, the ruling in Zavaleta was premised on the complainant’s pro se status. As the Board explained in that case, the ALJ committed reversible error by not explaining to the complainant his right to identify necessary discovery because ALJs have a heighted responsibility to assist pro se litigants and are under an obligation to hold them to lesser standards than litigants with legal counsel in procedural matters. Id. at 11, 13. The same considerations do not apply to represented litigants, like Green.
+
+For these reasons, we do not find the ALJ abused his discretion in entering summary decision without allowing Green to conduct discovery.4
+
+The ALJ properly concluded that Respondents were entitled to summary decision as a matter of law. Accordingly, the ALJ’s entry of summary decision in favor of Respondents is AFFIRMED and the complaint is hereby DENIED.
+
+SO ORDERED. 
+

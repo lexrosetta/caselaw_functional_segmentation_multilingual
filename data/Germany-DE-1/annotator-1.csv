@@ -1,0 +1,867 @@
+Type,Document,Start,End
+L0 Out of Scope,Germany-DE-1-1.txt,2,203
+L0 Heading,Germany-DE-1-1.txt,205,210
+L0 Out of Scope,Germany-DE-1-1.txt,1757,1793
+L1 Analysis,Germany-DE-1-1.txt,205,1755
+L2 Outcome,Germany-DE-1-1.txt,205,424
+L0 Out of Scope,Germany-DE-1-2.txt,2,313
+L0 Heading,Germany-DE-1-2.txt,510,516
+L0 Out of Scope,Germany-DE-1-2.txt,8550,8595
+L0 Heading,Germany-DE-1-2.txt,518,520
+L0 Heading,Germany-DE-1-2.txt,1930,1933
+L0 Heading,Germany-DE-1-2.txt,8488,8492
+L1 Analysis,Germany-DE-1-2.txt,1930,8548
+L0 Out of Scope,Germany-DE-1-5.txt,2,220
+L0 Heading,Germany-DE-1-5.txt,222,227
+L0 Heading,Germany-DE-1-5.txt,1797,1803
+L0 Heading,Germany-DE-1-5.txt,1805,1807
+L0 Heading,Germany-DE-1-5.txt,11673,11676
+L1 Analysis,Germany-DE-1-5.txt,11673,29276
+L1 Background,Germany-DE-1-5.txt,1797,11671
+L1 Analysis,Germany-DE-1-5.txt,222,1795
+L2 Outcome,Germany-DE-1-5.txt,222,1795
+L0 Out of Scope,Germany-DE-1-3.txt,2,202
+L0 Heading,Germany-DE-1-3.txt,204,209
+L1 Analysis,Germany-DE-1-3.txt,204,525
+L2 Outcome,Germany-DE-1-3.txt,204,525
+L0 Heading,Germany-DE-1-3.txt,527,533
+L0 Heading,Germany-DE-1-3.txt,535,537
+L1 Background,Germany-DE-1-3.txt,527,3598
+L0 Heading,Germany-DE-1-3.txt,3600,3603
+L1 Analysis,Germany-DE-1-3.txt,3600,12671
+L0 Out of Scope,Germany-DE-1-6.txt,2,204
+L0 Heading,Germany-DE-1-6.txt,206,211
+L1 Analysis,Germany-DE-1-6.txt,206,577
+L2 Outcome,Germany-DE-1-6.txt,206,577
+L0 Heading,Germany-DE-1-6.txt,579,585
+L0 Heading,Germany-DE-1-6.txt,587,589
+L0 Heading,Germany-DE-1-6.txt,8080,8083
+L1 Analysis,Germany-DE-1-6.txt,8080,16314
+L0 Out of Scope,Germany-DE-1-4.txt,2,185
+L0 Heading,Germany-DE-1-4.txt,187,192
+L1 Analysis,Germany-DE-1-4.txt,187,543
+L2 Outcome,Germany-DE-1-4.txt,187,543
+L0 Heading,Germany-DE-1-4.txt,545,551
+L0 Heading,Germany-DE-1-4.txt,553,555
+L1 Background,Germany-DE-1-4.txt,545,2549
+L0 Heading,Germany-DE-1-4.txt,2551,2554
+L1 Analysis,Germany-DE-1-4.txt,2551,8161
+L0 Out of Scope,Germany-DE-1-7.txt,2,239
+L0 Heading,Germany-DE-1-7.txt,241,246
+L1 Analysis,Germany-DE-1-7.txt,241,443
+L2 Outcome,Germany-DE-1-7.txt,241,443
+L0 Heading,Germany-DE-1-7.txt,445,451
+L0 Out of Scope,Germany-DE-1-7.txt,22538,22657
+L1 Background,Germany-DE-1-7.txt,445,5402
+L1 Analysis,Germany-DE-1-7.txt,5404,22536
+L0 Out of Scope,Germany-DE-1-14.txt,2,1641
+L0 Heading,Germany-DE-1-14.txt,1643,1648
+L1 Analysis,Germany-DE-1-14.txt,1643,2360
+L2 Outcome,Germany-DE-1-14.txt,1643,2360
+L0 Heading,Germany-DE-1-14.txt,2362,2372
+L1 Background,Germany-DE-1-14.txt,2362,10751
+L0 Heading,Germany-DE-1-14.txt,10753,10772
+L0 Heading,Germany-DE-1-14.txt,11294,11296
+L0 Heading,Germany-DE-1-14.txt,21826,21829
+L0 Heading,Germany-DE-1-14.txt,41775,41779
+L0 Heading,Germany-DE-1-14.txt,42876,42879
+L1 Analysis,Germany-DE-1-14.txt,10753,43081
+L0 Out of Scope,Germany-DE-1-8.txt,2,320
+L0 Heading,Germany-DE-1-8.txt,322,327
+L0 Heading,Germany-DE-1-8.txt,637,643
+L2 Outcome,Germany-DE-1-8.txt,322,635
+L0 Heading,Germany-DE-1-2.txt,315,320
+L1 Analysis,Germany-DE-1-2.txt,315,508
+L2 Outcome,Germany-DE-1-2.txt,315,508
+L1 Background,Germany-DE-1-2.txt,510,1928
+L1 Analysis,Germany-DE-1-8.txt,322,885
+L1 Background,Germany-DE-1-8.txt,887,3387
+L1 Analysis,Germany-DE-1-8.txt,3389,21116
+L0 Out of Scope,Germany-DE-1-9.txt,2,240
+L0 Heading,Germany-DE-1-9.txt,242,247
+L0 Heading,Germany-DE-1-9.txt,425,431
+L0 Heading,Germany-DE-1-9.txt,433,435
+L0 Heading,Germany-DE-1-9.txt,1232,1235
+L0 Heading,Germany-DE-1-9.txt,8413,8417
+L0 Out of Scope,Germany-DE-1-9.txt,8518,8632
+L1 Analysis,Germany-DE-1-9.txt,242,423
+L2 Outcome,Germany-DE-1-9.txt,242,423
+L1 Background,Germany-DE-1-9.txt,425,1230
+L1 Analysis,Germany-DE-1-9.txt,1232,8516
+L0 Out of Scope,Germany-DE-1-10.txt,2,61
+L0 Heading,Germany-DE-1-10.txt,63,68
+L0 Heading,Germany-DE-1-10.txt,252,262
+L1 Analysis,Germany-DE-1-10.txt,63,250
+L2 Outcome,Germany-DE-1-10.txt,63,250
+L1 Background,Germany-DE-1-10.txt,252,6517
+L0 Heading,Germany-DE-1-10.txt,6519,6538
+L1 Analysis,Germany-DE-1-10.txt,6519,21440
+L0 Out of Scope,Germany-DE-1-11.txt,2,267
+L0 Heading,Germany-DE-1-11.txt,269,274
+L1 Analysis,Germany-DE-1-11.txt,269,606
+L2 Outcome,Germany-DE-1-11.txt,269,606
+L0 Heading,Germany-DE-1-11.txt,608,614
+L0 Heading,Germany-DE-1-11.txt,616,617
+L0 Heading,Germany-DE-1-11.txt,6732,6734
+L1 Background,Germany-DE-1-11.txt,608,6730
+L1 Analysis,Germany-DE-1-11.txt,6732,17032
+L0 Out of Scope,Germany-DE-1-12.txt,2,225
+L0 Heading,Germany-DE-1-12.txt,227,232
+L1 Analysis,Germany-DE-1-12.txt,227,844
+L2 Outcome,Germany-DE-1-12.txt,227,844
+L0 Heading,Germany-DE-1-12.txt,846,852
+L0 Heading,Germany-DE-1-12.txt,854,856
+L0 Heading,Germany-DE-1-12.txt,4874,4877
+L1 Background,Germany-DE-1-12.txt,846,4872
+L1 Analysis,Germany-DE-1-12.txt,4874,19154
+L0 Out of Scope,Germany-DE-1-15.txt,2,296
+L0 Heading,Germany-DE-1-15.txt,298,303
+L1 Analysis,Germany-DE-1-15.txt,298,1033
+L2 Outcome,Germany-DE-1-15.txt,298,1033
+L0 Heading,Germany-DE-1-15.txt,1035,1041
+L0 Heading,Germany-DE-1-15.txt,1043,1045
+L0 Heading,Germany-DE-1-15.txt,5371,5374
+L1 Background,Germany-DE-1-15.txt,1035,5369
+L1 Analysis,Germany-DE-1-15.txt,5371,15867
+L0 Out of Scope,Germany-DE-1-13.txt,2,292
+L0 Heading,Germany-DE-1-13.txt,294,299
+L0 Heading,Germany-DE-1-13.txt,889,895
+L2 Outcome,Germany-DE-1-13.txt,294,887
+L1 Analysis,Germany-DE-1-13.txt,2195,4663
+L0 Out of Scope,Germany-DE-1-13.txt,4665,4700
+L0 Out of Scope,Germany-DE-1-16.txt,2,248
+L0 Heading,Germany-DE-1-16.txt,250,255
+L1 Analysis,Germany-DE-1-16.txt,250,1846
+L2 Outcome,Germany-DE-1-16.txt,250,1846
+L0 Heading,Germany-DE-1-16.txt,1848,1854
+L0 Out of Scope,Germany-DE-1-16.txt,7779,7824
+L0 Out of Scope,Germany-DE-1-17.txt,2,222
+L0 Heading,Germany-DE-1-17.txt,224,229
+L0 Heading,Germany-DE-1-17.txt,983,989
+L0 Heading,Germany-DE-1-17.txt,991,993
+L1 Analysis,Germany-DE-1-17.txt,224,981
+L2 Outcome,Germany-DE-1-17.txt,224,981
+L0 Heading,Germany-DE-1-17.txt,2608,2611
+L1 Background,Germany-DE-1-17.txt,983,2606
+L1 Analysis,Germany-DE-1-17.txt,2608,6503
+L0 Out of Scope,Germany-DE-1-17.txt,6505,6544
+L0 Out of Scope,Germany-DE-1-18.txt,2,255
+L0 Heading,Germany-DE-1-18.txt,257,262
+L0 Heading,Germany-DE-1-18.txt,661,667
+L1 Analysis,Germany-DE-1-18.txt,257,659
+L2 Outcome,Germany-DE-1-18.txt,257,659
+L1 Background,Germany-DE-1-18.txt,661,2220
+L1 Analysis,Germany-DE-1-18.txt,2222,4083
+L0 Out of Scope,Germany-DE-1-18.txt,4085,4120
+L0 Out of Scope,Germany-DE-1-22.txt,2,1718
+L0 Heading,Germany-DE-1-22.txt,1720,1725
+L2 Outcome,Germany-DE-1-22.txt,1720,10736
+L0 Heading,Germany-DE-1-22.txt,10738,10748
+L1 Background,Germany-DE-1-22.txt,10738,18262
+L0 Heading,Germany-DE-1-22.txt,18264,18283
+L0 Heading,Germany-DE-1-22.txt,18285,18287
+L0 Heading,Germany-DE-1-22.txt,18659,18662
+L0 Heading,Germany-DE-1-22.txt,27257,27261
+L0 Heading,Germany-DE-1-22.txt,39004,39007
+L0 Heading,Germany-DE-1-22.txt,57668,57670
+L0 Heading,Germany-DE-1-22.txt,65766,65769
+L1 Analysis,Germany-DE-1-22.txt,18264,65973
+L0 Out of Scope,Germany-DE-1-19.txt,2,229
+L0 Heading,Germany-DE-1-19.txt,231,236
+L0 Heading,Germany-DE-1-19.txt,702,708
+L1 Analysis,Germany-DE-1-19.txt,231,700
+L2 Outcome,Germany-DE-1-19.txt,231,700
+L0 Heading,Germany-DE-1-19.txt,710,712
+L0 Heading,Germany-DE-1-19.txt,4131,4134
+L1 Background,Germany-DE-1-19.txt,702,4129
+L1 Analysis,Germany-DE-1-19.txt,4131,14456
+L0 Out of Scope,Germany-DE-1-20.txt,2,224
+L0 Heading,Germany-DE-1-20.txt,226,231
+L2 Outcome,Germany-DE-1-20.txt,226,546
+L0 Heading,Germany-DE-1-20.txt,548,554
+L1 Background,Germany-DE-1-20.txt,670,6113
+L1 Analysis,Germany-DE-1-20.txt,6115,18421
+L0 Out of Scope,Germany-DE-1-21.txt,2,500
+L0 Heading,Germany-DE-1-21.txt,502,507
+L0 Heading,Germany-DE-1-21.txt,1261,1267
+L2 Outcome,Germany-DE-1-21.txt,502,1259
+L0 Heading,Germany-DE-1-21.txt,2074,2076
+L0 Heading,Germany-DE-1-21.txt,5273,5276
+L0 Heading,Germany-DE-1-21.txt,12883,12887
+L0 Heading,Germany-DE-1-21.txt,21290,21293
+L0 Heading,Germany-DE-1-21.txt,21462,21464
+L0 Out of Scope,Germany-DE-1-21.txt,21847,21965
+L1 Analysis,Germany-DE-1-21.txt,5273,21845
+L0 Out of Scope,Germany-DE-1-25.txt,2,567
+L0 Heading,Germany-DE-1-25.txt,569,574
+L1 Analysis,Germany-DE-1-25.txt,569,982
+L2 Outcome,Germany-DE-1-25.txt,569,982
+L0 Heading,Germany-DE-1-25.txt,984,990
+L0 Heading,Germany-DE-1-25.txt,992,994
+L1 Background,Germany-DE-1-25.txt,984,13953
+L0 Heading,Germany-DE-1-25.txt,13955,13958
+L1 Analysis,Germany-DE-1-25.txt,13955,39355
+L0 Out of Scope,Germany-DE-1-27.txt,2,445
+L0 Heading,Germany-DE-1-27.txt,447,452
+L1 Analysis,Germany-DE-1-27.txt,447,1039
+L2 Outcome,Germany-DE-1-27.txt,447,1039
+L0 Heading,Germany-DE-1-27.txt,1041,1047
+L0 Heading,Germany-DE-1-27.txt,1049,1051
+L0 Heading,Germany-DE-1-27.txt,10130,10133
+L0 Heading,Germany-DE-1-27.txt,23050,23054
+L1 Analysis,Germany-DE-1-27.txt,10130,24732
+L0 Out of Scope,Germany-DE-1-23.txt,2,535
+L0 Heading,Germany-DE-1-23.txt,537,542
+L0 Heading,Germany-DE-1-23.txt,1093,1099
+L0 Heading,Germany-DE-1-23.txt,1101,1103
+L1 Analysis,Germany-DE-1-23.txt,537,1091
+L2 Outcome,Germany-DE-1-23.txt,537,1091
+L1 Background,Germany-DE-1-23.txt,1093,4974
+L0 Heading,Germany-DE-1-23.txt,4976,4979
+L1 Analysis,Germany-DE-1-23.txt,4976,9361
+L0 Out of Scope,Germany-DE-1-24.txt,2,173
+L0 Heading,Germany-DE-1-24.txt,175,180
+L0 Heading,Germany-DE-1-24.txt,457,467
+L1 Analysis,Germany-DE-1-24.txt,175,455
+L2 Outcome,Germany-DE-1-24.txt,175,455
+L1 Background,Germany-DE-1-24.txt,457,5550
+L0 Heading,Germany-DE-1-24.txt,5552,5571
+L1 Analysis,Germany-DE-1-24.txt,5552,26573
+L0 Out of Scope,Germany-DE-1-24.txt,26575,26612
+L0 Out of Scope,Germany-DE-1-26.txt,2,64
+L0 Heading,Germany-DE-1-26.txt,66,71
+L1 Analysis,Germany-DE-1-26.txt,66,267
+L2 Outcome,Germany-DE-1-26.txt,66,267
+L0 Heading,Germany-DE-1-26.txt,269,279
+L1 Background,Germany-DE-1-26.txt,269,7781
+L0 Heading,Germany-DE-1-26.txt,7783,7802
+L1 Analysis,Germany-DE-1-26.txt,7783,16734
+L0 Out of Scope,Germany-DE-1-26.txt,16736,16786
+L0 Out of Scope,Germany-DE-1-28.txt,2,223
+L0 Heading,Germany-DE-1-28.txt,225,230
+L0 Heading,Germany-DE-1-28.txt,468,478
+L1 Analysis,Germany-DE-1-28.txt,225,466
+L2 Outcome,Germany-DE-1-28.txt,225,466
+L1 Background,Germany-DE-1-28.txt,468,4211
+L0 Heading,Germany-DE-1-28.txt,4213,4232
+L1 Analysis,Germany-DE-1-28.txt,4213,24121
+L0 Out of Scope,Germany-DE-1-28.txt,24123,24167
+L0 Out of Scope,Germany-DE-1-29.txt,2,313
+L0 Heading,Germany-DE-1-29.txt,315,320
+L1 Analysis,Germany-DE-1-29.txt,315,594
+L2 Outcome,Germany-DE-1-29.txt,315,594
+L0 Heading,Germany-DE-1-29.txt,596,602
+L1 Background,Germany-DE-1-29.txt,596,5757
+L1 Analysis,Germany-DE-1-29.txt,5759,9280
+L0 Out of Scope,Germany-DE-1-29.txt,9282,9307
+L0 Out of Scope,Germany-DE-1-34.txt,2,416
+L0 Heading,Germany-DE-1-34.txt,418,423
+L0 Heading,Germany-DE-1-34.txt,1425,1431
+L1 Analysis,Germany-DE-1-34.txt,418,1423
+L2 Outcome,Germany-DE-1-34.txt,418,1423
+L1 Background,Germany-DE-1-34.txt,1425,8141
+L1 Analysis,Germany-DE-1-34.txt,8143,43065
+L0 Out of Scope,Germany-DE-1-34.txt,43067,43107
+L0 Out of Scope,Germany-DE-1-30.txt,2,344
+L0 Heading,Germany-DE-1-30.txt,346,351
+L1 Analysis,Germany-DE-1-30.txt,346,1061
+L2 Outcome,Germany-DE-1-30.txt,346,1061
+L0 Heading,Germany-DE-1-30.txt,1063,1073
+L1 Background,Germany-DE-1-30.txt,1063,13776
+L0 Heading,Germany-DE-1-30.txt,13778,13797
+L1 Analysis,Germany-DE-1-30.txt,13778,40705
+L0 Out of Scope,Germany-DE-1-30.txt,40707,40770
+L0 Out of Scope,Germany-DE-1-31.txt,2,63
+L0 Heading,Germany-DE-1-31.txt,65,70
+L1 Analysis,Germany-DE-1-31.txt,65,354
+L2 Outcome,Germany-DE-1-31.txt,65,354
+L0 Heading,Germany-DE-1-31.txt,356,366
+L1 Background,Germany-DE-1-31.txt,356,12433
+L0 Heading,Germany-DE-1-31.txt,12435,12454
+L0 Out of Scope,Germany-DE-1-31.txt,38503,38546
+L0 Out of Scope,Germany-DE-1-37.txt,2,62
+L0 Heading,Germany-DE-1-37.txt,64,69
+L1 Analysis,Germany-DE-1-37.txt,64,613
+L2 Outcome,Germany-DE-1-37.txt,64,612
+L0 Heading,Germany-DE-1-37.txt,614,624
+L1 Background,Germany-DE-1-37.txt,614,5504
+L0 Heading,Germany-DE-1-37.txt,5506,5525
+L1 Analysis,Germany-DE-1-37.txt,5506,45682
+L0 Out of Scope,Germany-DE-1-37.txt,45684,45728
+L0 Out of Scope,Germany-DE-1-32.txt,2,261
+L0 Heading,Germany-DE-1-32.txt,263,268
+L1 Analysis,Germany-DE-1-32.txt,263,465
+L2 Outcome,Germany-DE-1-32.txt,263,465
+L0 Heading,Germany-DE-1-32.txt,467,477
+L1 Background,Germany-DE-1-32.txt,467,8467
+L0 Heading,Germany-DE-1-32.txt,8469,8488
+L1 Analysis,Germany-DE-1-32.txt,8469,28972
+L0 Out of Scope,Germany-DE-1-32.txt,28974,29022
+L0 Out of Scope,Germany-DE-1-33.txt,2,191
+L0 Heading,Germany-DE-1-33.txt,193,198
+L1 Analysis,Germany-DE-1-33.txt,193,404
+L2 Outcome,Germany-DE-1-33.txt,193,404
+L0 Heading,Germany-DE-1-33.txt,406,416
+L1 Background,Germany-DE-1-33.txt,406,1933
+L0 Heading,Germany-DE-1-33.txt,1935,1954
+L1 Analysis,Germany-DE-1-33.txt,1935,4269
+L0 Out of Scope,Germany-DE-1-33.txt,4271,4321
+L0 Out of Scope,Germany-DE-1-35.txt,2,102
+L0 Heading,Germany-DE-1-35.txt,104,109
+L1 Analysis,Germany-DE-1-35.txt,104,376
+L2 Outcome,Germany-DE-1-35.txt,104,376
+L0 Heading,Germany-DE-1-35.txt,378,388
+L1 Background,Germany-DE-1-35.txt,378,9923
+L0 Heading,Germany-DE-1-35.txt,9925,9944
+L1 Analysis,Germany-DE-1-35.txt,9925,31164
+L0 Out of Scope,Germany-DE-1-35.txt,31166,31210
+L0 Out of Scope,Germany-DE-1-36.txt,2,1030
+L0 Heading,Germany-DE-1-36.txt,1032,1037
+L1 Analysis,Germany-DE-1-36.txt,1032,1246
+L2 Outcome,Germany-DE-1-36.txt,1032,1246
+L0 Heading,Germany-DE-1-36.txt,1248,1258
+L1 Background,Germany-DE-1-36.txt,1248,8042
+L0 Heading,Germany-DE-1-36.txt,8044,8063
+L1 Analysis,Germany-DE-1-36.txt,8044,66192
+L0 Out of Scope,Germany-DE-1-36.txt,66194,66248
+L0 Out of Scope,Germany-DE-1-38.txt,2,728
+L0 Heading,Germany-DE-1-38.txt,730,735
+L0 Heading,Germany-DE-1-38.txt,916,922
+L1 Analysis,Germany-DE-1-38.txt,730,914
+L2 Outcome,Germany-DE-1-38.txt,730,914
+L1 Background,Germany-DE-1-38.txt,916,15194
+L1 Analysis,Germany-DE-1-38.txt,15196,43128
+L0 Out of Scope,Germany-DE-1-38.txt,43130,43170
+L0 Out of Scope,Germany-DE-1-42.txt,2,1078
+L0 Heading,Germany-DE-1-42.txt,1080,1085
+L1 Analysis,Germany-DE-1-42.txt,1080,1413
+L2 Outcome,Germany-DE-1-42.txt,1080,1413
+L0 Heading,Germany-DE-1-42.txt,1415,1425
+L0 Heading,Germany-DE-1-42.txt,4762,4781
+L0 Out of Scope,Germany-DE-1-42.txt,45816,45856
+L0 Out of Scope,Germany-DE-1-39.txt,2,1439
+L0 Heading,Germany-DE-1-39.txt,1441,1446
+L0 Heading,Germany-DE-1-39.txt,1629,1639
+L1 Analysis,Germany-DE-1-39.txt,1441,1627
+L2 Outcome,Germany-DE-1-39.txt,1441,1627
+L0 Heading,Germany-DE-1-39.txt,7784,7803
+L0 Out of Scope,Germany-DE-1-39.txt,35762,35808
+L0 Out of Scope,Germany-DE-1-40.txt,2,1155
+L0 Heading,Germany-DE-1-40.txt,1157,1162
+L0 Heading,Germany-DE-1-40.txt,1574,1584
+L1 Analysis,Germany-DE-1-40.txt,1157,1572
+L2 Outcome,Germany-DE-1-40.txt,1157,1572
+L1 Background,Germany-DE-1-40.txt,1574,4725
+L0 Heading,Germany-DE-1-40.txt,4727,4746
+L1 Analysis,Germany-DE-1-40.txt,4727,19975
+L0 Out of Scope,Germany-DE-1-40.txt,19977,20026
+L0 Out of Scope,Germany-DE-1-41.txt,2,771
+L0 Heading,Germany-DE-1-41.txt,773,778
+L1 Analysis,Germany-DE-1-41.txt,773,1133
+L2 Outcome,Germany-DE-1-41.txt,773,1133
+L0 Heading,Germany-DE-1-41.txt,1135,1141
+L0 Heading,Germany-DE-1-41.txt,1143,1145
+L1 Background,Germany-DE-1-41.txt,1135,2204
+L0 Heading,Germany-DE-1-41.txt,2206,2209
+L1 Analysis,Germany-DE-1-41.txt,2206,13713
+L0 Out of Scope,Germany-DE-1-41.txt,13715,13759
+L0 Out of Scope,Germany-DE-1-46.txt,2,417
+L0 Heading,Germany-DE-1-46.txt,419,424
+L1 Analysis,Germany-DE-1-46.txt,419,583
+L2 Outcome,Germany-DE-1-46.txt,419,583
+L0 Heading,Germany-DE-1-46.txt,585,591
+L0 Out of Scope,Germany-DE-1-46.txt,23740,23783
+L0 Out of Scope,Germany-DE-1-43.txt,2,738
+L0 Heading,Germany-DE-1-43.txt,740,745
+L1 Analysis,Germany-DE-1-43.txt,740,1106
+L2 Outcome,Germany-DE-1-43.txt,740,1106
+L0 Heading,Germany-DE-1-43.txt,1108,1118
+L1 Background,Germany-DE-1-43.txt,1108,4242
+L0 Heading,Germany-DE-1-43.txt,4244,4264
+L0 Heading,Germany-DE-1-43.txt,4294,4296
+L0 Heading,Germany-DE-1-43.txt,12487,12490
+L0 Heading,Germany-DE-1-43.txt,26632,26636
+L0 Out of Scope,Germany-DE-1-43.txt,27227,27281
+L1 Analysis,Germany-DE-1-43.txt,4244,27225
+L0 Out of Scope,Germany-DE-1-44.txt,2,2643
+L0 Heading,Germany-DE-1-44.txt,2645,2650
+L1 Analysis,Germany-DE-1-44.txt,2645,3039
+L2 Outcome,Germany-DE-1-44.txt,2645,3039
+L0 Heading,Germany-DE-1-44.txt,3041,3047
+L0 Heading,Germany-DE-1-44.txt,3049,3051
+L1 Background,Germany-DE-1-44.txt,3041,5208
+L0 Heading,Germany-DE-1-44.txt,5210,5212
+L1 Analysis,Germany-DE-1-44.txt,5210,19137
+L0 Out of Scope,Germany-DE-1-44.txt,19139,19181
+L0 Out of Scope,Germany-DE-1-45.txt,2,634
+L0 Heading,Germany-DE-1-45.txt,635,640
+L0 Heading,Germany-DE-1-45.txt,1039,1045
+L0 Heading,Germany-DE-1-45.txt,1047,1049
+L0 Heading,Germany-DE-1-45.txt,2195,2198
+L0 Heading,Germany-DE-1-45.txt,13390,13394
+L0 Out of Scope,Germany-DE-1-45.txt,14258,14289
+L1 Analysis,Germany-DE-1-45.txt,635,1037
+L2 Outcome,Germany-DE-1-45.txt,635,1037
+L1 Background,Germany-DE-1-45.txt,1039,2193
+L1 Analysis,Germany-DE-1-45.txt,2195,14256
+L0 Out of Scope,Germany-DE-1-49.txt,2,342
+L0 Heading,Germany-DE-1-49.txt,344,349
+L0 Heading,Germany-DE-1-49.txt,594,600
+L0 Heading,Germany-DE-1-49.txt,602,604
+L0 Heading,Germany-DE-1-49.txt,1954,1957
+L0 Out of Scope,Germany-DE-1-49.txt,6262,6299
+L1 Analysis,Germany-DE-1-49.txt,344,592
+L2 Outcome,Germany-DE-1-49.txt,344,592
+L1 Background,Germany-DE-1-49.txt,594,1952
+L1 Analysis,Germany-DE-1-49.txt,1954,6260
+L0 Out of Scope,Germany-DE-1-47.txt,2,228
+L0 Heading,Germany-DE-1-47.txt,230,235
+L0 Heading,Germany-DE-1-47.txt,470,476
+L0 Heading,Germany-DE-1-47.txt,478,480
+L1 Analysis,Germany-DE-1-47.txt,230,468
+L2 Outcome,Germany-DE-1-47.txt,230,468
+L0 Heading,Germany-DE-1-47.txt,4050,4053
+L0 Out of Scope,Germany-DE-1-47.txt,8510,8552
+L1 Background,Germany-DE-1-47.txt,470,4048
+L1 Analysis,Germany-DE-1-47.txt,4050,8508
+L0 Out of Scope,Germany-DE-1-48.txt,2,173
+L0 Heading,Germany-DE-1-48.txt,175,180
+L0 Heading,Germany-DE-1-48.txt,385,391
+L1 Analysis,Germany-DE-1-48.txt,175,383
+L2 Outcome,Germany-DE-1-48.txt,175,383
+L0 Out of Scope,Germany-DE-1-48.txt,8572,8608
+L0 Out of Scope,Germany-DE-1-50.txt,2,246
+L0 Heading,Germany-DE-1-50.txt,248,253
+L1 Analysis,Germany-DE-1-50.txt,248,464
+L2 Outcome,Germany-DE-1-50.txt,248,464
+L0 Heading,Germany-DE-1-50.txt,466,472
+L0 Heading,Germany-DE-1-50.txt,1407,1409
+L0 Heading,Germany-DE-1-50.txt,8174,8177
+L0 Heading,Germany-DE-1-50.txt,23667,23670
+L0 Heading,Germany-DE-1-50.txt,8839,8843
+L0 Out of Scope,Germany-DE-1-50.txt,23730,23763
+L0 Out of Scope,Germany-DE-1-51.txt,2,245
+L0 Heading,Germany-DE-1-51.txt,247,252
+L0 Heading,Germany-DE-1-51.txt,553,559
+L2 Outcome,Germany-DE-1-51.txt,247,551
+L0 Out of Scope,Germany-DE-1-51.txt,13956,13988
+L0 Out of Scope,Germany-DE-1-52.txt,2,238
+L0 Heading,Germany-DE-1-51.txt,959,961
+L0 Heading,Germany-DE-1-51.txt,12432,12435
+L0 Heading,Germany-DE-1-52.txt,240,245
+L0 Heading,Germany-DE-1-52.txt,1615,1621
+L0 Out of Scope,Germany-DE-1-52.txt,9485,9530
+L1 Analysis,Germany-DE-1-52.txt,240,1613
+L2 Outcome,Germany-DE-1-52.txt,240,1613
+L0 Out of Scope,Germany-DE-1-54.txt,2,253
+L0 Heading,Germany-DE-1-54.txt,255,260
+L0 Heading,Germany-DE-1-54.txt,1142,1148
+L0 Out of Scope,Germany-DE-1-54.txt,4766,4815
+L1 Analysis,Germany-DE-1-54.txt,255,1140
+L2 Outcome,Germany-DE-1-54.txt,255,1140
+L0 Out of Scope,Germany-DE-1-53.txt,2,328
+L0 Heading,Germany-DE-1-53.txt,330,335
+L0 Heading,Germany-DE-1-53.txt,403,409
+L1 Analysis,Germany-DE-1-53.txt,330,401
+L2 Outcome,Germany-DE-1-53.txt,330,401
+L0 Heading,Germany-DE-1-53.txt,746,748
+L0 Heading,Germany-DE-1-53.txt,3660,3663
+L0 Out of Scope,Germany-DE-1-53.txt,9732,9765
+L1 Background,Germany-DE-1-53.txt,403,3658
+L1 Analysis,Germany-DE-1-53.txt,3660,9730
+L0 Out of Scope,Germany-DE-1-55.txt,2,286
+L0 Heading,Germany-DE-1-55.txt,288,293
+L0 Heading,Germany-DE-1-55.txt,947,953
+L1 Analysis,Germany-DE-1-55.txt,288,945
+L2 Outcome,Germany-DE-1-55.txt,288,945
+L0 Out of Scope,Germany-DE-1-55.txt,8916,9166
+L0 Out of Scope,Germany-DE-1-56.txt,2,599
+L0 Heading,Germany-DE-1-56.txt,601,606
+L0 Heading,Germany-DE-1-56.txt,831,841
+L0 Heading,Germany-DE-1-56.txt,5780,5799
+L1 Analysis,Germany-DE-1-56.txt,601,829
+L2 Outcome,Germany-DE-1-56.txt,601,829
+L1 Background,Germany-DE-1-56.txt,831,5778
+L1 Analysis,Germany-DE-1-56.txt,5780,25855
+L0 Out of Scope,Germany-DE-1-57.txt,2,540
+L0 Heading,Germany-DE-1-57.txt,542,547
+L0 Heading,Germany-DE-1-57.txt,761,771
+L1 Analysis,Germany-DE-1-57.txt,542,759
+L2 Outcome,Germany-DE-1-57.txt,542,759
+L1 Background,Germany-DE-1-57.txt,761,4134
+L0 Heading,Germany-DE-1-57.txt,4136,4155
+L1 Analysis,Germany-DE-1-57.txt,4136,13445
+L0 Out of Scope,Germany-DE-1-58.txt,2,904
+L0 Heading,Germany-DE-1-58.txt,906,911
+L0 Heading,Germany-DE-1-58.txt,1133,1143
+L1 Analysis,Germany-DE-1-58.txt,906,1131
+L2 Outcome,Germany-DE-1-58.txt,906,1131
+L1 Background,Germany-DE-1-58.txt,1133,8505
+L0 Heading,Germany-DE-1-58.txt,8507,8526
+L1 Analysis,Germany-DE-1-58.txt,8507,17439
+L0 Out of Scope,Germany-DE-1-59.txt,2,930
+L0 Heading,Germany-DE-1-59.txt,932,937
+L0 Heading,Germany-DE-1-59.txt,1103,1113
+L1 Analysis,Germany-DE-1-59.txt,932,1101
+L2 Outcome,Germany-DE-1-59.txt,932,1101
+L1 Background,Germany-DE-1-59.txt,1103,6440
+L0 Heading,Germany-DE-1-59.txt,6442,6461
+L1 Analysis,Germany-DE-1-59.txt,6442,25561
+L0 Out of Scope,Germany-DE-1-60.txt,2,1437
+L0 Heading,Germany-DE-1-60.txt,1439,1444
+L0 Heading,Germany-DE-1-60.txt,1712,1722
+L1 Analysis,Germany-DE-1-60.txt,1439,1710
+L2 Outcome,Germany-DE-1-60.txt,1439,1710
+L1 Background,Germany-DE-1-60.txt,1712,10485
+L0 Heading,Germany-DE-1-60.txt,10487,10506
+L1 Analysis,Germany-DE-1-60.txt,10487,33380
+L0 Out of Scope,Germany-DE-1-61.txt,2,572
+L0 Heading,Germany-DE-1-61.txt,574,579
+L0 Heading,Germany-DE-1-61.txt,812,818
+L1 Analysis,Germany-DE-1-61.txt,574,810
+L2 Outcome,Germany-DE-1-61.txt,574,810
+L1 Background,Germany-DE-1-61.txt,812,2796
+L1 Analysis,Germany-DE-1-61.txt,2798,7424
+L0 Out of Scope,Germany-DE-1-62.txt,2,1131
+L0 Heading,Germany-DE-1-62.txt,1133,1138
+L0 Heading,Germany-DE-1-62.txt,1597,1607
+L1 Analysis,Germany-DE-1-62.txt,1133,1595
+L2 Outcome,Germany-DE-1-62.txt,1133,1595
+L1 Background,Germany-DE-1-62.txt,1597,8033
+L0 Heading,Germany-DE-1-62.txt,8035,8054
+L1 Analysis,Germany-DE-1-62.txt,8035,30530
+L0 Out of Scope,Germany-DE-1-63.txt,2,470
+L0 Heading,Germany-DE-1-63.txt,472,477
+L0 Heading,Germany-DE-1-63.txt,817,823
+L1 Analysis,Germany-DE-1-63.txt,472,815
+L2 Outcome,Germany-DE-1-63.txt,472,815
+L1 Background,Germany-DE-1-63.txt,817,1162
+L1 Analysis,Germany-DE-1-63.txt,1164,9293
+L0 Out of Scope,Germany-DE-1-64.txt,2,1293
+L0 Heading,Germany-DE-1-64.txt,1295,1300
+L0 Heading,Germany-DE-1-64.txt,1545,1555
+L1 Analysis,Germany-DE-1-64.txt,1295,1543
+L2 Outcome,Germany-DE-1-64.txt,1295,1543
+L1 Background,Germany-DE-1-64.txt,1545,5297
+L0 Heading,Germany-DE-1-64.txt,5299,5318
+L1 Analysis,Germany-DE-1-64.txt,5299,29430
+L0 Heading,Germany-DE-1-65.txt,323,333
+L0 Out of Scope,Germany-DE-1-65.txt,2,98
+L0 Heading,Germany-DE-1-65.txt,100,105
+L1 Analysis,Germany-DE-1-65.txt,100,321
+L2 Outcome,Germany-DE-1-65.txt,100,321
+L1 Background,Germany-DE-1-65.txt,323,2780
+L0 Heading,Germany-DE-1-65.txt,2782,2801
+L1 Analysis,Germany-DE-1-65.txt,2782,25874
+L0 Out of Scope,Germany-DE-1-66.txt,2,964
+L0 Heading,Germany-DE-1-66.txt,966,971
+L1 Analysis,Germany-DE-1-66.txt,966,1244
+L2 Outcome,Germany-DE-1-66.txt,966,1244
+L0 Heading,Germany-DE-1-66.txt,1246,1252
+L1 Background,Germany-DE-1-66.txt,1246,3502
+L1 Analysis,Germany-DE-1-66.txt,3504,16461
+L0 Out of Scope,Germany-DE-1-67.txt,2,934
+L0 Heading,Germany-DE-1-67.txt,936,941
+L0 Heading,Germany-DE-1-67.txt,1200,1210
+L1 Analysis,Germany-DE-1-67.txt,936,1198
+L2 Outcome,Germany-DE-1-67.txt,936,1198
+L1 Background,Germany-DE-1-67.txt,1200,5028
+L0 Heading,Germany-DE-1-67.txt,5030,5049
+L1 Analysis,Germany-DE-1-67.txt,5030,28740
+L0 Out of Scope,Germany-DE-1-68.txt,2,672
+L0 Heading,Germany-DE-1-68.txt,674,679
+L0 Heading,Germany-DE-1-68.txt,1019,1029
+L1 Analysis,Germany-DE-1-68.txt,674,1017
+L2 Outcome,Germany-DE-1-68.txt,674,1017
+L1 Background,Germany-DE-1-68.txt,1019,5471
+L0 Heading,Germany-DE-1-68.txt,5473,5492
+L1 Analysis,Germany-DE-1-68.txt,5473,14837
+L0 Out of Scope,Germany-DE-1-69.txt,2,337
+L0 Heading,Germany-DE-1-69.txt,339,345
+L2 Outcome,Germany-DE-1-69.txt,347,618
+L1 Analysis,Germany-DE-1-69.txt,339,1905
+L0 Out of Scope,Germany-DE-1-70.txt,2,579
+L0 Heading,Germany-DE-1-70.txt,581,587
+L1 Analysis,Germany-DE-1-70.txt,581,5754
+L2 Outcome,Germany-DE-1-70.txt,589,965
+L0 Out of Scope,Germany-DE-1-71.txt,2,602
+L0 Heading,Germany-DE-1-71.txt,604,609
+L0 Heading,Germany-DE-1-71.txt,680,686
+L2 Outcome,Germany-DE-1-71.txt,604,678
+L1 Analysis,Germany-DE-1-71.txt,604,4230
+L0 Out of Scope,Germany-DE-1-72.txt,2,571
+L0 Heading,Germany-DE-1-72.txt,573,579
+L0 Heading,Germany-DE-1-72.txt,581,583
+L0 Heading,Germany-DE-1-72.txt,2575,2578
+L1 Background,Germany-DE-1-72.txt,573,2573
+L1 Analysis,Germany-DE-1-72.txt,2575,5135
+L0 Out of Scope,Germany-DE-1-74.txt,2,895
+L0 Heading,Germany-DE-1-74.txt,897,902
+L0 Heading,Germany-DE-1-74.txt,1022,1028
+L1 Analysis,Germany-DE-1-74.txt,897,1020
+L2 Outcome,Germany-DE-1-74.txt,897,1020
+L0 Heading,Germany-DE-1-74.txt,1451,1453
+L0 Heading,Germany-DE-1-74.txt,25879,25882
+L0 Heading,Germany-DE-1-74.txt,41071,41075
+L0 Heading,Germany-DE-1-74.txt,68771,68774
+L0 Heading,Germany-DE-1-74.txt,96150,96152
+L0 Heading,Germany-DE-1-74.txt,96220,96222
+L0 Heading,Germany-DE-1-74.txt,154276,154279
+L1 Background,Germany-DE-1-74.txt,1022,96148
+L1 Analysis,Germany-DE-1-74.txt,96150,167362
+L0 Out of Scope,Germany-DE-1-73.txt,2,534
+L0 Heading,Germany-DE-1-73.txt,536,541
+L2 Outcome,Germany-DE-1-73.txt,536,608
+L0 Heading,Germany-DE-1-73.txt,610,616
+L0 Heading,Germany-DE-1-73.txt,618,620
+L0 Heading,Germany-DE-1-73.txt,10812,10815
+L0 Heading,Germany-DE-1-73.txt,11221,11225
+L1 Analysis,Germany-DE-1-73.txt,536,608
+L1 Background,Germany-DE-1-73.txt,610,11219
+L1 Analysis,Germany-DE-1-73.txt,11221,21013
+L0 Out of Scope,Germany-DE-1-75.txt,2,792
+L0 Heading,Germany-DE-1-75.txt,794,799
+L0 Heading,Germany-DE-1-75.txt,868,874
+L1 Analysis,Germany-DE-1-75.txt,794,866
+L2 Outcome,Germany-DE-1-75.txt,794,866
+L0 Heading,Germany-DE-1-75.txt,876,878
+L1 Background,Germany-DE-1-75.txt,868,2383
+L0 Heading,Germany-DE-1-75.txt,2385,2388
+L1 Analysis,Germany-DE-1-75.txt,2385,17618
+L0 Out of Scope,Germany-DE-1-76.txt,2,688
+L0 Heading,Germany-DE-1-76.txt,690,695
+L0 Heading,Germany-DE-1-76.txt,1090,1096
+L1 Analysis,Germany-DE-1-76.txt,690,1088
+L2 Outcome,Germany-DE-1-76.txt,690,1088
+L1 Background,Germany-DE-1-76.txt,1090,1698
+L1 Analysis,Germany-DE-1-76.txt,1700,16338
+L0 Out of Scope,Germany-DE-1-77.txt,2,309
+L0 Heading,Germany-DE-1-77.txt,311,316
+L0 Heading,Germany-DE-1-77.txt,575,581
+L2 Outcome,Germany-DE-1-77.txt,311,573
+L0 Out of Scope,Germany-DE-1-78.txt,2,875
+L0 Heading,Germany-DE-1-78.txt,877,882
+L0 Heading,Germany-DE-1-78.txt,1475,1481
+L0 Heading,Germany-DE-1-78.txt,1483,1485
+L1 Analysis,Germany-DE-1-78.txt,877,1473
+L2 Outcome,Germany-DE-1-78.txt,877,1473
+L1 Background,Germany-DE-1-78.txt,1475,4555
+L0 Heading,Germany-DE-1-78.txt,4557,4560
+L1 Analysis,Germany-DE-1-78.txt,4557,17006
+L0 Heading,Germany-DE-1-78.txt,16419,16423
+L0 Out of Scope,Germany-DE-1-79.txt,2,831
+L0 Heading,Germany-DE-1-79.txt,833,838
+L2 Outcome,Germany-DE-1-79.txt,833,1794
+L0 Heading,Germany-DE-1-79.txt,1796,1802
+L0 Heading,Germany-DE-1-79.txt,1968,1970
+L1 Analysis,Germany-DE-1-79.txt,833,1794
+L0 Heading,Germany-DE-1-79.txt,2968,2971
+L0 Heading,Germany-DE-1-79.txt,3593,3597
+L0 Heading,Germany-DE-1-79.txt,4265,4268
+L1 Background,Germany-DE-1-79.txt,1796,4263
+L1 Analysis,Germany-DE-1-79.txt,4265,9119
+L0 Out of Scope,Germany-DE-1-80.txt,2,389
+L0 Heading,Germany-DE-1-80.txt,391,396
+L0 Heading,Germany-DE-1-80.txt,467,473
+L2 Outcome,Germany-DE-1-80.txt,391,465
+L1 Analysis,Germany-DE-1-80.txt,391,2736
+L0 Out of Scope,Germany-DE-1-81.txt,2,348
+L0 Heading,Germany-DE-1-81.txt,350,355
+L0 Heading,Germany-DE-1-81.txt,475,481
+L2 Outcome,Germany-DE-1-81.txt,350,473
+L1 Analysis,Germany-DE-1-81.txt,350,1618
+L0 Out of Scope,Germany-DE-1-82.txt,2,988
+L0 Heading,Germany-DE-1-82.txt,990,1000
+L1 Background,Germany-DE-1-82.txt,990,5291
+L0 Heading,Germany-DE-1-82.txt,5293,5312
+L1 Analysis,Germany-DE-1-82.txt,5293,16669
+L0 Out of Scope,Germany-DE-1-83.txt,2,469
+L0 Heading,Germany-DE-1-83.txt,471,481
+L1 Background,Germany-DE-1-83.txt,471,4809
+L0 Heading,Germany-DE-1-83.txt,4811,4830
+L1 Analysis,Germany-DE-1-83.txt,4811,10030
+L2 Outcome,Germany-DE-1-83.txt,4832,5134
+L2 Outcome,Germany-DE-1-82.txt,5314,5832
+L0 Out of Scope,Germany-DE-1-84.txt,2,1100
+L0 Heading,Germany-DE-1-84.txt,1102,1112
+L1 Background,Germany-DE-1-84.txt,1102,3769
+L0 Heading,Germany-DE-1-84.txt,3771,3790
+L1 Analysis,Germany-DE-1-84.txt,3771,9337
+L2 Outcome,Germany-DE-1-84.txt,3792,4051
+L0 Out of Scope,Germany-DE-1-85.txt,2,2662
+L0 Heading,Germany-DE-1-85.txt,2664,2674
+L1 Background,Germany-DE-1-85.txt,2664,6342
+L0 Heading,Germany-DE-1-85.txt,6344,6363
+L1 Analysis,Germany-DE-1-85.txt,6344,30323
+L2 Outcome,Germany-DE-1-85.txt,6365,7659
+L0 Out of Scope,Germany-DE-1-87.txt,2,868
+L0 Heading,Germany-DE-1-87.txt,870,880
+L1 Background,Germany-DE-1-87.txt,870,2429
+L0 Heading,Germany-DE-1-87.txt,2431,2450
+L1 Analysis,Germany-DE-1-87.txt,2431,14987
+L2 Outcome,Germany-DE-1-87.txt,2555,2872
+L0 Out of Scope,Germany-DE-1-86.txt,2,550
+L0 Heading,Germany-DE-1-86.txt,552,562
+L0 Heading,Germany-DE-1-86.txt,2633,2652
+L1 Background,Germany-DE-1-86.txt,552,2631
+L1 Analysis,Germany-DE-1-86.txt,2633,7656
+L2 Outcome,Germany-DE-1-86.txt,2654,2788
+L0 Out of Scope,Germany-DE-1-88.txt,2,1934
+L0 Heading,Germany-DE-1-88.txt,1936,1946
+L0 Heading,Germany-DE-1-88.txt,5334,5353
+L1 Background,Germany-DE-1-88.txt,1936,5332
+L1 Analysis,Germany-DE-1-88.txt,5334,16779
+L2 Outcome,Germany-DE-1-88.txt,5355,5544
+L0 Out of Scope,Germany-DE-1-89.txt,2,2315
+L0 Heading,Germany-DE-1-89.txt,2317,2327
+L1 Background,Germany-DE-1-89.txt,2317,5993
+L0 Heading,Germany-DE-1-89.txt,5995,6014
+L1 Analysis,Germany-DE-1-89.txt,5995,27317
+L2 Outcome,Germany-DE-1-89.txt,6016,7801
+L0 Out of Scope,Germany-DE-1-90.txt,2,706
+L0 Heading,Germany-DE-1-90.txt,708,714
+L1 Analysis,Germany-DE-1-90.txt,708,4452
+L2 Outcome,Germany-DE-1-90.txt,716,939
+L0 Out of Scope,Germany-DE-1-91.txt,2,740
+L0 Heading,Germany-DE-1-91.txt,742,752
+L0 Heading,Germany-DE-1-91.txt,3919,3938
+L1 Background,Germany-DE-1-91.txt,742,3917
+L1 Analysis,Germany-DE-1-91.txt,3919,8915
+L2 Outcome,Germany-DE-1-91.txt,3940,3987
+L0 Out of Scope,Germany-DE-1-92.txt,2,612
+L0 Heading,Germany-DE-1-92.txt,614,619
+L1 Analysis,Germany-DE-1-92.txt,614,823
+L2 Outcome,Germany-DE-1-92.txt,614,823
+L0 Heading,Germany-DE-1-92.txt,825,835
+L1 Background,Germany-DE-1-92.txt,825,20203
+L0 Heading,Germany-DE-1-92.txt,20205,20224
+L1 Analysis,Germany-DE-1-92.txt,20205,27889
+L0 Out of Scope,Germany-DE-1-95.txt,2,1118
+L0 Heading,Germany-DE-1-95.txt,1120,1125
+L0 Heading,Germany-DE-1-95.txt,1410,1420
+L1 Analysis,Germany-DE-1-95.txt,1120,1408
+L2 Outcome,Germany-DE-1-95.txt,1120,1408
+L1 Background,Germany-DE-1-95.txt,1410,6745
+L0 Heading,Germany-DE-1-95.txt,6747,6766
+L1 Analysis,Germany-DE-1-95.txt,6747,10209
+L0 Out of Scope,Germany-DE-1-93.txt,2,395
+L0 Heading,Germany-DE-1-93.txt,397,402
+L0 Heading,Germany-DE-1-93.txt,595,601
+L2 Outcome,Germany-DE-1-93.txt,397,593
+L1 Analysis,Germany-DE-1-93.txt,397,3211
+L0 Out of Scope,Germany-DE-1-94.txt,2,160
+L0 Heading,Germany-DE-1-94.txt,162,168
+L1 Analysis,Germany-DE-1-94.txt,162,313
+L2 Outcome,Germany-DE-1-94.txt,170,313
+L1 Background,Germany-DE-1-94.txt,315,756
+L1 Analysis,Germany-DE-1-94.txt,758,6110
+L0 Out of Scope,Germany-DE-1-96.txt,2,104
+L0 Heading,Germany-DE-1-96.txt,105,111
+L1 Analysis,Germany-DE-1-96.txt,105,1002
+L1 Background,Germany-DE-1-96.txt,1004,2646
+L1 Analysis,Germany-DE-1-96.txt,2648,7992
+L0 Out of Scope,Germany-DE-1-97.txt,2,100
+L0 Heading,Germany-DE-1-97.txt,102,112
+L1 Background,Germany-DE-1-97.txt,102,2813
+L0 Heading,Germany-DE-1-97.txt,2815,2834
+L1 Analysis,Germany-DE-1-97.txt,2815,13538
+L2 Outcome,Germany-DE-1-97.txt,2836,3305
+L0 Out of Scope,Germany-DE-1-98.txt,2,236
+L0 Heading,Germany-DE-1-98.txt,238,244
+L1 Background,Germany-DE-1-98.txt,357,4408
+L1 Analysis,Germany-DE-1-98.txt,4410,39067
+L1 Analysis,Germany-DE-1-98.txt,238,355
+L2 Outcome,Germany-DE-1-98.txt,246,355
+L0 Out of Scope,Germany-DE-1-99.txt,2,205
+L0 Heading,Germany-DE-1-99.txt,207,213
+L0 Heading,Germany-DE-1-99.txt,215,216
+L1 Background,Germany-DE-1-99.txt,207,2373
+L0 Heading,Germany-DE-1-99.txt,2375,2377
+L1 Analysis,Germany-DE-1-99.txt,2375,22448
+L0 Out of Scope,Germany-DE-1-100.txt,2,255
+L0 Heading,Germany-DE-1-100.txt,257,263
+L2 Outcome,Germany-DE-1-100.txt,265,443
+L1 Analysis,Germany-DE-1-100.txt,257,1367
+L1 Background,Germany-DE-1-100.txt,1369,3104
+L1 Analysis,Germany-DE-1-100.txt,3106,5993
+L0 Out of Scope,Germany-DE-1-101.txt,2,251
+L0 Heading,Germany-DE-1-101.txt,253,259
+L1 Background,Germany-DE-1-101.txt,253,1515
+L1 Analysis,Germany-DE-1-101.txt,1517,14462
+L2 Outcome,Germany-DE-1-101.txt,1517,1669
+L0 Out of Scope,Germany-DE-1-102.txt,2,483
+L0 Heading,Germany-DE-1-102.txt,485,495
+L1 Background,Germany-DE-1-102.txt,485,5678
+L0 Heading,Germany-DE-1-102.txt,5680,5699
+L1 Analysis,Germany-DE-1-102.txt,5680,20008
+L2 Outcome,Germany-DE-1-102.txt,5701,6550
+L0 Out of Scope,Germany-DE-1-103.txt,2,574
+L0 Heading,Germany-DE-1-103.txt,576,582
+L0 Heading,Germany-DE-1-103.txt,584,586
+L0 Heading,Germany-DE-1-103.txt,3629,3632
+L1 Background,Germany-DE-1-103.txt,576,3627
+L1 Analysis,Germany-DE-1-103.txt,3629,24974
+L2 Outcome,Germany-DE-1-103.txt,3634,3900
+L0 Out of Scope,Germany-DE-1-104.txt,2,247
+L0 Heading,Germany-DE-1-104.txt,248,254
+L1 Analysis,Germany-DE-1-104.txt,248,2539
+L2 Outcome,Germany-DE-1-96.txt,113,1002
+L2 Outcome,Germany-DE-1-99.txt,2379,2547
+L2 Outcome,Germany-DE-1-104.txt,1334,1972
+L1 Analysis,Germany-DE-1-20.txt,226,668
+L1 Background,Germany-DE-1-46.txt,585,1392
+L1 Analysis,Germany-DE-1-46.txt,1394,23738
+L1 Analysis,Germany-DE-1-50.txt,8174,23728
+L1 Background,Germany-DE-1-50.txt,466,8172
+L2 Introductory Summary,Germany-DE-1-50.txt,474,1405
+L1 Analysis,Germany-DE-1-51.txt,247,551
+L1 Analysis,Germany-DE-1-51.txt,959,13954
+L1 Background,Germany-DE-1-51.txt,553,957
+L2 Introductory Summary,Germany-DE-1-51.txt,561,957
+L1 Background,Germany-DE-1-55.txt,947,1608
+L2 Introductory Summary,Germany-DE-1-55.txt,955,1608
+L1 Analysis,Germany-DE-1-55.txt,1610,8914
+L1 Analysis,Germany-DE-1-77.txt,311,1981
+L1 Background,Germany-DE-1-6.txt,579,8078
+L1 Analysis,Germany-DE-1-13.txt,294,887
+L1 Background,Germany-DE-1-13.txt,889,2193
+L2 Introductory Summary,Germany-DE-1-13.txt,897,1296
+L1 Background,Germany-DE-1-16.txt,1848,3191
+L2 Introductory Summary,Germany-DE-1-16.txt,1856,3191
+L1 Analysis,Germany-DE-1-16.txt,3193,7777
+L1 Analysis,Germany-DE-1-22.txt,1720,10736
+L1 Analysis,Germany-DE-1-21.txt,502,1259
+L1 Background,Germany-DE-1-21.txt,1261,5271
+L2 Introductory Summary,Germany-DE-1-21.txt,1269,2072
+L1 Background,Germany-DE-1-27.txt,1041,10128
+L1 Analysis,Germany-DE-1-31.txt,12435,38501
+L1 Background,Germany-DE-1-42.txt,1415,7558
+L1 Analysis,Germany-DE-1-42.txt,7560,45814
+L0 Heading,Germany-DE-1-21.txt,5278,5310
+L0 Heading,Germany-DE-1-21.txt,12889,12929
+L0 Heading,Germany-DE-1-7.txt,5646,5691
+L0 Heading,Germany-DE-1-7.txt,8905,8957
+L0 Heading,Germany-DE-1-7.txt,10427,10482
+L0 Heading,Germany-DE-1-22.txt,18664,18679
+L0 Heading,Germany-DE-1-22.txt,39009,39027
+L0 Heading,Germany-DE-1-25.txt,14408,14476
+L0 Heading,Germany-DE-1-25.txt,30913,30975
+L0 Heading,Germany-DE-1-42.txt,7754,7783
+L0 Heading,Germany-DE-1-42.txt,33784,33822
+L1 Analysis,Germany-DE-1-39.txt,9259,35760
+L1 Background,Germany-DE-1-39.txt,1629,9257
+L0 Heading,Germany-DE-1-40.txt,4791,4793
+L0 Heading,Germany-DE-1-40.txt,8039,8042
+L0 Heading,Germany-DE-1-40.txt,18868,18872
+L0 Heading,Germany-DE-1-44.txt,5360,5362
+L0 Heading,Germany-DE-1-44.txt,5975,5978
+L1 Background,Germany-DE-1-48.txt,385,1396
+L1 Analysis,Germany-DE-1-48.txt,1398,8570
+L2 Introductory Summary,Germany-DE-1-48.txt,393,1396
+L1 Analysis,Germany-DE-1-54.txt,1822,4764
+L1 Background,Germany-DE-1-54.txt,1142,1820
+L2 Introductory Summary,Germany-DE-1-54.txt,1150,1820
+L1 Background,Germany-DE-1-52.txt,1615,2927
+L2 Introductory Summary,Germany-DE-1-52.txt,1623,2927
+L1 Analysis,Germany-DE-1-52.txt,2929,9483
+L2 Outcome,Germany-DE-1-72.txt,2580,2680

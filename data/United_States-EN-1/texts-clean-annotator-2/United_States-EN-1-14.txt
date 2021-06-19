@@ -1,0 +1,273 @@
+ 
+
+
+
+The question in this case is whether Lyft drivers are "employees" or "independent contractors" under California law.  The answer is of great consequence for the drivers, because the California Legislature has conferred many protections on employees, while independent contractors receive virtually none.  The answer is also of great import to Lyft, because its business model assumes the drivers are independent contractors.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+At first glance, Lyft drivers don't seem much like employees.  We generally understand an employee to be someone who works under the direction of a supervisor, for an extended or indefinite period of time, with fairly regular hours, receiving most or all his income from that one employer (or perhaps two employers).  Lyft drivers can work as little or as much as they want, and can schedule their driving around their other activities.  A person might treat driving for Lyft as a side activity, to be fit into his schedule when time permits and when he needs a little extra income. 
+
+But Lyft drivers don't seem much like independent contractors either.  We generally understand an independent contractor to be someone with a special skill (and with the bargaining power to negotiate a rate for the use of that skill), who serves multiple clients, performing discrete tasks for limited periods, while exercising great discretion over the way the work is actually done.  Traditionally, an independent contractor is someone a principal might have found in the Yellow Pages to perform a task that the principal or the principal's own employees were unable to 
+
+perform—often something tangential to the day-to-day operations of the principal's business.  See Antelope Valley Press v. Poizner, 75 Cal. Rptr. 3d 887, 900 (Ct. App. 2008) (describing the traditional "notion [of] an independent contractor [as] someone hired to achieve a specific result that is attainable within a finite period of time, such as plumbing work, tax service, or the creation of a work of art for a building's lobby").  Lyft drivers use no special skill when they give rides.  Their work is central, not tangential, to Lyft's business.  Lyft might not control when the drivers work, but it has a great deal of power over how they actually do their work, including the power to fire them if they don't meet Lyft's specifications about how to give rides.  And some Lyft drivers no doubt treat their work as a full-time job—their livelihood may depend solely or primarily on weekly payments from Lyft, even while they lack any power to negotiate their rate of pay.  Indeed, this type of Lyft driver—the driver who gives "Lyfts" 50 hours a week and relies on the income to feed his family—looks very much like the kind of worker the California Legislature has always intended to protect as an "employee."  
+
+The plaintiffs in this case were once Lyft drivers.  They contend Lyft owes them money because it should have paid them as employees rather than independent contractors.  For example, they argue that, under California law, Lyft should have reimbursed them for expenses, and that, at least sometimes, Lyft failed to pay them minimum wage.  The plaintiffs propose to represent a class consisting of all people who have driven for Lyft in California since the company's inception in 2012.  The plaintiffs and Lyft have filed cross-motions for summary judgment, with the plaintiffs urging the Court to declare them "employees" as a matter of law, and Lyft urging the Court to declare them "independent contractors" as a matter of law.  But under California law, the question of how to classify a worker is typically for a jury.  A court may only decide the question as a matter of law if application of the multitude of relevant factors would require any reasonable juror to reach the same conclusion.  Here, because the numerous factors for deciding whether a worker is an employee or an independent contractor point in decidedly different directions, a reasonable jury could go either way.  Accordingly, there must be a trial.    
+
+ 
+
+Lyft operates a smartphone application, or "app," through which passengers are matched with nearby drivers who are available to transport people in their personal automobiles.  Lyft markets itself as "Your friend with a car."  Carlson Decl., Ex F at LYFT 000088.  Cars that transport passengers for Lyft are easily recognizable, because Lyft gives each driver a "Carstache" (a big fuzzy pink mustache) to attach to the front of his car when using it to give "Lyfts."1  To be a Lyft driver, a person must download the app, submit his car for inspection, undergo some form of background check, and submit to an in-person interview with a Lyft representative.  See Cotter Depo. 40:21–46:13.  To be a Lyft rider, a person must simply download the app onto her smartphone and register her credit card information.  See Kirtikar Decl., p.1; Carlson Decl., Ex F at LYFT 000108. 
+
+1 See Christine Lagorio-Chafkin, The Origin--and Evolution--of Lyft's Pink Mustache, Inc.com (Aug. 1, 2014), http://www.inc.com/christine-lagorio/evolution-of-lyft-mustache.html; see also Carlson Decl., Ex. UU.  
+
+The rider uses the app to hail a ride.  Kirtikar Decl., p.1.  Lyft's system forwards the request to the nearest driver who is logged in to the app.  That driver may then accept, decline, or ignore the ride request.  Id.  If the driver declines the request or ignores it for a specified period, Lyft's system sends the request to the next closest driver who is logged on.  If that driver accepts the ride, he is "matched" with the rider and generally proceeds to pick her up and drive her to her destination.  However, the driver may cancel his acceptance before picking up the rider, or upon meeting the rider but before commencing the ride.  Id.   
+
+At the time the plaintiffs drove for Lyft, the company operated on a "donation" system.  After the driver dropped off the rider at her destination, the app recommended a donation for the ride.  The rider could decide whether to accept this amount, pay a different amount, or pay nothing at all.  If the rider took no action within 24 hours after the end of the ride, Lyft automatically charged the recommended amount to the rider's credit card.  But if the rider chose to pay a different amount, Lyft instead charged that amount to the rider's credit card (or charged nothing, if the rider so chose).  Lyft retained a 20 percent "administrative fee" from each charge and paid the 
+
+remainder to the driver, with the driver receiving payment from Lyft on a weekly basis for all rides given during that week.  Goldin Depo. at 67:7–12.  Lyft has since changed its system in some markets, including California, so that rather than recommending a donation, Lyft charges riders a minimum fare for every ride.2   
+
+2  See Salvador Rodriguez, Lyft also will instate fares in California, ditching donation system, L.A. Times (Nov. 15, 2013), http://articles.latimes.com/2013/nov/15/business/la-fi-tn-lyft-minimum-fares-california-20131115.   
+
+3  Over time, Lyft's policy shifted from an individualized review of drivers' ratings to a system 
+
+To accept rides, a driver must log onto the Lyft app in "driver mode."  Lyft uses projected demand to determine how many drivers it will allow to log onto the app in driver mode at any one time.  In the first several months after the Lyft app became operational in May 2012, Lyft provided two methods by which drivers could arrange to drive for Lyft on a given day: (i) drivers could submit requests for particular hours one week in advance and Lyft would approve some or all of these hours; or (ii) if it was less than one week in advance, drivers could log onto a website and reserve any available hours.  In early 2013, Lyft added a third method—allowing drivers to simply log onto driver mode at any time, without having a particular time slot approved or reserved.  But this third method is only available when Lyft determines that demand is not already being met by the drivers who reserved time through the reservation system.  Kirtikar Depo. at 61:04–62:04.  
+
+Lyft tracks each driver's acceptance rate, and tells drivers that an acceptance rate above 90 percent is "excellent," while an acceptance rate below 75 percent "needs improvement."  It tells drivers that an acceptance rate "well below the community standard" will result in an email warning, and after three such warnings the driver's account will be deactivated.  Carlson Decl., Ex. T at LYFT001733–34.  Lyft also tracks each driver's cancellations, and may terminate a driver for high cancellation rates.  Kirtikar Depo 159:15–160:14.  Lyft instructs drivers to "call support" before canceling a ride.  Carlson Decl., Ex. Z at LYFT000038. 
+
+At the end of a ride, the app prompts riders to rate the ride on a scale of one to five stars, with one star being "awful" and five being "awesome."  Id. at LYFT 000041.  Drivers whose average star rating falls below a certain threshold are subject to termination.3  
+
+where drivers are automatically deactivated if their average rating either fell below a certain threshold—most recently, 4.6 stars—or fell within the bottom few percent of drivers.  Kirtikar Depo. at 83:5–84:15. 
+
+Lyft's relationship with its drivers is governed in part by its Terms of Service, which drivers must accept if they wish to give "Lyfts."  The Terms of Service apply to both drivers and riders.  Under a section titled "Driver Representations and Warranties," each driver agrees that: 
+
+. he is at least 23 years old 
+
+
+
+. he has a valid driver's license 
+
+
+
+. he owns or has the legal right to operate the vehicle and is named on the insurance policy covering the vehicle 
+
+
+
+. he will only use the vehicle that has been registered with Lyft 
+
+
+
+. his vehicle is in good operating condition 
+
+
+
+. he will not "offer or provide transportation services for profit, as a public carrier or taxi service, charge for rides or otherwise seek non-voluntary compensation from Riders, or engage in any other activity in a manner that is inconsistent with such Driver's obligations under this Agreement" 
+
+
+
+. he will not offer rides exceeding 60 miles 
+
+
+
+
+
+Santana Decl, Ex. D at LYFT 000147–48.  Elsewhere in the Terms of Service, Lyft disclaims its "control over the quality or safety of the transportation that occurs as a result of the Service."  Id. at LYFT000153.  Similarly, in the "Limitation of Liability" section, the Agreement states that "LYFT HAS NO RESPONSIBILITY WHATSOVER FOR THE ACTIONS OR CONDUCT OF DRIVERS OR RIDERS. . . .  LYFT HAS NO CONTROL OVER THE IDENTIY OR ACTIONS OF THE RIDERS AND DRIVERS. . . ."  Id. at LYFT000154.   
+
+But the Terms of Service tell drivers that Lyft "reserve[s] the right . . . to investigate and terminate Your participation in the Lyft Platform if You . . . behaved in a way which could be regarded as inappropriate[.]"  Id. at LYFT 000148.  In addition, the Terms of Service state that "Either You or We may terminate Your participation in the Lyft Platform . . . at any time, for any or no reason, without explanation, effective upon sending written or email notice to the other party. . . .  We maintain sole discretion to bar Your use of the Services in the future, for any or no reason."  Id. at LYFT 000153. 
+
+Between December 2012 and July 2013, Lyft also gave drivers a guide.  This included a section called "Lyft Rules of the Road," which gave drivers a list of "rules to live by," including: 
+
+. "Phone should always be mounted and plugged into charger" 
+
+
+
+. "No talking on the phone (unless it’s the passenger)" 
+
+
+
+. "Only pick up Lyft passengers, don't pick up passengers who hail from the street or who use other mobile apps." 
+
+
+
+. "You should be the only non-passenger in the car. (no friends, children or pets can ride along with you)" 
+
+
+
+. "Greet every passenger with a big smile and fist bump" 
+
+
+
+. "Keep your car clean on the inside and outside" 
+
+
+
+. "Keep your seats and trunk clear for use by your passengers" 
+
+
+
+. "Do not request tips.  If asked by the passenger, let them know that the app will suggest a price" 
+
+
+
+. "Do not accept any cash" 
+
+
+
+. "Go above and beyond with good service such as helping passengers with luggage or holding an umbrella for passengers when it's raining" 
+
+
+
+. "If you ever need to cancel a Lyft, call support first." 
+
+
+
+
+
+Carlson Decl., Ex. Z at LYFT000038.  Another section of the guide instructed drivers to "Make sure your Carstache is on whenever you're driving for Lyft," "[o]ffer your passenger a phone charge, and ask what kind of music they would like to listen to," and "[f]irst ask your passenger if there is a preferred route they would like to take.  If not, use [a GPS navigation system], even if you think you know where you're going."  Id. at LYFT000039. 
+
+In July 2013, Lyft replaced the guide with a frequently asked questions ("FAQs") section on its website.  Like the guide, the FAQs instruct drivers about such things as the cleanliness of their vehicles and the use of GPS navigation while driving, but the FAQs include more detail.  For example, under the question "What are Lyft's standards for keeping my car clean?" drivers are instructed that "[h]aving a clean car is a key part of the Lyft experience.  It's relaxing for passengers (and you!) to ride in a pleasantly spotless and nice smelling car . . . Wash and vacuum your car at least once a week to keep it in tip-top condition."  Carlson Decl., Ex. RR at 
+
+LYFT001705.  The FAQs also cover a number of issues not addressed in the guide.  For example, under the question "Can I ask . . . my passenger for their phone number or other contact information?" drivers are told that they may never ask for the contact information of a passenger.  Carlson Decl., Ex. EE at LYFT001495.  And under the question "Can I smoke in my car? Can passengers smoke in my car?" Lyft warns drivers it will disable their accounts if a passenger reports that the driver's car smells like smoke.  Carlson Decl., Ex. GG at LYFT001498. 
+
+
+Plaintiff Patrick Cotter drove for Lyft from early September 2012 to January 30, 2013, when the drivers’ guide was in effect.  In the roughly four months he drove for Lyft, Cotter gave 173 rides, which covered a total of 410 miles.  Carlson Supp. Decl., Ex. DDDD.  During this time, Cotter also worked at Facebook, and arranged his driving schedule so it would not conflict with that work.  Cotter Depo. at 147:9–16.  Cotter was terminated after using a substitute vehicle to give rides, rather than the car that Lyft had approved.  Carlson Supp. Decl., Ex. UUU.   
+
+Plaintiff Alejandra Maciel drove for Lyft from August 2, 2013 to September 13, 2013.  By this time, Lyft had replaced the drivers' guide with the FAQs.  In the roughly six-week period she worked for Lyft, Maciel drove anywhere from 5 to 20 hours per week, averaging roughly 30 completed rides per week.  This does not include time spent logged onto the app waiting for ride requests.  Lyft terminated Maciel after she received an average passenger rating of 4.54 stars, a rating that placed her in the bottom 5 percent of drivers.  Carlson Decl., Ex. J. 
+
+The lawsuit is a proposed class action.  Cotter and Maciel originally asserted claims under the California Labor Code on behalf of all Lyft drivers in the country, regardless of the state in which they drove for Lyft.  But the Court ruled that they could not pursue a nationwide class action under California's wage and hour laws.  (Docket No. 51.)  The plaintiffs subsequently amended their complaint, and now seek to represent only people who have driven for Lyft in California since the company's inception in 2012.  The plaintiffs allege that because Lyft misclassifies its drivers as independent contractors, the drivers have been deprived of California's minimum wage, reimbursement for work-related expenses, and other protections that California law confers upon employees.  The question whether the case may proceed as a class action has not 
+
+yet been presented.  The parties first filed these cross-motions for summary judgment on whether Cotter and Maciel themselves were employees or independent contractors. 
+
+ 
+
+Under California law, if someone performs a service for a company (or for another individual), the person performing the service is generally presumed to be an employee.  If the company contends the person is not an employee, but rather is performing services as an independent contractor, the burden is on the company to prove this.  See Narayan v. EGL, Inc., 616 F.3d 895, 900 (9th Cir. 2010); see also Bemis v. People, 240 P.2d 638, 644 (Cal. Ct. App. 1952).   
+
+Whether a worker is classified as an employee or an independent contractor has great consequences.  California law gives many benefits and protections to employees; independent contractors get virtually none.  Employees are generally entitled to, among other things, minimum wage and overtime pay, Cal. Lab. Code § 1194, meal and rest breaks, Cal. Lab. Code § 226.7, reimbursement for work-related expenses, Cal. Lab. Code § 2802, workers' compensation, Cal. Lab. Code § 3700, and employer contributions to unemployment insurance.  Cal. Unemp. Ins. Code § 976.  Employers are also required under the California Unemployment Insurance Code to withhold and remit to the state their employees' state income tax payments.  Cal. Unemp. Ins. Code § 13020. 
+
+These statutes are designed to protect workers.  For example, the minimum wage statute seeks to guarantee that the "weakest and most helpless class" of workers receive "a wage that insures for them the necessary shelter, wholesome food and sufficient clothing."  Martinez v. Combs, 231 P.3d 259, 271 (Cal. 2010).  The rule that employees be reimbursed for costs ensures that employers don't undercut wages by passing the cost of doing business on to their employees.  See Janken v. GM Hughes Elecs., 53 Cal. Rptr. 2d 741, 753 (Ct. App. 1996); see also Grissom v. Vons Companies, Inc., 1 Cal. Rptr. 2d 808, 812 (Ct. App. 1991) ("[T]he obvious purpose of [section 2802] is to protect employees from suffering expenses in direct consequence of doing their jobs.").  And "[t]he purpose of the unemployment insurance program is to provide benefits for 'persons unemployed through no fault of their own, and to reduce involuntary unemployment 
+
+and the suffering caused thereby to a minimum.'"  W. Hollywood Cmty. Health & Fitness Ctr. v. Cal. Unemployment Ins. Appeals Bd., 181 Cal. Rptr. 3d 196, 198 (Ct App. 2014) (quoting Cal. Unemp. Ins. Code § 100). 
+
+The California Legislature has decided that employees need these protections as a check against the bargaining advantage employers have over employees—particularly unskilled, lower-wage employees—and the corresponding ability employers would otherwise have to dictate the terms and conditions of the work.  See C.S. Smith Metro. Mkt. Co. v. Lyons, 106 P.2d 414, 420–21 (1940) ("The inequality of bargaining power between employer and employee has long been fully recognized by legislation curtailing the employer's freedom to bargain with his employees as he chooses."); see also Narayan, 616 F.3d at 897 ("[S]tatutes enacted to confer special benefits on workers are designed to defeat rather than implement contractual arrangements."). 
+
+Independent contractors do not receive these protections because they generally are in a far more advantageous position: 
+
+[C]ontractors who are truly independent readily can sever the business relationship and take their services and equipment elsewhere when faced with unfair or arbitrary treatment, or unfavorable working conditions.  They usually have contracts with more than one company, or contract with one company on a full-time basis for short durations, and consequently are not dependent on a single employer in the same all-or-nothing fashion as traditional employees who tend to work on a full-time basis for an indefinite term.  Because of these characteristics of independence, a true contractor does not suffer the effects of unequal bargaining power to any degree comparable to that suffered by employees.4 
+
+4  Ruth Burdick, Principles of Agency Permit the NLRB to Consider Additional Factors of Entrepreneurial Independence and the Relative Dependence of Employees When Determining Independent Contractor Status Under Section 2(3), 15 Hofstra Lab. & Emp. L.J. 75, 130 (1997). 
+
+Accordingly, although it's easy to get lost in the weeds when applying California's test for deciding whether a worker is an employee or an independent contractor, courts should apply the test with an eye towards the purposes those statutes were meant to serve, and the type of person they were meant to protect.  "[P]ast decisions . . . teach that in light of the remedial nature of the legislative enactments authorizing the regulation of wages, hours and working conditions for the protection and benefit of employees, the statutory provisions are to be liberally construed with an eye to promoting such protection."  Martinez, 231 P.3d at 275 (quoting Indus. Welfare Com. v. 
+
+Superior Court, 613 P.2d 579, 585 (Cal. 1980)); see also Borello, 769 P.2d at 406 ("[T]he 'control-of-work-details' test for determining whether a person rendering service to another is an 'employee' or an excluded 'independent contractor' must be applied with deference to the purposes of the protective legislation."); id. at 400 (explaining that the court's decision "has implications for the employer-employee relationship upon which other state social legislation depends"); Truesdale v. Workers' Comp. Appeals Bd., 235 Cal. Rptr. 754, 759 (Ct. App. 1987) ("Persons such as Truesdale . . . are certainly within the class of persons the legislative scheme was meant to protect; and there are no applicable statutory exclusions.  Truesdale had little or no bargaining position; he was simply required to sign the so-called independent contractor agreement prepared by the alleged employer's attorney.  There were no negotiations, no options.").  
+
+Turning to the actual test, the "principal" question "is whether the person [or company] to whom service is rendered has the right to control the manner and means of accomplishing the result desired."  Borello, 769 P.2d at 404 (quoting Tieberg v. Unemployment Ins. Appeals Bd., 471 P.2d 975, 977 (Cal. 1970) (alteration and internal quotation marks omitted)).  See also Ayala v. Antelope Valley Newspapers, Inc., 327 P.3d 165, 170–71 (Cal. 2014); Alexander v. FedEx Ground Package Sys., Inc., 765 F.3d 981, 988 (9th Cir. 2014); Ruiz v. Affinity Logistics Corp., 754 F.3d 1093, 1101 (9th Cir. 2014), cert. denied, No. 14-451, 2014 WL 5324355 (U.S. Dec. 15, 2014); Millsap v. Fed. Express Corp., 277 Cal. Rptr. 807, 811 (Ct. App. 1991) ("If control may be exercised only as to the result of the work and not the means by which it is accomplished, an independent contractor relationship is established.").   
+
+The company need not exercise its full right of control for a worker to be deemed an employee. "'It is not a question of interference, or non-interference, not a question of whether there have been suggestions, or even orders, as to the conduct of the work; but a question of the right to act, as distinguished from the act itself or the failure to act.'"  Ayala, 327 P.3d at 172 (quoting Hillen v. Indus. Acc. Comm'n, 250 P. 570, 571 (Cal. 1926)). 
+
+And although the focus of the test is on the company's right to control, a finding of employee status for a particular worker or group of workers does not require that the company retain the right to control every last detail.  Employee status may still exist where "[a] certain 
+
+amount of . . . freedom is inherent in the work."  Air Couriers Int'l v. Emp't Dev. Dep't, 59 Cal. Rptr. 3d 37, 44 (2007).  What matters is whether the entity retains "all necessary control over the [relevant] portion of its operations."  Borello, 769 P.2d at 408.   
+
+The right to terminate at will, without cause, is "[s]trong evidence in support of an employment relationship."  Borello, 769 P.2d at 404 (quoting Tieberg, 471 P.2d at 979 (internal quotation marks omitted)).  "Whether a right of control exists may be measured by asking whether or not, if instructions were given, they would have to be obeyed on pain of at-will discharge[ ] for disobedience."  Ayala, 327 P.3d at 172 (quoting Toyota Motor Sales U.S.A., Inc. v. Superior Court, 269 Cal. Rptr. 647, 653 (Ct. App. 1990) (internal quotation marks omitted)).     
+
+Beyond the primary question whether the principal retains the right to control the manner and details of the work, California courts look to a number of "'secondary' indicia of the nature of a service relationship."  Borello, 769 P.2d at 404.  These include: 
+
+ 
+
+(a) whether the one performing services is engaged in a distinct occupation or business; (b) the kind of occupation, with reference to whether, in the locality, the work is usually done under the direction of the principal or by a specialist without supervision; (c) the skill required in the particular occupation; (d) whether the principal or the worker supplies the instrumentalities, tools, and the place of work for the person doing the work; (e) the length of time for which the services are to be performed; (f) the method of payment, whether by the time or by the job; (g) whether or not the work is a part of the regular business of the principal; and (h) whether or not the parties believe they are creating the relationship of employer-employee. 
+
+Id.  Borello also recognized, as "logically pertinent to the inherently difficult determination" of employee status, the six-factor test employed by other jurisdictions, whose factors include: "(1) the alleged employee's opportunity for profit or loss depending on his managerial skill; [and] (2) the alleged employee's investment in equipment or materials required for his task, or his employment of helpers[.]"  Id. at 404. 
+
+These factors "[g]enerally . . . cannot be applied mechanically as separate tests; they are intertwined and their weight depends often on particular combinations."  Id. at 404 (quoting Germann v. Worker's Comp. Appeals Bd., 176 Cal. Rptr. 868, 871 (Ct. App. 1981) (internal quotation marks omitted)); see also Ruiz, 754 F.3d at 1100.  "[T]o determine whether a worker is 
+
+an employee or independent contractor, a court should evaluate '[e]ach service arrangement . . . on its facts, [recognizing that] the dispositive circumstances may vary from case to case.'"  Ruiz, 754 F.3d at1100 (quoting Borello, 769 P.2d at 407). 
+
+
+Under California law, if reasonable people could differ on whether a worker is an employee or an independent contractor based on the evidence in the case, the question is not for a court to decide; it must go to the jury.  See Angelotti v. Walt Disney Co., 121 Cal. Rptr. 3d 863, 870 (Ct. App. 2011).  This is true even if no significant dispute exists about the underlying facts, because the act of weighing and applying numerous intertwined factors, based on particular facts, is itself generally the job of the jury.  See, e.g., Narayan, 616 F.3d at 901 ("The drawing of inferences from subordinate to 'ultimate' facts is a task for the trier of fact—if, under the governing legal rule, the inferences are subject to legitimate dispute." (quoting Sec'y of Labor v. Lauritzen, 835 F.2d 1529, 1543 (7th Cir. 1987) (Easterbrook, J., concurring))).  Only when a court concludes that "from all the facts only a single inference and one conclusion may be drawn" may the court rule on the question as a matter of law, without the need for a jury trial.  Borello, 769 P.2d at 416 (internal quotation marks omitted).5   
+
+5 California cases sometimes label this a "question of fact," and they sometimes label it as a "mixed question of law and fact."  Compare Hillen, 250 P. at 571 (mixed question of law and fact), with Borello, 769 P.2d at 416 (question of fact).  In the context of the parties' cross-motions for summary judgment in this case, there is no difference.  See Narayan, 616 F.3d at 901 ("That there is a legal overlay to the factual question does not affect the role of the trier of fact." (quoting Lauritzen, 835 F.2d at 1543)).  Regardless of whether it is characterized as a question of fact or a mixed question, the question is one for the jury unless the evidence is so one-sided that from it there is "but one inference [that] can reasonably be drawn."  See Burlingham v. Gray. 137 P.2d 9, 16 (Cal. 1943); see also Hana Fin., Inc. v. Hana Bank, 135 S. Ct. 907, 911 (2015) (mixed questions of law and fact are typically questions for the jury). 
+
+ 
+
+The Ninth Circuit has observed that, given California's "multi-faceted test" for employee status, and given the presumption in favor of employee status under California law, establishing independent contractor status as a matter of law presents a "particularly difficult" hurdle.  Narayan, 616 F.3d at 900.  Even though in Narayan many of the underlying facts were undisputed, the Ninth Circuit concluded it could not "readily say . . . that the 'ultimate conclusion 
+
+as to whether the workers are employees or independent contractors' is one of law."  Id. at 901 (quoting Lauritzen, 835 F.2d at 1543).  Likewise, in Arzate v. Bridge Terminal Transport Inc., 121 Cal. Rptr. 3d 400 (Ct. App. 2011), the California Court of Appeal reversed a trial court's grant of summary judgment in favor of a transportation company where there was little dispute about the underlying facts.  The court noted that even though there was little indication the company controlled the "manner and means" by which its drivers hauled their loads, several of the secondary factors weighed in favor of employee status.  Id. at 405.  The court concluded that weighing this "competing, if not necessarily conflicting, evidence" fell within the province of a trier of fact.  Id.  
+
+To be sure, all factors need not point in one direction for a court to rule as a matter of law about a worker's proper classification.  See Arnold v. Mut. of Omaha Ins. Co., 135 Cal. Rptr. 3d 213, 221 (Ct. App. 2011) ("Even if one or two of the individual factors might suggest an employment relationship, summary judgment is nevertheless proper when . . . all the factors weighed and considered as a whole establish that [an individual] was an independent contractor and not an employee.").  Accordingly, several recent California Court of Appeal cases have held that plaintiffs were independent contractors as a matter of law, even while acknowledging that certain factors cut in favor of employee status.  See, e.g., Beaumont-Jacques v. Farmers Grp., Inc., 159 Cal. Rptr. 3d 102, 108 (2013); Arnold, 135 Cal. Rptr. 3d at 220.  And on the flip side, two recent Ninth Circuit cases have held that plaintiffs were employees as a matter of law, even when some factors cut in favor of independent contractor status.  See Alexander, 765 F.3d at 994–97; Ruiz, 754 F.3d at 1103–05.  But those rulings were based on a conclusion that the arrow pointed so strongly in the direction of one status or the other that no reasonable juror could have pointed the arrow in the opposite direction after applying California's multi-factor test.   
+
+
+Under the standards discussed above, a reasonable jury could conclude that the plaintiff Lyft drivers were employees.  But because a reasonable jury could also conclude that they were independent contractors, there must be a trial. 
+
+ 
+
+As a threshold matter, Lyft tepidly asserts there is no need to decide how to classify the drivers, because they don't perform services for Lyft in the first place.  Under this theory, Lyft drivers perform services only for their riders, while Lyft is an uninterested bystander of sorts, merely furnishing a platform that allows drivers and riders to connect, analogous perhaps to a company like eBay.  But that is obviously wrong.  Lyft concerns itself with far more than simply connecting random users of its platform.  It markets itself to customers as an on-demand ride service, and it actively seeks out those customers.  See Hartman Depo. at 64:17–65:24 (describing Lyft's marketing efforts aimed at attracting riders).  It gives drivers detailed instructions about how to conduct themselves.  Notably, Lyft's own drivers' guide and FAQs state that drivers are "driving for Lyft."  Carlson Decl., Ex. U, Ex. Z at LYFT000039.  Therefore, the argument that Lyft is merely a platform, and that drivers perform no service for Lyft, is not a serious one.  See Yellow Cab, 277 Cal. Rptr. at 437 (noting that, contrary to Yellow Cab's insistence that it merely served as a lessor of taxicabs, Yellow "cultivated the passenger market by soliciting riders, process[ed] requests for service through a dispatching system," and instructed the drivers in "service" and "courtesy").  Cf. Decision Adopting Rules and Regulations to Protect Public Safety While Allowing New Entrants to the Transportation Industry, California Public Utilities Commission, Decision 13-09-045, pp. 63–68 (Sept. 19, 2013) (concluding that companies such as Lyft are engaged in the business of providing passenger transportation for compensation).6   
+
+6 Pltfs' RJN, Ex. A at 63–68.  The Court grants the plaintiffs' request for judicial notice of this document.  See Fed. R. Evid. 201.  
+
+With respect to Lyft's more reasonable argument—that the plaintiffs are independent contractors as a matter of law—the primary issue is the degree to which Lyft retains the right to control drivers.  As discussed in Section IV, under California law, whether Lyft actually exercises this control is less important than whether it retains the right to do so.   
+
+Although Lyft drivers enjoy great flexibility in when and how often to work, once they do accept ride requests, Lyft retains a good deal of control over how they proceed.  Lyft instructed the plaintiffs (in the "Rules of the Road" section of the driver guide and later in the FAQs on its 
+
+website) not to do a number of things—not to talk on the phone with a passenger present, not to pick up non-Lyft passengers, not to have anyone else in the car, not to request tips, not to smoke or to allow the car to smell like smoke, and not to ask for a passenger's contact information.  Lyft also affirmatively instructed the plaintiffs to do a number of things—to wash and vacuum the car once a week, to greet passengers with a smile and a fist-bump, to ask passengers what type of music they'd like to hear, to offer passengers a cell phone charge, and to use the route given by a GPS navigation system if the passenger does not have a preference.  See supra Section II.  
+
+Lyft insists these are suggestions, with no real consequence for a driver who ignores them.  But most are written as commands or prohibitions, not suggestions.  The title "Rules of the Road" does not sound like a list of suggestions.  Nor do Lyft's answers to the questions posed in the FAQs, which include statements such as "do not take personal calls," "always use navigation," "you must keep your phone mounted at all times," "[m]ake sure to you always have music playing," and "always wear your 'stache on the grill!"  See Carlson Decl., Exs. DD, JJ, KK, OO, SS.   
+
+Even if these instructions were ambiguous about whether they are suggestive or mandatory, the record tends to resolve that ambiguity in favor of the latter, by indicating that Lyft reserves the right to penalize (or even terminate) drivers who don't follow them.  Indeed, Lyft reprimanded both Cotter and Maciel after passengers reported to Lyft each plaintiff's respective violations of Lyft policies—Cotter's driving with a car other than the one Lyft had approved and Maciel's driving with her husband in the car.  See Cotter Depo. at 111:10–116:18; see also Carlson Decl., Exs. PPP, SSS.  In the Terms of Service, Lyft reserves the right to "investigate" and "terminate" drivers who have "behaved in a way which could be regarded as inappropriate."  The FAQs tell drivers Lyft will disable their accounts if their cars smell like smoke.  Lyft also tells drivers it may terminate them for declining too many ride requests, or for accepting and then canceling too many ride requests.  And, as happened to Maciel, Lyft terminates drivers whose passenger ratings fall below a certain threshold.  See supra Section II. 
+
+What's more, the Terms of Service not only give Lyft a broad right to terminate drivers for cause, but also the right to bar drivers from the platform "for any or no reason."  As the California 
+
+Supreme Court recently explained in Ayala, a hirer's ability to discharge a worker without cause is "[p]erhaps the strongest evidence of the right to control."  327 P.3d at 171; see also id. ("'The power of the principal to terminate the services of the agent gives him the means of controlling the agent's activities.'" (quoting Malloy v. Fong, 232 P.2d 241, 249 (Cal. 1951)). 
+
+It would be difficult to rule as a matter of law that the plaintiffs were independent contractors when the most important factor for discerning the relationship under California law, namely, the right of control, tends to cut the other way.  But even beyond that, the "secondary" factors cut in both directions.  Several tend to support Lyft's position.  For example, the parties evidently believed they were entering into an independent contractor relationship, as evidenced by the statement to that effect in the Terms of Service (although the parties' own perception of their relationship is not dispositive).  See Alexander, 765 F.3d at 998, 997.  Other factors tend to support the plaintiffs' position.  For example, the work performed by the drivers is "wholly integrated" into Lyft's business—after all, Lyft could not exist without its drivers—and "[t]he [riders] are [Lyft's] customers, not the drivers' customers," Estrada, 64 Cal. Rptr. 3d at 334, 336.  And driving for Lyft requires no special skill—something we often expect independent contractors to have.  See JKH Enters. v. Dep't of Indus. Relations 48 Cal. Rptr. 3d 563, 579 (Ct. App. 2006). 
+
+Many of the remaining secondary factors are equivocal.  The primary instrumentality needed to drive for Lyft, a 2000 model year or newer car, is provided by the drivers, but in contrast to a truck or other commercial vehicle, providing a car often does not require a significant investment.  See Gonzalez v. Workers' Comp. Appeals Bd., 54 Cal. Rptr. 2d 308, 312–13 (1996) (noting that a car used by a worker "frequently serves also as a family all-purpose vehicle").  Drivers are paid based on individual rides, but they have no apparent ability to negotiate the rates at which Lyft's suggested donations are calculated, or the percentage Lyft retains as an "administrative fee."  Ultimately, none of these secondary factors is dispositive.  See Narayan, 616 F.3d at 901 ("'We must assess and weigh all of the incidents of the relationship with the understanding that no one factor is decisive[.]'" (quoting NLRB v. Friendly Cab Co., 512 F.3d 1090, 1097 (9th Cir. 2008))).   
+
+Finally and most importantly, two relatively recent cases, JKH Enterprises v. Department of Industrial Relations and Air Couriers International v. Employment Development Department, undermine Lyft's argument that its drivers are independent contractors as a matter of law.  Both cases involved facts quite similar to this one, and in both cases the California Court of Appeal upheld rulings that delivery drivers were employees.  In JKH, the court upheld the Department of Industrial Relations' conclusion that "special" package delivery drivers were employees of JKH, even though the special drivers: (1) were not required to work either at all or on any particular schedule, but instead called in to a JKH dispatcher to say they were available to accept packages for delivery; (2) were free to decline to perform a particular delivery when contacted by the dispatcher, even if they had made themselves available; (3) chose their own driving routes; (4) took time off whenever they wanted and did not need permission to do so; (5) used their own vehicles (which did not bear any JKH marking or logo) to make the deliveries and paid for their own gas, maintenance, and insurance; (6) did not wear uniforms or badges that evidenced their affiliation or relationship with JKH; (7) performed delivery services for other companies; (8) were not supervised by JKH; (9) earned their money by splitting the fee that JKH charged its customers for each delivery; and (10) filled out application forms acknowledging their status as independent contractor.  48 Cal. Rptr. 3d at 568–70.  And in Air Couriers, the court upheld a trial court's determination that drivers for Sonic Couriers were employees where the drivers: (1) decided when and how long to work; (2) worked other jobs while driving for Sonic; (3) were not required to accept every job, but instead rejected jobs for a variety of reasons and were not required to give reasons for doing so; (4) did not suffer repercussions for rejecting jobs; (5) were paid by the job, and were able to negotiate higher rates on some jobs for a variety of reasons; (6) supplied their own vehicles, supplies, and equipment when delivering for Sonic; (7) were not required to wear uniforms; and (8) received no formal training.  59 Cal. Rptr. 3d at 38–39.   
+
+In light of these California cases (particularly the two discussed immediately above), and given the evidence here, Lyft's motion for summary judgment must be denied.  While the evidence is far from conclusive, "there exist[s] at the very least sufficient indicia of an employment 
+
+relationship between the plaintiff [d]rivers and [Lyft] such that a reasonable jury could find the existence of such a relationship."  Narayan, 616 F.3d at 904.  
+
+  
+
+For similar reasons, the record precludes a summary judgment ruling in favor of the plaintiffs.  As already discussed, Lyft drivers enjoy great flexibility in when and how often to work—far more flexibility than the typical employee.  Indeed, Cotter and Maciel both testified that they felt free to set their work hours as they saw fit, and that they could accept or reject individual ride requests.  Both plaintiffs testified that they chose which parts of San Francisco in which they accepted ride requests, and that they were never required to adhere to any appearance standards.  Both plaintiffs testified to having minimal contact with Lyft management during their tenure as drivers.  See Cotter Depo. at 150:3–25; Maciel Depo. at 105:25–106:24.  They did not drive full time, and it does not appear that driving for Lyft was their primary source of income.  See Cotter Depo. at 147:9–16; Santana Decl., Ex. F (Cotter's resume, describing driving for Lyft as a "hobby"); Maciel Depo. at 31:22–24, 81:02–20 (explaining that she worked another job and drove around 10 hours per week, scheduling her driving around other commitments).  Indeed, particularly given Cotter and Maciel's relatively sparse work schedules, one could easily imagine a reasonable jury concluding that they were independent contractors, even if other Lyft drivers with heavier or more regular schedules might properly be deemed employees.7          
+
+7 On the other hand, a sparse work schedule does not necessarily preclude a finding of employee status.  See Burlingham, 137 P.2d at 16. ("The fact that the employee chooses his own time to go out and return and is not directed where to go or to whom to sell is not conclusive of the relationship and is not inconsistent with the relation of employer and employee.").  For example, if a server picked up a couple shifts a month at a restaurant when convenient for both the restaurant and the server, that schedule wouldn't prevent the server from being classified as an employee when working those shifts.    
+
+ 
+
+The primary cases the plaintiffs cite in support of their motion for summary judgment, Alexander v. FedEx Ground Package Systems and Ruiz v. Affinity Logistics, are very different from the case at hand.  In both cases, the Ninth Circuit held that delivery drivers in California were employees as a matter of law.  But in each case, the undisputed facts provided "overwhelming evidence" of control over of the drivers' day-to-day work.  See Ruiz, 754 F.3d at 1093.  For 
+
+example, Alexander turned on FedEx's "control over every exquisite detail of the drivers' performance," 765 F.3d at 991, including: (i) their appearance; (ii) the appearance and specifications of their vehicles; (iii) their work schedules; and (iv) their service areas.  Id. at 989–90.  The experience of the Lyft driver is much different from the experience of the FedEx driver, underscoring why the plaintiffs have not established here that summary judgment should be granted in their favor.   
+
+
+As should now be clear, the jury in this case will be handed a square peg and asked to choose between two round holes.  The test the California courts have developed over the 20th Century for classifying workers isn't very helpful in addressing this 21st Century problem.  Some factors point in one direction, some point in the other, and some are ambiguous.  Perhaps Lyft drivers who work more than a certain number of hours should be employees while the others should be independent contractors.  Or perhaps Lyft drivers should be considered a new category of worker altogether, requiring a different set of protections.  But absent legislative intervention, California's outmoded test for classifying workers will apply in cases like this.  And because the test provides nothing remotely close to a clear answer, it will often be for juries to decide.  That is certainly true here.        
+
+ 
+
+IT IS SO ORDERED. 
+
+
+ 
+
+
+

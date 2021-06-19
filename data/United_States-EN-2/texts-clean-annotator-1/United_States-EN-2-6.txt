@@ -1,0 +1,100 @@
+.
+
+
+
+ This case arises under the H-1B visa program provisions of theImmigration and Nationality Act, as amended (INA), 8 U.S.C. § 1101(a)(15)(H)(i)(b) (2014) and 8 U.S.C. §  1182(n) (2013), and implementing regulations at 20 C.F.R.
+
+Part 655, subparts H and I (2016). The Administrator, Wage and Hour Division (WHD), U.S. Department of Labor (DOL) conducted an investigation of MPRSoft,Inc. (Respondent) and issued an Administrator’s Determination Letter in which it concluded that Respondent owed back wages in the amount of $53,220.06 toDheeraj Reddy Jinna (Complainant).
+
+On September 22, 2018, the Complainant appealed the Administrator’sDetermination and requested a hearing with the Office of Administrative LawJudges (OALJ).
+
+On February 1, 2019, a formal hearing was held before the OALJ. All parties were present and the following exhibits were received into evidence: Respondent’sExhibits (RX) A-C and Complainant’s Exhibits (CX) 1-10. Two witnesses testified,Mr. Jinna, on behalf of Complainant, and Mr. Mahadevapalli,1 on behalf ofRespondent. Both parties were pro se (self-represented) litigants and made oral arguments in lieu of briefs.2 After considering the evidence, a DOL AdministrativeLaw Judge (ALJ) issued a Decision and Order Modifying in Part and Affirming inPart the Administrator’s Determination and Granting Request for Additional BackWages. Decision and Order (July 16, 2019) (D. & O.). The ALJ affirmed theAdministrator’s Determination to not assess any civil money penalties, but modified it and awarded Complainant $88,890.17 in back pay, plus interest.
+
+Respondent appealed to the Administrative Review Board (ARB or Board).
+
+Respondent filed its Appeal Brief (Brief) on September 23, 2019. Complainant filed his Response Brief (Response) on October 20, 2019. We affirm the ALJ’s findings and calculation for wages earned during Complainant’s tenure with Respondent, but modify the total amount of back wages owed to him.
+
+
+
+Respondent submitted a Labor Condition Application (LCA) to theDepartment of Labor’s Employment and Training Administration (ETA). D. & O. at 11-12. The LCA was approved by U.S. Citizenship and Immigration Services (USCIS) to cover the period from June 8, 2016 to June 7, 2019, for a job title of “SAPMaster Data Governance/Management Consultant” in Los Angeles, California. Id.
+
+The LCA listed the wage rate as $105,000.00 per year. Id. at 12. the Hearing Transcript (Tr.) as well as the documentary evidence submitted in this matter. manager” for Respondent. Since both parties were lacking in apparent legal expertise, theALJ afforded both parties “a degree of adjudicative latitude” as it related to the case. D. & O. at 7, 9.
+
+Although the LCA was valid through June 7, 2019, Complainant began employment with a new H-1B employer about two weeks after Respondent sent him a “termination email” on February 3, 2018. Id. at 15. Complainant did not provide records to verify when he officially started at the new H-1B employer so the ALJ found that he began this new employment on February 17, 2018. Id. at 16.
+
+After starting his new employment, Complainant filed a complaint againstRespondent alleging that it failed to pay him the correct salary. CX 8; CX 10. OnAugust 28, 2018, the Administrator issued a Summary of Unpaid WagesDetermination for $53,220.06 for the employment period from February 20, 2016 toFebruary 3, 2018. D. & O. at 16. However, the Administrator’s Determination provided no explanation as to how that sum was derived. Id. On August 31, 2018,Respondent paid Complainant $25,234.83. Id. at 16-17; ALJ Exhibit (ALJX) 2.
+
+At the hearing, Respondent proffered a 2018 W-2 and Earnings Summary forComplainant that reflected gross wages in the amount of $61,220.06. Id. at 16.
+
+Respondent’s witness then testified that Complainant received “only two paychecks in 2017[,]” but was paid bi-monthly during his tenure with Respondent. Tr. at 68.
+
+According to Complainant, these two checks were each $2,000.00, for a total of $4,000.00. D. & O. at 16; CX 8. The ALJ found that Respondent offered no evidence to rebut Complainant’s assertions as to the amount he was paid in 2017. D. & O. at 16.
+
+The ALJ asked Respondent’s witness if subtracting the deductions from the wages reflected on the 2018 W-2 and Earnings Statement would yield the net amount Complainant received from Respondent after the WHD investigation, andRespondent’s witness responded affirmatively. D. & O. at 16; Tr. at 70. However, the ALJ determined this representation was not true; when she subtracted the deductions from the wages noted it resulted in $31,885.86—$6,651.03 more than the check received by Complainant. D. & O. at 17. As a result, the ALJ found that this discrepancy between the documentary evidence and Respondent’s witness’ testimony undermined the witness’ credibility. Id. at 17.
+
+In determining wages owed to Complainant for his tenure with Respondent, the ALJ used the following formula: the approved LCA wage rate of $105,000.00, forJanuary 1, 2017 to December 31, 2017; plus $8,750.00 for January 2018; plus $4,375.00, for February 1, 2018 to February 17, 2018; for a total sum of $118,125.00.
+
+Id. The ALJ then reduced the wages owed to Complainant based on payments made by Respondent—$4,000.00 in 2017 and $25,234.83 in 2018. Id. Accordingly, the ALJ concluded that Respondent owed Complainant $88,890.17 in back wages, plus interest. Id.
+
+
+
+The ARB has jurisdiction to review the ALJ’s decision pursuant to 20 C.F.R. § 655.845. See also Secretary’s Order No. 01-2020 (Delegation of Authority andAssignment of Responsibility to the Administrative Review Board), 85 Fed. Reg. 13,DISCUSSION
+
+The sole issue on appeal is whether the record supports the ALJ’s finding for the amount of back wages owed to Complainant. Respondent urges the Board to reduce Complainant’s owed back wages from $88,890.17 to $5,125.00. Brief at 10- 11. Conversely, Complainant requests the Board to increase his owed back wages from $88,890.17 to $225,585.00. Response at 8-9.
+
+By signing and filing an LCA, an employer attests that for the entire period of authorized employment it will pay the required wage to the H-1B nonimmigrant worker. 8 U.S.C. § 1182(n)(1)(A) (2013); 20 C.F.R. § 655.731(a). The required wage paid to the H-1B nonimmigrant worker is defined as the higher of the actual wage for the specific employment in question or the prevailing wage at the geographic location. 20 C.F.R. § 655.715. The prevailing wage for Complainant’s position was listed as $104,146.00 per year while the approved LCA listed the wage rate as $105,000.00 per year. Therefore, the ALJ correctly applied $105,000.00 per year, or $8,750.00 per month, as the computation rate for wages earned by Complainant during the authorized LCA period. D. & O. at 17; See Vojtisek-Lom v. Clean AirTech. Int’l, Inc., ARB No. 2007-0097, ALJ No. 2006-LCA-00009, slip op. at 14 (ARBJuly 30, 2009) (holding that computation of back wages may be based on wage rate paid to the employee). Accordingly, the ALJ also correctly calculated the total wages owed to Complainant during his tenure with Respondent as $118,125.00; $105,000.00 for 2017, $8,750.00 for January 2018, and $4,375.00 for February 1,The Board has held that when calculating back wages owed, it isRespondent’s burden to demonstrate that it was not obligated to pay the amounts required by the approved LCA. Adm’r, WHD v. Xcel Sols. Corp., ARB No. 2012- 0076, ALJ No. 2011-LCA-00016, slip op. at 10 (ARB July 16, 2014) (citing Gupta v.
+
+Compunnel Software Grp., Inc., ARB No. 2012-0049, ALJ No. 2011-LCA-00045 (ARB May 29, 2014)). In the present case, Respondent does not dispute that it was obligated to pay the approved LCA wage rate; rather, it claims that the ALJ incorrectly calculated the back wages owed to Complainant. Brief at 3.
+
+First, Respondent insists that the ALJ erred in finding that it only paidComplainant $4,000.00 in 2017. Brief at 4-5. Respondent contends that the ALJ ignored Complainant’s letter in which he stated “about $28,500 pay checks were never deposited to my bank account.” Id. at 4; CX 8. Instead, the ALJ referred to an amount of $38,000.00 in checks owed but not received or cashed by Complainant.
+
+Brief at 4.
+
+Second, Respondent avers that the ALJ’s finding that it only paidComplainant $4,000.00 is not supported by substantial evidence. Id. at 5.
+
+Specifically, Respondent claims that the ALJ’s finding that Respondent only paid partial salaries is solely based on Complainant’s statements rather than his pay checks or pay stubs. Id. at 5.
+
+Third, Respondent contends that it is clear from the record that its witness did not concede that Respondent only paid $4,000.00. Id. at 6. Respondent claims that there was either a typographical error in the transcript or its witness misspoke and testified that Complainant received two paychecks in 2017 instead of 2018. Id.
+
+Rather, Respondent suggests that when adding the $53,220.66 from the WHD investigation is added to two checks of $4,000.00 each, the total gross amount is the same amount listed on the 2018 W-2. Id.
+
+Conversely, Complainant makes several arguments why he is entitled to more back wages than previously determined by the ALJ. Response at 9. However,Complainant did not file a cross-appeal of the ALJ’s D. &. O. Under our well- established precedent, “[w]e adhere to the principle that [a] party who neglects to file a cross-appeal may not use his opponent’s appeal as a vehicle for attacking a final judgment.” Batyrbekov v. Barclays Capital, ARB No. 2013-0013, ALJ No. 2011-LCA-00025, slip op. at 8 (ARB July 16, 2014) (citing Sueiro Vazquez v. Torregrosa de la Rosa, 494 F.3d 227, 232 (1st Cir. 2007)). Therefore, we decline to consider these arguments and will limit our scope of review to Complainant’s arguments in opposition to Respondent’s reduction request.
+
+The party who requests a hearing before an ALJ bears the burden of proof at hearing. 20 C.F.R. § 655.820(b)(1). However, we have held that:
+
+When an employer fails to provide adequate records, a prosecuting party meets its initial burden of proving that [he] performed work for which [he was] not properly compensated if “he proves that [an employee] has in fact performed work for which [the employee] was improperly compensated and if he produces sufficient evidence to show the amount and extent of that work as a matter of just and reasonable inference.”Pythagoras Gen. Contracting Corp. v. Adm’r, ARB Nos. 2008-0107, 2009-0007, ALJNo. 2005-DBA-00014, slip op. at 5 (ARB Feb. 10, 2011) (reissued Mar. 1, 2011) (citing Anderson v. Mt. Clemens Pottery Co., 328 U.S. 680, 687-88 (1946)).
+
+In the present case, we have a scenario where Respondent failed to provide adequate records. Respondent only provided three exhibits at the hearing: RX A, two different Labor Condition Applications; RX B, a 2018 W-2 and EarningsSummary for Complainant with a “Preview” watermark; and RX C, a 2018 W-2 andEarnings Summary for Complainant. D. & O. at 6. RX B and RX C are the only relevant exhibits as to Complainant’s wages and purport the same information—$61,220.06 in gross wages earned by Complainant during his tenure withRespondent. As such, the ALJ determined that Complainant met his initial burden demonstrating that he failed to receive proper compensation from Respondent based on witness testimony, timecards, and earning statements. D. &. O. at 12; CX 5; CX6; ALJX 1; Tr. at 26, 68.
+
+Upon our review of the evidence, we agree with the ALJ that Complainant met its initial burden and that the evidence clearly shows Respondent underpaidComplainant. Even Respondent’s own records demonstrate Respondent underpaidComplainant by at least $56,904.94 ($118,125.00 in total wages earned byComplainant during his tenure with Respondent minus the $61,220.06 in paid wages from the 2018 W-2 and Earnings Summary). Additionally, if we ignored our rules and considered new evidence not before the ALJ, Respondent’s Exhibit B, theSummary of Unpaid Wages, provides no information or calculations as to how theAdministrator determined owed back wages. See 29 C.F.R. § 18.54(c) (stating that once the ALJ closes the record, “no additional evidence shall be accepted into the record except upon a showing that new and material evidence has become available which was not readily available prior to the closing of the record.”).3 As is, theAdministrator failed to investigate Complainant’s full tenure with Respondent; theSummary of Unpaid Wages only goes until February 3, 2018. Without any justification as to how the Administrator came to its determination, we have no idea how this figure was derived and it would be entitled to little weight.
+
+We also agree with the ALJ’s decision to only credit Respondent with $4,000.00 for paid wages in 2017. This decision is supported by the testimony of the ALJ hearing and could have been submitted by either party. both witnesses, the Employee Personal Interview Statement, and the earning statements that comprise ALJX 1. D. & O. at 12; Tr. at 26, 68; CX 8; CX 10; ALJX 1.
+
+However, we disagree with the ALJ’s decision to only credit Respondent with $25,234.83 in paid wages for 2018 because it is not supported by the record. TheALJ did not credit Respondent with the $61,220.06 in paid wages for 2018 because there was an inconsistency between Respondent’s witness’ testimony and the 2018W-2 and Earnings Summary. See D. & O. at 16. The 2018 W-2 and EarningsStatement reported $61,220.06 in gross wages and $29,334.20 in deductions. D. &O. at 16-17. When subtracting the deductions from the gross wages, the result is $31,885.86, the net pay Complainant should have received. Instead, Complainant received a check for $25,234.83 on August 31, 2018. D. & O. at 16; ALJX 2.
+
+Although we agree with the ALJ that there is a discrepancy between the net pay Complainant should have received and what he actually received in net pay, there are no financial records (pay stubs, checks, or earning statements), other than the August 31, 2018 check, to verify how much Respondent paid Complainant in 2018. Therefore, the ALJ should have still considered the 2018 W-2 and EarningsStatement in conjunction with the August 31, 2018 check for her payment credits and owed back wages calculations. The ALJ’s decision to not include the gross wages reported on the 2018 W-2 and Earnings Statement in the original calculations penalized Respondent by requiring it to repay wages that it had already paid to Complainant. Thus, the owed net back wages should be calculated as follows:
+
+Reported Gross Wages:    $  61,220.06
+
+Deductions:                           $  29,334.20
+
+Net Pay Complainant Should Have Received:    $  31,885.86
+
+Net Pay Complainant Should Have Received: $  31,885.86
+
+Net Pay Complainant Actually Received: $  25,234.83
+
+For the foregoing reasons, the additional gross back wages owed toComplainant should be calculated as follows:
+
+Total Wages – Without Credits
+
+January 1, 2017 to December 31, 2017:    $105,000.00
+
+January 2018:                                             $    8,750.00February 1, 2018 to February 17, 2018:    $    4,375.00Total: $118,125.00Total Gross Back Wages Owed – After CreditsTotal Wages: $118,125.00 back wages still owed to Complainant)$  61,220.06Total Gross Back Wages Owed: $  52,904.94Accordingly, we find that Respondent owes Complainant $6,651.03 in net back wages and $52,904.94 in gross back wages, plus interest. We AFFIRM theALJ’s findings and calculations for wages earned during Complainant’s tenure withRespondent, but MODIFY the total amount of back wages owed to Complainant.4SO ORDERED.
+
+Complainant, we must address Respondent’s representation at the end of its Appeal Brief.
+
+Respondent states that it “communicated clearly and completed the bona fide termination on January 3, 2018, when it offered Prosecuting Party transportation back to India.” Brief at 9. As the ALJ previously concluded, this is incorrect. D. & O. at 14. The Board has held that there are three elements to establish a bona fide termination of employment: first, unequivocal notice to the employee that the employment relationship has terminated; second, the employer’s notice to immigration officials of the terminated employment relationship; and third, payment for transportation back to the employee’s home country.
+
+Vinayagam v. Cronous Sols., Inc., ARB No. 2015-0045, ALJ No. 2013-LCA-00029, slip op. at 0087, ALJ No. 2004-LCA-00006, slip op. at 11 (ARB Sept. 29, 2006)). Respondent did not notify immigration officials of the terminated employment relationship and failed to payComplainant for transportation back to his home country. See D. & O. at 14. As the ALJ correctly identified, “stating that return flights ‘will be provided’ does not constitute proof of actual payment of the reasonable transportation cost for [Complainant’s] return to his home country.’” D. & O. at 14. The ALJ appropriately concluded that Respondent did not complete a bona fide termination on February 3, 2018.
+

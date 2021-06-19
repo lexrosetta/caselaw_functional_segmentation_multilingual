@@ -1,0 +1,78 @@
+U.S. Department of Labor Administrative Review BoardWashington, DC 20210-0001IN THE MATTER OF:
+
+Petition for Review of Special, ARB CASE NO. 2018-0061
+
+Minimum Wage Rate Pursuant to Section 14 (c)(5)(A) of the Fair ALJ CASE NO. 2016-FLS-00003Labor Standards Act by:
+
+DATE:  September 14, 2020
+
+RALPH MAGERS, PAMELA
+
+STEWARD, and MARK FELTON,
+
+PETITIONERS, v.
+
+SENECA RE-AD-INDUSTRIES, INC.,
+
+RESPONDENT.
+
+Appearances:
+
+For the Petitioners:
+
+Kevin D. Docherty, Esq.; Anthony J. May, Esq.; Brown, Goldstein &Levy, LLP; Baltimore, Maryland; Rebecca M. Babarsky, Esq.; KerstinSjoberg, Esq.; Disability Rights Ohio; Columbus, Ohio; Marc Maurer,Esq.; National Federation of the Blind; Baltimore, MarylandFor the Respondent:
+
+Stephen P. Postalakis, Esq.; David S. Kessler, Esq.; Haynes KesslerMyers & Postalakis, Incorporated; Worthington, OhioFor the Administrator, Wage and Hour Division:
+
+Kate S. O’Scannlain, Esq.; Jennifer S. Brand, Esq.; Paul L. Frieden,Esq.; Ann Capps Webb, Esq.; U.S. Department of Labor, Office of theSolicitor; Washington, District of ColumbiaBefore: James D. McGinley, Chief Administrative Appeals Judge, James A.
+
+Haynes and Randel K. Johnson, Administrative Appeals Judges
+
+DECISION AND ORDER
+
+PER CURIAM. This case arises under Section 14(c)(5)(A) of the Fair LaborStandards Act (FLSA).1 On February 2, 2016, a Department of LaborAdministrative Law Judge (ALJ) issued a Decision and Order (D. & O.) in which he held that Respondent Seneca Re-Ad violated the FLSA’s Minimum Wage Provision because it was not entitled to employ Petitioners Ralph Magers, Pamela Steward, and Mark Felton (the Employees) under the FLSA’s Disabled Workers ExceptionProvision. The Board accepted the Employees’ appeal of the D. & O. and on January 17, 2017 it issued a Decision and Order Reversing in Part and Remanding (RemandOrder).  The Remand Order affirmed the ALJ’s ruling on the merits, reversed an award of attorney’s fees, and remanded the case to the ALJ for a recalculation of damages. On August 1, 2018, the ALJ issued a Decision and Order on Remand (D.
+
+& O. R.) in which he recalculated those damages. Seneca Re-Ad appealed the D. &O. R. to the Board. For the following reasons, we adopt the decision of the ALJ.2BACKGROUND
+
+The facts giving rise to this matter are set forth in the D. & O. and RemandOrder. To summarize, the Employees each have at least one disability. Seneca Re-Ad, their employer, is a nonprofit entity that contracts with the Seneca County (Ohio) Board of Developmental Disabilities to, among other things, provide employment for those with developmental disabilities. During the period relevant to this case, Seneca Re-Ad held a Subminimum Wage Disability Certificate issued by the Department of Labor authorizing special wage rates for certain workers with disabilities. The facility where the Employees work is in a factory owned by RoppeIndustries, a for-profit company that manufactures rubber flooring and other products. Seneca Re-Ad has a contract with Roppe, and many of the jobs at the facility involve work under that contract. implementing the Disabled Workers Exception Provision (29 C.F.R. Part 525).
+
+“either adopt the decision of the ALJ or issue exceptions.” 29 C.F.R. § 525.22(g).
+
+Some of the tasks performed by the Employees are paid on a “piece rate” basis, for which the hourly rate varied based on how quickly they worked. Other tasks were paid based upon an hourly rate. To determine the Employees’ hourly rates, Seneca Re-Ad (1) determined the prevailing wage rate; (2) established a “production standard” by testing a nondisabled worker (the “standard setter”) to determine how quickly the standard setter could perform the work; (3) once every six months, it determined an Employee’s production rate by testing each Employee to determine how quickly she or he could perform the work; and then (4) calculated a ratio (an Employee’s production rate as compared to the production standard) and then multiplied that ratio by the prevailing wage to create a “commensurate wage.”For the work paid on an hourly basis, the Employees were always paid below the minimum wage. During the periods at issue in this case, Felton was paid as little as $2.49 per hour, Magers as little as $2.02 per hour, and Steward as little as $2.00 per hour. On November 17, 2015, the Employees submitted a Petition forReview of Wages to the U.S. Department of Labor’s Wage and Hour Division, seeking review of the subminimum wage rates Seneca Re-Ad paid them. The Wage and Hour Division referred the matter to the Office of Administrative Law Judges.
+
+An ALJ conducted a hearing and, on February 2, 2016, issued a D. & O. in which he concluded that Seneca Re-Ad violated the FLSA’s Minimum WageProvision because it failed to show that the Employees were disabled as defined by the regulations governing the certificate. The Employees were therefore entitled to (1) a rate of pay at the Ohio minimum wage rate starting immediately; (2) back pay in an amount calculated by determining the difference between the amounts each of the Employees was paid and the Ohio minimum wage; and (3) liquidated damages in an amount equal to the back-pay award. The ALJ also held that the Employees were entitled to attorneys’ fees and costs and, in a separate order, awarded theEmployees $276,111.72 in fees and costs.3Seneca Re-Ad appealed the D. & O. and the fee order to the Board. In addition to briefs from the parties, the Board accepted amicus briefs from theAdministrator of the Wage and Hour Division, the National Disability RightsNetwork, the Autistic Self Advocacy Network, and Blind Industries and Services ofMaryland.
+
+Litigation Costs.
+
+On January 17, 2017, the Board remanded this case to the ALJ. The RemandOrder held that (1) the FLSA applies to this matter; (2) Seneca Re-Ad could not pay the Employees less than the minimum wage because they are not impaired for the work they perform; (3) it was unnecessary to determine whether Seneca Re-Ad properly calculated the commensurate wage because it had no right to pay theEmployees less than the minimum wage; (4) The Portal to Portal Act’s statute of limitations does not apply in this administrative proceeding; (5) Seneca Re-Ad is liable to the Employees in the amount of the difference between the amount they were paid and the federal (not Ohio) minimum wage, plus an equal amount in liquidated damages; and (6) the Employees were not entitled to attorneys’ fees or costs.4Prior to remand, the parties assumed that the limitations period of thePortal-to-Portal Act applied to this case and they did not submit evidence covering the entirety of the Employees’ employment.5  After remand the ALJ reopened the record to allow the parties to submit additional evidence related to the Employees’ entire employment. The ALJ conducted a hearing on June 29, 2018 and on August 1, 2018 issued the D. & O. R. before us.  The ALJ ordered back pay and liquidated damages for three periods of employment: Period 1 (beginning with each Employees’ start of employment through December 27, 2012); Period 2 (December 28, 2012 through December 26, 2015, the period calculated in the D. & O. prior to remand); and Period 3 (the 38-day period from the beginning of the 2016 hearing untilFebruary 2, 2016, when Seneca Re-Ad began paying the legal minimum wage to each Employee).6Seneca Re-Ad submitted a Petition for Review of the D. & O. R. to the Board.
+
+The company also filed a Request to Vacate and Terminate Proceedings (Request toVacate), in which it argued that the ALJ was improperly appointed under theAppointments Clause of the U.S. Constitution.
+
+JURISDICTION AND STANDARD OF REVIEW
+
+The regulations implementing Section 14(c) of the FLSA authorize theSecretary to review the record and “either adopt the decision of the ALJ or issue exceptions.”7 The Secretary has delegated that authority to this Board.8 The ARB reviews an ALJ’s procedural rulings under an abuse of discretion standard.9DISCUSSION
+
+Seneca Re-Ad presents four issues on appeal. First, it argues that the ALJ was prohibited from awarding back pay for Period 1.10 This is incorrect. The ALJ originally held that the Employees “are entitled to the minimum wage for every hour of covered employment,”11 and the Board issued no exception to that holding.
+
+The Remand Order did not instruct the ALJ to exclude any periods of employment, but instead agreed with the ALJ’s conclusion that the back pay period was not limited by the Portal-to-Portal Act.12 As explained by the ALJ, none of the prior rulings in this case indicate “that Respondent’s violations of the Act occurred only over a limited period of time” or “suggest[] that Petitioners should not be paid damages for all of the periods where Respondent paid them less than minimum wage in violation of the Act.”13Second, Seneca Re-Ad’s Petition for Review argues that the ALJ erred by reopening the record to receive evidence for the calculation of back wages.14 But theBoard has consistently held that ALJs have discretion to reopen the record forResponsibility to the Administrative Review Board (Secretary’s discretionary review of ARB decisions)), 85 Fed. Reg. 13,186 (Mar. 6, 2020).
+
+00001, slip op. at 3 (ARB June 16, 2010). submission of additional pertinent evidence, including on remand.15 The additional evidence in this case was evidence regarding the Employees’ pay during Period 1.
+
+That information was not only pertinent but also necessary for the ALJ to provide a ruling consistent with the Remand Order. We therefore conclude that the ALJ did not abuse his discretion to reopen the record.
+
+Third, Seneca Re-Ad argues that “[t]he ALJ and the ARB have no authority to issue liquidated damages.”16 The Board addressed this issue in its Remand Order and, as it was not one of the subjects we directed the ALJ to review, it is final as a matter of law and not properly the subject of this appeal.17Finally, in its Request to Vacate, Seneca Re-Ad asserts, for the first time, that the ALJ in this matter was improperly appointed under the AppointmentsClause of the U.S. Constitution.18 Seneca did not raise this challenge at any point during the proceedings with the ALJ. The ARB typically does not entertain arguments that are first raised on appeal and we shall not do so now.19 Thus, we hold that Seneca Re-Ad has waived any Appointments Clause challenge.2000009, slip op. at 5-6 (ARB Nov. 3, 2014).
+
+0067, ALJ No. , slip op. at 7-8 (ARB June 27, 2016).
+
+2006-SOX-00008, slip op. at 22 (ARB May 29, 2008).
+
+Respondent’s Appointments challenge has been waived in Kiyuna v. Matson Terminals,Inc., BRB No. 19-0103, 2019 WL 2865994 (BRB June 25, 2019) and Daugherty v. Consol.
+
+Coal Co., BRB No. 18-0341, 2019 WL 3775979 (BRB July 19, 2019).
+
+CONCLUSION
+
+For the foregoing reasons, we ADOPT the ALJ’s August 1, 2018 D. & O. R.
+
+Seneca Re-Ad is ordered to pay the amounts identified by the ALJ on pages 16-17 of the D. & O. R., and any amounts stayed contingent upon our final ruling in this matter shall be released and distributed to the Employees.21 minimum wage and liquidated damages contained in boldface font (paragraphs A, B, E, F,G, H, K, L, M, N, Q and R) is hereby STAYED for a period of 15 days after the issuance of this Order. This stay will remain in place if, within 15 days after the issuance of this Order,Respondent seeks review of this Order by the ARB. If timely review is sought, the stay will remain in place until the ARB has issued any decision or exceptions concerning thisOrder.”); November 9, 2018 “Order Reconsidering My Order of October 22, 2018 and OrderGranting Stay of Order to Pay Wages” at 2 (in which the ALJ stayed those portions of theD. & O. R. “which require Respondent to pay unpaid minimum wages or liquidated damages to Petitioners pending a final decision by the ARB on the Requests for Review submitted by Respondent.”).
+

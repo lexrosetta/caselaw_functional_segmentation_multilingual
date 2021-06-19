@@ -1,0 +1,78 @@
+  UNITED STATES DISTRICT COURT 
+WESTERN DISTRICT OF NORTH CAROLINA 
+CHARLOTTE DIVISION 
+DOCKET NO. 3:12-cv-00596-MOC-DSC 
+ 
+WILLARD ALLEN RILEY MARIO RONCHETTI SCOTT REHBERG, 
+ ) 
+) 
+) 
+  
+ 
+ 
+ ) 
+  
+ 
+Plaintiffs, 
+ ) 
+  
+ 
+ 
+ ) 
+  
+ 
+Vs. 
+ ) 
+ ORDER 
+ 
+ 
+ ) 
+  
+ 
+FLOWERS BAKING COMPANY OF JAMESTOWN, LLC FLOWERS FOODS, INC., 
+ 
+ ) 
+) 
+) 
+) 
+  
+ 
+Defendants. 
+ ) 
+  
+ 
+
+ 
+THIS MATTER is before the court on Plaintiffs’ Motion for an Order to Protect the Class and Fair Conduct of This Action (#149).  Having considered Plaintiffs’ motion and reviewed the pleadings, the court enters the following findings and Order. 
+I. Introduction 
+
+
+One of Plaintiff’s central allegations in this lawsuit is that Defendants misclassified them as independent contractors rather than employees. (Dkt. No. 1.) Several legal claims stem from that misclassification, including alleged violations of the North Carolina Wage and Hour Act (“NCWHA”). Id. By their complaint, Plaintiffs argue that Defendants violated the NCWHA by making improper wage deductions for warehouse and administrative fees. Id. On March 24, 2015, the court certified a class of similarly situated individuals for the NCWHA claim. (Dkt. No. 129). 
+In the instant motion, Plaintiffs allege that since the filing of this action, Defendants’ 
+managers have communicated misrepresentations or representations containing omissions to Class Members in an effort to settle Class Members’ NCWHA claims. Plaintiffs argue that Defendants have solicited Class Members to release the NCWHA claims without fully advising them of the pendency of this class action litigation, their right to participate in this litigation, the existence of their claims, and the effect on their claims of signing the releases. Plaintiffs argue that court control of communication with class members is warranted here because Defendants’ communications with class members is coercive and misleading.  
+Pursuant to their distributor agreements, all Class Members are required to “execute . . . a general release of claims, in the event of any sale, conveyance or assignment, including any sale, conveyance or assignment to [Defendant Jamestown].” (Dkt. No. 107-1, p. 8). Thus, at the time of hire, Defendants bind distributors to sign a general release of claims in the future. (Id.) Plaintiffs are concerned that the general releases of claims from putative Class Members could cover the NCWHA claims at issue. Indeed, Defendants cite release of claims as their first defense in their motion for summary judgment, noting that over 70 individuals in the North Carolina class signed releases of claims when they sold their distributorships back to the company. (#147 at p. 46). Plaintiffs argue that Class Members have been forced to sign the general release of claims under a number of different coercive circumstances, including when Defendants force Class Members to reorganize their routes and when Class Members quit their jobs. Essentially, class members must either sign the release forms or forgo the money owed to them upon their departure from the company (which can be in the tens of thousands of dollars), or in the case of route reorganization, be required to pay hundreds of dollars a day for the distributor to operate the route. 
+As a result, Plaintiffs are motioning for two specific orders. First, they seek an order requiring Defendants to disseminate a curative notice to accompany any future solicitations of releases that fully informs the recipient of the pendency of this action and their rights in relation to this litigation. Second, Plaintiffs seek an order nullifying all general releases that were signed by class members since January 24, 2011, when Defendants were first put on notice of impending litigation. 
+II. Discussion 
+
+
+The court will first consider Plaintiffs’ motion in regards to an order for the court to control communications with class members by requiring Defendants to disseminate curative notice. District courts have broad discretionary powers under Fed. R. Civ. P. 23(d) to supervise communications with class members. The court may issue orders that are necessary “to protect class members and fairly conduct the action” and can “impose conditions on the representative parties.” Fed. R. Civ. P. 23(d)(1)(B-C). “[A] district court has both the duty and the broad authority to exercise control over a class action . . . to enter appropriate orders governing the conduct of counsel and parties.” Gulf Oil Co. v. Bernard, 452 U.S. 89, 100 (1981). From, this, courts are authorized to “restrict communications that are potentially coercive or misleading.” Zamboni v. Pepe W. 48th St. LLC, 2013 WL 978935 (S.D.N.Y. 2013) (citing Gulf Oil Co., 452 U.S. 89). 
+A communication is coercive or misleading when the defendant interferes with participation by potential class members in the lawsuit or misinforms them by failing to reveal how some proposed transaction might affect their rights in the litigation. Id. at *3. Courts have continually held that misleading communications to class members concerning the litigation pose 
+a serious threat to the fairness of the litigation proceedings and violate the principle of informed consent, and the Federal Rules allow the courts to protect class members and putative class members from such communications. See In Re Sch. Asbestos Litig., 842 F.2d 671, 680 (3d Cir. 1988) (citing Gulf Oil Co., 452 U.S. at 101); In re Currency Conversion Fee Antitrust Litigation, 361 F.Supp.2d. 237, 252 (S.D.N.Y. 2005); Kleiner v. First Nat’l Bank of Atlanta, 751 F.2d 1193, 1203 (11th Cir. 1985). 
+When a court decides whether to order a limit on communications with class members, such an order must be based on findings of fact. Specifically, the Supreme Court advises that any order regulating communications with class members or putative class members needs a basis in “a clear record and specific findings that reflect a weighing of the need for a limitation and the potential interference with the rights of the parties.” Gulf Oil Co., 452 U.S. at 101. The burden is on the plaintiffs, not the defendant, to show that a restricting order would guard against the likelihood of serious abuses. Id. That said, plaintiffs need not prove actual harm, and a showing that Rule 23’s protections for class members might be hindered is sufficient to order limitations on communications with class members. See Jenifer v. Delaware Solid Waste Authority, 1999 WL 117762, at *3 (D. Del. 1999); Hampton Hardware, Inc. v. Cotter & Co., Inc., 156 F.R.D. 630, 633 (N.D. Tex. 1994). Should a court decide to order limitations on communications, the court must consider only “the narrowest possible relief” that “limits speech as little as possible, consistent with the rights of the parties under the circumstances.” Gulf Oil Co., 452 U.S. at 102. 
+Here, Plaintiffs contend that Defendants’ communications with class members and putative class members are coercive and misleading, and curative notice should accompany these communications and inform the class members of their rights in this litigation. Plaintiffs consider 
+distribution of these releases to be near-extortion on the part of Defendants, as an attempt to coerce class members and potential class members into waiving their rights to this litigation by denying them much-needed money. 
+In their response, Defendants note that distribution of these releases is standard industry practice: when any independent distributors sign their initial agreements, they explicitly agree to sign a release of claims if and when they sell their distributorships and distribution rights. Defendants also point out that their counsel has been communicating with Plaintiffs’ counsel for over two years concerning release language for various named Plaintiffs and opt-in Plaintiffs, as they were the only represented parties at the time, and Plaintiffs’ counsel has specifically approved the releases and even negotiated some of the release language. 
+Though Defendants believe the conduct of Plaintiffs’ counsel would be sufficient to constitute a waiver of any complaint over distribution of these releases, Defendants are nevertheless willing to distribute curative notices. Specifically, they agree to send curative notices to the nine class members who signed releases after the North Carolina class was certified and to any distributors who are asked to sign a release from this point forward, now that the class has been certified. Additionally, they will send notice to class members who signed a release after the lawsuit was filed, in order to inform them of their right to petition the court to seek invalidation of the release if they contend they entered into it unknowingly or under duress, which would give them an opportunity to present evidence at a hearing they set with the court. 
+Here, the court finds Defendants’ proposal is reasonable and adequately addresses Plaintiffs’ complaint. Therefore, the court will grant Plaintiffs’ motion on their first count, and will instruct Defendants’ to distribute curative notice as described above. 
+Next, the court considers the second count of Plaintiffs’ motion, in which Plaintiffs request that the court nullify all general releases signed by class members since January 24, 2011, the date Defendants originally received notice of the instant litigation. The Fourth Circuit has held that a general release of claims is acceptable and “not only settles enumerated specific differences, but claims ‘of every kind or character, known or unknown.’” Zandford v. Prudential-Bache Sec., Inc., 112 F.3d 723, 727 (4th Cir. 1997) (quoting Virginia Impression Prods. Corp. v. SCM Corp., 448 F.2d 262, 265 (4th Cir. 1971). Though waivers which “transgress public policy” are not permitted, Bd. of Managers of James Walker Mem’l Hosp. of Wilmington v. City of Wilmington, 74 S.E.2d 749, 757 (N.C. 1953), this court and other North Carolina district courts have consistently allowed parties to waive claims under the NCWHA via private release. See Simontacchi v. Invensys, Inc., 2008 WL 141905, at *15 (W.D.N.C. 2008) (holding “the claims raised by [plaintiff] for breach of the covenant of good faith and under the Wage and Hour Act must be dismissed because he released all such claims”); Wynne v. P.C. Greenville Ltd. P’ship, 190 F.R.D. 399, 400 (E.D.N.C. 1998) (the court granted summary judgment to employer where plaintiff executed a release of wage claims under the NCWHA); VF Jeanswear Ltd. P’ship v. Molina, 320 F.Supp.2d 412, 419 (M.D.N.C. 2004) (holding that “[w]hen a release is executed in exchange for valuable consideration, the release provides a complete defense . . .”).  
+Plaintiffs argue that the court should find waivers of claims under the NCWHA to violate public policy, and consequently invalidate all general releases of claims. They also note that the Supreme Court has held that wage and hour claims cannot be waived since doing so would violate the Fair Labor Standards Act (“FLSA”). See Brooklyn Savings Bank v. O’Neil, 324 U.S. 697 (1945). Additionally, Plaintiffs argue that the releases should be voided since they were 
+executed under threat of duress, as Defendants instructed class members that the money the class members originally paid to conduct their jobs would not be returned if they did not sign the general releases. Plaintiffs argue that this constitutes severe economic duress, as the money in question can number in the tens of thousands of dollars. 
+In response, Defendants contend that the well-established precedent described above directly supports the ability for class members and putative class members to waive NCWHA claims through general releases. Defendants also freely admit that Plaintiffs’ release of claims under the NCWHA does not affect their ability to proceed with their FLSA claims, but note this has no bearing to the instant motion and the NCWHA. Defendants also argue that no duress was present, as anyone signing a release was simply fulfilling their contractual obligations they agreed to back when the distributors signed their original agreements with the company. Specifically, Defendants note that the Fourth Circuit has found such circumstances do not constitute duress. See Wells v. Entre Computer Ctrs., Inc., 915 F.2d 1566 (4th Cir. 1990) (unpublished). In Wells, plaintiffs were franchisees who owned computer stores and, at the inception of their relationship with the franchisor, the plaintiffs signed agreements requiring them to execute a general release of claims upon transfer of the franchise. Wells, 915 F.2d at *1. When the franchisees sued for fraud and breach of contractual and statutory duties, they argued that the releases were invalid because they were general releases and did not cover every claim, and that they signed the releases under duress since they would lose money if they did not sign. Id., at *3-6. However, the Fourth Circuit found that even if the “dire financial circumstances” described by the plaintiffs was true, they had originally agreed to the release at a time when they were under no financial distress, and the franchisor “had the right to condition its consent on the 
+execution of a general release” and had “only required the franchisees to do what they already had agreed to do.” Id. at 6. 
+Here, the court agrees with Defendants that North Carolina district courts and the Fourth Circuit unequivocally allow both general releases and releases of claims under the NCWHA through private parties, and finds that Plaintiffs have failed to demonstrate why this court should rule differently. Additionally, in regards to Plaintiffs’ charge of duress, the court finds the Fourth Circuit’s reasoning in Wells to be especially persuasive and consequently finds the releases in question were not signed under duress. As a result, the court will deny Plaintiffs’ motion on their second count, and will not invalidate any general releases at this time. 
+ ORDER 
+ IT IS, THEREFORE, ORDERED that Plaintiffs’ Motion for an Order to Protect the Class and Fair Conduct of This Action (#149) is GRANTED IN PART and DENIED IN PART. Defendants are ordered to distribute curative notice to the nine class members who signed releases after the North Carolina class was certified and to any distributors who are asked to sign a release from this point forward, as well as class members who signed a release after the lawsuit was filed. However, at this time the court declines to invalidate any general releases signed since January 24, 2011, and that portion of the motion is denied without prejudice, subject to further consideration if Defendants seek to enforce such waivers by moving to dismiss, for summary judgment, or other such relief. 
+ 
+
+
+

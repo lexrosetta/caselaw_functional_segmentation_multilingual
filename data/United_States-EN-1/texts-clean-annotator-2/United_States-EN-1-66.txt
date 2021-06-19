@@ -1,0 +1,700 @@
+
+Rick’s Cabaret (“Rick’s NY” or “the Club”) is a New York strip club located in midtown Manhattan featuring exotic dancers.  Plaintiffs were dancers, also known as entertainers, at the Club.  In this lawsuit, plaintiffs allege violations of the Fair Labor Standards Act (“FLSA”), 29 U.S.C. §§ 201 et seq., and the New York Labor Law (“NYLL”), §§ 190 et seq. & §§ 650 et seq., and regulations promulgated thereunder by the New York State Department of Labor, see N.Y. Comp. Codes R. & Regs. tit. 12, §§ 137-1.1 et seq.  The Court has conditionally certified this as a collective action under the FLSA and has certified a class under Federal Rule of Civil Procedure 23.   
+
+It is undisputed that, while working at Rick’s NY, plaintiffs were not paid any salary.  Instead, they received money from customers, including in the form of “performance fees” for personal dances, as described further below.  Plaintiffs claim that they were employees as defined under the FLSA and NYLL, and as such, were entitled to be paid a minimum wage by their employer.  Plaintiffs bring five causes of action: (1) failure to pay the minimum wage under the FLSA; (2) failure to pay the minimum wage under the NYLL; (3) unlawful requesting and receiving of portions of plaintiffs’ wages in violation of NYLL § 198-b; (4) unlawful retention of plaintiffs’ gratuities in violation of NYLL § 196-d; and (5) unlawful deduction of wages by imposing fines and penalties in violation of NYLL § 193.  
+
+Defendants consist of the corporation Peregrine Enterprises, Inc. (“Peregrine”), which owned and operated Rick’s NY, and two corporate parents, RCI Entertainment New York (“RCI New York”) and Rick’s Cabaret International, Inc. (“RCII”), all three of which plaintiffs claim was their employer.  (For purposes of identifying litigation positions taken by the defendants, the Court refers to the defendants collectively as “Rick’s NY” or as “defendants.”)  Defendants contend that plaintiffs were not employees, but were instead independent contractors, and therefore not covered by the FLSA or NYLL.  Alternatively, defendants claim that the performance fees that plaintiffs took home should be counted against any statutory wage obligation of defendants, and therefore seek a monetary offset against any award of minimum wages.  Defendants also bring a counterclaim for unjust enrichment, to the effect that plaintiffs will be unjustly enriched if they are awarded a judgment reflecting unpaid minimum wages while being allowed to retain the performance fees they received.  Defendants further contend that, even if plaintiffs are held to have been employees of Peregrine, they were not employees of the two parent-company defendants. 
+
+The parties now cross-move for summary judgment.  Plaintiffs seek summary judgment on Claims One, Two, and Five (following the numbering above).  See Dkt. 384; Pl. Br. 2.  Defendants cross-move for summary judgment on all five claims, on the grounds that plaintiffs were independent contractors, not employees.  Each party seeks judgment in its favor on defendants’ counterclaim.  For the reasons that follow, plaintiffs’ motion for summary judgment is granted in part and denied in part; and defendants’ motion for summary judgment is denied in its entirety.  Plaintiffs have also moved to supplement the record with additional evidence.  That motion is granted.   
+
+
+
+
+
+
+
+
+
+
+
+
+1 The Court’s account of the underlying facts of this case is drawn from the parties’ submissions in support of and in opposition to this motion, including: Plaintiffs’ Memorandum of Law in Support of Motion for Summary Judgment (“Pl. Br.”) (Dkt. 385); Defendants’ Memorandum of Law in Opposition to Plaintiffs’ Motion for Summary Judgment (“Def. Opp. Br.”) (Dkt. 424); Plaintiffs’ Reply Memorandum of Law (“Pl. Reply Br.”) (Dkt. 437); Defendants’ Memorandum of Law in Support of Motion for Summary Judgment (“Def. Br.”) (Dkt. 416); Plaintiffs’ Memorandum of Law in Opposition to Defendants’ Motion for Summary Judgment (“Pl. Opp. Br.”) (Dkt. 433); Defendants’ Reply Memorandum of Law (“Def. Reply Br.”) (Dkt. 442); Plaintiffs’ Memorandum of Law in Support of Motion to Supplement the Record (“Pl. Supp. Br.”) (Dkt. 440); Defendants’ Memorandum of Law in Opposition to Plaintiffs’ Motion to Supplement the Record (“Def. Supp. Opp. Br.”) (Dkt. 447); Plaintiffs’ Reply Memorandum of Law (“Pl. Supp. Reply Br.”) (Dkt. 449); the parties’ joint Stipulated Facts (“SF”) (Dkt. 454); plaintiffs’ Local Rule 56.1 Statement (“Pl. 56.1”) (Dkt. 386); defendants’ Local Rule 56.1 Statement (“Def. 56.1”) (Dkt. 417); defendants’ Local Rule 56.1 Response Statement (“Def. Resp. 56.1”) (Dkt. 434); and plaintiffs’ Local Rule 56.1 Response Statement (“Pl. Resp. 56.1”) (Dkt. 425).  Because the parties are cross-moving for summary judgment, each party’s 56.1 Statement begins with number 1.  Accordingly, for the sake of clarity, the Court cites both the 56.1 Statement and the 56.1 Response Statement each time.  Citations to a party’s 56.1 Statement or 56.1 Response Statement incorporate by reference the documents cited therein. 
+
+In September 2005, Rick’s NY opened for business.  Stipulated Facts (“SF”) ¶ 7.   It is located at 50 West 33rd Street, New York, NY.  Id. ¶ 6.  At all relevant times, Rick’s NY was owned and operated by Peregrine, id. ¶ 8, which is a wholly owned subsidiary of RCI New York, id. ¶ 31.  RCI New York, in turn, was wholly owned at all relevant times by RCII, a Texas corporation.  Id. ¶¶ 32, 34.     
+
+Rick’s NY has always classified the dancers who perform at the Club as independent contractors.  Id. ¶ 19.  Rick’s NY had three stages on which dancers perform, id. ¶ 13, and a number of semi-private rooms, id. ¶ 17.  Dancers’ duties at the Club included public 
+
+performances on stage.  Dancers also gave personal dances (lap dances or table dances) to the Club’s customers, and entertained customers in the Club’s semi-private rooms.  Id. ¶¶ 15–17. 
+
+Dancers were not paid a wage at all by Rick’s NY; rather, they received various fees paid by customers.  Id. ¶¶ 20, 181.  Important here, a personal dance cost $20, although customers were permitted to pay dancers more.  Id. ¶¶ 180, 182.  If the customer paid the dancer in cash, the customer did so by paying the dancer directly, and the dancer retained the entire performance fee.  If a customer wished to pay by credit card, he or she could purchase, for $24 each, vouchers worth $20 known as “Dance Dollars” from Rick’s NY.  The customer could then give the dancer the Dance Dollar as payment for a personal dance.  Id. ¶¶ 181, 183.  The dancer later redeemed, from Rick’s NY, the Dance Dollar that she had received.  Rick’s NY paid dancers $18 for each Dance Dollar that they redeemed; Rick’s NY retained the remaining $6.  Id. ¶¶ 185, 190.   
+
+In addition to the above, the Club also had an on-site restaurant that sold liquor, food, and beverages.  SF ¶ 10; Def. 56.1 ¶ 11; Pl. Resp. 56.1 ¶ 11.  The Club had multiple televisions on site, which displayed sporting events, news programming, and advertisements.  Id.  Further details about the operations of the Club and the activities and compensation of the dancers are set out below, in the course of addressing the motions for summary judgment.  
+
+The class period, as defined at an earlier point in this litigation, runs from September 2005 to the entry of judgment.  The FLSA collective action consists of 41 opt-in plaintiffs; the NYLL plaintiff class consists of more than 1,900 members.  SF ¶ 30.   
+
+
+
+
+
+
+On March 30, 2009, plaintiffs filed their initial Complaint.  Dkt. 1.  On June 15, 2009, the plaintiffs moved for conditional certification of an FLSA collective class composed of dancers 
+
+who had performed at Rick’s Cabaret in New York.  Dkt. 15.  On August 11, 2009, plaintiffs filed an Amended Complaint.  Dkt. 42.   
+
+On August 27, 2009, defendants moved to dismiss the Amended Complaint as against RCII for failure to state a claim, pursuant to Federal Rule of Civil Procedure 12(b)(6).  While the motion was pending, plaintiffs filed a Second Amended Complaint.  Dkt. 71.   
+
+On December 16, 2009, the Honorable John G. Koeltl, to whom this case was previously assigned, granted plaintiffs’ motion to conditionally certify an FLSA collective class.  In the same order, he also dismissed plaintiffs’ claims as to RCII without prejudice.  Dkt. 79.   
+
+On May 28, 2010, plaintiffs filed a Third Amended Complaint, the operative pleading here.  Dkt. 153 (“TAC”).  The TAC included, among other modifications, amended allegations as to RCII.   
+
+On December 20, 2010, Judge Koeltl denied defendants’ motion to dismiss and granted plaintiffs’ motion for Rule 23 class certification.  Dkt. 253 (“Cert. Op.”).  He certified a Rule 23 class consisting of: 
+
+All persons who worked at Rick’s New York or were employed by Defendant Rick’s Cabaret International Inc., RCI Entertainment (New York) Inc. and/or Peregrine Enterprises, Inc. in the state of New York as “entertainers” at any time six years prior to the filing of the Complaint to the entry of judgment in this case. 
+
+ 
+
+Cert. Op. 3, 20.2 
+
+2 For consistency’s sake, and to reflect the fact that evidence adduced in discovery necessarily related to events predating this Opinion, the Court utilizes the past tense to describe events and practices at Rick’s NY, notwithstanding that the present class definition extends until the date of judgment in this case, an inherently future event.  The Court has concluded that it is not tenable for this case to proceed with a class period whose end date is not fixed, for a variety of reasons, including that it is wrong to assume that facts and past events giving rise to liability will perpetuate unchanged into the future.  The Court accordingly will entertain briefing in due course as to the appropriate end date of the class period, with that date to fall no later than October 31, 2012, the date when fact discovery closed in this case. 
+
+On February 3, 2011, defendants filed their Answer, including a counterclaim for unjust enrichment.  Dkt. 254 (“Ans.”).  On June 21, 2011, defendants filed an Amended Answer.  Dkt. 279 (“Am. Ans.”). 
+
+After numerous extensions, fact discovery closed October 31, 2012, and the parties sought leave to cross-move for summary judgment. 
+
+On February 1, 2013, the parties submitted joint stipulated facts, as directed by the Court.  Dkt. 454 (“SF”).  On February 20, 2013, the parties cross-moved for summary judgment.  On March 15, 2013, the parties each submitted opposition papers.  On April 3, 2013, the parties submitted reply memoranda.   
+
+In their summary judgment motion, plaintiffs contend that they were employees, and thus entitled to payment of unpaid wages for the hours during which they worked at Rick’s NY.  They further argue that the failure to pay them minimum wage was a willful violation of the FLSA and NYLL, entitling them to a three-year statute of limitations under the FLSA and to liquidated damages under NYLL.  Finally, plaintiffs assert that all three defendant companies were their employers as a matter of law, entitling them to recover against all three, jointly and severally.  Plaintiffs also seek summary judgment as to defendants’ counterclaim for unjust enrichment.   
+
+In their summary judgment motion, defendants argue that plaintiffs were at all times independent contractors, and therefore fell outside the coverage of the FLSA and NYLL.  Alternatively, defendants contend that, as a matter of law, the performance fees paid directly to plaintiffs by customers should be held to offset any unpaid wages that are held due.  Relatedly, defendants seek summary judgment on their counterclaim for unjust enrichment.  Finally, defendants argue that as a matter of law, any violations were not willful and that only Peregrine, and not RCI New York or RCII, was plaintiffs’ employer. 
+
+On April 3, 2013, plaintiffs submitted a motion to supplement the record with new evidence, namely: (1) a March 15, 2013 video and transcript of a television interview of one of defendants’ employees on Fox Business Network; and (2) defendants’ March 16, 2013 Twitter post regarding that interview.  On April 17, 2013, defendants opposed the motion to supplement; on April 22, 2013, plaintiffs submitted their reply.   
+
+On July 31, 2013, the Court heard extended oral argument.   
+
+
+
+
+
+
+To prevail on a motion for summary judgment, the movant must “show[] that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.”  Fed. R. Civ. P. 56(a).  The movant bears the burden of demonstrating the absence of a question of material fact.  In making this determination, the Court must view all facts “in the light most favorable” to the non-moving party.  Celotex Corp. v. Catrett, 477 U.S. 317, 323 (1986); see also Holcomb v. Iona Coll., 521 F.3d 130, 132 (2d Cir. 2008).  To survive a summary judgment motion, the opposing party must establish a genuine issue of fact by “citing to particular parts of materials in the record.”  Fed. R. Civ. P. 56(c)(1); see also Wright v. Goord, 554 F.3d 255, 266 (2d Cir. 2009).  “A party may not rely on mere speculation or conjecture as to the true nature of the facts to overcome a motion for summary judgment,” because “conclusory allegations or denials cannot by themselves create a genuine issue of material fact where none would otherwise exist.”  Hicks v. Baines, 593 F.3d 159, 166 (2d Cir. 2010) (citation omitted).  Only disputes over “facts that might affect the outcome of the suit under the governing law” will preclude a grant of summary judgment.  Anderson v. Liberty Lobby Inc., 477 U.S. 242, 248 (1986).  In determining whether there are genuine issues of material fact, the Court is “required to resolve all ambiguities and draw all permissible factual inferences in favor of the party against 
+
+whom summary judgment is sought.”  Johnson v. Killian, 680 F.3d 234, 236 (2d Cir. 2012) (citing Terry v. Ashcroft, 336 F.3d 128, 137 (2d Cir. 2003)). 
+
+
+
+
+
+
+ 
+
+The central issue in this case is whether the dancers at Rick’s were employees within the meaning of the FLSA and the NYLL.  If not, then they were independent contractors outside the reach of these statutes, and summary judgment on all claims must be granted for defendants.  If, however, the dancers were employees, the Court must address several subsidiary issues as to plaintiffs’ minimum-wage claims, including whether defendants are entitled to an offset for performance fees paid to the dancers; whether the Club’s failure to pay the minimum wage was willful; and which defendants were the dancers’ employers. 
+
+Because the standards for determining employee status under the FLSA and the NYLL, although similar, are not identical, the Court addresses and applies each statute in turn.   
+
+
+
+
+
+
+
+
+The FLSA defines an “employee” as “any individual employed by an employer”; it defines “employ” as “to suffer or permit to work.”  29 U.S.C. §§ 203(e)(1), 203(g).  “The definition is necessarily a broad one in accordance with the remedial purpose of the Act.”  Brock v. Superior Care, 840 F.2d 1054, 1058 (2d. Cir. 1988); see also United States v. Rosenwasser, 323 U.S. 360, 363 (1945); Real v. Driscoll Strawberry Assocs., Inc., 603 F.2d 748, 754 (9th Cir. 1979).   
+
+The Second Circuit has adopted an “economic realities” test to determine whether an individual is an employee or an independent contractor for FLSA purposes.  The factors considered include:  (1) the degree of control exercised by the employer over the workers, (2) the workers’ opportunity for profit or loss and their investment in the business, (3) the degree of skill and independent initiative required to perform the work, (4) the permanence or duration of the working relationship, and (5) the extent to which the work is an integral part of the employer's business. 
+
+ 
+
+Brock, 840 F.2d at 1058–59; see also Gayle v. Harry’s Nurses Registry Inc., 2009 WL 605790, at *5 (E.D.N.Y. 2009).  No factor is dispositive:  “[R]ather, the test is based on a totality of the circumstances” analysis, with the ultimate question being whether the “workers depend upon someone else’s business for the opportunity to render service or are in business for themselves.”  Brock, 840 F.2d at 1059; see also Rutherford Food Corp. v. McComb, 331 U.S. 722, 730 (1947) (“[T]he determination of the relationship does not depend on such isolated factors but rather upon the circumstances of the whole activity.”).  Further, “such status does not require the continuous monitoring of employees, looking over their shoulders at all times, or any sort of absolute control of one’s employees”; that is, even if an employer’s control were “restricted, or exercised only occasionally,” that does not remove the employee from the protections of the FLSA.  Herman v. RSR Sec. Servs. Ltd., 172 F.3d 132, 139 (2d Cir. 1999); see also Donovan v. Janitorial Servs., Inc., 672 F.2d 528, 531 (5th Cir. 1982).  That an employer does not exercise control continuously or consistently “does not diminish the significance of its existence.”  Irizarry v. Catsimatidis, 722 F.3d 99, 111 (2d Cir. 2013) (citation omitted). 
+
+The application of the economic realities test is inherently case-specific, turning on the totality of the relevant circumstances.  However, before embarking on an examination of how the factors identified in the Second Circuit’s economic realities test apply to Rick’s NY, the Court notes that it is not the first court to address whether exotic dancers at a strip club such as Rick’s NY are employees under the FLSA.   Nearly “[w]ithout exception, these courts have found an employment relationship and required the nightclub to pay its dancers a minimum wage.”  Harrell v. Diamond A. Entm’t, Inc., 992 F. Supp. 1343, 1348 (M.D. Fla. 1997); see Reich v. Circle C. Invest., Inc., 998 F.2d 324, 329 (5th Cir. 1993); Thornton v. Crazy Horse, Inc., No. 3:06-CV-00251-TMB, 2012 WL 2175753 (D. Alaska June 14, 2012); Clincy v. Galardi S. Enters., Inc., 808 F. Supp. 2d 1326, 1343 (N.D. Ga. 2011); Thompson v. Linda and A. Inc., 779 F. Supp. 2d 139, 151 (D.D.C. 2011); Morse v. Mer Corp., 2010 WL 2346334, at *6 (S.D. Ind. 2010); Reich v. Priba Corp., 890 F. Supp. 586, 594 (N.D. Tex. 1995); Martin v. Priba Corp., 1992 WL 486911, at *5 (N.D. Tex. 1992); see also Doe v. Cin-Lan, Inc., No. 08-CV-12719, 2008 WL 4960170 (E.D. Mich. 2008) (in assessing motion for preliminary injunction, finding that dancer was substantially likely to succeed on claim that she is an employee under FLSA); Jeffcoat v. Alaska Dep’t of Labor, 732 P.2d 1073 (Alaska 1987) (finding dancers to be employees under state labor laws modeled on FLSA).  The only two cases to hold to the contrary under the FLSA are Matson v. 7455, Inc., No. CV 98-788-HA, 2000 WL 1132110 (D. Or. Jan. 14, 2000), and Hilborn v. Prime Time Club, Inc., No. 4:11CV00197 BSM, ECF Doc. 89 (E.D. Ark. July 12, 2012).  Defense counsel acknowledged at argument that the clear majority of cases have found exotic dancers to be employees under the FLSA.  See Tr. 16–17.  
+
+
+
+
+
+
+
+
+Rick’s NY argues that it exercised minimal control over the dancers, and that, therefore, the dancers were more like independent contractors than they were like employees.  Def. Br. 16–18.  The dancers counter that Rick’s NY exerted an “immense degree” of control by, among other things, imposing written guidelines that detailed the intricacies of their employment relationship.  Pl. Br. 8.    
+
+Between September 2005 and February 2010, Rick’s NY had Club-imposed written guidelines, compiled in a pamphlet titled “Entertainer Guidelines” (the “Guidelines”), that covered dancer conduct.  A number of different versions of the Guidelines existed over the course of the class period, but they contained similar restrictions on dancers’ behavior.  See PX 53 (“Sistrunk Dep.”) Ex. 7–9, 12–13; PX 102.  The Guidelines set out rules applicable to all dancers while working at the Club.  Violations of these Guidelines were punishable by fines or discharge.  See Sistrunk Dep. Ex. 7–8, 12–13 (“Entertainers who fail to comply with the above-cited guidelines will be subject to disciplinary action, up to and including discharge.”).   
+
+The Guidelines regulated almost every aspect of the dancers’ behavior within the Club.  For example, dancers were forbidden from: 
+
+• chewing gum (Sistrunk Dep. Ex. 9 ¶ 10 (“Entertainers are prohibited from chewing gum on the floor.”); id. Ex. 7 ¶ 9 (“Gum chewing is unacceptable . . . .”); id. Ex. 12 ¶ 9 (“There is no gum chewing.”)); 
+
+
+
+• having a bad attitude (Id. Ex. 9 ¶ 10 (“Anyone caught referring to someone in a bad manner will be reprimanded.  Do no[t] start rumors about other people nor give a bad reference to a guest about anyone.”);  
+
+
+
+• “using or having their cell phone while on the [dance] floor,” id. ¶ 22; 
+
+
+
+• “having any type of hand bags or purse on the floor,” id.; 
+
+
+
+• using public restrooms (Id. Ex. 13 ¶ 13 (“Entertainers are prohibited from using public bathrooms upstairs or guest bathrooms.”); accord id. Ex. 9 ¶ 9).   
+
+
+
+
+
+The Guidelines also addressed when dancers could be scheduled to work: 
+
+• “We have a Three Day Minimum Commitment Requirement [sic] one of those days has to be a Friday, Saturday, Sunday, or Monday.”  Id. Ex. 12 ¶ 1 (emphasis in original). 
+
+
+
+• “We have Shifts[.]  Morning shift is 11:00 am until 7:00pm.  Night shifts are 4 to 12, 8 to 4 or 10 to 4[.]  [P]lease at the time you make your commitment, inform housemom on [sic] your start time.”  Id. ¶ 2 (emphasis in original). 
+
+
+
+• “Entertainers are required to work an eight hour shift.”  Id. Ex. 9 ¶ 5. 
+
+
+
+• “Entertainers will receive a paper schedule from the housemom to ensure that there are no mistakes or misunderstandings.”  Id. ¶ 28.   
+
+
+
+• “If you are unable to work the required schedule you must get a manager’s approval.”  Id. ¶ 27. 
+
+
+
+• “There is a 24 hour notice of cancellation or you will be subject to a fine . . . .”  Id. Ex. 7 ¶ 3. 
+
+
+
+
+
+Once a dancer was at the Club, the Guidelines set certain procedures for her checking in and out: 
+
+• “Entertainers must clock in at the cage upon arrival.”  Id. Ex. 9 ¶ 2. 
+
+
+
+• “Entertainers must use employee entrance at all times, however before 11:00am and after 3:30am all doors will be locked and you will need to use the main entrance to exit the building.”  Id. ¶ 1. 
+
+
+
+•  “Entertainers are prohibited from showing up or leaving Ricks Cabaret with a customer.  This is unacceptable and will result in an immediate termination.”  Id. Ex. 9 ¶ 6. 
+
+
+
+• “Entertainers, when you are completely finished getting ready; you must then go to the second floor and check in with the DJ in person so he can put you on rotation.”  Id. ¶ 3. • “Entertainers are required to ask a manager for permission before checking out at the cage even if you have worked eight hours or longer.  Entertainers are required to get a clock out slip from the cage, in doing so you will need to acquire three signatures on your slip from the cage, the DJ and the housemom.  You must have your slip ready to give to the doormen upon leaving or you will be sent back to the cage for another slip.”  Id. Ex. 9 ¶ 5; see also id. Ex. 12 ¶ 13 (“After you complete your 8 hour shift and you would like to leave you need to inform (Tito or Ken) or an available manager that you would like to go.  If you do not clock out with a manager we will assume you quit and will be made inactive.”).
+
+
+
+
+
+3 When management made a dancer “inactive,” that dancer was “unable to work at Rick’s NY.”  Pl. 56.1 ¶ 91; Def. Resp. 56.1 ¶ 91.  The dancer could return to work only if a manager reactivated her.  Pl. 56.1 ¶ 94; Def. Resp. 56.1 ¶ 94. 
+
+The Guidelines also set out a range of fees that dancers were required to pay: 
+
+• Dancers were required to pay a house fee to the Club each night, which varied according to the time the dancer clocked in.  See SF ¶¶ 128–130; Sistrunk Dep. Ex. 7 ¶ 4. 
+
+
+
+• The Guidelines provided for a $6 “promo fee” to be paid every night a dancer worked.  See Sistrunk Dep. Ex. 7 ¶ 5; id. Ex. 9 ¶ 2. 
+
+
+
+• Dancers were also required to pay nightly “tip-out” fees.  Specifically, “[t]here is a mandatory $20.00 minimum tip-out for housemom, DJ, and management. . . . If you walk out and do not tip one of the following you will be fined or possibly made inactive.”  Id. Ex. 9 ¶ 34; see also id. Ex. 7 ¶ 6 (detailing music fee, management fee, and dressing room fee of $20 each).  
+
+
+
+
+
+The Guidelines also addressed dancers’ appearance and dress, imposing a strict dress code: 
+
+• “Hair, Make-Up and Dresses should be well coordinated and in good taste.”  Id. Ex. 7 ¶ 9. 
+
+
+
+• “The following should be maintained at all times: your appearance, weight, breath and grooming (hair, hands, and toes).”  Id.  
+
+
+
+• “All entertainers must have a minimum of 4 or more dresses.  Please do not wear the same dress everyday [sic] or every other day.”  Id.   
+
+
+
+• “Entertainers must wear a gown dress below the knee Monday thru [sic] Friday.  Entertainers are allowed to wear short dresses, two pieces or lingerie on Saturday and Sunday only.  Entertainers are prohibited from wearing transparent outfits at any time.”  Id. Ex. 12 ¶ 18. 
+
+
+
+• “Entertainers are prohibited from using any type of glitter; you are not allowed to use body glitter or have glitter on any of your outfits.”  Id. ¶ 17. 
+
+
+
+• “Boots and wedges are unacceptable.  All shoes should have at least a 4 inch minimum stiletto heel.”  Id. Ex. 8 ¶ 9. 
+
+
+
+• “Entertainers must cover all tattoos while on the floor and stage.  If the make-up covering your tattoos is worn off through out [sic] the night, it is your responsibility to have it re-covered.”  Id. Ex. 9 ¶ 20.   
+
+
+
+
+
+Finally, the Guidelines regulated the method and manner in which dancers could dance (both on the stage and during personal dances) and dancers’ conduct on the floor: 
+
+• “Entertainers are required when dancing a two song set to dance their first song with your dress on and second song with your dress off.”  Id. ¶ 4. 
+
+
+
+• “While on stage STAY ON YOUR FEET. . . For safety reasons, no floor work, no splits, no pole work on pedestal stage.”  Id. Ex. 7 ¶ 10 (emphasis in original). 
+
+
+
+• “Entertainers must never have both knees on the ground or on a guest at the same time.  Entertainers may go down on one knee only while on stage or during a table dance.  Entertainers are prohibited from performing any type of floor show.”  Id. Ex. 9 ¶ 26; see also id. Ex. 7 ¶ 10 (“While dancing one foot remains on the floor at all times.  Straddling and/or grinding is unacceptable.”). 
+
+
+
+• “[S]itting on customers[’] laps without your dress on is unacceptable.”  Id. Ex. 8 ¶ 9. 
+
+
+
+• “Moving guests from their chairs is unacceptable.”  Id. Ex. 7 ¶ 10.   
+
+
+
+• “Entertainers may never refuse an offer of food or drinks, especially a bottle.”  Id. Ex. 9 ¶ 25. 
+
+
+
+• “Entertainers are prohibited from asking for any type of tip in a private room.”  Id. Ex. 9 ¶ 14. 
+
+
+
+
+
+As an enforcement mechanism, the Guidelines stated that a failure to follow any of the rules listed in the Guidelines could result in warnings, fines, suspension, or termination.  See, e.g., Sistrunk Dep. Ex. 7 ¶ 15 (“Entertainers who fail to comply with the above-cited guidelines will be subject to disciplinary action, up to and including discharge.”).  As set out in the Guidelines, the fines varied depending on the violation.  For example, if a dancer failed to show up as scheduled, the Guidelines provided for a $50 fine if the violation occurred Tuesday through Friday, and a $100 fine if the violation occurred Saturday through Monday.  Id. ¶ 3; id. Ex. 9 ¶ 29.  If a dancer was late to the stage or a “no show” to the stage, she was fined $50 and $100, respectively.  Sistrunk Dep. Ex. 12 ¶ 10.  If a dancer moved a guest, she was subject to a $50 fine.  Id.  If a dancer failed to follow the Guidelines’ rules as to dancing, she would receive two warnings; on the third violation, she was subject to a $50 fine; on the fourth, she was made inactive.  Id. Ex. 8 ¶ 10.  Dancers could also be fined $100 for chewing gum.  Pl. 56.1 ¶ 251; Def. Resp. 56.1 ¶ 251.  Rick’s NY also posted signs at the Club to alert dancers to the Guidelines and possible fines.  See Sistrunk Dep. Ex. 15.  These signs reported the mandatory tip-outs, the $100 fine for gum chewing, and the fines to be imposed on “no-show entertainers.”  Id.  The Club also required dancers to attend monthly meetings.  See id. Ex. 7 ¶ 14 (“All entertainers must attend monthly meetings, which are on the 1st Saturday of the month at 2:00 pm.  No Exceptions !!!!”). 
+
+The Guidelines were in place until February 2010, and were reviewed with every new dancer during her orientation.  Def. 56.1 ¶¶ 54–55; Pl. Resp. 56.1 ¶¶ 54–55.  In February 2010, approximately nine months after this lawsuit was filed, Rick’s NY ceased to use written guidelines.  Id.   
+
+On their face, the Club’s Guidelines reflect the exercise of tight control, indeed, control fairly described as micromanagement, by Rick’s NY over the dancers.  Defendants make several arguments as to why the Club’s control over the dancers was in fact less strict.  First, defendants assert, some rules imposed by the written guidelines served to ensure the dancers’ safety and the club’s compliance with the law.  For example, defendants note, a rule prohibiting dancers from manipulating the straps on their thong underwear existed, see Sistrunk Dep. Ex. 13 ¶ 6 (“Entertainers must not pull up their T-bars to show tan lines at any time.”), because, as day manager Steven DeAngelo testified, “there is a general prohibition against exposing private areas prohibited by law.”  Dkt. 429 (DeAngelo Decl.) ¶ 11.  Defendants contend that other rules served the interests of safety and legal compliance.  See, e.g., Pl. 56.1 ¶ 175; Def. Resp 56.1 ¶ 175 (dancers are not allowed to do tricks or climb on a pole that is on stage because the stage is small, 2 feet by 2 feet, and customers are close to the stage); Pl. 56.1 ¶ 176; Def. Resp 56.1 ¶ 176 (dancers are not allowed to do “floor work” because their body oils could make the stage slippery and unsafe for the next dancer); Pl. 56.1 ¶ 184; Def. Resp 56.1 ¶ 184 (dancers and DJs are only allowed to play songs that the Club has a license to play).  The Court agrees with defendants that, where a club implements regulations to assure compliance with law, those regulations are not evidence of the club’s control over its dancers.  See Matson v. 7455, Inc., 2000 WL 1132110, at *4 (D. Or. 2000) (defendant’s requirement that all dancers keep six inches between customers held not indicative of control because it was required by law).  The same is fairly said of rules aimed at the safety of dancers and customers, such as those prohibiting dancers from doing floor work or dancing on the poles, which defendants have fairly argued were adopted for safety reasons.  Accordingly, the Court does not consider such rules in its analysis of control.   
+
+However, the vast majority of Rick’s NY’s Guidelines had nothing whatsoever to do with safety concerns or compliance with law.  Rules such as those setting the length of a dancer’s dress, the height of her shoe, the meetings she was required to attend, the entrances she was allowed to enter, the amount of money she was required to tip-out at the end of each night, or her use of chewing gum or stiletto heels, and many more, were neither mandated by state or federal law, nor justified on grounds of workplace safety.  Notably, defendants argue that the Guidelines with regard to dress code existed to perpetuate Rick’s NY’s “upscale club” feel.  Def. Reply Br. 6.  That representation is of no help to defendants’ claim of limited control here:  Although maintaining an atmosphere perceived as “upscale” may have helped the Club in its marketing or assisted it to appeal to a higher-end customer base, those goals had nothing to do with providing a safe and law-abiding venue.  Rather, they helped Rick’s NY achieve its business ends.  The Court finds that the Guidelines, as a whole, compellingly indicate that Rick’s NY had significant control over the dancers.  
+
+In an alternative argument, Rick’s NY notes that, even though the Guidelines expressly gave the Club the right to impose monetary fines for non-compliance and stated that a dancer’s failure to comply with the rules would result in “discipline and possible discharge,” see Sistrunk Dep. Ex. 7 ¶ 15, the Club rarely collected such fines, see Def. Reply Br. 6.  Instead, Rick’s NY contends, most fines were removed after management had discussed the violation with the dancer; where a fine was imposed, the money was generally credited back to the dancer after the Club addressed the issue with her.  Pl. 56.1 ¶ 30; Def. Resp. 56.1 ¶ 30.  Plaintiffs largely concede these facts:  They acknowledge that, in practice, if a dancer complained about, talked about, or contested a fine to management, the fine was generally lifted.  Id.; Pl. Br. 7, 15.  On this basis, Rick’s NY argues that the non-imposition or reversal of fines reveals “equal leverage between the [C]lub and the entertainer,” not Club control over the dancers.  Def. Reply Br. 6.  The dancers counter that the very existence of written guidelines that governed their clothing, behavior, and performance style, coupled with the threat of a fine, reveal Rick NY’s control.  Pl. Br. 8.4   
+
+4 In a related argument, defendants take issue with plaintiffs’ characterization of the Guidelines as “governing” dancer conduct, on the grounds that the Guidelines were not consistently enforced by monetary sanctions.  Pl. 56.1 ¶ 29; Def. Resp. 56.1 ¶ 29.  But this argument about the meaning of the term “governing” is purely semantic.  It is not disputed that the written Guidelines, through February 2010, applied to the dancers.  And as recounted in detail above, the Guidelines embodied a broad range of rules addressed to, among other things, what a dancer should wear, how she should dance, when she could work, what she could do while in the presence of a customer, how she should behave at the Club, and when and how she should check in and clock out.   
+
+Plaintiffs’ argument on this point is far the more persuasive.  In total, Rick’s NY imposed nearly 7,000 fines on its entertainers between 2005 and February 2010.Plaintiffs’ argument on this point is far the more persuasive.  In total, Rick’s NY imposed nearly 7,000 fines on its entertainers between 2005 and February 2010.Plaintiffs’ argument on this point is far the more persuasive.  In total, Rick’s NY imposed nearly 7,000 fines on its entertainers between 2005 and February 2010.5 Rick’s general manager, Ken Sistrunk, averred that, after February 2010, no fines other than House Fees were imposed.  See Dkt. 218 (Sistrunk Decl.) ¶ 12.   
+
+Even though Rick’s NY ultimately removed, or credited to the dancer the dollar value of, most of these fines, its written threat to impose such fines, and its imposition of such fines on non-compliant dancers, even if largely retracted, is strong evidence of its control over them.  See Clincy, 808 F. Supp. 2d at 1345 (finding that club exerted control over its dancers when it had the authority to fine or discipline dancers for violations, even when it did not do so “consistently or uniformly”); Thompson v. Linda and A. Inc., 779 F. Supp. 2d 139, 148 (D.D.C. 2011) (finding that the ability to punish dancers for violations of House Rules through fines are indicative of club’s control even when violations did not result in fines or fines were uncollected).  The mere threat of imposition of such a fine realistically operated as a sword of Damocles over the dancers, helping ensure dancer compliance with the Guidelines.   Importantly, the Second 
+
+Circuit, applying the economic realities test, has recognized that an employer’s “potential power,” even if exercised only occasionally, is a form of control.  “Control may be restricted, or exercised only occasionally, without removing the employment relationship from the protections of the FLSA, since such limitations on control do not diminish the significance of its existence.”  Irizarry, 722 F.3d at 110 (quoting Herman, 172 F.3d at 139).   
+
+Revealingly in this respect, Rick’s NY acknowledges that the practice of threatening dancers with fines was a “necessary evil”; its general manager, Ken Sistrunk, testified that he imposed fines to “get the entertainer’s attention . . . when all else fail[ed].”  Sistrunk Dep. 201–05; see also Pl. 56.1 ¶¶ 228, 231; Def. Resp. 56.1 ¶¶ 228, 231; accord Def. Reply Br. 6 (“Whether fines were ultimately imposed depends on the steps taken by Plaintiffs to have fines removed.”).  But “getting the entertainer’s attention” is but a euphemism for exercising control over these dancers.  Rick’s NY’s announced power to impose fines, and its imposition of them even on a temporary basis, are strong indicators of its control over the dancers.  See Clincy, 808 F. Supp. 2d at 1344–46 (finding that club exercised a “significant amount of control over the[ir] entertainers” when club had a written code of conduct, even though those rules were not imposed “consistently or uniformly”); Harrell, 992 F. Supp. at 1349–50 (finding that club exercised “considerable control over its dancers” when club, among other conditions, required its dancers to abide by written rules and regulations); Priba Corp., 890 F. Supp. at 592 (finding that club exercised control over its dancers when, among other things, club prescribed guidelines “describing the way in which an entertainer is to conduct herself while at the club”). Even apart from the written Guidelines,Even apart from the written Guidelines,Even apart from the written Guidelines,
+
+6 Because Rick’s NY stopped using written guidelines in February 2010, the Court has not considered the written Guidelines as such in its analysis of Rick’s NY’s control from that point forward.  That said, there is no evidence in the record that the Club, following that point, relaxed its expectations as to the matters (e.g., dancer conduct, dress, time recording) covered in the Rules.  Nor is there evidence that the Club ever informed dancers that the rules contained in the written Guidelines were no longer in effect.  Viewing the facts in totality, the Court finds that, even after February 2010, Rick’s NY’s continued to exercise significant control over the dancers.  
+
+Rick’s NY also managed certain small aspects of its dancers’ lives.  For example, general manager Sistrunk testified that at times he took steps to let a dancer know that she needed to lose weight if she wanted to continue performing at the Club.  Sistrunk Dep. 63–64.  Sistrunk couched his actions as being “in [the entertainer’s] own best interest,” but, whatever his subjective motivation, a club’s general manager’s instructions to a dancer of the need to lose weight or otherwise cease performing, and his request that an entertainer take time off to lose some weight before being invited back, are unavoidably means of exercising control over her.  Pl. 56.1 ¶ 143; Def. Resp. 56.1 ¶ 143; see generally Pl. 56.1 ¶¶ 142–147; Def. Resp. 56.1 ¶¶ 142–147. 
+
+Based on the foregoing, the Court finds that the factor of control weighs overwhelmingly in favor of a finding that the dancers were employees, not independent contractors, under the FLSA.  
+
+
+
+
+
+
+
+
+The Court next considers the dancers’ opportunity for profit or loss and their investment in the business. 
+
+The undisputed facts establish the following as to the allocation of financial duties and investments in the business between Rick’s NY and the dancers who performed there.  Rick’s NY set the Club’s location and business hours, determined its aesthetics and decor, and paid wages to all of its bartenders, waiters, managers, and cleaners.  Rick’s NY was also responsible for paying for the sound and light equipment at the Club, all furniture, any necessary repairs and maintenance, and bar and kitchen supplies.  Pl. 56.1 ¶ 314; Def. Reps. 56.1 ¶ 314.  The Club’s marketing efforts included special promotions; websites; and advertisements in publications, on its website, and on flyers at the Club itself.  Pl. 56.1 ¶¶ 293–301; Def. Resp. 56.1 ¶¶ 293–301.  Although dancers could promote themselves and encourage potential customers to come to the Club, Rick’s NY provided advertising for the Club, Pl. 56.1 ¶¶ 285, 314; Def. Resp. 56.1 ¶¶ 285, 314, and Eric Langan, the president of all three defendant corporations, set the advertising budget for the Club, Pl. 56.1 ¶ 291; Def. Resp. 56.1 ¶ 291.  Rick’s NY also set the price of the cover charge that customers were required to pay, at the Club’s discretion, to enter the facilities.  Pl. 56.1 ¶ 281; Def. Resp. 56.1 ¶ 281; SF ¶ 9.   
+
+Between 2006 and 2012, Peregrine spent more than $4 million dollars each fiscal year to operate Rick’s NY.  Pl. 56.1 ¶ 312; Def. Resp. 56.1 ¶ 312.  Between 2009 and 2011, Peregrine spent an additional $7 million dollars in operational fees.  Pl. 56.1 ¶ 313; Def. Resp. 56.1 ¶ 313.   
+
+In contrast, dancers at Rick’s NY were responsible for just three things of a monetary nature: paying for their clothes and make-up, paying a House Fee to perform at the Club each night, and tipping-out the “house mom” (who helped supervise the dancers and the dressing rooms), management, and the DJ.   
+
+These facts, viewed in totality, reflect a far greater investment by Rick’s NY than by the dancers.  In the face of these facts, Rick’s NY argues that each dancer controlled her own profits and losses because each could schedule how many nights she worked each week, and, by developing relationships with certain customers, could encourage those customers to visit more often and tip more, bringing the prospect of additional personal dances and tips above the required charge set by Rick’s NY.  Def. Br. 20.  But these facts, although evincing a degree of control by each individual dancer over her overall income from performing at the Club, do not come close to outweighing the facts set out above.  Rick’s NY heavily controlled customer access to the Club; it advertised to attract a clientele that it favored; it set and imposed cover charges; and it set the amounts required for a personal dance or time in a semi-private room.  On any given night, Rick’s NY did far more to bring customers into the Club than any individual dancer.  Given Rick NY’s control over most critical determinants of the number of customers who visited the Club on any given night or over time, the Club exercised a high degree of control over a dancer’s opportunity for profit.   
+
+In this respect, the Court agrees with the Fifth Circuit that exotic dancers are “far more closely akin to wage earners toiling for a living, than to independent entrepreneurs seeking a return on their risky capital investments.”  Reich, 998 F.2d at 328 (quoting Brock v. Mr. W Fireworks, 814 F.2d 1042, 1051 (5th Cir. 1987)).  The extent of the economic risk which the dancers incurred—a House Fee and nightly tip-out fees, both mandated by Rick’s NY, and both 
+
+readily offset by performance fees and cash tips from customers that the dancer was highly likely to be given—was vastly less than the risk that Rick’s NY undertook.  By the same token, although the dancers, by working longer hours and by cultivating customers, had a degree of control over their income, Rick’s NY stood to gain measurably more than did the dancers.  Rick’s NY, unlike the dancers, stood to earn a return on its investment.  The second factor identified by the Second Circuit therefore also points in favor of the dancers’ being employees within the meaning of the FLSA.  
+
+ 
+
+
+
+
+
+
+
+
+
+The Court next considers the degree of skill and independent initiative required of the dancers.  As to skill, many dancers had no prior experience with dancing before working at Rick’s NY; the Club in fact did not require that dancers have any formal dance training or prior experience as a stripper.  SF ¶ 105.  As to initiative, Rick’s NY argues that entertainers needed to have independent initiative to succeed.  Def. Br. 21.  It argues that dancers could make more money if they had a better “dancing style,” if they could identify “which customers to approach for dances” because some were more likely to pay for a dance than others, and if they could learn “the best way to approach” a customer to get him to purchase a dance.  Id.  Rick’s NY thus equates being a skillful dancer with being a successful salesperson.  See id.   
+
+Although efforts by dancers to cultivate customers surely enhanced the money the customers paid them, such “hustling” is not skilled work.  And every court to consider such a “hustling” argument by a strip-club proprietor has rejected it.  See Clincy, 808 F. Supp. 2d at 1346 n.12 (quoting Harrell, 992 F. Supp. at 1350).  Courts have further consistently held that there is limited genuine skill required to be an exotic dancer.  See Circle C. Invs., 998 F.2d at 328 (topless dancers “do not exhibit the skill or initiative indicative of persons in business for themselves”); Priba Corp., 890 F. Supp. at 593 (dancers “do not have the opportunity to exercise the skill and initiative necessary to elevate their status to that of independent contractors”); Harrell, 992 F. Supp. at 1351.  This Court is unpersuaded that the lot of a dancer at Rick’s NY was any different in kind than the dancer-plaintiffs in those cases, or that dancers at the Club exercised the kind of initiative and skill necessary to render them independent contractors.  The third factor therefore points in favor of the dancers being employees under the FLSA.    
+
+
+
+
+
+
+
+
+
+
+As to the fourth factor identified by the Second Circuit, dancers at Rick’s NY worked at the Club with no specified end date or contract-completion date.  Pl. 56.1 ¶ 335; Def. Resp. 56.1 ¶ 335.  Many of the Rule 23 class members performed at Rick’s NY 20 or fewer times.  See Dkt. 422 (Morizadeh Decl.) ¶¶ 14–15, Ex. 1 (1,374 members of the class, or nearly 60%, performed at Rick’s NY 20 or fewer times; 354 members, or around 15%, performed just once; and 1,151 members, or nearly 50%, performed 10 or fewer times).7  Furthermore, dancers at Rick’s NY were free to dance at other adult entertainment clubs, or be employed by other businesses.  Def. 56.1 ¶ 111; Pl. Resp. 56.1 ¶ 111.  They were not required to work exclusively at Rick’s NY, and it is undisputed that many worked elsewhere.  SF ¶¶ 133–139. 
+
+7 Plaintiffs dispute this data on the ground that these figures are not precise, because they do not always combine together all the ClubTrax data pertaining to a particular dancer.  See Def. 56.1 ¶ 167; Pl. Resp. 56.1 ¶¶ 89, 167.  The data is, however, a reasonable approximation of the actual figures.  The Court considers the data as an approximation, not as a precise accounting.  
+
+This factor favors defendants’ argument that the dancers at the Club were not employees.  But it is entitled to only modest weight in assessing employee status under the FLSA.  That dancers were free to work at other clubs or in other lines of work, and that they were not permanent employees, do not distinguish them from countless workers in other areas of endeavor who are undeniably employees under the FLSA—for example, waiters, ushers, and bartenders.  Other courts have similarly accorded limited weight to this factor, in comparison with the others considered under the FLSA test.  See Circle C. Invs., 998 F.2d at 328–29 (finding lack of permanency, but holding other factors on balance outweigh this factor); Harrell, 992 F. Supp. at 1352 (“Other courts have found that exotic dancers tend to be itinerant, but have tended to place less emphasis on this factor. . . . This Court agrees.”); Priba Corp., 890 F. Supp. at 593 (“Because dancers tend to be itinerant, the court must focus on the nature of their dependence”).   
+
+ 
+
+
+
+
+
+
+
+
+
+As to the fifth factor considered under the FLSA test for employee status, Rick’s NY argues that the presence of exotic dancers was only one aspect of the Club’s facilities and was not integral to the Club.  Def. Br. 22.  It argues that the Club’s restaurant, bar, and televisions served to attract customers.  Id.  This argument is totally unpersuasive.  No reasonable jury could conclude that exotic dancers were not integral to the success of a club that marketed itself as a club for exotic dancers.  See Harrell, 992 F. Supp. at 1352 (“Exotic dancers are obviously essential to the success of a topless nightclub.”); Martin v. Circle C Invs., Inc., No. MO-91-CA-43, 1991 WL 338239, at *4 (W.D. Tex. Mar. 27, 1991) (unlike shoe-shine employees at an airport, topless dancers are the “main attraction” at a topless nightclub and “obviously very important” to the business of the nightclub).  And, in testimony that eviscerated Rick’s NY’s argument on this point, Langan, the president of all three defendant corporations, acknowledged that “the most important thing to the [Rick’s Cabaret] brand is that [it has] entertainers.”  Langan 10/7/09 Dep. 76.  He added:  “[W[ithout the girls, we’re just selling overpriced beers at a sports bar with bad TV’s.”  Id. at 182.  The Court finds that the presence of dancers at Rick’s NY was integral to the success of the Club.  
+
+ 
+
+
+
+
+
+
+
+
+
+Considering the preceding factors in combination—even resolving all disputed facts in favor of defendants as the Court is required to do on plaintiffs’ motion for summary judgment—the Court comfortably concludes as a matter of economic reality that the dancers at Rick’s NY were employees, not independent contractors.  Rick’s NY exerted significant control over its dancers’ behavior; Rick’s NY had the dominant opportunity for profit; the exotic dancers had no specialized skills and a limited real investment (essentially in their costumes and nightly fees); and the dancers were integral to the success of Rick’s NY.  Measured against these factors, the transient and non-exclusive nature of the dancers’ employment is insufficient to remove them from the reach of the FLSA.  See Harrell, 992 F. Supp. at 1349 (finding that dancer’s “freedom to work when she wants and for whomever she wants” did not “reflect[] economic independence,” and that these freedoms, in context,  “merely mask[ed] the economic reality of dependence.”).  Indeed, under the FLSA test, the five factors lopsidedly favor a finding that the dancers at the Club were employees.  The Court so finds, as a matter of economic reality.   
+
+Finally, as noted, Rick’s NY contends it had an agreement with its dancers to the effect that they were independent contractors.  But under the economic realities test, this fact does not carry the day:  “The [Supreme] Court noted in Rutherford that ‘[w]here the work done, in its essence, follows the usual path of an employee, putting on an “independent contractor” label does not take the worker from the protection of the Act.’”  Irizarry v. Catsimatidis, 722 F.3d 99, 104 (2d Cir. 2013) (second alteration in original) (quoting Rutherford, 331 U.S. at 729)).  
+
+
+
+
+
+
+
+
+The Court turns next to the question whether plaintiffs were employees under the NYLL.   “Employee” is defined nearly identically (and with equal circularity) in the FLSA and NYLL.  Compare 29 U.S.C.A. § 203(e)(1) (“[T]he term ‘employee’ means any individual employed by an employer.”), with N.Y. Lab. Law § 190(2) (“‘Employee’ means any person employed for hire by an employer in any employment.”).  “Employer” is also defined similarly in the two statutes.  Compare 29 U.S.C.A. § 203(d) (“‘Employer’ includes any person acting directly or indirectly in the interest of an employer in relation to an employee . . . .”), with N.Y. Lab. Law § 190(3) (“‘Employer’ includes any person, corporation, limited liability company, or association employing any individual in any occupation, industry, trade, business or service.”).  However, notwithstanding these similarities, the law is unsettled whether precisely the same test for employee status applies under the two statutes. 
+
+Many courts in this Circuit have applied the economic realities test to determine “whether an employer/employee relationship exists under the FLSA and the NYLL.”  Campos v. Lemay, 2007 WL 1344344, at *4 (S.D.N.Y. 2007) (emphasis in original).  See, e.g., id. (“Since the Court has concluded that Plaintiff is a covered employee under the FLSA, it follows that Plaintiff is also entitled to partial summary judgment declaring that she is a covered employee under the NYLL.”); Ansoumana v. Gristede’s Operation Corp., 255 F. Supp. 2d 184, 189–92 (S.D.N.Y. 2003) (using the same economic realities test to determine employee status under both the FLSA and NYLL); Zhong v. Zijun Mo, 2012 WL 2923292, at *2 (E.D.N.Y. 2012) (applying the economic realities test to determine employee status under both the FLSA and NYLL).   
+
+The Second Circuit, however, has recently noted that the FLSA and NYLL analyses may differ.  See Irizarry v. Catsimatidis, No. 11-4035-CV, 2013 WL 3388443, at *16 (2d Cir. July 9, 2013) (“Plaintiffs assert that the tests for ‘employer’ status are the same under the FLSA and the NYLL, but this question has not been answered by the New York Court of Appeals.”).  And the New York Court of Appeals has articulated a standard for determining whether a worker is an employee or an independent contractor under the NYLL that is phrased differently than the FLSA inquiry.  New York courts apply the “common law” test—a test used not only in connection with wage-protection statutes, but also to determine such issues as respondeat superior liability in tort suits, eligibility for unemployment benefits, and compliance with tax laws.  Although “substantially similar” to the FLSA, see Browning v. Ceva Freight, LLC, 885 F. Supp. 2d 590, 599 (E.D.N.Y. 2012), the common law focuses more on “the degree of control exercised by the purported employer,” as opposed to the “economic reality of the situation,” Velu v. Velocity Express, Inc., 666 F. Supp. 2d 300, 307 (E.D.N.Y. 2009).  Specifically, the New York Court of Appeals has stated that “the critical inquiry in determining whether an employment relationship exists pertains to the degree of control exercised by the purported employer over the results produced or the means used to achieve the results.”  Bynog v. Cipriani Grp., Inc., 1 N.Y.3d 193, 198 (2003); see Matter of Ted Is Back Corp., 64 N.Y.2d 725, 726 (1984) (“control over the means is the most important factor to be considered” when analyzing an employment relationship”); see also In re Hertz Corp., 2 N.Y.3d 733, 735 (2004) (“An employer-employee relationship exists when the evidence demonstrates that the employer exercises control over the results produced by claimant or the means used to achieve the results.” (citing Matter of 12 Cornelia St., 56 N.Y.2d 895, 897 (1982))).    
+
+The New York Court of Appeals has articulated five factors relevant to determining control under the common law test.  They are whether the worker (1) worked at his/her own convenience; (2) was free to engage in other employment; (3) received fringe benefits; (4) was on the employer’s payroll; and (5) was on a fixed schedule.  Bynog, 1 N.Y.3d at 198; see Bhanti v. Brookhaven Mem’l Hosp. Med. Ctr., Inc., 260 A.D.2d 334 (2nd Dep’t 1999); see also Browning, 885 F. Supp. 2d at 598; Deboissiere v. Am. Modification Agency, 2010 WL 4340642, at *3 (E.D.N.Y. 2010); Velu, 666 F. Supp. 2d at 307.  These factors, however, are not exhaustive:  New York courts commonly consider additional factors.  See Murphy v. ERA United Realty, 251 A.D.2d 469, 470–71 (2d Dep’t 1998) (considering factors including requirement that worker wear the company uniform, follow company procedures, attend mandatory meetings, sign in and out of the office, and coordinate vacation time with supervisor); E. Coast Indus., Inc. v. Becconsall, 301 N.Y.S.2d 778, 779–80 (N.Y. Dist. Ct. 1969) (factors important in evaluating control included the employer’s authority to decide the timing and selection of each job and employer’s right to discharge or fire the employee); see also Vysovsky v. Glassman, No. 01 Civ. 2531 (LMM), 2007 WL 3130562, at *14 (S.D.N.Y. Oct. 23, 2007) (considering central dispatch system and uniform requirement in determining employee status under NYLL).  For this reason, as Judge Kaplan of this Court has noted, notwithstanding Bynog’s enumeration of five factors, “the critical determinant is the degree to which the purported employer exercises control in fact over the results produced or the means used to obtain them.”  Edwards v. Publishers Circulation Fulfillment, Inc., 268 F.R.D. 181, 184 (S.D.N.Y. 2010) (Kaplan, J.) (citing Bynog, 1 N.Y.3d at 198); accord Ted Is Back, 64 N.Y.2d at 726; Bhanti, 260 A.D.2d at 335. 
+
+In this inquiry, as in the FLSA inquiry, it is not significant how the parties defined the employment relationship or how the worker identified herself on tax forms.  See Sandrino v. Michaelson Assocs., LLC., No. 10 Civ. 7897 (BSJ), 2012 WL 5851135 (S.D.N.Y. Nov. 19, 2012) (“The test for whether a person is deemed to be an independent contractor for purposes of New York Labor Law does not depend, however, on what the person has labeled themselves.  Instead, the analysis is a question of fact which hinges on whether the employer exercises either control over the results produced or over the means used to achieve the results.”) (citation omitted); Hernandez v. Chefs Diet Delivery, LLC, 81 A.D.3d 596, 599 (2d Dep’t 2011) (“While the manner in which the relationship is treated for income tax purposes is certainly a significant consideration, it is generally not singularly dispositive” (citing Gagen v. Kipany Prods., Ltd., 27 A.D.3d 1042, 1043 (3d Dep’t 2006))). 
+
+With these principles in mind, the Court now considers the dancers’ status under New York’s common law test, beginning with the five Bynog factors and turning then to the overarching issue of the degree of control exercised by Rick’s NY.  Notwithstanding the separate NYLL inquiry, the Court is, however, mindful that “[t]here is general support for giving FLSA and the New York Labor Law consistent interpretations.”  Topo v. Dhir, No. 01 Civ. 10881 (PKC), 2004 WL 527051, at *3 (S.D.N.Y. Mar. 16, 2004); see also Jiao v. Shi Ya Chen, No. 03 Civ. 0165 (DCF), 2007 WL 4944767, at *19, n.12 (S.D.N.Y. 2007) (collecting cases); Ansoumana v. Gristede’s Operating Corp., 255 F. Supp. 2d 184, 189 (S.D.N.Y. 2003).  And there appears to have never been a case in which a worker was held to be an employee for purposes of the FLSA but not the NYLL (or vice versa).  See Tr. 26, 44 (defendants’ and plaintiffs’ counsel acknowledging they know of no such cases).   Finally, the Court notes that the New York State Department of Labor, applying the NYLL, recently concluded that exotic dancers working under similar circumstances had been misclassified as independent contractors and were, in fact, employees.  See Double R. Entm’t, LLC v. Comm’r of Labor, No. PR 08-156 (N.Y. Indus. Bd. of Appeals June 11, 2011).  Although this administrative decision is not precedential as to NYLL and does not bind the Court, its reasoning is thoughtful and persuasive.   
+
+ 
+
+
+
+
+
+On the first of the five Bynog factors, Rick’s NY argues that the dancers worked at their convenience, citing evidence adduced in discovery that the dancers could choose the days on 
+
+which they performed at the Club.  See Def. 56.1 ¶¶ 77–104.  As to the related fifth Bynog factor, Rick’s NY also asserts that there were no set schedules at the Club:  Dancers sometimes performed once a week, once a month, or not at all during a month.  According to Rick’s NY’s records, of those dancers who performed for a period of 6–12 months at Rick’s NY, approximately 19% had a gap of at least one month during which they did not perform; approximately 9% had a gap of two months; and more than 15% had a gap as large as six months.  See Dkt. 422 (Morizadeh Decl.) ¶¶ 18–19, Ex. 3. 
+
+Plaintiffs counter that Rick’s NY’s written rules stated that dancers were required to perform a minimum number of days per week.  Pl. Opp. Br. 9–10.  The Club’s Guidelines are consistent with this.  They state: “We have a Three Day Minimum Commitment Requirement.”  Sistrunk Dep. Ex. 12 ¶ 1 (emphasis in original).  If dancers were unable to make that required schedule, they had to receive a manager’s approval.  Id. Ex. 9 ¶ 27.   
+
+Downplaying the Guidelines, Rick’s NY argues that the stated rule was precatory and often waived, and because the rule was often waived in practice, it is incorrect to claim that the Club controlled dancers’ schedules.  This argument is of limited assistance to Rick’s NY.  To the extent that the dancers did not show up to perform three days a week, Rick’s NY retained the discretion to discipline them.  See PX 264; Pl. 56.1 ¶ 230; Def. Resp. 56.1 ¶ 230 (5,897 fines that were imposed for “NO SHOW”; 227 for “LATE FOR SHIFT”).  Defendants are correct that many fines for no-show dancers were reversed, but the reasons listed in the ClubTrax data for their reversal, see PX 268; Pl. 56.1 ¶ 232; Def. Resp. 56.1 ¶ 232 (“reversing fines. housemom confirmed that she did call”; “remove fine- was not supposed to be scheduled for that day”; “removed noshow fee. called to cancel”), support plaintiffs’ claim that dancers were required to get permission for not appearing as required or scheduled.  These prongs accordingly favor plaintiffs.   
+
+The second, third, and fourth Bynog factors, on the other hand, tend to favor Rick’s NY:  Dancers were not required to work exclusively at Rick’s, see Def. 56.1 ¶ 111; Pl. Resp. 56.1 ¶ 111, and many performed at other nightclubs or held jobs elsewhere during the same time period that they worked at Rick’s NY, see SF ¶¶ 133–139.  Dancers at Rick’s NY did not receive health, retirement, or similar benefits.  See Def. 56.1 ¶ 62; Pl. Resp. 56.1 ¶ 62.   And, due to the very payroll practices at issues in this lawsuit, the dancers were never on the payroll at Rick’s NY.  See Def. 56.1 ¶ 59; Pl. Resp. 56.1 ¶ 59.    
+
+However, these three factors, in context, merit modest weight.  For the reasons explained in the course of the Court’s FLSA analysis, the second factor, that plaintiffs were free to take on other jobs, is of limited relevance under the NYLL.  Many workers who are undeniably employees under NYLL, such as waiters or bartenders, are free to carry second jobs.  The lack of fringe benefits or payroll inclusion is likewise unimportant.  Simply put, dancers at the Club did not receive benefits or W-2s because Rick’s NY treated them as independent contractors.  To assign this factor much weight would effectively allow any employer to control, under New York law, a worker’s status simply by labeling her an independent contractor and denying her employee benefits.  But employee status under the NYLL turns on substance, not form.  See In re Hertz, 2 N.Y.3d at 735 (“An employer-employee relationship exists when the evidence demonstrates that the employer exercises control over the results produced by [plaintiff] or the means used to achieve the results.”).  In this respect, a decision by the Appellate Division finding exotic dancers to be employees under NYLL for unemployment insurance purposes is persuasive.  It found that the club “exercised sufficient direction and control over the dancers to establish their status as employees, notwithstanding the fact that they are required to sign a contract designating them as independent contractors.”  In re Enjoy The Show Mgmt. Inc., 287 A.D.2d 822, 823 (3d Dep’t 2001); accord Matter of PNS Agency, Inc., 110 A.D.2d 1008 (3d Dep’t 1985) (upholding Unemployment Insurance Appeal Board determination that agency which provided exotic dancers to clubs was employer); cf. Ansoumana, 255 F. Supp. 2d at 190 (holding in FLSA context that “[a]n employer’s characterization of an employee is not controlling, however, for otherwise there could be no enforcement of any minimum wage or overtime law”).  The same is true here. 
+
+
+
+
+
+
+As noted, New York courts look beyond the five Bynog factors, with “[c]ontrol over the means [used to achieve the results being] the more important consideration.”  Abouzeid v. Grgas, 295 A.D.2d 376, 377 (2d Dep’t 2002); see also Fung v. Japan Airlines Co., Ltd., 9 N.Y.3d 351, 360 (2007) (considering “actual working relationship between that party and the purported ‘employee’”); Hernandez, 81 A.D.3d at 598 (finding employee status based on facts, not covered in Bynog factors, “that the defendants, among other things, provided daily delivery manifests directing the drivers as to where deliveries were to be made, reimbursed the drivers for mileage, and required the plaintiffs to attend mandatory meetings, to obtain approval for vacation time, to undergo approximately one to two weeks of training, and to refrain from playing loud music while making deliveries” were sufficient to establish that defendants “exercised the requisite degree of control over the results of their work, or the means used to achieve those results.”)  Where New York courts have found purely incidental indicia of control, they have found no employee relationship.  Abouzeid, 295 A.D.2d at 377 (“[Defendant] demonstrated its prima facie entitlement to summary judgment by establishing that it exercised only incidental control over [limousine driver] that was insufficient to give rise to an employment relationship.”). 
+
+For the reasons discussed in connection with the first FLSA factor, Rick’s NY’s control over its dancers was far more than incidental.  The record on summary judgment, canvassed above, reflects that Rick’s NY exerted substantial control over the dancers.  It did so through its distribution until February 2010 of the written Entertainer Guidelines, through the written threat of disciplinary action if a dancer failed to abide by Club rules, through the fines it imposed on noncompliant dancers, through the detailed and wide-ranging standards of dancer conduct and dress and performance style on which it insisted, and through its control of minimum prices charged to customers for performances.  Because the common law test ultimately centers on control, these indicia of control—viewed separately, or in combination with the first and fifth Bynog factors, which also favor plaintiffs—comfortably establish employee status under the NYLL.   See Double R. Entm’t, No. PR 08-156, at 12–13 (applying NYLL and “find[ing] that [the club] exercised such an . . . extent of control over its dancers that they could not possibly be considered independent from [the club].”). 
+
+In sum, the “actual working relationship” between the dancers and the Club was that of employer and employee.  Plaintiffs were, therefore, employees under New York Labor Law.   
+
+
+
+
+
+
+ 
+
+In light of the Court’s holding that the dancers were employees of Rick’s NY, it follows that the dancers were entitled by law to receive a minimum wage from the Club, under both the FLSA and the NYLL.  The Court accordingly turns to defendants’ argument that, although Rick’s NY did not pay the dancers a salary, it caused performance fees to be paid to the dancers by the Club’s customers, and that these performance fees are properly counted against Rick NY’s statutory wage obligations.   
+
+By way of factual background, performance fees were paid to dancers for time they spent with customers.  Customers paid $20 to dancers for each personal dance (i.e., a lap dance or table dance) they performed for a customer.  SF ¶¶ 180–181.  Customers also paid dancers for spending time with them in one of the Club’s semi-private rooms—the fee was set by Rick’s at $100 for 15 minutes, $200 for 30 minutes, and $400 for an hour.  DeAngelo Decl. ¶ 5.  Customers also paid a separate fee to Rick’s for using the rooms.  Id. ¶ 6; Def. 56.1 ¶¶ 23–24; Pl. Resp. 56.1 ¶¶ 23–24. 
+
+Customers could pay performance fees in one of two ways:  If paying in cash, the customer paid the $20 (or more) directly to the dancer; the dancer retained 100% of that cash payment and it was not recorded in any way by Rick’s NY.  SF ¶ 220; Def. 56.1 ¶ 197; Pl. Resp. 56.1 ¶ 197.  Alternatively, as noted, the customer could acquire from Rick’s NY, by credit card, a “Dance Dollar” voucher worth $20 for use within Rick’s NY, at a cost to the customer of $24.8  SF ¶ 185.  Customers could then use these Dance Dollars to purchase personal dances or time in a semi-private room.  See Pl. 56.1 ¶ 372; Def. Resp. 56.1 ¶ 372.  (The separate room fee owed to Rick’s, however, had to be paid by cash or credit card.  Id.) 
+
+8 Dance Dollars (or “dance tickets”) were paper vouchers or coupons.  SF ¶ 183.  As noted, at the end of each shift, dancers who had received Dance Dollars from customers for performing lap dances could redeem these vouchers by going to the Club’s cashier and exchanging the Dance Ticket for cash.  SF ¶ 190.  The dancer retained $18 of each Dance Dollar voucher that the customer redeemed, with Rick’s NY retaining the $6 balance, ostensibly to pay for credit card processing fees.  Id. ¶¶ 185, 190; Def. 56.1 ¶¶ 20, 25; Pl. Resp. 56.1 ¶¶ 20, 25. 
+
+ 
+
+Regardless which method the customer used to pay, these performance fees were fixed non-negotiable charges:  As a result of the prices set by Rick’s NY, a customer could not, in his or her discretion, pay less than $20.  Def. 56.1 ¶ 174; Pl. Resp. Br. ¶ 174.  A customer was, however, free to pay the dancer more than the required fee, and the dancer was free to keep the extra money.  SF ¶ 182; Def. 56.1 ¶ 175; Pl. Resp. 56.1 ¶ 175.   
+
+Rick’s NY argues that these performance fees were properly classified as mandatory service charges, not tips, and may therefore, at least under the FLSA, offset the Club’s statutory duty to pay the minimum wage.  Def. Br. 22–29.9  In practice, Rick’s NY would tabulate this offset as follows.  Rick’s NY has records of the hours worked by dancers:  These are in the form of tables generated by ClubTrax, the Club’s point of sale software.  See Dkt. 418 (Kimmel Decl.) Ex. A (the “ClubTrax Data”); see also id. ¶¶ 2–3 (describing scope of data).  And although Rick’s NY did not keep records of the performance fees paid to dancers in cash—these fees were paid to the dancers directly, not through Rick’s—the ClubTrax records do reflect all performance fees paid by customers by means of Dance Dollars and later redeemed by dancers.  See, e.g., Kimmel Decl. ¶ 7 (between September 9, 2005, and October 26, 2012, ClubTrax data reflects receipt by dancers of approximately $33.8 million in Dance Dollar redemptions).  Rick’s NY therefore was able to reconstruct, for each dancer, the amount of performance fees received (at least via the Dance Dollar mechanism) by the dancer on any given day (i.e., the $18 redemption value to the dancer of a Dance Dollar times the number of Dance Dollars redeemed), and indeed, reported these figures on Forms 1099 that it issued each year to each dancer.  SF ¶ 219.  On the basis of such records, Rick’s NY calculates that, during the class period, a dancer earned an average of approximately $23 per hour (i.e., $33,800,276 divided by 1,445,773.013 hours), in demonstrably received performance fees.   Def. 56.1 ¶ 195; Pl. Resp. 56.1 ¶ 195.  Given the volume of the performance fees, if they are lawfully applied against Rick’s NY’s duty under the 
+
+9 Defendants do not seek summary judgment as to whether the fees are service charges or tips under New York state law.  See Def. Br. 26 n.22; Dkt. 356 ¶ 2. 
+
+FLSA to pay the minimum wage, Rick’s NY would satisfy (or mitigate) that duty, as to the many days or weeks during the Class PeriodFLSA to pay the minimum wage, Rick’s NY would satisfy (or mitigate) that duty, as to the many days or weeks during the Class PeriodFLSA to pay the minimum wage, Rick’s NY would satisfy (or mitigate) that duty, as to the many days or weeks during the Class Period10 The Court has no occasion here to consider whether, if performance fees were properly counted towards Rick’s NY’s minimum-wage obligation, the relevant time period over which to compare performance fees received against hours worked was the work day, the work week, or some other period.  
+
+Plaintiffs, for their part, take issue with this approach.  First, as a matter of mechanics, they assert that even if performance fees may be used to offset a statutory wage obligation, an average hourly rate over the entire Class Period cannot be used to offset the Club’s minimum wage obligation to a particular dancer for a particular week.  Instead, the offset would have to applied on a week-by-week, dancer-by-dancer, basis.  Plaintiffs calculate that, for 87.27% of the more than 1,900 dancers in the class, the hourly rate fell below the applicable federal minimum wage during at least one week of their employment.  See Dkt. 436 (Prakash Aff.) ¶ 14.  For one plaintiff, the recorded performance fees failed to satisfy the minimum wage for 39 of the weeks during which she worked at Rick’s NY.  Id. ¶ 14(b). 
+
+More significantly, plaintiffs argue that, as a matter of law, performance fees, even if demonstrably received by a given dancer on a date certain, were not service charges and therefore cannot be used to offset the Club’s minimum wage obligation under the FLSA.  That is so, they argue, because Rick’s NY never recorded such fees in its gross receipts, which plaintiffs argue was a legal prerequisite for such payments to be treated as service charges.  Instead, plaintiffs argue, these fees are properly classified as tips.  Pl. Br. 23–27.  
+
+In addressing this issue, the Court first canvasses the governing legal principles, and then applies them to the performance fees paid here. Under Department of Labor (DOL) regulations implementing the FLSA, a “tip” is “a sum presented by a customer as a gift or gratuity in recognition of some service performed for him.”  29 C.F.R. § 531.52.  By contrast, a “service charge” is a “compulsory charge for service . . . imposed on a customer by an employer’s establishment.”  29 C.F.R. § 531.55(a).  The DOL’s regulations provide that “service charges and other similar sums which become part of the employer’s gross receipts are not tips for the purposes of the Act.  Where such sums are distributed by the employer to its employees, however, they may be used in their entirety to satisfy the monetary requirements of the Act.”  29 C.F.R. § 531.55(b).   
+
+A critical issue here is whether, as some courts have held, for a fee to constitute a service charge and therefore be properly applied against an establishment’s statutory minimum-wage duty, it must have been included in the establishment’s gross receipts.  See e.g., Reich v. Priba Corp., 890 F. Supp. 586, 595 (N.D. Tex. 1995) (“The fact that all of the table dance fees are not reported as gross receipts is fatal to Cabaret Royale’s claim that the tips are more properly classified as wages.”); Reich v. ABC/York-Estes Corp., No. 91 C 6265, 1997 WL 264379, at *5 (N.D. Ill. 1997) (“This court agrees . . . that an employer must include payments in its records as gross receipts as a prerequisite to ‘service charge’ classification under the FLSA.”).  As these courts have explained, this conclusion appears to follow from DOL’s regulations, which provide that “service charges and other similar sums which become part of the employer’s gross receipts are not tips for the purposes of the Act.” 29 C.F.R. § 531.55(b); cf. Chan v. Sung Yue Tung Corp., No. 03 Civ. 6048 (GEL), 2007 WL 313483, at *15 (S.D.N.Y. 2007) (“If the [fee] paid by customers was a service charge, the full amount should have been included in the defendants’ gross receipts, and any portion paid to plaintiffs should have been paid as wages and reported as such on plaintiffs’ W-2 forms.”).   
+
+The Court is persuaded by this reasoning.  First, the DOL’s regulations implementing the FLSA, although not expressly keying service-charge treatment to inclusion in gross receipts, highlight that factor.  If inclusion of payments in gross receipts entitles an employer to treat those payments as service charges, it is reasonable to treat exclusion of payments from gross receipts as indicating that they are not service charges.  Further, these regulations require that service charges be distributed by the employer in order to count toward wages.  See 29 C.F.R. § 531.55(b) (where service charges “are distributed by the employer to its employees, however, they may be used in their entirety to satisfy the monetary requirements of the Act.” (emphasis added)).  Implicit in these two requirements is the expectation that such services charges are to be distributed by the employer out of its gross receipts. 
+
+Second, there are substantial policy reasons for such a bright-line rule.  Permitting an employer to meet its minimum-wage obligations by directing customers to pay employees directly would (1) interfere with the goals of the statute, and (2) give rise to obvious practical problems.   
+
+The requirement of inclusion in gross receipts advances the FLSA’s goal of assuring that the employee is paid, with mandatory deductions taken from the employee’s wages.  These deductions (e.g., Social Security, Medicare) are taken in the employee’s longer-term interest, to assure, e.g., her retirement security.  See Helvering v. Davis, 301 U.S. 619, 641 (1937) (purpose of FICA taxes is “to save men and women from the rigors of the poor house as well as from the haunting fear that such a lot awaits them when journey’s end is near”); Bowman v. Stumbo, 735 F.2d 192, 196 (6th Cir. 1984) (these tax programs were “created by the Social Security Act of 1935 as a part of the comprehensive program for implementing old age benefits on a national level”); Greenwald v. United States, No. 98 Civ. 3439 (DC), 2000 WL 16939, at *2 (S.D.N.Y. Jan. 10, 2000) (“The purpose of FICA taxes is to fund a national system of social security and [M]edicare health programs.”).  Requiring that service charges pass through the employer’s gross receipts guarantees that the employer takes responsibility for its employees’ wages, and effectively guarantees that such mandatory deductions are taken.Jan. 10, 2000) (“The purpose of FICA taxes is to fund a national system of social security and [M]edicare health programs.”).  Requiring that service charges pass through the employer’s gross receipts guarantees that the employer takes responsibility for its employees’ wages, and effectively guarantees that such mandatory deductions are taken.Jan. 10, 2000) (“The purpose of FICA taxes is to fund a national system of social security and [M]edicare health programs.”).  Requiring that service charges pass through the employer’s gross receipts guarantees that the employer takes responsibility for its employees’ wages, and effectively guarantees that such mandatory deductions are taken.
+
+11 No such deductions were taken here, because Rick’s NY did not classify the dancers as employees. 
+
+In addition, permitting an employer’s minimum wage obligations to be satisfied by payments made directly by customers to its employees would create intolerable problems of proof.  Consider the circumstance in which a dispute arose about whether customers had indeed paid money to an establishment’s employees.  Trial-like fact-finding might become necessary to recover or divine whether the employee had actually been paid on a given day long ago, and if so, how much.  The factual context of this case supplies an excellent illustration.  Rick’s NY, through its ClubTrax system, did tabulate some performance fees—those paid by Dance Dollars—and it used those figures as the basis for issuing Forms 1099 to dancers, although those 1099s did not pick up performance fees paid in cash.  See SF ¶ 218.  However, had Rick’s NY not maintained the ClubTrax data in the form it did, it might have been impossible to reconstruct whether the class members here actually received performance fees from customers equaling or exceeding the statutory minimum wage during each week they worked.  At a minimum, it would have required an arduous ground-level analysis of records, derived from customers’ credit-card payments to Rick’s NY, for many employees over many thousands of work-days spread over a number of years.  By contrast, a bright-line legal rule requiring payment to the employee out of the employer’s gross receipts for those payments to qualify as wages under the FLSA avoids that practical problem.   
+
+Accordingly, the Court agrees that, for Rick’s NY to succeed on its claim that the performance fees are service charges countable towards its wage obligations, the performance fees must have been recorded in its gross receipts and distributed to plaintiffs by Rick’s NY.  They were not.  That is obviously true of the cash payments made by customers to individual dancers:  Rick’s NY acknowledges that it has “no record of cash Performance Fees that entertainers retain.”  Def. Br. 28.  But it is also true of the performance fees paid by means of Dance Dollars:  Rick’s NY concedes that it did not include in its gross receipts the $18 that a dancer received for redeeming each Dance Dollar, although it did include in those receipts the $6 portion that was used to cover credit-card processing fees.  See SF ¶ 218 (“With respect to the $18 paid to any entertainer upon redemption of any Dance Dollar at Rick’s NY, no Defendant has included any portion of the $18 amount entertainers received for redeemed dance dollars in ‘gross receipts’ reported or listed on any of its tax returns . . . .”); Pl. 56.1 ¶ 371; Def. Resp. 56.1 ¶ 371; Def. Br. 29 (acknowledging that the Club’s final gross receipts were “reduced” to excise the portion of Dance Dollar redemptions ultimately paid to the dancer).   
+
+To be sure, the case law is not uniform as to whether the failure of an employer to record fees in gross receipts is alone determinative of whether such fees represent a service charge, as opposed to a tip.  Some courts have held that that factor is merely an important one that must be viewed alongside other factors.  Compare ABC/York-Estes Corp., 1997 WL 264379, at *5 (“[A]n employer must include payments in its records as gross receipts as a prerequisite to ‘service charge’ classification under the FLSA.” (emphasis added)), with Thornton v. Crazy Horse, Inc., No. 3:06-CV-00251-TMB, 2012 WL 2175753 (D. Alaska June 14, 2012) (articulating six-prong test, including gross receipts, for whether a payment is a service charge under the FLSA).  In the interests of completeness, the Court alternatively applies this multi-factor inquiry to the facts at hand.   
+
+Defendants primarily rely on Chan v. Triple 8 Palace, Inc., No. 03 Civ. 6048 (GEL), 2006 WL 851749 (S.D.N.Y. Mar. 30, 2006), which involved a restaurant that charged banquet fees to customers, a portion of which fees were then paid to its employees.  The employer claimed that these fees should be counted against the employer’s statutory wage obligations.  Judge Lynch denied summary judgment to the plaintiff employees on that point, because, he explained, the defendant’s failure to report service fees in that case “was just one part of a more generalized failure to comply with tax reporting requirements,” and therefore did not reflect a deliberate attempt by the defendant to report all of its income except for the asserted service fees.  2006 WL 851749, at *8; see id. (stating that an employer’s “failure to report . . . service fees as part of [the employee’s] gross receipts does not compel the conclusion that the fees were tips for purposes of the FLSA.” (emphasis added)); id. at *3 (“Other factors affecting whether a service payment is a tip may include the method of distributing the payment, the customer’s understanding of the payment, and the employer’s inclusion of the payment in its gross receipts.”).  Chan, however, is inapposite.  There is no evidence that Rick’s NY suffered from a “generalized failure to comply with tax reporting requirements.”  Id.  The record does not reflect that Rick’s NY also failed to include in its gross receipts, for example, revenues from sales of food and drink.  On the contrary, on the facts presented, the Club uniquely excluded performance fees paid to the dancers from the monies it recorded in its gross receipts.  This case is instead akin to Priba Corp. and ABC/York-Estes, both involving exotic dancers, in which the defendant’s reporting errors were not “generalized” and concerned only the dance fees at issue.  In each of 
+
+those cases, judgment was granted to the employees on the employer’s claim that the customers’ payment of those fees satisfied its statutory wage obligations.  See Priba Corp., 890 F. Supp. at 595; ABC/York-Estes Corp., 1997 WL 264379, at *5–7. 
+
+The other cases treating the “service charge vs. tip” issue as turning on more than whether the fees were included in gross receipts have identified a number of other potentially relevant factors.  In Chan, Judge Lynch identified some of these factors, in the course of recounting why, in both Priba Corp. and ABC/York-Estes, the fees paid to the exotic dancer plaintiffs had been held to be tips, not service charges: 
+
+Several other factors [in those two cases] militated in favor of a finding that the payments were not service charges belonging to the employer, but rather tips belonging to the employee.  In Priba Corp., for example, the patrons made the table dance payment directly to the dancers; the dancers kept the entire amount if paid in cash, defendants kept no record of the number of dances or the amount of table dance payments earned; and there was an express agreement between dancers and the employer that “‘Priba shall have no right to any portion of cash sales or tips received,’” and that Priba would retain only a twenty percent processing fee for payments made by credit card or voucher.  Priba Corp., 890 F. Supp. at 594–95.  In ABC/York-Estes Corp., patrons also made the table dance payments directly to the employees; the employees were under “no obligation” to remit the payments to the employer, other than a fixed “shift fee” which did not vary in relation to the number or duration of table dances; and the employer did not keep a record of the table dance fees collected or of the number of table dances performed.  ABC/York-Estes Corp., 1997 WL 264379, at *5–*7.  Thus, in these cases, the moneys paid to the dancers were not only not reported to the government as part of the gross receipts of the employer; they never even became part of those receipts, because for the most part they were received and retained by the dancers. 
+
+ 
+
+Chan, 2006 WL 851749, at *7.  Other courts have considered similar factors.  In Thornton v. Crazy Horse, Inc., for example, the court, in finding that the fees were tips that did not offset the employers’ minimum-wage obligations, stated: 
+
+[T]he factors that provide guidance as to whether a payment is a tip or a service charge are: (a) whether the payment was made by a customer who has received a personal service; (b) whether the payment was made voluntarily in an amount and to a person designated by the customer; (c) whether the tip is regarded as the 
+
+employee's property; (d) the method of distributing the payment; (e) the customer’s understanding of the payment; and (f) whether the employer included the payment in its gross receipts.  
+
+. . . 
+
+Considering these factors and the evidence presented at trial, the table dance fees at both Crazy Horse and Fantasies were “tips” which cannot be used to off-set the clubs’ minimum wage obligations.  At both clubs, the payments were made by customers who had received personal services, were regarded as the dancers’ property, were paid directly from the customer to the dancer and kept by the dancer, were not included in the clubs’ gross receipts, and were referred to and treated as “tips” by the Parties.  Although the payments were not made “voluntarily” in the sense that the customers were obligated to pay some amount for the services they were receiving, the customer could choose the dancer to request the dance from, and could pay more than the price set by the club which the evidence established was a minimum price, but not a maximum. 
+
+ 
+
+2012 WL 2175753, at *10. 
+
+Taking all factors into account, the Court concludes that, even if the multi-factor approach were applied, the performance fees here, like those in Priba Corp., ABC/York Estes Corp., and Thornton, do not qualify as service charges.  The factors, although not unitary, tilt heavily towards the fees being tips.  First, as noted, these fees were not included in Rick’s NY’s gross receipts.  Second, the performance fees included direct cash payments by customers to the dancers, which were of varying size and were completely unrecorded by Rick’s NY in any form.  These undeniably were tips.  The accident that a subset of the performance fees happened to have been paid by credit card and took the form of vouchers, and therefore that these fees temporarily passed from the dancer to Rick’s NY before being converted to cash, does not alter their essential character.  That Rick’s NY maintained incomplete records of the total performance fees paid, with partial records being generated only by the happenstance that some customers chose to pay by credit card, does not make the recorded payments qualitatively different from the non-recorded ones.  Third, the performance fees (both the cash fees and the $18 portion of the credit-card-paid fees retained by the dancers) were understood by Rick’s to be the property of the dancers.  See Marshall 2/23/12 Dep. 46 (testimony of Rick’s CFO that “the $18 belongs to the independent contractor, the entertainer as does the cash she gets”); Pl. 56.1 ¶ 378; Def. Resp. 56.1 ¶ 378.  There is no record evidence that customers perceived the money they paid the dancers (whether in cash or Dance Dollars) otherwise, and the circumstances would not support such an inference.  Fourth, the performance fees were paid directly by the customer to the dancer, either in the form of cash or Dance Dollars; only the process of converting these vouchers into liquid currency brought Rick’s NY, fleetingly, into the transaction. 
+
+To be sure, two factors favor defendants.  First, the minimum performance fee ($20 if by cash, $18 if by Dance Dollars) was set by Rick’s NY; this part of what the customer paid the dancer was not “voluntary” from the customer’s perspective.  Second, Rick’s NY did file Forms 1099 with tax authorities as to those performance fees that took the form of Dance Dollars.  This circumstance, although not a focal point of prior cases, is germane, because filing of a 1099 makes it more likely that taxes will be paid and that contribution towards Social Security and Medicare will be made by some party to the employer-employee relationship (here, the employee). 
+
+On balance, however, the Court finds that the performance fees charged by Rick’s NY were not service charges.  They were, instead, tips.12  Accordingly, the fees cannot be used to satisfy Rick’s NY’s statutory wage obligations.  
+
+12 There are two cases reaching the contrary conclusion in the context of exotic dancers.  See Matson, 2000 WL 1132110, at *6 (concluding that the text of the FLSA “make[s] it abundantly clear that the fixed fees collected by the plaintiff in exchange for table dances are not ‘tips.’  No limitation in the F.L.S.A. statute exists precluding the use of such fixed fees in the calculation of an employee’s minimum wage”); Doe v. Cin-Lan, Inc., No. 08-CV-12719, 2010 WL 726710 (E.D. Mich. Feb. 24, 2010) (on motion to dismiss, rejecting theory that service charges must necessarily enter into gross receipts); see also Ruffin v. Entm’t of the E. Panhandle, No. 3:11-CV-19, 2012 WL 761658 (N.D. W. Va. Mar. 7, 2012) (adopting Cin-Lan’s reasoning), on reconsideration in part, 2012 WL 1435674 (N.D.W. Va. Apr. 25, 2012).  The Court finds the 
+
+analysis in Thornton, Priba Corp., and ABC/York-Estes more persuasive.  Cin-Lan is, further, factually distinguishable, in that the employer there kept records of the total number and price of dances performed, and the plaintiff dancer owed a percentage of her dance fees to the club each night.  The same is not true here.  
+
+Finally, Rick’s NY’s suggestion to the contrary, the Club does not qualify for a “tip credit” so as to reduce its wage obligations.  Under federal law, an employer may “pay tipped employees an hourly rate less than the federal minimum wage, by allowing [employer’s] to credit a portion of the actual amount of tips received by the employee against the required hourly minimum wage.”  Chung v. New Silver Palace Rest., Inc., 246 F. Supp. 2d 220, 228 (S.D.N.Y. 2002); see also Sung Yue Tung Corp., 2007 WL 313483, at *17.  If an employer has (1) informed the tipped employee of statutory requirements related to the tip credit, and (2) “all tips received by such employee have been retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips,” that money can be used as “tip credit” which would similarly offset Rick NY’s obligation to pay its dancers minimum wage.  29 U.S. § 203(m); Sung Yue Tung Corp., 2007 WL 313483, at *17.  The NYLL imposes similar restrictions.  See Lanzetta v. Florio’s Enters., Inc., 763 F. Supp. 2d 615, 623 (S.D.N.Y. 2011) (collecting NYLL cases), adhered to in relevant part on reconsideration, No. 08 Civ. 6181 (DC), 2011 WL 3209521 (S.D.N.Y. July 27, 2011). 
+
+The “tip credit” provision, however, is “strictly construed,” and “an employer may not take a tip credit unless it complies strictly with both statutory requirements.”  Id. (emphasis added).  To comply, employers have to “provide [their employees] with proper notice of minimum wage laws”; that is, employers have to provide their employees with a copy of 29 U.S. § 203(m) and inform them that their tips would be used as a credit against the minimum wage as permitted by law.  Sung Yue Tang Corp., 2007 WL 313483, at *18.  “If the employer cannot show that it has informed employees that tips are being credited against their wages, then no tip credit can be taken and the employer is liable for the full minimum-wage.”  Id. (quoting Reich v. Chez Robert, Inc., 28 F.3d 401, 403 (3d Cir. 1994).   
+
+Here, there is no question that Rick’s NY did not inform plaintiffs that the performance fees would be used as a tip credit pursuant to § 203(m).  Rick’s NY has always expressly classified plaintiffs as independent contractors, see SF ¶ 19, and as such did not pay them a regular wage or salary.  Accordingly, Rick’s NY had no occasion to address the tip-credit treatment with its dancers upon hiring.  The performance fees therefore do not qualify as a “tip credit,” and do not mitigate the Club’s duty to pay dancers a minimum wage.   
+
+The Court, therefore, grants summary judgment in favor of plaintiffs, and denies it to defendants, on the issue whether the performance fees offset the Club’s wage duties under the FLSA.  
+
+
+
+
+
+
+The Court turns next to the parties’ competing motions for summary judgment on defendants’ unjust enrichment counterclaim.  Because this counterclaim is functionally equivalent to the affirmative defense of offset, the Court addresses it at this point. 
+
+“To prevail on an unjust enrichment claim under New York law, a plaintiff must establish: (1) that the defendant benefited; (2) at the plaintiff’s expense; and (3) that equity and good conscience require restitution.”  Price v. Cushman & Wakefield, Inc., 829 F. Supp. 2d 201, 217 (S.D.N.Y. 2011) (quoting Kaye v. Grossman, 202 F.3d 611, 616 (2d Cir. 2000)).  Under New York law, recovery under the theory of unjust enrichment is available only in the absence of an enforceable agreement.  Beth Israel Med. Ctr. v. Horizon Blue Cross & Blue Shield of N.J., Inc., 448 F.3d 573, 586 (2d Cir. 2006).  The defendants here (the counterclaim plaintiffs) argue that the dancers will be unjustly enriched if they are allowed to retain performance fees alongside the statutorily required minimum wage payments.  
+
+Defendants, however, founder on two elements of unjust enrichment.  First is the requirement that the dancers have benefitted at the Club’s expense.  As explained above, the performance fees came not from the Club, but from customers.  These fees were not, in any sense, the property of Rick’s NY.  Rick’s NY fairly notes that a judgment awarding the dancers the minimum wage effectively gives the dancers two forms of compensation—with one unexpected: the post-hoc award of minimum wage—for those days or weeks on which the dancers also earned performance fees that exceeded the minimum wage.  But Rick’s NY may not pursue a claim of unjust enrichment, because the performance fees did not come from the Club, and it may not fairly claim that paying a legally-required minimum wage was at its expense.  Indeed, the reasoning in a case on which defendants rely, Doe v. Cin-Lan, Inc., is fatal to this cause of action:  As the district court in Doe recognized, “[t]he validity of [defendant’s unjust enrichment] claim . . . will ultimately require a determination of the nature of the dance fees.  To recover on the counterclaims, [defendant] ultimately must establish the dance fees are mandatory service charges, not tips.”  No. 08-CV-12719, 2010 WL 726710, at *7 (E.D. Mich. Feb. 24, 2010).  Rick’s NY has not established this.  Quite the contrary, for the reasons discussed above, the performance fees were not service charges.    
+
+Separately, as to the final required element of an unjust enrichment claim, the Court finds that “equity and good conscience” do not require restitution of performance fees or the minimum wage payments that are the subject of this lawsuit.  As of the start date of the class period, a body of case law held that exotic dancers were employees, entitled under the FLSA to the payment of minimum wages.  See, e.g., Circle C. Invest., 998 F.2d at 329; Harrell, 992 F. Supp. at 1348; Priba Corp., 890 F. Supp. at 594.  In the face of such authority, including from a circuit court of appeals, Rick’s NY’s decision to classify its dancers as independent contractor ran the legal risk that its dancers would one day claim employee status and prevail in court.  Equity and good conscience do not justify giving Rick’s NY a do-over, or excuse it from the obligation other employers have to pay employees a minimum wage.  Having misclassified plaintiffs and therefore breached their statutory duties as employers, defendants may not avoid liability for such duties.  See, e.g., Barrentine v. Arkansas-Best Freight Sys., Inc., 450 U.S. 728, 740 n.18 (1981) (“[E]mployees are not to be deprived of the benefits of the Act simply because they are well paid.”) (quoting Jewell Ridge Coal Corp., 325 U.S. at 167)); Lanzetta, 763 F. Supp. at 623 (Chin, J.) (awarding back wages to plaintiff employee who had expressly agreed to work solely for tips, even though the evidence at trial showed she had been paid substantially more than the minimum wage in tips).  
+
+As to the unjust enrichment counterclaim, the Court, accordingly, grants the summary judgment motion of the dancers (the counterclaim defendants) and denies the motion of Rick’s NY (the counterclaim plaintiffs).   
+
+
+
+
+
+
+Plaintiffs also bring a claim (Claim Five) under § 193 of the NYLL, which provides that “[n]o employer shall make any charge against wages, or require an employee to make any payment by separate transaction.”  N.Y. Lab. Law § 193(3).  The NYLL and regulations thereunder authorize only discrete types of deductions from pay, such as for Social Security and income tax, or such deductions as authorized by the employee for the benefit of the employee.  In particular, the NYLL regulations expressly prohibit deductions for “fines or penalties for lateness, misconduct, or quitting by an employee without notice.”  N.Y. Comp. Codes R. & Regs. tit. 12 § 146-2.7(a)(4); see Angello v. Labor Ready, Inc., 7 N.Y.3d 579, 586 (2006) (“[S]ubtracting from wages a fee that goes directly to the employer or its subsidiary violates both the letter of the statute and the protective policy underlying it.”).   
+
+The basis for plaintiffs’ claim under § 193 is that Rick’s NY required the dancers to make mandatory daily tip-out payments to management each night, and imposed, although it often reversed or refunded, fines for lateness and misconduct.  See supra pp. 13, 15–16; see also Sistrunk Dep. Ex. 9 ¶ 34 (“There is a mandatory $20.00 minimum tip-out for housemom, DJ, and management. . . . If you walk out and do not tip one of the following you will be fined or possibly made inactive.”).  Rick’s NY’s sole defense to this claim, as to fees or fines actually paid,13 is that the dancers were not employees, and so not covered by this statute.  See Def. Br. 7 n.12; Def. Opp. Br. 2 n.4.  The Court, however, has already ruled otherwise.   
+
+13 To the extent such fines were paid but then reversed, a question would arise whether plaintiffs are entitled to any damages under § 193.  The Court has no occasion to address that question here. 
+
+To the extent Rick’s NY deducted fines from wages for lateness or misconduct, it necessarily violated § 193, because the supporting regulations categorically forbid such deductions.  Mandatory deductions from wages in the form of “tip outs” to the Club DJ, house mom, and management also violate § 193, because they are not among the enumerated types of deductions that may be “authorized by the employee.”  See N.Y. Lab. Law § 193(1)(a).   
+
+A substantial question arises, however, as to whether the deductions made by Rick’s NY were “from wages,” as required for there to be liability under the statute.  Plaintiffs here have not been paid any wages; and the Court has held that the performance fees received from customers did not constitute wages.  This may preclude any recovery under § 193.  Indeed, a court in this District recently noted: Alas, Section 193(3)(a) does not prohibit “any payment by separate transaction” in itself but such a payment “as a deduction from wages,” N.Y. Lab. Law § 193(3)(a), and this understanding has been affirmed by the Court of Appeals.  Hudacs v. Frito–Lay, Inc., 90 N.Y.2d 342, 348 (N.Y. 1997) (“[W]hile section 193(2) on its face prohibits ‘any payment by separate transaction,’ it is clear from the statutory context that ‘any payment’ is actually meant to refer only to payments from wages.”) (emphasis added); see also Angello, 7 N.Y.3d at 585 (“This language prohibits an employer from charging against wages or requiring a payment from wages by separate transaction unless the payment is one permitted in subdivision (1)(b).”) (emphasis added).  Not surprisingly, when claims are brought under Section 193(3)(a), the frequently disputed issue is whether the employee’s payment is “from wages.”  
+
+ 
+
+Xuedan Wang v. Hearst Corp., No. 12 Civ. 793 (HB), 2013 WL 105784, at *2 (S.D.N.Y. Jan. 9, 2013).  Neither party, however, has identified, let alone addressed, this legal issue here.  For the time being, therefore, the Court declines to grant summary judgment to either party as to this claim, and denies both sides’ motions as to this claim.  The Court will entertain briefing on this open issue on a schedule to be set.   
+
+
+
+
+
+
+Under the statutes at issue in this case, a defendant’s state of mind may bear upon the statute of limitations and/or damages.  Specifically, where a defendant is found to have acted willfully, under the FLSA, the time period for liability is extended from two years to three, see 29 U.S.C. § 255(a), and under the NYLL, a 25% award of liquidated damages becomes available for violations prior to November 24, 2009, see N.Y. Lab. Law § 198(1-a) (McKinney 2008).  “The willfulness standards for the FLSA statute of limitations and NYLL liquidated damages do not differ to any appreciable extent.”  McLean, 2012 WL 1358739, at *7 (citing Kuebel, 643 F.3d at 366).  In addition, under the FLSA and under the NYLL after November 24, 2009, a finding of good faith is an affirmative defense to liquidated damages.  See 29 U.S.C. § 260; N.Y. Lab. Law § 198(1-a) (“[U]nless the employer proves a good faith basis to believe that its underpayment of wages was in compliance with the law, [the Court shall award] an additional amount as liquidated damages equal to one hundred percent of the total amount of the wages found to be due.”). 
+
+Here, plaintiffs contend that defendants’ violations of the FLSA and NYLL were willful and not in good faith because, inter alia, RCII, in its 10-K filings dating back to 2005, acknowledged the possibility that it could be required by law to treat the dancers at its various adult entertainment venues as employees: 
+
+We believe that the adult entertainment industry standard of treating entertainers as independent contractors provides us with safe harbor protection to preclude payroll tax assessment for prior years.  We have prepared plans that we believe will protect our profitability in the event that the sexually oriented business industry is required in all states to convert entertainers who are now independent contractors into employees. 
+
+ 
+
+PX 261, at 13; see also PX 256–63 (10-K and 10-KSB forms from 1005 to 2012); Pl. 56.1 ¶¶ 551–552; Def. Resp. 56.1 ¶¶ 551–552.  Plaintiffs also argue that the existence of case law holding exotic dancers to be employees put defendants on notice that the dancers were employees.  On this basis, plaintiffs move for summary judgment on the element of willfulness.   
+
+The Court denies that motion.  Although willfulness can sometimes be determined at the summary judgment stage, the standard for proving willfulness is high.  “An employer willfully violates the FLSA when it either knew or showed reckless disregard for the matter of whether its conduct was prohibited by the Act.”  Kuebel v. Black & Decker Inc., 643 F.3d 352, 366 (2d Cir. 2011) (citation omitted); see McLaughlin v. Richland Shoe Co., 486 U.S. 128, 133–35 (1988).  “Mere negligence” or unreasonableness on the part of the employer is insufficient.  Young v. Cooper Cameron Corp., 586 F.3d 201, 207 (2d Cir. 2009); see also McLean v. Garage Mgmt. Corp., No. 10 Civ. 3950 (DLC), 2012 WL 1358739, at *7 (S.D.N.Y. Apr. 19, 2012) (“An employer may act unreasonably and yet not recklessly.”).  “The burden is on the employee to show willfulness.”  Young, 586 F.3d at 207.   On a motion for summary judgment, with the Court required to draw all inferences in favor of defendants, plaintiffs have not met that burden.  To be sure, plaintiffs recite evidence based on which a trier of fact could find willfulness.  And in opposition, defendants do little more than recite the high standards for a finding of willfulness or lack of good faith.  See Def. Opp. Br. 29–30.  But the Court agrees with defendants that willfulness cannot be determined here on a motion for summary judgment because the evidence on which plaintiffs principally rely is not conclusive as to that point.  “Plaintiffs must prove more than that defendant ‘should have known’ it was violating the law.  ‘Should have known’ implies a negligence or ‘reasonable person’ standard.  Reckless disregard, in contrast, involves actual knowledge of a legal requirement, and deliberate disregard of the risk that one is in violation.”  Damassia v. Duane Reade, Inc., No. 04 Civ. 8819 (GEL), 2005 WL 1214337, at *3 n.2 (S.D.N.Y. May 20, 2005).  The fact that a corporation publicly discloses a risk of being found legally liable for a given business practice does not necessarily bespeak a corporate determination that this practice is unlawful.  Nor is it necessarily reckless to adhere to such a practice in the face of legal risk.
+
+14 Moreover, read carefully, RCII’s 10-K disclosures do not literally admit the possibility of a retrospective finding of liability for failure to pay back wages.  Instead, the risk they disclose is of a prospective change in the law that would require dancers, in the future, to be treated and compensated as employees. 
+
+For much the same reasons, plaintiffs’ motion for summary judgment as to good faith—an affirmative defense to liquidated damages under the FLSA—is denied.  The Second Circuit has characterized the employer’s burden to prove good faith “as ‘a difficult one,’ emphasizing that ‘double damages [are] the norm and single damages the exception.’”  Barfield, 537 F.3d 132, 150 (2d Cir. 2008) (quoting Herman, 172 F.3d at 142).  “To establish the requisite subjective ‘good faith,’ an employer must show that it took ‘active steps to ascertain the dictates of the FLSA and then act to comply with them.’”  Id. (quoting Herman, 172 F.3d at 142).  The Court is doubtful that defendants can make this showing, particularly in the absence of an advice of counsel defense.
+
+15 Defendants have not advanced such a defense, and appear to have foresworn reliance on “any specific attorney advice.”  See Def. Resp. 56.1 ¶ 546. 
+
+The Court, therefore, denies plaintiffs’ motion for summary judgment as to willfulness under the FLSA and NYLL and as to the affirmative defense of good faith under the FLSA and NYLL.  Those inquiries must be left for the trier of fact.   
+
+
+
+
+The Court next turns to the issue of which defendants qualify as plaintiffs’ employer and whether summary judgment can be granted on this point.  It is not disputed—once it has been found that plaintiffs were employees at Rick’s NY—that Peregrine, which owns and operates Rick’s, was plaintiffs’ employer.  See Def. 56.1 ¶¶ 1, 14; Pl. Resp. 56.1 ¶¶ 1, 14.  Accordingly, to the extent that summary judgment has been granted in plaintiffs’ favor on the FLSA and NYLL minimum-wage claims, such liability runs to Peregrine.  The parties vigorously dispute, however, whether RCI NY and RCII were also employers of plaintiffs. 
+
+
+
+
+
+
+
+
+The FLSA defines “employer” as “any person acting directly or indirectly in the interest of an employer in relation to an employee.”  29 U.S.C. § 203(d).  The Supreme Court has emphasized that this is an expansive definition with “striking breadth.”  Nationwide Mut. Ins. Co. v. Darden, 503 U.S. 318, 326 (1992).  An individual may simultaneously have multiple “employers” for the purposes of the FLSA, in which case, “all joint employers are responsible, both individually and jointly, for compliance with all the applicable provisions of the [FLSA].”  29 C.F.R. § 791.2(a).   
+
+“[W]hether an employer-employee relationship exists for purposes of the FLSA should be grounded in ‘economic reality rather than technical concepts.’”  Barfield, 537 F.3d at 141 (quoting Goldberg v. Whitaker House Coop., Inc., 366 U.S. 28, 33 (1961)).  The determination of whether defendants are plaintiffs’ joint employers is to be based on “the circumstances of the whole activity,” Rutherford, 331 U.S. at 730, viewed in light of “economic reality,” Goldberg, 366 U.S. at 33; see also Barfield, 537 F.3d at 141–42 (employment is “to be determined on a case-by-case basis by review of the totality of the circumstances”).  “Above and beyond the plain language, moreover, the remedial nature of the statute further warrants an expansive interpretation of its provisions so that they will have ‘the widest possible impact in the national economy.’”  Herman v. RSR Sec. Servs. Ltd., 172 F.3d 132, 139 (2d Cir. 1999) (quoting Carter v. Dutchess Cmty. Coll., 735 F.2d 8, 12 (2d Cir. 1984)). 
+
+“When it comes to ‘employer’ status under the FLSA, control is key.”  Lopez v. Acme Am. Envtl. Co., Inc., No. 12 Civ. 511 (WHP), 2012 WL 6062501, at *3 (S.D.N.Y. Dec. 6, 2012); see also Herman, 172 F.3d at 135 (“[C]ontrol of employees is central to deciding whether appellant should be deemed an employer.”).  In assessing economic reality, the Second Circuit has articulated two tests for determining whether an employment relationship existed for the purposes of the FLSA, one relating to formal control, the other, to functional control.   The formal control test asks “whether the alleged employer (1) had the power to hire and fire the employees, (2) supervised and controlled employee work schedules or conditions of employment, (3) determined the rate and method of payment, and (4) maintained employment records.”  Carter, 735 F.2d at 12 (quoting Bonnette v. Calif. Health & Welfare Agency, 704 F.2d 1465, 1470 (9th Cir. 1983)).  Formal control “does not require continuous monitoring of employees, looking over their shoulders at all times, or any sort of absolute control of one’s employees.  Control may be restricted, or exercised only occasionally, without removing the employment relationship from the protections of the FLSA, since such limitations on control do[] not diminish the significance of its existence.”  Herman, 172 F.3d at 139 (alteration in original) (citation omitted). 
+
+As to the functional control test, the Second Circuit has identified a number of factors pertinent to determining whether a person or entity, even if lacking formal control, exercised “functional control” over an employee.  In Zheng v. Liberty Apparel Co. Inc., 355 F.3d 61, 71–72 (2d Cir. 2003), involving an employer and its subcontractors, the court identified the following as pertinent, although not exclusive, factors: 
+
+(1) whether [alleged employers’] premises and equipment were used for the plaintiffs’ work; (2) whether the [subcontractors] had a business that could or did shift as a unit from one putative joint employer to another; (3) the extent to which plaintiffs performed a discrete line-job that was integral to [alleged employers’] process of production; (4) whether responsibility under the contracts could pass from one subcontractor to another without material changes; (5) the degree to which the [alleged employers’] or their agents supervised plaintiffs’ work; and (6) whether plaintiffs worked exclusively or predominantly for the [alleged employers]. 
+
+Zheng, 355 F.3d at 71–72; accord Barfield v. N.Y.C. Health & Hosp. Corp., 432 F. Supp. 2d 390, 392–93 (S.D.N.Y. 2006), aff’d, 537 F.3d 132 (2d Cir. 2008).   
+
+The statutory standard for employer status under the NYLL is nearly identical to that of the FLSA.  Compare 29 U.S.C.A. § 203(d) (“‘Employer’ includes any person acting directly or indirectly in the interest of an employer in relation to an employee . . . .”), with N.Y. Lab. Law § 190(3) (“‘Employer’ includes any person, corporation, limited liability company, or association employing any individual in any occupation, industry, trade, business or service.”).  Courts in this District have regularly applied the same tests to determine, under the FLSA and the NYLL, whether entities were joint employers.   See Spicer v. Pier Sixty LLC, 269 F.R.D. 321, 335 n.13 (S.D.N.Y. 2010); see also Glatt v. Fox Searchlight Pictures Inc., 11 CIV. 6784 (WHP), 2013 WL 2495140, at *6 (S.D.N.Y. June 11, 2013) (collecting cases).  To be sure, the New York Court of Appeals has not yet resolved whether the NYLL’s standard for employer status is coextensive with the FLSA’s, see Irizarry v. Catsimatidis, 722 F.3d 99, 117 (2d Cir. 2013), but there is no case law to the contrary.  The Court will follow the weight of authority among district courts in this Circuit and apply the economic reality analysis to both statutes.
+
+16 Plaintiffs ask the Court to apply a different test—the “integrated enterprise test” derived from other employment and labor statutes—to the issue of joint employer liability.  See Pl. Br. 40–42.  The test considers: “(1) interrelated operations, (2) common management, (3) centralized control of labor relations, and (4) common ownership.”  Chen v. TYT E. Corp., No. 10 Civ. 5288 (PAC), 2012 WL 5871617, at *3 (S.D.N.Y. Mar. 21, 2012) (quoting Murray v. Miner, 74 F.3d 402, 404 (2d Cir. 1996)).  The Court declines to do so.  It appears that only one judge in this District has applied the integrated enterprise test in the FLSA context, and did so while noting that “[t]he Second Circuit has not yet spoken, however, on whether the integrated enterprise / single employer doctrine applies to hold a parent company liable as an employer for violations of the FLSA.”  Chen, 2012 WL 5871617, at *3; see also Salomon v. Adderley Indus., Inc., No. 11 Civ. 6043 (PAC), 2013 WL 4308569 (S.D.N.Y. Aug. 16, 2013).   
+
+ 
+
+The Court is persuaded that, in this Circuit, the economic reality test, consisting of the formal and functional inquiries, is instead used.  See Gorey v. Manheim Servs. Corp., 788 F. Supp. 2d 200, 210 (S.D.N.Y. 2011) (“[W]hile § 203(s)(1) can bring an entity under the coverage of the FLSA, it is not the proper method to impose joint-employer liability.  Rather, courts in this Circuit apply the ‘economic reality’ theory of joint employment.”).  The integrated enterprise test is inapposite because an “enterprise” is not always coextensive with an “employer” under the FLSA.  See 29 U.S.C. § 203(r)(1); Bowrin v. Catholic Guardian Soc’y, 417 F. Supp. 2d 449, 458 (S.D.N.Y. 2006).  “As defined in the [FLSA], the term enterprise is roughly descriptive of a business rather than of an establishment or of an employer although on occasion the three may coincide. The enterprise may consist of a single establishment which may be operated by one or 
+
+more employers; or it may be composed of a number of establishments which may be operated by one or more employers.”  29 C.F.R. § 779.203 (citation omitted).   
+
+ 
+
+In any event, applying the integrated enterprise test would not change the outcome of plaintiffs’ motion.  The courts to apply the integrated enterprise doctrine have held that it only “applies in ‘extraordinary circumstances’ where plaintiff demonstrates ‘sufficient indicia of an interrelationship between the immediate corporate employer and the affiliated corporation to justify the belief on the part of an aggrieved employee that the affiliated corporation is jointly responsible for the acts of the immediate employer.’”  Morangelli v. Chemed Corp., 922 F. Supp. 2d 278, 285 (E.D.N.Y. 2013) (quoting Herman v. Blockbuster Entm’t Grp., 18 F. Supp. 2d 304, 308 (S.D.N.Y. 1998)), reconsideration denied in part, 2013 WL 1212790 (E.D.N.Y. Mar. 25, 2013).  For the reasons set out below, plaintiffs have not made that showing; nor, drawing all inferences in defendants’ favor, have they adduced sufficient evidence to oblige a jury to conclude that RCII and RCI NY exercised “control of labor relations” over plaintiffs so as to make it a single, integrated enterprise with Peregrine. 
+
+ 
+
+17 The Court is unpersuaded by defendants’ separate suggestion that RCI NY and RCII were not subject to the FLSA because they themselves, as opposed to Rick’s NY, the enterprise at which the dancers worked, did not have annual gross sales made or business done in excess of $500,000.  See Def. Br. 32 n.27.  The FLSA covers enterprises “whose annual gross volume of sales made or business done is not less than $500,000.”  29 U.S.C. § 203(s)(1)(A)(ii).  It is not disputed that the gross sales of Rick’s NY exceeded $500,000 in all relevant years.  In any event, this argument is independently foreclosed as to RCII, because in their Amended Answer, defendants “admit that Peregrine and RCII have an annual gross volume of sales made or business done in excess of $500,000.00.”  Dkt. 279, ¶ 204.    
+
+ 
+
+
+
+
+
+
+
+As the Second Circuit has recognized, the determination of joint employer status is rarely appropriate to make at the summary judgment stage, “[b]ecause of the fact-intensive character of a determination of joint employment.”  Barfield, 537 F.3d at 143–44; see also Zheng, 355 F.3d 76 n.13 (noting “fact-intensive character of the joint employment inquiry”).  Such is the case here:  Having applied the tests for both formal and functional control, the Court concludes that summary judgment is not warranted for either party, as to either RCI NY or RCII.17  There are, instead, material facts in dispute. 
+
+By way of background, Rick’s NY was owned and operated by Peregrine, which is a wholly-owned subsidiary of RCI NY.  Def. 56.1 ¶ 3; Pl. Resp. 56.1 ¶ 3.  RCI NY did not own anything other than Peregrine.  Def. 56.1 ¶ 4; Pl. Resp. 56.1 ¶ 4.  RCI NY was, in turn, a wholly-owned subsidiary of RCII.  Def. 56.1 ¶ 6; Pl. Resp. 56.1 ¶ 6.   The record reflects that these entities were not treated, for all purposes, as hermetically separate.  Borrowing and payments between RCII and its subsidiaries was done through general ledger entries and not formal written loan documents.  SF ¶ 87.  The defendant entities also had common personnel:  In particular, at all relevant times, Langan was chief executive officer (“CEO”) of RCII and president of all three companies.  SF ¶¶ 44–47.   
+
+The parties vigorously dispute whether Langan’s conduct with regard to Rick’s NY can be attributed to RCII and RCI NY.  There is evidence that Langan played a significant role in managing Rick’s NY.  By Langan’s own testimony, he made operational decisions.  See, e.g., Langan 4/23/2009 Dep. 89 (“When I’m in that subsidiary, I’m the president and I’m the boss and owner—not the owner, but the person in charge at that location.”).  In 2005, Langan put in place the first set of Guidelines for Rick’s NY.  See Langan 10/7/2009 Dep. 89.  Langan also put in place the management team at Rick’s, and was responsible for setting the price of Performance Fees (and other fees) for the dancers at Rick’s NY.  See Langan 10/7/2009 Dep. 16–17, 130–31.  These types of decisions supply a factual basis on which a jury could conclude that Langan had formal, as well as functional, control over Rick’s NY.  A jury could find that he supervised the terms and conditions of the dancers’ employment and set the rate of their pay at the Club.   
+
+The issue as to Langan, however, is not whether he himself was an employer.  It is, instead, on behalf of which corporate entity or entities Langan acted when he exercised such control over Rick’s NY, and, in particular, over the terms and conditions of the employment of dancers there.  Langan testified that he acted with respect to Rick’s NY solely in his capacity as Peregrine’s president.  See, e.g., Langan 10/7/2009 Dep. 45 (“It’s fair to say that all the general managers and all the regional managers report to me in my capacity as president of those subsidiaries.”); Dkt. 427 (Langan Decl.) ¶¶ 4, 6.  That testimony is plausible and a jury could certainly credit it.  However, Langan’s multiple and overlapping roles complicate the analysis.  Langan was paid solely by RCII.  See Langan 10/7/2009 Dep. 136.  He used a common email address—“Eric@ricks.com”—for his work on behalf of all three companies, including when he communicated with the general managers of the various establishments in the RCII corporate structure.  See Langan 10/7/2009 Dep. 92.  And he testified that, in his capacity at RCII, he would act to address problems at underperforming subsidiaries:  “I would call the president of that corporation, which basically is myself, and say, you know, get down there and do something about the returns on this asset.”  Langan 10/7/2009 Dep. 23.  This testimony would give a jury a basis to conclude that it was on behalf of the corporate parents, not just Peregrine, that Langan took steps with regard to employment and other relevant policies and practices at Rick’s NY.  It is a question of fact for the jury, which the Court cannot properly resolve on a motion for summary judgment, as to which defendant entity or entities Langan was acting on behalf of when he thus acted with regard to Rick’s NY.  
+
+The same is true of Ed Anakar.  An employee of RCII between 2003 and 2011, see SF ¶¶ 51, 62,18 Anakar appears to have played a role in managing Rick’s NY.  Between early 2005 and October 2007, Anakar was acting general manager for Peregrine.  Id. ¶ 56.  Between approximately October 2007 and October 2008, Anakar was the regional manager assigned to Rick’s NY.  Id. ¶¶ 57–58.  Between 2009 and 2011, Anakar was again the regional manager assigned to Rick’s NY by RCII.  Id. ¶ 61.  Throughout this period, Anakar was formally 
+
+18 Beginning on January 1, 2011, Anakar became president of RCI Management Services, Inc., a wholly-owned subsidiary of RCII.  RCI Management Services provides management services to clubs affiliated with RCII, including Rick’s NY.  SF ¶¶ 61, 97, 101. 
+
+employed by RCII.  Like Langan, Anakar unquestionably was involved in setting conditions of employment at Rick’s.  There is evidence that Anakar had the power to hire and fire dancers at Rick’s—a number of personnel files list dancers as having been hired by “Ed.”  See, e.g., Pl. Ex. 63–67.  Anakar also was involved in setting fees for the entertainers:  On April 7, 2008, Anakar emailed Sistrunk, the general manager of the Club, stating that “[t]o make our entertainers happy, I’ve also decided not to raise house fees yet.”  Pl. Ex. 117.  These, and many other examples chronicled by plaintiffs, see Pl. Resp. 56.1 ¶ 214 (collecting examples), would permit a jury to conclude that Anakar exercised formal control over plaintiffs.   Again, however, the issue of on whose behalf Anakar acted in exercising that control is fairly argued either way.  Defendants marshal evidence that Anakar was working for Peregrine while he was acting general manager or regional manager of Rick’s during this period.  To this end, Anakar attested that “Peregrine was billed an amount equivalent to 35% of [his] salary in exchange for [his] Regional Manager services to Rick’s NY.”  Dkt. 428 (Anakar Decl.) ¶ 20.  Anakar also attested that the actions he took at the Club were at the behest and direction of Langan, who in turn was acting for Peregrine: 
+
+I am frequently in communication with Eric Langan in Mr. Langan’s capacity as President of Peregrine.  Mr. Langan, as President of Peregrine will ask me to send emails concerning club policies, on which Mr. Langan, as President of Peregrine, has ultimate authority.  Mr. Langan, as President of Peregrine also asks that management from Rick’s NY communicate directly with me on certain matters, including matters pertaining to House Fees and House Fee credits, so that I can then bring those issues to Mr. Langan for Mr. Langan’s ultimate decision as President of Peregrine.  Once Mr. Langan makes his decision, as President of Peregrine, I will often deliver Mr. Langan’s statement of policy to management at Rick’s NY. 
+
+ 
+
+Id. ¶ 3.  A jury could certainly credit Anakar, and taken at face value, this testimony, which supports the claim that his, and Langan’s, actions as to Rick’s NY were attributable, wholly or dominantly, to Peregrine.   On the other hand, a jury could disbelieve Anakar’s sworn declaration as self-serving, especially given the apparent informality of defendants’ corporate structure and other contrary evidence.  Notably, Anakar was employed by RCII.  A jury could conclude that, through Anakar, RCII and RCI NY, the subsidiary that stood between it and Peregrine, were acting as employers vis-à-vis the dancers at the Club.   
+
+For these reasons and others, the Court has concluded that summary judgment cannot be granted for either side on this point.  The weight of the evidence, fairly considered, tends to favor the defense claim that Peregrine alone, and not RCII and RCI NY, was plaintiffs’ employer.   But there is just enough contrary evidence, and inferences that can be derived from this evidence, to create a material dispute of fact on this point.  The issue is properly left for trial.  The Court, accordingly, denies both parties’ motions for summary judgment as to the liability of RCII and RCI NY.   
+
+
+
+
+
+
+
+
+Finally, plaintiffs seek to supplement the record with new evidence, namely: (1) a March 15, 2013 video and transcript of a television interview of Anakar on Fox Business Network; and (2) defendants’ March 16, 2013 Twitter post regarding that interview. Plaintiffs contend that these new pieces of evidence contradict Anakar’s deposition testimony about his role at RCII and bolster their integrated enterprise theory of liability.   
+
+Because the evidence relates to events that occurred after the close of discovery and is potentially probative as to the determination whether RCI NY and RCII were plaintiffs’ employers, the Court grants the motion.  It does not, however, alter the Court’s above conclusion that summary judgment must be denied as to the determination of defendants’ employer status. 
+For the reasons stated above, the Court grants in part and denies in part plaintiffs’ motion for summary judgment, and denies in its entirety defendants’ motion for summary judgment.   
+
+Specifically, as to plaintiffs’ motions: 
+
+1.  On plaintiffs’ causes of action for minimum wages based on the FLSA (Claim One) and the NYLL (Claim Two), the Court finds as a matter of law that plaintiffs were employees of Rick’s NY and that Rick’s NY’s statutory duty to pay minimum wages was not satisfied by the plaintiffs’ receipt of performance fees.  The Court further finds that defendant Peregrine was an employer of plaintiffs, and therefore is liable to the extent of any finding of liability on any of the claims in this case.  Accordingly, the Court holds that Peregrine is liable to plaintiffs on Claims One and Two.  Summary judgment for plaintiffs as to liability on Claims One and Two as against Peregrine is therefore granted.  However, the Court denies plaintiffs’ motions for summary judgment as to willfulness and lack of good faith under both the FLSA and NYLL.  Those issues are left for trial. 
+
+
+
+2. On plaintiffs’ cause of action for unlawful deduction of wages (Claim Five), the Court finds that plaintiffs’ wages were unlawfully deducted to the extent, if any, that the fines and tip-outs imposed by Rick’s NY are properly viewed as having been deducted from wages, as opposed to, for example, tip compensation from customers.  However, the parties have not briefed the issue whether the deductions by Rick’s NY, which were made from performance fees paid by customers, were from wages, as the NYLL requires.  Because the parties have not addressed that issue, the Court denies plaintiffs’ motion for summary judgment on Claim Five.  That denial is, however, 
+
+
+
+
+
+
+
+
+
+without prejudice. Each party will be permitted, on a schedule to be set, to move for summary judgment on that claim, limited to the sole unresolved issue of whether the deductions were from wages. 
+
+3. 	
+
+On plaintiffs' motions for summary judgment with respect to its claims against RCI NY and RCII, the Court denies those motions, in light of material disputed issues of fact. Whether RCI NY and RCI! were joint employers, along with Peregrine, of the plaintiffs is left for triaL 
+
+
+
+4. 	
+
+Plaintiffs' motion for summary judgment on defendants' counterclaim for unjust enrichment is granted. 
+
+
+
+
+
+5. Plaintiffs' motion to supplement the record is granted. The Clerk of Court is directed to terminate the motions pending at docket numbers 384, 415, and 439. 
+
+The parties are directed to meet and confer, for at least two hours, by September 23, 2013, as to (1) the future course ofthis litigation; and (2) the prospects for settlement. The parties are directed to submit to the Court, by September 27, 2013, a joint letter setting out, in detail, their joint (or ifthere is disagreement, their respective) views as to next steps in, and the future course of, this litigation. The letter should include a proposed briefing schedule as to the outstanding "from wages" issue on Count Five. 
+
+SO ORDERED. 
+
+
+
+
+
+

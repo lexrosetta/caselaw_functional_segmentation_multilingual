@@ -1,0 +1,156 @@
+
+
+Before the Court are (1) defendant Bay Area Restaurant Group's (“BARG”) motion for summary judgment and (2) defendant UNITE HERE! Local 2’s (“Local 2") motion for summary judgment, each filed November 16, 2009, pursuant to Rule 56 of the Federal Rules of Civil Procedure. Plaintiff Linda Rovai-Pickett has filed a single opposition to the motions, to which the each defendant has filed a separate reply.1 Having considered the papers filed in support of and in opposition to the motions, the Court rules as follows.2 
+
+1  Additionally, BARG filed Objections to certain evidence submitted by plaintiff. (See BARG’s Objections to the “Decl. of William Henshall,” filed Dec. 21, 2009.)  The Objections are hereby sustained. Even if the Court were to consider said declaration,however, the Court’s determination of the instant motions would remain unchanged.   
+
+2  By order dated January 6, 2010, the previously scheduled hearing on themotions was vacated. 
+
+
+
+Plaintiff, a server employed by BARG at a restaurant located in the San Francisco 
+
+International Airport, and a member of Local 2, alleges that, at a meeting held December 5, 
+
+2006, she was wrongfully terminated by BARG for violation of BARG’s cash-handling 
+
+procedure. (See First Amended Complaint (“FAC”) at 12-14.) By letter dated December 
+
+11, 2006, BARG confirmed plaintiff’s December 5, 2006 termination and the basis 
+
+therefore. (See Affidavit of Mary Mork (“Mork Aff. No. 2”) Ex. C.)4 The letter states in 
+
+relevant part : 
+
+This letter will provide you with the results from the investigationconducted by HMS Host in regards to your termination on December 5,2006 for violating the company’s Cash Handling Policy, and the decisionmade by management. 
+
+To review the chain of events, on November 5, 2006, you added a $4service charge to a customer’s credit card transaction in the Buena VistaCafé, when the customer had no[t] written in a service charge on thecharge slip. The discovery was made after the customer complained toHMS Host Corporation on November 16, 2006.  During our meeting onDecember 5, 2006, I asked how you close out a credit card transaction,and put in the service charge, and you stated to me that you put in thecharge listed on the credit card slip signed by the customer.  
+
+Your actions violated our Cash Handling Policy. It is the decision of the management of HMS Host to discontinue our employment relationshipwith you effective December 5, 2005, due to your failure to follow thecorrect Cash Handling procedures you agreed to upon your hire.
+
+Id. 
+
+On December 5, 2006, the same day plaintiff was terminated, she unexpectedly was 
+
+handed dishes by a customer, causing her to lose her balance and suffer injury to her left 
+
+hand and upper arm. (See Id. Ex. E (Workers’ Compensation Claim Form); Huibonhoa 
+
+Decl., filed Nov. 11, 2009, Ex. B (Pl’s Dep. Vol. II) at 186:17-189:23.)  As a result, plaintiff 
+
+was unable to work, and received workers’ compensation benefits as of the date of her 
+
+3 The following facts are undisputed. 
+
+4  In support of the instant motion, BARG filed, on November 16, 2009,  two separate
+
+affidavits signed by Mary L. Mork. For purposes of clarity, the Court will refer to the
+
+Affidavit of Mary L. Mork filed at Docket No. 96 as “Mork Aff. No. 1” and the Affidavit of
+
+Mary L. Mork filed as Docket No. 97 as “Mork Aff. No. 2.” 
+
+injury. (See id. Ex. E; Huibonhoa Decl. Ex. F.) By letter dated February 25, 2008, Local 2 informed plaintiff that BARG, on February 22, 2008, had agreed to rescind her termination. (See Mork Aff. No. 2 Ex. M.)  On August 28, 2008, the date on which she received her doctor’s release, plaintiff faxed to BARG a letter announcing her intention to return to work. (See id. Ex. N at unnumbered 3.) 
+
+Throughout the period relevant to the instant action, Local 2 had a Collective Bargaining Agreement (“CBA”) that provided procedures to be followed in the event of a grievance between BARG and one or more Local 2 union members. (See id. Ex. H at 19­21 (“Grievance Procedure”).) On December 12, 2006, Local 2 sent to BARG an “Official Notice of Grievance” on plaintiff’s behalf, alleging plaintiff had been wrongfully terminated, and seeking plaintiff’s reinstatement and that she be “made whole.”  (See Id. Ex. J.)  On January 22, 2007 the parties, including plaintiff, held a “Step One” grievance meeting pursuant to the Grievance Procedure, but no satisfactory resolution was reached.  (See Mork Aff. No. 1 ¶ 7; see also FAC at 21:4-9, 22:2-3.) On May 2, 2007, Local 2 represented plaintiff in a mediation; again no resolution was reached. (See Mork Aff. No. 1 ¶ 7; see also FAC at 29.) Thereafter, Local 2 referred plaintiff’s grievance to outside counsel for the purpose of representing plaintiff at the next stage of the grievance proceedings, specifically, an arbitration; by letter dated November 20, 2007, outside counsel advised plaintiff that an arbitration date of February 25, 2008 had been set. (See Wirshing Decl. ¶ 4; Mork Aff. No. 2 Ex. L.) 
+
+Shortly before the scheduled arbitration date, however, BARG, on February 22, 2008, as noted above, unilaterally rescinded plaintiff’s termination, and consequently the arbitration was cancelled. (See Mork Aff. No. 2 Ex. M.)  Additionally, in connection with the rescission, BARG agreed to remove from plaintiff’s personnel file any reference to plaintiff’s cash-handling violation, and agreed that her reinstatement would be with full seniority. (See id.; see also Huibonhua Decl. Ex. B at 159:2-160:05.) Thereafter, on February 22, 2008, Local 2 withdrew the grievance as moot, in light of plaintiff’s reinstatement, her receipt of workers’ compensation from the time of her termination through her reinstatement, and Local 2's determination that, under the CBA, plaintiff was not entitled to recover lost wages or additional benefits during such period. (See Mork Aff. No. 2 Ex. M.)  In sum, Local 2 considered the grievance to be fully satisfied at that time. Id. 
+
+Throughout the grievance proceedings, plaintiff was in disagreement with her Local 2 representatives’ decision not to make the following arguments on plaintiff’s behalf: (1) plaintiff was not provided a pre-termination hearing; (2) plaintiff was not given an opportunity to be heard at her termination meeting; and (3) plaintiff was terminated in an untimely manner. (See FAC at 19:10-20, 20:1-5; see also FAC Exs.C, J.) Additionally, plaintiff complained that Local 2 was dilatory in the handling of plaintiff’s grievance.  (FAC at 11:1-8.) 
+
+
+
+On December 3, 2007, plaintiff filed her original complaint in state court, and, subsequently, on February 4, 2008, filed her FAC.  On March 26, 2008, defendants removed the action to federal court on the ground that plaintiff’s state law claims are preempted by § 301 of the Labor Management Relations Act (“LRMA”), 29 U.S.C. § 185. On June 5, 2008, the Court denied plaintiff’s motion to remand.  (See Order filed June 5, 2008.) 
+
+In her FAC, plaintiff asserts six Causes of Action, each based on the allegations that BARG wrongfully terminated her employment without “just cause” (see FAC at 5:19-22), and that Local 2, thereafter, failed to fairly represent plaintiff in the subsequent grievance proceedings (see id. at 9:9-12). Specifically, plaintiff alleges as against BARG the following claims: (1) Wrongful Termination (First Cause of Action); (2) Negligent Infliction of Emotional Distress (Second Cause of Action); (3) Unfair Labor Practices (Third Cause of Action); (4) Breach of Contract (Fourth Cause of Action); and (5) Defamation of Character (Sixth Cause of Action). (FAC at 2-9, 11-12.)  Plaintiff alleges a single cause of action against Local 2, specifically, failure to perform Duty of Fair Representation (Fifth Cause of Action). (Id. at 9-11.) 
+
+By orders filed June 5, 2008 and August 26, 2008, the Court found plaintiff’s state law claims for wrongful termination, negligent infliction of emotional distress, unfair labor practices, and breach of contract are preempted by § 301.  (See Order filed June 5, 2008; Order filed August 26, 2008.) By the order filed August 26, 2008, the Court dismissed plaintiff’s defamation claim under Rule 12(b)(6). (See Order filed August 26, 2008 at 3:17­4:8.) What remains for the Court to consider herein is whether triable issues exist with respect to plaintiff’s claims that BARG wrongfully terminated her in violation of the CBA, and that Local 2 breached its duty of fair representation to her during the grievance proceedings. 
+
+
+
+Rule 56 of the Federal Rules of Civil Procedure provides that a court may grant summary judgment “if the pleadings, the discovery and disclosure materials on file, and any affidavits show that there is no genuine issue as to any material fact and that the movant is entitled to judgment as a matter of law.” See Fed. R. Civ. P. 56(c). 
+
+The Supreme Court’s 1986 “trilogy” of Celotex Corp. v. Catrett, 477 U.S. 317 (1986), Anderson v. Liberty Lobby, Inc., 477 U.S. 242 (1986), and Matsushita Electric Industrial Co. 
+
+v. Zenith Radio Corp., 475 U.S. 574 (1986), requires that a party seeking summary judgment show the absence of a genuine issue of material fact.  Once the moving party has done so, the nonmoving party must “go beyond the pleadings and by [its] own affidavits, or by the depositions, answers to interrogatories, and admissions on file, designate specific facts showing that there is a genuine issue for trial.”  See Celotex, 477 
+
+U.S. at 324 (internal quotation and citation omitted).  “When the moving party has carried its burden under Rule 56(c), its opponent must do more than simply show that there is some metaphysical doubt as to the material facts.”  Matsushita, 475 U.S. at 586. “If the [opposing party’s] evidence is merely colorable, or is not significantly probative, summary judgment may be granted.” Liberty Lobby, 477 U.S. at 249-50 (citations omitted). “[I]nferences to be drawn from the underlying facts,” however, “must be viewed in the light most favorable to the party opposing the motion.” See Matsushita, 475 U.S. at 587 (internal quotation and citation omitted). 
+
+ 
+
+A. Hybrid § 301/ Fair Representation Claim 
+
+Where a “union representing [an] employee in [a] grievance/arbitration procedure acts in such a discriminatory, dishonest, arbitrary, or perfunctory fashion as to breach its duty of fair representation,” the employee “may bring suit against both the employer and the union, notwithstanding the outcome or finality of the grievance or arbitration proceeding.” See DelCostello v. Int’l Brotherhood of Teamsters, 462 U.S. 151, 164 (1983). “Such a suit, as a formal matter, comprises two causes of action,” specifically, a suit against the employer for breach of the collective bargaining agreement, pursuant to § 301 of the Labor Management Relations Act (“LMRA”) (29 U.S.C. § 185), and a suit against the union for breach of the union’s duty of fair representation, which “is implied under the scheme of the National Labor Relations Act” (“NLRA”). See id. The Supreme Court has held that the two claims “are inextricably interdependent”; to prevail against either the company or the union, the employee “must not only show that [his] discharge [or discipline] was contrary to the contract but must also carry the burden of demonstrating a breach of duty by the Union.” See id. at 165 (internal quotation and citation omitted). Additionally, the plaintiff in such a “hybrid” case must prove the union’s breach “contributed to the erroneous outcome of the [grievance] proceedings.”  Hines v. Anchor Motor Freight, Inc., 424 U.S. 554, 568 (1976). 
+
+The Court first addresses the duty of fair representation.  
+
+1. Duty of Fair Representation 
+
+The Supreme Court has held that “[a] breach of the statutory duty of fair representation occurs only when a union’s conduct toward a member of the collective bargaining unit is arbitrary, discriminatory, or in bad faith.”  See Vaca v. Sipes, 386 U.S. 171, 190 (1967). “[A] union’s actions are arbitrary only if, in light of the factual and legal landscape at the time of the union’s actions, the union’s behavior is so far outside a wide range of reasonableness, as to be irrational.” See Air Line Pilots Ass’n, Int’l v. O’Neill, 499 
+
+U.S. 65, 67 (1991) (internal quotation and citation omitted).  “[A] union's conduct may not be deemed arbitrary simply because of an error in evaluating the merits of a grievance, in interpreting particular provisions of a collective bargaining agreement, or in presenting the grievance at an arbitration hearing.”  Peterson v. Kennedy, 771 F.2d 1244, 1254 (9th Cir. 1985). Courts are not to “attempt to second-guess a union's judgment when a good faith, non-discriminatory judgment has in fact been made.”  Id. “It is for the union, not the courts, to decide whether and in what manner a particular grievance should be pursued.”  Id. A union’s actions are discriminatory where a union member “suffers invidious, hostile treatment” that is “intentional, severe, and unrelated to legitimate union objectives.”  See Amalgamated Ass’n of Street-Electric Railway and Motor Coach Employees of America v. Lockridge, 403 U.S. 274, 301 (1971); see also Vaca, 386 U.S. at 177 (noting union must “serve the interests of all members without hostility or discrimination toward any”).  To show bad faith, there “must be substantial evidence of fraud, deceitful action or dishonest conduct.” See Lockridge, 403 U.S. at 299. 
+
+Here, defendants argue, Local 2’s conduct during the grievance proceedings was neither arbitrary, discriminatory nor in bad faith.  In support thereof, defendants first submit evidence that Local 2 acted reasonably in determining not to introduce, during the grievance proceedings, plaintiff’s contention that (1) she was not provided a pre-termination hearing, (2) she was not given an opportunity to be heard at her termination meeting, and 
+
+(3) her termination was untimely because it occurred a month after the date of the unauthorized credit card transaction on which the termination was based.5 In particular, based on its interpretation of the CBA, Local 2 determined that any such argument would be unavailing. (See Wirshing Decl. Ex. 2.) As defendants point out, the CBA does not grant plaintiff the right to a pre-termination hearing or an opportunity to be heard at the termination meeting, nor does the CBA include any language on which plaintiff could have relied to avoid termination based on the timing of her discharge. (See Mork Aff. No. 2 Ex. 
+
+5  Although, as plaintiff observes, the unauthorized transaction occurred onNovember 5, 2006 and plaintiff was terminated on December 5, 2006, the Court notes thatBARG did not receive the customer’s complaint until November 16, 2006 (See Mork Aff. No. 1 Attach. 1.) 
+
+H at 18-21.) 
+
+Consequently, plaintiff fails to raise a triable issue as to her claim that Local 2 acted arbitrarily, discriminatorily, or in bad faith in not raising the above-referenced contentions.   
+
+Defendants next submit evidence that Local 2 did not act arbitrarily, discriminatorily, or in bad faith in connection with the scheduling of the arbitration.  In that regard, it is undisputed that Local 2 pursued plaintiff’s grievance by: (1) representing plaintiff at her termination meeting on December 5, 2006 (see Kuan Decl. ¶¶ 3-17); (2) filing a timely notice of grievance on December 12, 2006, the day after plaintiff received the termination letter (id.); (3) investigating plaintiff’s grievance and attending a “Step 1" meeting with BARG on January 22, 2007 (id.); (4) representing plaintiff in a mediation, which was conducted on May 2, 2007, after having been twice rescheduled at the request of BARG and once at the request of plaintiff (see FAC at 24:4-21, 25:1-4, 26:1-5); (5) corresponding with BARG as to the submission of the grievance to arbitration (see Wirshing Decl. Exs. 3, 4); and (6) referring plaintiff’s grievance to outside counsel in October 2007 (Marston Decl. ¶ 3), after which outside counsel scheduled the arbitration for February 22, 2008 (see Mork Aff. No. 2 Ex. L.).  Although the arbitration ultimately was scheduled for a date approximately fourteen and a half months after plaintiff’s termination, Local 2 has submitted evidence showing such schedules are not unusual, given the difficulties inherent in the process of selecting an arbitrator and the need to accommodate the respective schedules of counsel, the arbitrator, and the participants therein.  (See Marston Decl. ¶ 2; Wirshing Decl. ¶ 2.) Plaintiff offers no evidence to the contrary. 
+
+Consequently, plaintiff fails to raise a triable issue as to her claim that Local 2 acted arbitrarily, discriminatorily, or in bad faith in connection with the scheduling of the grievance proceedings. 
+
+Moreover, as defendants observe, plaintiff presents no evidence that the grievance proceedings resulted in an “erroneous outcome.” See Hines, 424 U.S. at 568 (noting elements of claim against union include union’s contribution to “erroneous outcome” of grievance proceedings). Indeed, plaintiff concedes she received everything she sought by way of her grievance. (See Keating Decl. Ex. A. at 41:11-21, 295:10-16, 297:15-18, 312:3­313:1, 317:9-318:5, 324:1-16, 382:13-23.)  Rather, in her opposition, plaintiff asserts that, despite such favorable outcome, she incurred damages because she (1) received less than her regular income while on workers’ compensation, (2) went into debt as a result of her diminished income, and (3) would have returned to work earlier, and against the advice of her physician, but for the above-described circumstances of her termination and grievance. (See Pl’s Opp’n. at 5-6.) Plaintiff’s loss of income, however, is not attributable to either her termination or the grievance process, but rather to her workplace injuries.  Further, plaintiff’s speculative assertion that she would have returned to work earlier is contradicted by defendant’s undisputed evidence that plaintiff did not seek to return to work until six months after her termination was rescinded. 
+
+Accordingly, as plaintiff has failed to raise a triable issue as to her claim that Local 2 breached its duty of fair representation, defendants are entitled to summary judgment.  
+
+2. Termination: Good Cause 
+
+Alternatively, as set forth below, even if plaintiff is entitled to proceed against BARG by demonstrating a breach of the CBA alone, any such claim likewise fails.6 
+
+BARG argues that plaintiff has not raised a triable issue as to whether BARG terminated plaintiff in breach of the CBA. The CBA gives BARG authority to “discharge for just cause” employees who have committed acts of “gross misconduct,” including “unauthorized possession of . . . customer . . . property.”7 (See Mork Aff. No. 2 Ex. H at 18­19.) Because the CBA does not define “just cause,” the Court construes such term by reference to California law, see e.g. Pastrana v. Commc’ns Workers of Am., 2008 WL 5054112 at *8 (S.D. Cal. 2008) (noting, “[b]ecause the CBA does not define just cause, the parties rely on California law”); under California law “just cause” is defined as a “fair and 
+
+6  The parties dispute whether, under the language of the CBA and/or thecircumstances surrounding plaintiff’s reinstatement, plaintiff is precluded from bringing herclaim against BARG other than in a hybrid action. 
+
+7  Further, in such instances of “gross misconduct” the CBA provides for terminationwithout graduated discipline. (See Mork Aff. No. 2 Ex. H at 18-19.) 
+
+honest reason[ ], regulated by good faith on the part of the employer,” and that is “not trivial, arbitrary or capricious, unrelated to business needs or goals, or pretextual.”  See Cotran v. Rollins Hudig Hall Intern., Inc., 17 Cal.4th 93, 95-96 (1998); see also Pastrana v. Commc’ns Workers of Am., 2008 WL 5054112 at *8 (noting California law defines “just cause” as “a fair and honest reason for discharge”). 
+
+Here, plaintiff does not dispute that BARG (1) received an e-mail from a customer claiming a tip was added to his credit card charge without his permission (see Mork Aff. No. 1 Attach. 1); (2) recovered a copy of the receipt from its records (see id. Attach. 2); (3) viewed the receipt, which showed a line drawn through the space provided for the addition of a tip, and the figure $12.98 written as the “Total” charge (see id.); and (4) checked the electronic journal of charges and confirmed that a service charge of $4.00 had been added to the transaction (see id. Attach. 3). Further, BARG has submitted evidence, and no contrary evidence has been submitted by plaintiff, that, as of the date of her termination, plaintiff was unable to provide any explanation as to how such unauthorized charge could have been entered other than by plaintiff’s having done so. (See Huibonhoa Decl. Ex. B at 180:4-17, 182:3-184:24; see also Mork Aff. No. 2 Ex. C.)  Nor does plaintiff dispute that the CBA expressly provides that the “unauthorized possession of . . . customer . . . property” constitutes “gross misconduct,” for which “the employer may . . . discharge” the employee. (See Mork Aff. No. 2 Ex. H (CBA Section 35(f)).) 
+
+To the extent plaintiff takes the position that a triable issue exists based on testimony, offered during her deposition in the instant action, as to how the unauthorized charge might have been added by an employee she was training, (see Huibonhoa Decl. Ex. B at 185:2-186:12), such argument is unavailing, for the reason that an employer’s decision to terminate an employee is evaluated based on the facts known to the employer at the time of the termination. See Cotran,17 Cal.4th 93, 109 (holding in wrongful termination case, issue is “not whether plaintiff in fact committed [the predicate acts of misconduct], but whether at the time the decision to terminate his employment was made, defendants, acting in good faith and following an investigation that was appropriate under the circumstances, had reasonable grounds for believing plaintiff had done so”).8 
+
+Accordingly, as plaintiff has failed to raise a triable issue as to her claim that she was terminated without just cause, even if plaintiff is entitled to proceed against BARG alone, BARG is entitled to summary judgment. 
+
+Moreover, plaintiff has not demonstrated she is entitled to recover for any injury or loss other than those for which she already has been compensated. As discussed above, plaintiff is not entitled to any additional payments under the CBA.  Although, by her FAC, plaintiff also seeks damages for emotional distress as well as punitive damages, such remedies are unavailable for a claim of the type brought herein.  
+
+First, the availability of damages for emotional distress is determined by reference to the law of the state in which the contract is made.  See UAW v. Yard-Man, Inc., 716 F.2d 1476, 1487 (6th Cir. 1983), cert denied 465 U.S. 1007 (1984) (holding, in absence of controlling federal law, district looks to common law principles, including substantive law of state in which contract arose); see also Nitzsche v. Stein, Inc., 797 F.Supp. 595, 598-00 
+
+(N.D. Ohio 1992) (holding, in case brought under § 301 issue of whether non-economic damages are available against employer is determined by reference to law of state in which contract is made) (citing cases). Under California law, “emotional distress which stems from an employers supervisory decisions, including termination of employment” is deemed a “normal part of the employment relationship” and damages based thereon are not recoverable in a suit for wrongful discharge. See Phillips v. Gemini Moving Specialists, 63 Cal.App.4th 563, 576-77 (1998) (holding employee’s sole remedy for claimed emotional distress is under workers’ compensation law “even when the distress results from an employer’s conduct that is intentional, unfair and outrageous”).  Id. 
+
+Second, punitive damages are not authorized on a claim brought under § 301.  See 
+
+8  Although, BARG, during the grievance proceedings, discovered other incidents inwhich plaintiff appeared to have added unauthorized tips to credit card transactions, suchinformation likewise is immaterial to the issue before the Court, and BARG does not argueto the contrary. (See Kuan Decl. ¶ 10; FAC at 22:2-13.) 
+
+Hall v. Pac. Mar. Ass'n, 281 F.Supp. 54, 62 (N. D. Cal. 1968) (holding “[e]xemplary damages are not allowed in actions under [§ 301]").  Indeed, under § 301, any award that “exceeds the monetary loss which an injured party suffered as a result of a contract breach is considered punitive and thus improper.” See Alday v. Raytheon Co., 619 F. Supp. 2d 726, 730 (D. Ariz. 2008) (citing Desert Palace, Inc. v. Local Joint Executive Board of Las Vegas, 679 F.2d 789, 94 (9th Cir. 1982). Accordingly, given plaintiff’s inability to provide evidence of having suffered economic injury, BARG, for this additional reason, is entitled to summary judgment. 
+
+Accordingly, as plaintiff has failed to raise a triable issue as to whether she suffered any legally cognizable damages, even if plaintiff is entitled to proceed against BARG alone, BARG is entitled to summary judgment for such reason as well. 
+
+B. Additional Arguments 
+
+In plaintiff’s opposition, she asserts, without further elaboration, that defendants failed to produce discovery, “which would tend to expose existing ‘bad faith’ or ‘arbitrariness’, not to mention conspiracy.’” (See Pl’s Opp’n. at 9.) To the extent plaintiff relies on such conclusory assertion as a ground for denial of defendants’ motions, any such argument is without merit. To the extent such assertion can be construed as a request for a continuance under Rule 56(f), such request likewise lacks merit. See Tatum v. City and County of San Francisco, 441 F.3d 1090, 1110 (9th Cir. 2006) (“A party requesting a continuance pursuant to Rule 56(f) must identify by affidavit the specific facts that further discovery would reveal, and explain why those facts would preclude summary judgment.”) Lastly, the Court finds no merit in plaintiff’s contention that any part of her deposition testimony should be deemed inadmissible because she was unrepresented at such time. (See Pl’s Opp’n. at 10.) Plaintiff cites no authority in support of such proposition, and the court is aware of none. // // // 
+
+ 
+
+For the reasons stated above, defendants’ motions for summary judgment are, in each instance, hereby GRANTED. 
+
+The clerk shall close the file. 
+
+IT IS SO ORDERED. 
+
+
+

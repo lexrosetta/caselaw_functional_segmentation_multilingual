@@ -1,0 +1,444 @@
+ 
+
+ 
+
+This matter comes before the Court on the parties’ Cross-Motions for Summary Judgment.  Dkts. #121 and #126. Plaintiff Thomas Perez, Secretary of the United States Department of Labor (“the Secretary” or “Department”), argues that Defendant DirecTV LLC (“DirecTV”) was a joint employer of direct broadcast satellite television installers (“Installers”) as defined by the Fair Labor Standards Act of 1938 (“FLSA”), 29 U.S.C. §§ 201 et seq. Further, Plaintiff argues that, as a joint employer, Defendant is liable for any wages found to be due to eighty-two (82) Installers formerly employed by now-defunct co-Defendant Lantern Light Corporation d/b/a Advanced Information Systems (“AIS”).  Dkt. #121. DirecTV responds that its mere supervisory role does not establish that it is a joint employer for purposes of the FLSA, primarily contending that control over day-to-day Installer responsibilities rested solely with AIS.  Dkt. #126. Alternately, Defendant moves for partial summary judgment under 29 U.S.C. § 207(i), which exempts employers of commissioned workers in the retail or service fields from responsibility for overtime wages. For the reasons set forth herein, the Court disagrees with Defendant, DENIES its Motion for Summary Judgment and GRANTS Plaintiff’s Motion for Summary Judgment.   
+
+
+
+
+
+DirecTV provides subscription direct broadcast satellite television service to customers nationwide and throughout Washington State.  Dkts. #129 at ¶ 1 and #127, Ex. 1 at 32:13-23. A DirecTV subscription requires the installation and activation of the DirecTV satellite dish, affixed to the customer’s home or office, and a DirecTV box, connected to the television. In geographical regions where DirecTV does not provide DirecTV “owned and operated” installation services, it sub-contracts all installation work to Home Service Providers (“HSPs”). Dkt. #129 at ¶ 2. The now-bankrupt AIS was an independent specialty contractor of satellite installation and activation services organized under the laws of Washington. Dkts. #130 at ¶ 19 (filed under seal) and #7 at ¶ 5(a). In 2011, AIS contracted to provide satellite installation and upgrade services exclusively for DirecTV upon assuming the 2009 “Service Provider Agreement” between DirecTV and prior installer Lumin, Inc.1 Dkt. #129 at ¶ 3 and Ex. 1. Installer-technicians employed and trained by AIS installed DirecTV’s proprietary satellite systems exclusively for DirecTV customers in Western Washington. Dkts. #127, Ex. 3 at 50:5-10 and #129 at ¶ 25. 
+
+1 See Dkts. #130, Ex. A (filed under seal) and #131, Ex. B (filed under seal). 
+
+AIS Installers were paid biweekly for completed work orders as “piece work,” based on a fixed percentage of the corresponding task-based “piece rates” paid by DirecTV to AIS. Dkt. #127, Ex. 3 at 94:17-24 and 98:7-12 and Ex. 4 at 29:11-16.  Depending on the workload, AIS Installers were scheduled for 10-hour shifts, shifts ending at 8:00 p.m., and six-day work weeks. Dkt. #122, Ex. K at 55:22-57:15 and Ex. L (filed under seal). 
+
+The Secretary has brought this case on behalf of 82 Installers formerly employed by Co-Defendant AIS. Dkt. #31. Plaintiff alleges that Defendants AIS, DirecTV and Ramon Martinez have violated the FLSA by repeatedly paying employees less than the federal minimum wage; failing to pay employees who worked in excess of 40 hours per week at a rate of one-and-a-half times the regular rate at which they were employed; and failing to keep and preserve accurate records of employees and the wages, hours and other conditions of employment maintained by them, since at least August 21, 2009.  Dkt. #31. Plaintiff asserts that AIS and Mr. Martinez are liable under the FLSA as employers of the aforementioned Satellite Installation Technicians.  Id. Plaintiff further alleges that DirecTV is a joint employer of AIS’s employees and is therefore also liable under the FLSA.  Id. Plaintiff seeks to recover unpaid minimum wage and overtime compensation and liquidated damages.  Id. 
+
+III. APPLICABLE LEGAL STANDARDS 
+
+
+
+
+
+Summary Judgment is proper where, viewing the evidence and inferences therefrom in favor of the nonmoving party, “the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.”  Fed. R. Civ. P. 56(a); Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 247 (1986). Material facts are those that may affect the outcome of the suit under governing law, and an issue of material fact is genuine “if the evidence is such that a reasonable jury could return a verdict for the nonmoving party.” Anderson, 477 U.S. at 248. 
+
+The Court reviews the facts in a typical case of summary judgment in the light most favorable to the Defendant.  Diruzza v. County of Tehama, 323 F.3d 1147, 1152 (9th Cir.2003). Here the Court considers cross-motions for summary judgment, for which the Ninth Circuit has refined the standard of review.  “[W]hen simultaneous cross-motions for summary judgment on the same claim are before the court, the court must consider the appropriate evidentiary material identified and submitted in support of both motions, and in opposition to both motions, before ruling on each of them.”  Tulalip Tribes of Wash. v. Wash., No. 13-35464, 2015 WL 1740895, at *5 (9th Cir. 2015), quoting Fair Hous. Council of Riverside Cnty., Inc. v. Riverside Two, 249 F.3d 1132, 1134 (9th Cir. 2001). The Court “rule[s] on each party's motion on an individual and separate basis, determining, for each side, whether a judgment may be entered in accordance with the Rule 56 standard.”  Id., quoting 10A Charles Alan Wright, Arthur R. Miller & Mary Kay Kane, Federal Practice and Procedure § 2720 (3d ed.1998). 
+
+
+
+
+
+The FLSA broadly defines “employer” as “any person acting directly or indirectly in the interest of an employer in relation to an employee.”  29 U.S.C. § 203(d). In the Ninth Circuit, “the concept of joint employment should be defined expansively under the FLSA.” Chao v. A-One Med. Servs., Inc., 346 F.3d 908, 917 (9th Cir. 2003) (quoting Torres–Lopez v. May, 111 F.3d 633, 639 (9th Cir. 1997)). An employee may work for two employers simultaneously.  29 C.F.R. § 791.2(a). Joint employment may be found where the facts show “that employment by one employer is not completely disassociated from employment by the other employer(s).”  Id. The scope of work for the employee of joint employers is considered “one employment,” and the employers are considered “responsible, both individually and jointly, for compliance with all of the applicable provisions of the act, including the overtime provisions. . . .” Id. 
+
+In the Ninth Circuit, joint employment is analyzed under the “economic reality” test. Chao, 346 F.3d at 917. “[D]etermination of whether an employer-employee relationship exists does not depend on ‘isolated factors but rather upon the circumstances of the whole activity.’”  Bonnette v. California Health and Welfare Agency, 704 F.2d 1465, 1469 (9th Cir. 1983) (quoting Rutherford Food Corp. v. McComb, 331 U.S. 722, 730, 67 S.Ct. 1473, 1477 (1947)). The determination is a question of law whereby “[t]he touchstone is ‘economic reality.’”  Id. (quoting Goldberg v. Whitaker House Cooperative, Inc., 366 U.S. 28, 33, 81 S. Ct. 933 (1961)). 
+
+There are three situations in which a joint employment relationship “generally will be considered to exist”: 
+
+(1)
+
+ Where there is an arrangement between the employers to share the employee's services, as, for example, to interchange employees; or 
+
+
+
+(2)
+
+ Where one employer is acting directly or indirectly in the interest of the other employer (or employers) in relation to the employee; or 
+
+
+
+(3)
+
+ Where the employers are not completely disassociated with respect to the employment of a particular employee and may be deemed to share control of the employee, directly or indirectly, by reason of the fact that one employer controls, is controlled by, or is under common control with the other employer. 
+
+
+
+
+
+29 C.F.R. § 791.2(b) (footnotes omitted). 
+
+The Court begins its analysis of the employer-employee relationship by looking at regulatory factors described by the Bonnette four-factor economic reality test, not limited to, but primarily including, whether the alleged employer: 
+
+(1) 
+
+had the power to hire and fire the employees;  
+
+
+
+(2) 
+
+supervised and controlled employee work schedules or conditions of employment;  
+
+
+
+(3) 
+
+determined the rate and method of payment; and  
+
+
+
+
+
+(4) maintained employment records.   Bonnette, 704 F.2d at 1470. 
+
+Courts in the Ninth Circuit also look at additional factors depending on the potential joint employers.  In Torres-Lopez v. May, 111 F.3d 633 (9th Cir. 1997), the Ninth Circuit held that, for the purposes of FLSA and the Migrant and Seasonal Agricultural Worker Protection Act (“AWPA”), a farm owner was the joint employer of farm workers hired by a third-party labor contracting company.  Torres-Lopez, 111 F.3d at 637. In reaching that conclusion, the Court expanded upon Bonnette’s four-factor economic reality test, borrowing factors not explicitly contained in the AWPA regulations.  Id. at 640. The Court found these eight “non­regulatory” factors particularly probative with regard to the economic reality of the relationship between the company and the workers hired by the labor contractor.  Id. 
+
+The parallels between the instant action and Torres-Lopez are many.  Where, as here, “a company has contracted for workers who are directly employed by an intermediary company,” the Torres-Lopez economic reality test applies.  Chao, 346 F.3d at 917. Therefore the Court analyzes the relationship between DirecTV and the workers contracted to install DirecTV equipment under a “vertical” joint employment analysis.  Id. The Court is mindful that “a business that owns or controls the worksite will likely be able to prevent labor law violations, even if it delegates hiring and supervisory responsibilities to labor contractors.” Torres-Lopez, 111 F.3d at 640 (quoting Antenor, 88 F.3d at 937 (citations removed)). 
+
+Under the Torres-Lopez economic reality test, the Court considers the following “non­regulatory” factors: 
+
+(1) 
+
+whether the work was a specialty job on the production line; 
+
+
+
+(2) 
+
+whether responsibility under the contracts between a labor contractor and an employer pass from one labor contractor to another without material changes; 
+
+
+
+(3) 
+
+whether the premises and equipment of the employer are used for the work; 
+
+
+
+(4) 
+
+whether the employees had a business organization that could or did shift as a unit from one worksite to another; 
+
+
+
+(5) 
+
+whether the work was “piece work” and not work that required initiative, judgment or foresight; 
+
+
+
+(6) 
+
+whether the employee had an opportunity for profit or loss depending upon the alleged employee's managerial skill; 
+
+
+
+(7) 
+
+whether there was permanence in the working relationship; and, 
+
+
+
+
+
+(8) whether the service rendered is an integral part of the alleged employer's business. Torres-Lopez, 111 F.3d at 640 (citations and quotations omitted). Because neither list of economic reality test factors is exhaustive, the Court considers all factors relevant to the particular situation in evaluating the economic reality of an alleged joint employment relationship under the FLSA.  Torres-Lopez, 111 F.3d at 639 (quoting Bonnette, 704 F.2d at 1470). In addition to Bonnette and Torres-Lopez, Defendant DirecTV asks the Court to consider the reasoning of several District Courts rejecting a joint employer relationship between cable companies and contractors with similar fact patterns to those under review here. DirecTV cites as particularly persuasive five FLSA cases: Thornton v. Charter Commc’ns, LLC, 4:12CV479, 2014 WL 4794320 (E.D. Mo. Sept. 25, 2014); Zampos v. W & 
+
+E Commc'ns, Inc., 970 F. Supp. 2d 794 (N.D. Ill. 2013); Valdez v. Cox Commc'ns Las Vegas, Inc., 2:09-CV-01797, 2012 WL 1203726 (D. Nev. Apr. 11, 2012); Lawrence v. Adderley Indus., Inc., CV-09-2309, 2011 WL 666304 (E.D.N.Y. Feb. 11, 2011); and Jacobson v. Comcast Corp., 740 F. Supp. 2d 683 (D. Md. 2010). The Court considers these cases as further discussed below. 
+
+
+
+The Secretary contends that DirecTV’s control over AIS’s installers was so pervasive as to render AIS a mere labor contractor for DirecTV.  Dkt. #121 at 1. Indeed, with nearly every facet of employment, from employment eligibility to work schedule to performance standards, including dress and manner of customer communication, the Secretary asserts that DirecTV controlled the employees of AIS.  Id. In sum, the Secretary argues that DirecTV was the de facto employer of an inexpensive workforce, unburdened by the responsibility of paying employees according to the law under FLSA.  Id. 
+
+DirecTV responds that the Secretary fails to establish an employment relationship between DirecTV and the Installer-technicians employed by independent contractor AIS. Dkt. #126 at 1. DirecTV characterizes its indirect involvement with AIS’s employees as minimal.  Dkt. #127, Ex. 6 at 24:7-21 and 26:8-27:5.  DirecTV claims it engaged with AIS management on personnel matters only to ensure a high-quality experience on behalf of its customers, without interest in matters such as hiring and firing, scheduling, payroll, or any other joint employment standard.  Dkt. #129 at ¶¶ 7-8. 
+
+The Court first analyzes these arguments under the four “regulatory” Bonnette factors before “considering all factors relevant to the particular situation” under the “non-regulatory” eight-factor Torres-Lopez framework.  Moreau v. Air France, 356 F.3d 942, 950-951 (9th Cir. 2004). 
+
+As a preliminary matter, the Court observes that AIS’ near singular reliance on revenue from DirecTV is a significant consideration when analyzing the economic reality test factors. Indeed, evaluation of a company’s power over the employment relationship must take into account its control over the purse strings, “[r]egardless of whether [it is] viewed as having had the power to hire and fire.” Bonnette, 704 F.2d at 1470. DirecTV was the source of the “vast majority” of AIS’s revenue.  Dkt. #127, Ex. 3 at 141:12-14. Mr. Martinez testified, and DirecTV highlights for the Court, that outside of DirecTV work orders, Mr. Martinez (on behalf of AIS) serviced only one other client - Multiband Corporation.  Id. at 139:16-140-13; Dkt. #126 at 3.  The Court notes here that Multiband Corporation identifies itself as a DirecTV HSP, and parent corporation Goodman Networks holds DirecTV’s Home Service Provider Partner of the Year award for 2014.2 See https://www.multibandusa.com/home/default.asp. Accordingly, the Court concludes that, directly or indirectly, DirecTV controlled 100% of AIS’s revenue stream. 
+
+ 
+
+
+
+The Court first examines whether DirecTV had “[t]he right, directly or indirectly, to hire, fire, or modify the employment conditions of the workers.” Torres-Lopez, 111 F.3d at 640 (emphasis added).  Indirect control as well as direct control can demonstrate a joint employment relationship. Id. at 643 (citing 29 C.F.R. § 500.20(h)(4)(ii)). Accordingly, the Court does not mechanically ascribe the power to hire and fire only to the direct employer. 
+
+  Press Release, Goodman Networks, Goodman Networks Named DIRECTV 2014 Home Service Provider Partner of the Year (Mar. 17, 2015), available at http://www.goodmannetworks.com/index.php/about-goodman/news-and-events/news (last visited May 20, 2015). 
+
+It is undisputed that only AIS had the authority to hire and fire its employee-Installers. Dkt. #141 Ex. 1 at 38:8-18, 39:18-22 and 48:16-49:25.  There is no evidence that DirecTV specifically requested or directed that AIS hire or fire any potential candidate or employee. Id., Dkt. #127, Ex. 3 at 83:22-25. However, that does not mean DirecTV did not influence hiring and firing decisions. For the reasons discussed herein, DirecTV “unquestionably” plays a role in hiring and firing Installers.  Jacobson v. Comcast Corp., 740 F. Supp. 2d 683, 689 (D. Md. 2010). 
+
+In Jacobson, the District Court of Maryland examined Comcast’s purported liability for wages due under FLSA to the employees of multiple subcontracting companies, giving broad deference to Comcast’s “strict quality controls.” Jacobson, 740 F. Supp. 2d at 686. Despite Comcast’s “unquestionable” influence, the court found, with reservations, that Comcast’s exertion of power over hiring and firing decisions was likely “only in the context of quality control.”  Id (c.f. fn. 5).  Still, the court was inconclusive on this factor, finding instead that all four Bonnette factors did not “dictate” that Comcast was a joint employer, and concluded the same.  Id., at 692-693 (finding as much, “although the issue is not free from doubts”). 
+
+Safety and quality control purposes have in some cases weighed against a finding of joint employment in the Ninth Circuit (see Moreau v. Air France, 356 F.3d 942, 951 (9th Cir. 2004), Zhao v. Bebe Stores, Inc., 247 F. Supp. 2d 1154, 1160 (C.D. Cal. 2003)). In Moreau, extensive control did not favor joint employment in the case of luggage handlers supervised under strict FAA safety standards  In Zhao, where specific quality control personnel were hired specifically to execute quality standards, joint employment was similarly rejected. 
+
+However, the Moreau and Zhao decisions are distinguishable from the instant matter for the reasons discussed herein. 
+
+AIS advertised employment openings on the Craigslist web site and conducted interviews. Dkt. #141, Ex. 1 at 38:8-18. From that point forward it appears that DirecTV established and enforced the eligibility requirements for AIS technicians.  DirecTV required that potential hires pass prerequisite background checks comprised of drug screens, criminal history, social security and motor vehicle record checks.  Dkt. #127, Ex. 3 at 44:9-44:24 and 48:24-49:15; Dkt. #141, Ex. 1 at 38:21-23. An applicant would not be eligible for employment before passing all screenings.  Dkt. #141, Ex. 1 at 48:24-49:15.  Further, DirecTV mandated that DirecTV-approved vendors conduct the screenings.  Dkts. #126, Ex. A at 1-2; #141, Ex. 1 at 44:16-18; #123, Ex. U at 44:11-18 and #121, Ex. B at 307-308 (filed under seal). The results of the screenings were then provided to DirecTV.  Dkts. #141, Ex. 1 at 49:10-15 and #121, Ex. B at 307-308 (filed under seal). 
+
+In addition, DirecTV required two certifications for AIS Installers, to be obtained from DirecTV-specific Jones University and the Satellite Broadcasting and Communications Association (“SBCA”). Dkts. #123, Ex. U at 39:23-40:20, 42:12-22; Ex. N at 74:24-75:4; #126, Ex. 3 at 39:23-40:20; #129 at ¶ 10; and #141, Ex. 1 at 39:23-42:22.  Requiring certifications for skilled work is not unusual, and DirecTV points out that proper certification enhanced customer satisfaction.  Dkt. #141, Ex. 4 at 75:14-22.  However, it is significant that the requirements were set by DirecTV, not AIS. Aside from Mr. Martinez’s preferences for candidates who owned a truck, had a history working in construction, and had good energy, there are no other Installer qualifications not imposed by DirecTV.  Dkt. #141, Ex. 1 at 38:19­39:14 
+
+It is also telling that exclusivity language in the DirecTV “Services Provider Agreement” forbade AIS and its Installers from serving companies offering comparable programming or television services.  Dkt. #121, Ex. B at 289-290 (filed under seal) and Ex. 
+
+C. Installers worked only on DirecTV installation and upgrade jobs initiated by DirecTV work orders. Dkt. #141, Ex. 2 at 25:16-23. Further, DirecTV refused to issue work orders to Installers deemed frequently noncompliant with its performance criteria.  Dkts. #127, Ex. 3 at 81:15-24; and #141, Ex. 3 at 58:1-12; Ex. 4 at 113:3-14 and Ex. 1 at 81:11-82:14.  Under the exclusivity agreement, Installers who did not get DirecTV work orders could perform no alternate installation work. Thus, without DirecTV-generated and authorized work orders, an Installer had no work and therefore no pay. In effect, DirecTV could constructively discharge an Installer by refusing to give him or her work.  Other courts in the Ninth Circuit have determined such refusal to be “a sanction somewhat equivalent to firing” where the company supplied the “vast majority” of the subcontractor’s work.  Lemus v. Timberland Apartments, L.L.C., 2011 WL 7069078, at *10 (D. Or. Dec. 21, 2011) report and recommendation adopted, 2012 WL 174787 (D. Or. Jan. 20, 2012) (“Thus, this factor weighs in favor of finding a joint employment relationship”). 
+
+DirecTV collected AIS Installer performance data (discussed at length below) and relayed concerns about underperformance to AIS, which investigated DirecTV’s charges and responded with corrective action. Dkts. #127, Ex. 1 at 17:21-18:14; #141, Ex. 1 at 82:11­
+
+83:15 and #123, Ex. S (filed under seal). Corrective action, including termination, was left to the discretion of AIS. Dkt. #141, Ex. 4 at 113:3-14 and Ex. 1 at 83:9-25.  However, Mr. Martinez fired AIS Installers due to consistently poor DirecTV metric reports.  Dkt. #123, Ex. 7 at 27:9-14. 
+
+Mr. Martinez claims that, as a small company, AIS preferred to offer employees every chance to succeed before terminating their employment.  Dkt. #127, Ex. 3 at 83:16-21. However, under the first regulatory factor, DirecTV’s influence on hiring and firing decisions need not be exclusive or direct. Torres-Lopez, 111 F.3d at 640. The undisputed facts indicate that DirecTV, rather than AIS, set the standards for employment and had indirect power to enforce them. As such, this factor weighs in favor of joint employment. 
+
+2. Supervision and Control of Employee Work Schedules or Conditions of Employment 
+
+The Court next considers supervision and control over employee work schedules and conditions of employment.  Torres-Lopez, 111 F.3d at 642. Other FLSA cases involving potential joint employment between cable providers and their contractors appear to have relied most heavily upon this factor, or a similar variation thereof, in finding against joint employment.  See, e.g., Thornton, 2014 WL 4794320 at *15; Zampos, 970 F. Supp. 2d at 803. DirecTV argues that these out-of-District cases are controlling in this matter.  The Court disagrees. 
+
+In Torres-Lopez, the Court found that the farm made all decisions regarding the times and quantities of harvest, and how many workers would be employed in the harvest, weighing in favor of a joint employment relationship.  Torres-Lopez, 111 F.3d at 642. In “marked” contrast, other courts in the Ninth Circuit have found that direct supervisors (akin to those at AIS) might schedule work, control worker shifts and hours of work, and create employee assignments, but not in a manner suggesting joint employment.  Zhao, 247 F. Supp. 2d at 1160. 
+
+It is uncontroverted that DirecTV installation jobs, initiated upon customer request, were scheduled by DirecTV and distributed to AIS in the form of daily work orders.  Dkt. 
+
+#121, Ex G. DirecTV assigned specific employees to particular work orders, via pre-assigned Tech IDs, and routed the assignments through DirecTV Field Supervisors.  Dkt. #129 at 6:8­
+
+18. Individual Tech ID assignment reflected the individual AIS employee’s skill set, work schedule and starting zip code as supplied to DirecTV by AIS.  Dkt. #141, Ex. 1 at 87:2-14 and Ex. 4 at 53:16-20. 
+
+Re-assignment (also referred to as a “re-tech”) to another AIS Installer could be requested by a supervisor at AIS. Dkt. #141, Ex. 4 at 51:22-53:15, 108:2-109:19; Ex. 1 at 18:19-22, 28:2-22, 87:15-88:6; Ex. 5 at 79:11-23 and Ex. 6 at 104:9-14.  However, both parties agree that re-assignment necessarily involved communication and agreement by both companies before work could begin.  Dkts. #141, Ex. 5 at 47:13-20, 48:1-7 and #122, Ex. H (filed under seal) and Ex. I at 47:1-48:7. Whether this concurrence is accurately characterized as an “approval” (Dkt. #141, Ex. 5 at 47:18) or mere record-keeping is at issue between the parties; but is not material to the Court’s analysis regarding responsibility for employee assignment.  How frequently AIS reassigned work orders is similarly unclear, and immaterial. The record is clear that DirecTV exercised authority to control AIS employee work schedules.  Dkt. #124, Ex. DD (filed under seal) (“[AIS] should not be making decisions to bring techs in without receiving specific direction and permission from [DirecTV]”).  DirecTV’s systematic assignment of Tech ID numbers corresponding with a particular Installer’s location, availability and proficiency for certain types of satellite installation was purposeful and intentional. 
+
+DirecTV also controlled the shifts of AIS workers beyond these daily installation assignments.  DirecTV monitored and recorded AIS Installer arrival times, verifying its expected 8:00 a.m. start, as well as job completion times.  Dkts. #121, Ex. F at 27:1-14 and #122, Ex. J (filed under seal). For certain periods of time, DirecTV controlled work hours by requiring AIS to schedule Installers for 10-hour shifts, shifts extending to 8:00 p.m., or six-day work weeks.  Dkt. #122, Ex. K at 55:22-57:15 and Ex. L (filed under seal). DirecTV retained the authority to deny leave requests made by AIS Installers.  Dkts. #141, Ex. 5 at 39:1-13 and #122 Ex. I at 38:7-39:13. For example, the record indicates that DirecTV explicitly rejected various AIS leave requests ranging from professional time for additional training to personal time over holidays.  Dkt. #124, Ex. FF (filed under seal) and Ex. GG (filed under seal). 
+
+Although not dispositive of this factor, the Court takes into consideration the full scope of the putative joint employer’s control over the day-to-day conditions of employment. AIS Installers were required to wear DirecTV uniforms3, display DirecTV badges and drive clean personal vehicles branded with DirecTV signage.  Dkts. #141, Ex. 4 at 73:2-10 and #121 Ex. B at 26 (filed under seal) and Ex. M at 4208 (filed under seal). DirecTV also established, monitored and enforced the sufficient duration and content of AIS Installer interactions with DirecTV customers, including whether the badge was properly displayed. Dkts. #122, Ex. M at 4208 (filed under seal), #121, Ex. B at 299 (filed under seal) and #123, Ex. Q. This is distinguishable from the cable company cases relied upon by DirecTV, where contracted employees wore neutral uniforms or uniforms branded with the contractor’s logo, drove vehicles branded with the contractor’s logo, and received direct assignments from the contractor’s own dispatch department, not the cable company’s.  See Thornton, 2014 WL 4794320 at *4-*5; Zampos, 970 F. Supp. 2d at 799-800; Lawrence, 2011 WL 666304 at *4. 
+
+3 An “approved” blue shirt and cap, each bearing the DirecTV logo, offered by DirecTV tothe Contractor at regular DirecTV prices.  Dkts. #130 at DTV000309 (filed under seal) and #127, Ex. 3 at 92:4-10. 
+
+Supervision has been characterized as “substantial” where the putative joint employer “had the right to inspect all the work performed …, both while it was being done and after...” Torres-Lopez, 111 F.3d at 642 (emphasis added). But this degree of “indirect” control does not automatically weigh in favor of joint employment.  See Moreau v. Air France, 356 F.3d 942, 951 (9th Cir. 2004). Here, AIS Installers were required to report arrival, departure and technical information (i.e., whether a broadband or telephonic connection was made) to DirecTV from each installation site.  Dkts. #141, Ex. 4 at 48:22-51:4; #122, Ex. M at 4206 ¶3 (filed under seal) and Ex. N at 50:18-51:4; and #121, Ex. F at 21:3-23:20.  Reporting could occur electronically, through a proprietary application installed on the technician’s personal smart phone, telephonically to DirecTV’s dispatch system, or indirectly via AIS supervisors. Dkt. #141 Ex. 6 at 98:10-99:7 and 100:3-22; Ex. 1 at 151:17-152:4; and Dkt. #121, Ex. F at 21:3-23:20. DirecTV argues that not all of these options required direct contact with DirecTV dispatch. Dkts. #127, Ex. 2 at 49:8-50:17 and Ex. 5 at 98:10-99:9. However, how these points of contact occurred is of less import than the fact that each was required of the Installer and maintained by DirecTV for purposes of individual performance evaluation.  Dkts. #123, Ex. 7 at 27:9-14 and 82:11-83:15; and #123, Ex. S (filed under seal).  DirecTV’s precise, computer-assisted supervision far exceeds that in Torres-Lopez, where a supervisor’s mere “presence in the fields helped ensure that the farm workers performed satisfactorily.”  Torres-Lopez, 111 F.3d at 642. Accordingly, the Court finds this factor weighs in favor of joint employment.   
+
+3. Determination of Rate and Method of Payment 
+
+The Court next weighs the impact of the alleged joint employer’s payment to the labor subcontractor upon the rate and method of payment to its employees.  Torres-Lopez, 111 F.3d 
+
+at 643. The putative joint employer “exercise[s] some power in determining the pay rates” for laborers when, as here, piece-rate payments to the intermediary employer effectively “cap” what workers may earn. Id. The farm in Torres-Lopez exercised its power over laborer wages by way of seasonal increases paid to the third-party labor contractor.  Id. In Real, the Ninth Circuit found “[p]articularly significant[]” the determination of the laborer’s rate of pay as a fixed percentage of the total amount paid to the subcontractor.  Real, 603 F.2d at 756. By determining the amount paid to the subcontractor, the company “may ultimately determine the amount the [employees] are paid for their labor.”  Id. 
+
+Here, the parties agree that AIS Installer compensation was based upon a fixed percentage of the “piece rate” paid by DirecTV to AIS for the corresponding completed task or sale. Dkts. #141, Ex. 2 at 59:1-7 and Ex. 1 at 95:17-19, 98:7-20; #121, Ex. B at 321; #123, Ex. V; and #124, Ex. W at 14-15 ¶ ¶ 6.1-6.2.  Mr. Martinez testified that the rate card between DirecTV and AIS was the basis for “decid[ing] what percentage we can afford to pay our technicians.” Dkt. #123, Ex. U at 98:7-24. 
+
+The financial arrangements between cable or satellite television providers and their subcontractors have direct bearing upon vertical joint employment analyses.  See, e.g., Jacobson v. Comcast Corp., 740 F. Supp. 2d 683 (D. Md. 2010).  In Jacobson, the controlling issue was framed as whether a provider may impose strict quality controls on a subcontractor without becoming liable for wages due under FLSA.  Jacobson, 740 F. Supp. 2d at 686. The Hon. Frederick Moltz answers in terms of the Bonnette payment factor: “My view is that the answer is ‘yes,’ provided that the fees paid by the company to the direct employers of the workers are sufficient to pay the workers the wages they are due.” Id. (granting Defendant’s motion for summary judgment absent argument from Plaintiffs that fees paid to subcontractors were insufficient under FLSA) (emphasis added). 
+
+DirecTV asserts that its financial arrangement with AIS did not dictate the amount AIS chose to pay its installers, and notes that it had no input into this determination.  Dkts. #139 at 19 and #141 at 94:22-95:3. The Court does not take an all-or-nothing approach to this or any other economic reality test factor.  AIS paid its overhead, its supervisors and its technician Installers from the income generated in vast majority by DirecTV.  Dkt. #127, Exs. 3 at 98:7-20, and 4 at 32:10-23. AIS rose and fell with DirecTV’s fortunes, adding and subtracting labor per DirecTV’s requirements.  Dkts. #127, Ex. 2 at 15:6-13 and 54:1-5; #122, Ex. 4 at 54:23-55:9 and 56:7-57:13; #123, Exs. O and P; and #124, Ex. HH.  The wisdom of AIS’s agreement to DirecTV’s exclusivity clause may be debatable, but its near-sole reliance on DirecTV for the entirety of its income is not. In conjunction with other financial incentives paid to AIS, the weight of DirecTV’s influence on the rate of Installer pay is substantial. Thus, the Court finds that this factor weighs heavily in favor of joint employment. 
+
+
+
+Although this fourth regulatory factor, maintenance of employment records, appears to be the least influential in Ninth Circuit joint employment analysis, extra-jurisdictional case law suggests that it may carry significance here.  As a preliminary matter, to “maintain” is “to continue in possession of (property, etc.).”  Black’s Law Dictionary (10th ed. 2014).  The FLSA defines and prescribes the basic records that an employer must maintain: 
+
+1. 
+
+Employee’s full name and social security number.  
+
+
+
+2. 
+
+Address, including zip code. 
+
+
+
+3. 
+
+Birth date, if under 19.  
+
+
+
+4. 
+
+Sex and occupation. 
+
+
+
+5. 
+
+Time and day of week when employee’s workweek begins.  
+
+
+
+6. 
+
+Regular hourly pay rate and basis on which wages are paid: per hour, per week, piecework, commission, etc.  
+
+
+
+7. 
+
+Hours worked each day and total hours worked each workweek.  
+
+
+
+8. 
+
+Total daily or weekly straight-time earnings.  
+
+
+
+9. 
+
+Total premium pay for overtime hours.  
+
+
+
+10. 
+
+Total additions to or deductions from wages paid each pay period.  
+
+
+
+11. 
+
+Total wages paid each pay period.  
+
+
+
+
+
+12. Date of payment and the pay period covered by the payment.  29 C.F.R. § 516.2 
+
+Under the FLSA it is mandatory only that an employer maintain such records.  Under FLSA case law, actual control over, and not merely access to, employment records by an additional employer whose interests are served by the same employee points in the direction of joint employment. See, e.g. Zhao, 247 F. Supp. 2d at 1160 (“access to. . . payroll records. . . cannot and should not be equated with. . . control, either direct or indirect, over. . . payroll records”). 
+
+DirecTV turns the Court’s attention to Zampos, where Comcast’s maintenance of employment records did not evidence an alleged joint employment relationship.  Dkt. #126 at 24 ¶ 4(d); Zampos, 970 F. Supp. 2d at 805-06. The Zampos court, relying on Jacobsen out of the District of Maryland, concluded that such recordkeeping is “only an extension of . . . quality control procedures.” Zampos, 970 F. Supp. 2d at 805 (citing Jacobsen, 740 F. Supp. 2d at 692 (citing Herman v. Mid-Atl. Installation Servs., Inc., 164 F. Supp. 2d 667, 692 (D. Md. 2000))) (Information of the type maintained by Comcast served to “ensure that W & E technicians are fit to enter customers’ homes, that Comcast receives the services for which it is entitled, and that the W & E technicians fulfilling installation services are authorized to do so.”). 
+
+Zampos’ reliance on Jacobsen mistakenly adopts Jacobsen’s misplaced application of Herman v. Mid-Atl. Installation Servs., Inc., 164 F. Supp. 2d 667 (D. Md. 2000). In Herman, the court referenced a technician’s fitness to enter customer homes only with regard to Comcast’s mandated screenings, and concluded that requiring screenings of Installers is neutral as a joint employment factor:   
+
+MAT’s drug test and background-check policy (which is mandated by its contract with Comcast) is neutral. It denotes neither an employee/employer nor a contractor/client relationship; instead, it is perfectly consistent with both. The installers enter customers’ homes. It is only good business sense for Comcast and MAT to attempt to insure that they are fit to do so. 
+
+Herman v. Mid-Atl. Installation Servs., Inc., 164 F. Supp. 2d 667, 673 (D. Md. 2000), aff’’d sub nom., Chao v. Mid-Atl. Installation Servs., Inc., 16 F. App’x 104 (4th Cir. 2001). 
+
+Even if this Court was to adopt Zampos’ rationale exempting recordkeeping found to be “an extension of quality control” from weighing in favor of joint employment, that rationale does not apply here. In addition to the results of AIS Installer background checks and drug screenings, DirecTV maintained a database matching AIS Installers, including their Tech ID number, individual certification status, skill set, weekly work schedule, starting location (typically the Installer’s home address) and, for certain contractors, cell phone number, with specific work orders.  Dkts. #127, Ex. 2 at 75:5-22; #141 Ex. 4 at 51:5-54:9 and #129 at ¶¶ 16-17. Completed work orders produced such data as Installer arrival and departure times, system activation details, and the installed services for which the Installer was responsible. This information is, for all intents and purposes, payroll information. DirecTV also gathered and assembled detailed performance data for individual AIS and DirecTV-employed (“in-house”) Installers alike.  Dkts. #142 at 3:1-2 and #123, Exs. Q and R (filed under seal). From these collected statistics, DirecTV supplied AIS with Installer 
+
+performance assessments.  Dkt. #127, Ex. 3 at 22:9-25:12.  DirecTV obtained additional data though customer satisfaction surveys conducted after installation.  Dkts. #127, Ex. 3 at 81:15­24; and #123, Exs. Q and R. (filed under seal). DirecTV used the data to place AIS Installers on “forced time off,” and acknowledges that AIS was expected to use the accumulated data to improve Installer performance.  Dkts. #122, Ex. 4 at 57:16-59:11; #123, Exs. T and U at 51:2­51:8; and #124, Ex. DD (filed under seal). In fact, DirecTV conducted “weekly to biweekly” meetings with AIS to discuss Installer performance based upon DirecTV’s accumulated data. Dkts. #121, Ex. 7 at 14:5-16:13 and #124, Exs. Y and Z (filed under seal). Accordingly, AIS’s internal employee evaluations were based upon DirecTV performance reports, in addition to limited feedback from customers and its own quality control data.  Dkts. #127, Ex. 3 at 25:20-26:13 and #141, Ex. 1 at 65:9-66:22. These types of records are more akin to records maintained by an employer. 
+
+DirecTV characterizes these records as mere “quality control” in benefit of “world­class” customer and employee experience.  Dkt. #121, Ex. 2 at 9:18-22.  But, as courts in parallel cable cases have similarly held, a quality control motive for such exact recordkeeping may be secondary to other purposes for which it was kept by the putative joint employer. Zampos, 970 F. Supp. 2d at 805 (quoting Jacobson, 740 F. Supp. 2d at 692) (“Plaintiffs fail to present any evidence that the maintenance of this type of information is used to exercise control over the work or working conditions of W & E technicians, or that Comcast retains these records for any purpose beyond quality control”). 
+
+Here, DirecTV’s recordkeeping accomplished the purposes of establishing working conditions (by assigning Tech ID numbers to work orders), payroll (tracking completed work orders) and evaluating employee performance (compiling data into organized performance metrics).  Evidence in the record shows DirecTV used data compiled over time (“ongoing consecutive problems”) to “discipline” AIS Installers by refusing to issue work orders.  Dkts. #121, Ex. 7 at 56:22-59:3 and #124, Ex. CC (filed under seal) (“Can anyone tell me if those techs are one of the two techs I put on discipline or ‘do not route?’”) 
+
+Employee record maintenance, when utilized for purposes beyond mere quality control, weighs in favor of joint employment.  The Court finds it does so in this matter.   
+
+
+
+
+
+Although the first four factors weigh in favor of joint employment, the Court also examines the relationship between DirecTV and AIS via the non-regulatory factors assembled in Torres-Lopez. These non-regulatory factors squarely address the economic relationship between putative joint employer and workers, where an intermediary employer serves as the “primary” employer.  Chao, 346 F.3d at 917. “The determination of the relationship does not depend on … isolated factors but rather upon the circumstances of the whole activity.” Rutherford Food Corp. v. McComb, 331 U.S. 722, 730, 67 S. Ct. 1473, 1477 (1947). 
+
+1. The Work Was a Specialty Job on the Production Line 
+
+Under Torres-Lopez, the first factor the Court examines is the posture of the work at issue within the scope of the alleged joint employer’s product delivery.  In Rutherford Food Corp. v. McComb, 331 U.S. 722, 67 S.Ct. 1473 (1947), beef de-boning work was held to be a specialty job on the production line of a slaughtering plant whose principal export was boned beef. Rutherford, 331 U.S. at 724. The Ninth Circuit later ascribed cucumber picking as the same, reasoning that the work “constituted one small step in the sequence of steps” necessary to grow and prepare cucumbers for processing. Torres-Lopez, 111 F.3d at 643 (emphasis added). 
+
+Since the decision in Torres-Lopez, luggage handling4 and apartment home framing5 have been examined as work potentially qualifying as “part of the integrated unit of production.” Rutherford, 331 U.S. at 729. The Court is not persuaded by DirecTV’s argument that this and the rest of the non-regulatory factors “are better suited to analyze the employment relationships of farm workers” or that application of such factors suggests “that the Techs are akin to cucumber pickers.”  Dkt. #139 at 12:18-19 and 20:20-21. 
+
+By its own description, DirecTV is in the business of delivering digital-quality satellite entertainment into the homes of its customers.  Dkts. #129 at 1 and #126 at 1.  DirecTV’s revenue comes from selling competitive home satellite television subscriptions priced by consumer channel or “package” choices.  Just as the deliverable in Rutherford was boned beef and the deliverable in Torres-Lopez was ripe cucumbers, the deliverable here is satellite television entertainment.  The availability of that entertainment depends on custom home installations expertly performed by well-trained Installers.  Like beef de-boning and cucumber picking before it, professional installation is but “part of the integrated unit of production.” Installation is likely a one-time event in the life of a household’s DirecTV subscription measured in hours.  After activation, subscribers may add and subtract custom entertainment packages including premium movie channels and professional sports packages.  The Court finds installation of proprietary equipment analogous to a specialty job on the production line 
+
+4 Moreau v. Air France, 356 F.3d 942, 951 (9th Cir. 2004). 
+
+5 Lemus v. Timberland Apartments, L.L.C., No. 3:10-CV-01071-PK, 2011 WL 7069078, at *16 (D. Or. Dec. 21, 2011) report and recommendation adopted, No. 03:10-CV-1071-PK, 2012 WL 174787 (D. Or. Jan. 20, 2012).   
+
+insofar as equipment installation is one small, if crucial, step in the process.  Accordingly, this factor also weighs in favor of joint employment.   
+
+2. Responsibility Under the Contracts Between a Labor Contractor and an Employer Passed from One Labor Contractor to Another Without Material Changes 
+
+The Court next considers the degree of material changes, if any, which occurred with regard to worker responsibility under DirecTV’s “Service Provider Agreement” when it passed from one labor contractor to another. Material alterations are those changes or modifications in the instrument “sufficient to alter the instrument’s legal meaning or effect.”6 Here, the focus is on material changes in “responsibility.” 
+
+The question originates in Rutherford, where “responsibility under the boning contracts without material changes passed from one boner to another.”  Rutherford, 331 U.S. at 730. There, although the employer frequently changed the subcontractor responsible for hiring the boning employees, the same terms applied to the same employees who performed the same jobs in the same location. Id. In Torres-Lopez, evidence showed no material change in the oral contracts between the farm and the various labor contractors, which were considered “standard for the industry and involved little negotiation.”  Torres-Lopez, 111 F.3d at 643. 
+
+In the instant action, Installers moved between subcontractors Lumin and AIS when the former’s DirecTV contract shifted to the latter, without change to the contract or any negotiation between DirecTV and AIS. Dkts. #123, Ex. 7 at 141:18-142:15; #129 at ¶ 3 and #121, Ex. 3 at DTV000283 (filed under seal) and Ex. 4. Likewise, the day after AIS closed, Mr. Martinez and an unspecified number of his Installers shifted to a new labor contractor, 
+
+6 Black’s Law Dictionary, p.91 (9th ed. 2009). 
+
+Next Solutions, without interruption or any change to Next Solutions’ pre-existing contract with DirecTV.  Dkt. #121, Ex. E (filed under seal) (“There is no anticipated shortfall of support just operating under a different name from beginning the 31st [sic].”) (emphasis added) and Ex. F at 90:3-16. The Court finds that these labor transfers exhibit this factor in letter and in spirit. 
+
+DirecTV counters that some time after AIS assumed Lumin’s contract, Mr. Martinez successfully negotiated for a raise in the piece rates paid to AIS.  Dkt. #127, Ex. 3 at 142:16­
+
+22. While the Court finds this to be a material change to the terms between the company and subcontractor, it is immaterial to the question of responsibility of the Installers under the contract, which simply passed unchanged from Lumin to AIS.  See Dkt. #123, Ex. 7 at 141:18-142:15 
+
+Likewise, the absence of material changes in responsibility under the contract is not overcome by other language in the contract, cited by DirecTV, preserving the subcontractor’s independence. DirecTV argues that the independence clause prohibits joint employment with AIS. Dkts. #126 at 3 and #130 at ¶ 19. The Court disagrees, as the Ninth Circuit has held that contractual language intended to distinguish independent contractors from employees has little impact in a joint employment analysis.  Real v. Driscoll Strawberry Associates, 603 F.2d at 755 (citing Rutherford, 331 U.S. at 729); Usery v. Pilgrim Equipment Co., 527 F.2d at 1315 (1976) (“Economic realities, not contractual labels, determine employment status for the remedial purposes of the FLSA.”)   
+
+3. The Premises and Equipment of the Employer are Used For the Work 
+
+Joint employment is also informed by the extent to which the alleged joint employer’s premises and equipment took priority over those of the subcontractor.  Here, the contributions by the company and the subcontractor are weighed comparatively.  Real, 603 F.2d at 755. The investment in incidental gardening tools by the subcontractor in Real was found to be “minimal in comparison” with the investment in land, heavy machinery and “necessary supplies” by the primary employer. 
+
+DirecTV’s “highly technical, highly sophisticated” technology and associated specialized installation tools are at the core of the work done by AIS.  Dkt. #127, Ex. 2 at 75:14-22. DirecTV specified the equipment, including bracket and cable types, required for each install, which DirecTV supplied to AIS on consignment.  Dkts. #121, Exs. 2 at 93:10-25 and 7 at 85:8-18; and #127, Ex. 2 at 71:3-5. The Agreement indicates that DirecTV mandated specialized tools for particular types of installations, which AIS purchased for its Installers. Dkts. #130 at 34 (filed under seal) and #127, Exs. 3 at 91:8-20 and 4 at 78:15-24. Otherwise, AIS provided basic tools of its choosing: “cable connectors, zip ties; you know, the consumable types of things that they would probably use on every job or many jobs.”  Dkt. #121, Ex. 2 at 94:7-10. The Court finds this description not unlike the “hoes, shovels and picking carts” supplied by the subcontracted joint employer in Real, 603 F.2d at 755. 
+
+The actual premises of either AIS or DirecTV (i.e., corporate offices) are less consequential here, where neither is the premises used for the work performed by Installers. Satellite installation demands only brief visits to AIS or DirecTV field offices to pick up work orders, tools and equipment for specific jobs.  Dkt. #123, Ex. 7 at 89:15-23:  Analysis under this factor contemplates where the laborer performed the work for which the laborer was paid. The only premises for Installer “piece work” under AIS’s rate card, the sole basis for employee wages and wage claims, are private homes.  Although DirecTV did provide equipment used in the service performed by the Installers, the Court finds this factor neutral in its analysis. 
+
+4. The Employees Had a Business Organization that Could or Did Shift as a Unit from One Worksite to Another 
+
+District courts in the Ninth Circuit find against joint employment where the employer of “a significant number of employees… perform services for companies other than [the putative joint employer].”  Zhao, 247 F. Supp. 2d at 1159-60. Thus, an airline is not the joint employer of luggage handlers who shift as a unit from one carrier to another.  Moreau, 356 F.3d at 951. Where employees as a group do not shift en masse between multiple work sites, joint employment is more likely to be found.  Here, no collective organization of AIS employees had such mobility, like garment workers in Zhao, or the baggage handlers who “worked for multiple carriers in a given work day.”  Moreau, 356 F.3d at 951. Indeed, AIS Installers were contractually forbidden from using their training to perform services for any competing cable or satellite television vendors.  Even had they moved as an organizational unit, their only possible employer could have been DirecTV.  Like the single farm upon which the workers in Torres-Lopez depended, so it is DirecTV upon which the AIS employees depend. The Court finds this suggestive of joint employment.  
+
+5. The Work Was “Piece Work” and Not Work That Required Initiative, Judgment or Foresight 
+
+The Court next examines whether the types of work performed by AIS employees was “piece work,” and not work requiring initiative, judgment or foresight.  As noted throughout this Order, AIS Installers performed piece work.  The parties do not dispute that the Installers are paid “piece rates.”  Dkts. #122, Ex. 4 at 36:22-25 and #123, Ex. 7 at 94:17-21.  DirecTV first paid AIS on a piece work basis, and AIS in turn paid its employees with a percentage of the rate received for that work as piece rates. Dkt. #123, Ex. 7 at 98:7-15.  Thus, the Court addresses the second clause of this factor (“work that required initiative, judgment or foresight”) as established by the U.S. Supreme Court’s holding in Rutherford, supra. In sum, this factor speaks to the limited value of qualities otherwise essential under independent contract work. See Rutherford, 331 U.S. at 730 (finding the work performed “more like piece work than an enterprise that actually depended for success upon the initiative, judgment or foresight of the typical independent contractor.”).   
+
+The parties agree that the Installers were well-trained, with dual certification by SBCA and Jones University. Dkts. #129 at ¶ 16; #123, Ex. 7 at 39:23-42:25; and #121, Exs. 2 at 85:20-25 and 7 at 95:10-22. Ample evidence in the record supports the acquired skill set of a satellite installation technician.  But the laborer’s “initiative, judgment or foresight” is not analyzed in the context of his or her proficiency in a given task.  Instead, the Court considers the impact, if any, of a worker’s “initiative, judgment or foresight” upon the success of the job. Although Installer efficiency was an important metric measured by DirecTV, the initiative, judgment or foresight of a given Installer found scant necessity within the four corners of the work order.  Even DirecTV nullifies individual initiative, judgment or foresight when it insists that Tech ID number assignments were of low importance, and welcome to re-tech by AIS. Dkts. #129 at ¶¶ 17-18 and 122, Ex. 2 at 41:11-16.  The Court finds the work to be skillfully performed by well-trained Installers, but piece-work requiring no initiative, judgment or foresight for its success, nonetheless. /// /// 
+
+6. The Employee Had an Opportunity for Profit or Loss Depending Upon the Alleged Employee’s Managerial Skill 
+
+Much like the preceding examination of the usefulness of an employee’s “initiative, judgment or foresight,” the Court here examines the impact of the worker’s managerial skill, particularly with regard to the opportunity for profit or loss.  Where the subcontractor’s opportunity for profit or loss depends largely upon the employer’s managerial skills, scales tip in favor of joint employment.  Real, 603 F.2d at 755. In Real, the Ninth Circuit contrasted the employer’s many managerial skills against the sublicensee’s “judgment and work in weeding, dusting, pruning, and picking.” Id. Absent any indication of managerial skill on the part of the laborer, the Court concluded that the employer possessed “substantial control over important aspects of the appellants' work.”  Id. 
+
+The Court first notes that performing piece work afforded each Installer an opportunity to make more profit on a given job.  If the Installer could up-sell a protection plan or additional services or equipment upgrade,7 the “piece” for which they were paid by AIS would increase. However, any “managerial skill” contemplated by this factor originated with DirecTV’s capability to generate work, and resided therefrom in DirecTV and AIS.  The skills of the Installer were as strictly circumscribed by the work order – the “judgment and work” of installing and activating satellite television subscriptions – as were the skills of the strawberry picker. Thus, the Court finds that this factor weighs in favor of joint employment. 
+
+7. There Was Permanence In the Working Relationship 
+
+Permanence in the working relationship between the contracting company and the laborer suggests joint employment.  Torres-Lopez, 111 F.3d at 644. Therefore, where 
+
+7 Dkts. #123, Ex. V; #124, Ex. W at ¶ 6.2 and #130 at DTV000321 
+
+workers in Torres-Lopez toiled on behalf on their employer for only thirty-two days in a given calendar year, the court found no “permanence of the working relationship.”  Id. In contrast, here it appears that no change in structure, management or ownership at the level of the subcontracting company can sever the working relationship between DirecTV and Installers. Indeed, when AIS assumed Lumin’s contract, Mr. Martinez and “all” of the Installers moved from Lumin to AIS.  Dkt. #123, Ex. 7 at 31:24-32:1.  Lumin’s primary source of revenue, DirecTV, became AIS’s primary source, and its Installers continued to perform the same services for DirecTV’s customers.  Dkt. #123, Ex. 7 at 34:5-11.  Likewise, when AIS closed its doors, Mr. Martinez and his Installers moved to Next Solutions and continued to provide installation services for DirecTV.  Dkt. #121, Ex. E (filed under seal). This is precisely the kind of relationship contemplated under this factor, and it weighs in favor of joint employment.   
+
+8. The Service Rendered is an Integral Part of the Alleged Employer’s Business 
+
+Finally, the Court examines whether the service rendered is an integral part of the alleged joint employer’s business.  The Court finds that the evidence in this case results in a finding that the work of the Installers is not only integral, but the service could not be provided by DirecTV without the installation.  Likewise, the role played by cucumber harvesting in the Torres-Lopez joint employer’s business was found integral “beyond dispute.” Torres-Lopez, 111 F.3d at 644 (“Unless the cucumbers were picked and sent to the cannery, Bear Creek Farms would not have been able to realize any of the economic benefits from its substantial investment in growing the cucumbers.”)   
+
+DirecTV minimizes the satellite installation work as only a small “overflow” percentage of its Western Washington total business.  Dkt. #127, Ex. 2 at 15:6-13 and 38:10­24. The evidence in the record undermines this position.  DirecTV made relentless staffing demands of AIS, along with an assortment of specific capacity expectations. See, e.g., Dkts. #122, Exs. K at 55:22-57:15 and L; #124, Exs. FF (filed under seal) and GG (filed under seal).  Moreover, DirecTV appears to have leveled vague threats at AIS supervisors, via email critical of AIS Installer productivity.  For example, DirecTV’s Regional Director writes an AIS supervisor that, in light of a perceived failure to meet DirecTV’s expectations, “should productivity levels not meet the same level of our own in house techs per day, I will re­evaluate the need all together.” Dkt. #124, Ex. BB. Accordingly, the Court finds that this factor weighs in favor of joint employment. 
+
+For all of the reasons discussed above, the Court finds that DirecTV is a joint employer of the AIS installers for the purposes of this case.  
+
+
+
+ 
+
+Alternatively, DirecTV argues that it is entitled to partial summary judgment under a “retail or service establishment defense,” found at 29 U.S.C. § 207(i), to the Maximum Hours provision of FLSA, found at 29 U.S.C. § 207(a)(1).  The Secretary opposes the motion, arguing that this defense is “untimely,” and that “DirecTV failed to plead and therefore waives this defense.” Dkt. #135 at 1. Moreover, the Secretary contends that DirecTV relies upon disputed material facts for its claim and fails to offer sufficient evidence to establish the necessary elements of the exception.  Id. 
+
+The Court first considers the Secretary’s objection to the alternative motion for partial summary judgment as untimely. In the Ninth Circuit, “absent prejudice to the plaintiff, a defendant may raise an affirmative defense in a motion for summary judgment for the first time.”  Rivera v. Anaya, 726 F.2d 564, 566 (9th Cir. 1984) (citing Healy Tibbitts Construction Co. v. Insurance Co. of North America, 679 F.2d 803 (9th Cir.1982)) (emphasis added). In Rivera, the Ninth Circuit held that Defendant’s failure to raise an affirmative defense in the initial pleading did not preclude a motion for summary judgment based on that defense, where no prejudice was claimed by appellants.  Id. 
+
+Where prejudice to the plaintiff is claimed, the Ninth Circuit’s “liberalized” requirement may be defeated.  Id. Here, the Secretary claims prejudice with regard to the close of discovery. Dkt. #135 at 8-9.  Specifically, the Secretary asserts that DirecTV notified Secretary’s counsel of the potential defense in a December email message, one month prior to the close of discovery, but never moved to amend its Answer to add the defense.  Dkt. #135 at 8-9. Because amendment did not occur, the Secretary did not engage in discovery related to the defense, and the discovery period has since passed.  As a result, the Secretary asserts that to allow the defense would result in “severe” prejudice to the Department.  Id., at 9. The Court is not persuaded. 
+
+The Secretary relies on Ulin v. Lovell’s Antique Gallery, 2010 WL 3768012 (N.D. Cal. 2010) in support of his argument.  The court in Ulin prohibited defendants from raising an FLSA exemption that had not been the subject of discovery for the first time at summary judgment.  Ulin, 2010 WL 3768012 at *13. The court made that determination because the exemption raised questions of fact not present during discovery and for which the Plaintiff did not obtain discovery. Id. 
+
+Here, however, DirecTV raised the potential affirmative defense a month prior to the closing of discovery. Given the elements of this defense, as further discussed below, it appears that Plaintiff had access to the evidence needed to sufficiently defend against the claim regardless of whether the affirmative defense was raised as an amended answer, motion for summary judgment or email to Plaintiff’s counsel.  Therefore the Court is not persuaded that the Secretary is now prejudiced, particularly given that it has substantively responded to Defendants’ arguments on this defense. 
+
+The Court therefore turns to DirecTV’s motion.  “A party seeking summary judgment bears the initial burden of informing the court of the basis for its motion, and of identifying those portions of the pleadings and discovery responses that demonstrate the absence of a genuine issue of material fact.”  Ulin, No. C-09-03160 EDL, 2010 WL 3768012, at *5 (quoting Celotex Corp. v. Catrett, 477 U.S. 317, 323, 106 S.Ct. 2548, 91 L.Ed.2d 265 (1986)).  Here, DirecTV cannot meet this burden, and its motion must fail. 
+
+DirecTV’s defense relies on 29 U.S.C. §§ 207(a)(1) and 207(i), which state as follows: 
+
+(1) Except as otherwise provided in this section, no employer shall employ any of his employees who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, for a workweek longer than forty hours unless such employee receives compensation for his employment in excess of the hours above specified at a rate not less than one and one-half times the regular rate at which he is employed. 
+
+29 U.S.C. § 207(a)(1). 
+
+No employer shall be deemed to have violated subsection (a) of this section by employing any employee of a retail or service establishment for a workweek in excess of the applicable workweek specified therein, if (1) the regular rate of pay of such employee is in excess of one and one-half times the minimum hourly rate applicable to him under section 206 of this title, and (2) more than half his compensation for a representative period (not less than one month) represents commissions on goods or services.  
+
+29 U.S.C. § 207(i). 
+
+DirecTV argues that (1) AIS was a “retail or service establishment;” (2) more than 
+
+50% of the Installer’s compensation represents commissions; and (3) the Installer’s regular 
+
+rate of pay exceeded one and one-half times the federal minimum wage in 386 of the relevant pay periods. The Secretary responds, in the absence of prejudice, that numerous disputes of material fact exist under all three prongs necessary to satisfy the requirements of a § 207(i) defense. The Court agrees with the Secretary. The degree to which DirecTV disputes the points made by the Secretary in its own response, Dkt. #149 at 9-10, ¶ B, merely serves to highlight the materiality of the disputed facts.  Accordingly, DirecTV’s alternate motion for partial summary judgment is DENIED.   
+
+
+
+ 
+
+Having reviewed the parties’ cross-motions, the oppositions thereto, and replies in support thereof, along with the supporting Declarations and Exhibits and the remainder of the record, the Court hereby finds and ORDERS:  
+
+1. 
+
+Plaintiff’s Motion for Partial Summary Judgment (Dkt. #121) is GRANTED.  This Court has determined that Defendant DirecTV is a joint employer for purposes of the claims in this matter. 
+
+
+
+2. 
+
+Defendants’ Motion for Summary Judgment (Dkt. #126) is DENIED.   
+
+
+
+3. 
+
+This matter shall proceed on the merits of the claims.   
+
+
+
+
+
+
+

@@ -1,0 +1,70 @@
+U.S. Department of Labor Administrative Review Board Washington, DC 20210-0001In the Matter of:
+
+ERIK LECKNER,  ARB CASE NO. 2020-0028
+
+COMPLAINANT, ALJ CASE NO. 2019-SOX-00028 v. DATE:   October 22, 2020GENERAL DYNAMICS INFORMATION
+
+TECHNOLOGY, INC. (formerly CSRA), and
+
+APEX SYSTEMS, LLC,
+
+RESPONDENTS.
+
+Appearances:
+
+For the Complainant:
+
+Erik Leckner; pro se; Fallbrook, California
+
+For Respondent General Dynamics Information Technology:
+
+Andrew F. Merrick, Esq. and Miriam J. Wayne, Esq.; Jenner & BlockLLP; Chicago, IllinoisFor Respondent Apex Systems, LLC:
+
+Laura D. Windsor, Esq.; Williams Mullen; Richmond, Virginia
+
+BEFORE:  James D. McGinley, Chief Administrative Appeals Judge, andHeather C. Leslie and Randel K. Johnson, Administrative Appeals JudgesDECISION AND ORDER
+
+This case arises under the employee protection provisions of the Clean AirAct (CAA), 42 U.S.C.A. § 7622 (1977); Comprehensive Environmental Response,Compensation, and Liability Act (CERCLA), 42 U.S.C.A. § 9610 (1980); Solid WasteDisposal Act (SWDA), 42 U.S.C. §6971 (1980); Toxic Substances Control Act (TSCA), 15 U.S.C. § 2622 (1986); Federal Water Pollution Control Act (WPCA), 33U.S.C. §1367 (1972) (collectively, the Environmental Acts); Energy ReorganizationAct (ERA), 42 U.S.C. § 5851 (2005); and Section 806 of the Corporate and CriminalFraud Accountability Act of 2002, Title VIII of the Sarbanes-Oxley Act (SOX), 18U.S.C. § 1514A (2010).
+
+Erik Leckner filed a complaint alleging that Respondents General DynamicsInformation Technology, Inc. (GDIT) and Apex Systems, LLC (Apex) violated those laws by discharging him from employment. On January 23, 2020, an AdministrativeLaw Judge (ALJ) dismissed the complaint in a Decision and Order (D. & O.) granting Respondents’ Motions for Summary Decision. For the following reasons, we affirm the ALJ.
+
+BACKGROUND
+
+GDIT provides information technology services to government contractors. It acquired CSRA, also a provider of information technology services, in 2018. Apex is a staffing agency. In 2017, the U.S. Environmental Protection Agency (EPA) contracted with CSRA for work on an “Emergency Management Portal” project.
+
+CSRA contacted Apex to obtain a lead Java developer for the project. Apex referredLeckner to CSRA, and CSRA hired Leckner in January 2018 for the position. His duties included designing, writing, testing, documenting, and maintaining computer software, as well as mentoring a junior Java developer.
+
+In January 2018, Leckner asked CSRA supervisor Ed Campbell for access to the project’s full source code repository. The repository is a software system that records changes to source code files and thereby provides a history of all of the revisions in the development of the source code. Campbell was unable to provide the access. Leckner also opined that CSRA had failed to complete a formal transition of the project.
+
+Between January and March 2018, Leckner’s CSRA supervisors concluded that Leckner was involved in several “defensive and aggressive interactions with team members and management.”1 On April 9, 2018, GDIT notified Apex that it was removing Leckner from the project and wanted Apex to find a replacement.
+
+On April 13, 2018, Leckner emailed Rob Thomas, CSRA’s contact at EPA, and complained that the GDIT development team was being denied access to portions of the project code. Leckner also expressed this concern to Campbell, who thereafter told Dominique Reed, an Apex Account Executive, that Leckner had discussed “alleged project inefficiency and other project matters” with EPA. OnApril 16, 2018, Leckner sent a series of emails to Reed in which he complained about “productivity and responsiveness on his assignment.”2 Apex found a replacement and on May 29, 2018, Reed notified Leckner that his employment was terminated and that he must return his badge and laptop.3On July 18, 2018, Leckner initiated a SOX complaint before the OccupationalSafety and Health Administration (OSHA). He amended the complaint to include allegations that his discharge violated the Environmental Acts and ERA. According to Leckner, Respondents retaliated against him for complaining that his lack of access to the repository was a cybersecurity risk that caused a waste of federal funds, and the failure to complete a formal transition allowed a former contractor to retain access to the project.4OSHA concluded that the claims under the Environmental Acts were untimely. OSHA also concluded that Respondents were not covered employers under the ERA, and that Leckner did not engage in SOX-protected activity prior to his discharge. Leckner requested a hearing before an ALJ but, prior to any hearing,GDIT and Apex submitted motions for summary decision. On January 23, 2020, theALJ granted the motions, and Leckner appealed the ALJ’s ruling to the Board. for Summary Decision at 3-5.
+
+JURISDICTION AND STANDARD OF REVIEW
+
+The Secretary of Labor has delegated to the Board his authority to reviewALJ decisions under the Environmental Acts, ERA, and SOX.5 The ARB reviews anALJ’s grant of summary decision de novo under the same standard the ALJ applies.
+
+Summary decision is permitted where “there is no genuine dispute as to any material fact and the movant is entitled to decision as a matter of law.”6 The ARB views the record on the whole in the light most favorable to the non-moving party.7DISCUSSION
+
+1. Leckner’s Claims Under the Environmental Acts Were UntimelyA complainant must file a complaint of unlawful discrimination under theEnvironmental Acts within thirty days of a discrete adverse action.8 The thirty-day limitations period begins to run on the date that a complainant receives final, definitive and unequivocal notice of a discrete adverse employment action.
+
+Respondents submitted evidence that Apex notified Leckner of his discharge onMay 29, 2018. The 30-day limitations period ended on June 28, 2018. The ALJ held that Leckner initiated his complaint with OSHA on July 18, 2018.9 Because LecknerResponsibility to the Administrative Review Board (Secretary’s discretionary review of ARB decisions)), 85 Fed. Reg. 13186 (Mar. 6, 2020).
+
+2015-SOX-00025, slip op. at 3 (ARB July 5, 2018). (42 U.S.C. § 7622(b)(1)), CERCLA (42 U.S.C. § 9610(b)), SWDA (42 U.S.C. § 6971(b)); TSCA (15 U.S.C. § 2622(b)(1)), and WPCA (33 U.S.C. § 1367(b)). first contacted OSHA on May 31, 2018, but he provided no documentation that supports this claim. failed to file his OSHA complaint within 30 days after he was notified of his discharge, his claims under the Environmental Acts were untimely.102. Respondents Are Not Employers Under the ERACongress passed the ERA in 1974 as part of its continuing effort to regulate nuclear energy. In 1978, Congress amended the ERA to prohibit employers from discriminating against employees who report violations of the ERA or the AtomicEnergy Act or who participate in any other action to carry out the purposes of those acts. For purposes of the ERA, the term “employer” includes these entities: (A) a licensee of the Commission or of an agreementState under section 274 of the Atomic Energy Act of (B) an applicant for a license from the Commission or such an agreement State; (C) a contractor or subcontractor of such a licensee or applicant; (D) a contractor or subcontractor of the Department of Energy that is indemnified by the Department under section 170 d. of the Atomic Energy Act of include any contractor or subcontractor covered byExecutive Order No. 12344; (E) a contractor or subcontractor of theCommission; exhibits in responding to Respondents’ Motions for Summary Decision. Now appearing pro se before the Board, Leckner moves to present exhibits that he contends establish the timeliness of his complaint as well as coverage under the ERA and SOX. However, he does not explain why he was unable to present these exhibits (in contrast to those he asserts were requested pursuant to FOIA) to the ALJ. We therefore will not consider this new evidence on appeal and those motions are denied. See, e.g., Aityahia v. Air Line Pilots Assoc., ARB No.
+
+2019-0037, ALJ No. 2018-AIR-00042, slip op. at 3, n.2 (ARB May 19, 2020). (F) the Commission; and (G) the Department of Energy.11Leckner did not rebut Respondents’ assertions before the ALJ that they are not employers under the ERA, and the ALJ held that the record was devoid of any evidence that would bring either Respondent within the ERA’s coverage. The record supports the ALJ.
+
+3. Leckner Did Not Engage in Protected Activity Under the SOXThe SOX prohibits covered employers from discharging, demoting, suspending, threatening, harassing, or in any other manner discriminating against employees who provide information to a covered employer or a federal agency orCongress regarding conduct that the employee reasonably believes constitutes a violation of 18 U.S.C. §§ 1341 (mail fraud), 1343 (wire, radio, TV fraud), 1344 (bank fraud), or 1348 (securities fraud), or any rule or regulation of the Securities andExchange Commission, or any provision of Federal law relating to fraud against shareholders.12Reporting an actual violation is not required; a complainant can engage in protected activity when he reports a belief of a violation that is about to occur or is in the stages of occurring.13 A complainant need not establish the various elements of securities fraud to prevail, and a communication is protected where it is based on a reasonable, but mistaken, belief that the employer’s conduct constitutes a violation of one of the six enumerated categories of law under Section 806.14Additionally, a respondent is not shielded from liability because it was already aware of problems reported by the complainant.15ARB No. 2019-0045, ALJ No. 2019-SOX-00008 (ARB June 29, 2020).
+
+SOX-00031 (ARB Apr. 25, 2013). (ARB Nov. 26, 2014).
+
+During his employment on the Emergency Management Portal project,Leckner expressed concerns about computer software. There is no evidence that he had an objectively reasonable belief that Respondents violated any SEC rule or regulation or otherwise engaged in securities fraud when he communicated his concerns about computer software. And he failed to set forth any regulation, rule, orFederal law that an objectively reasonable person would think the Respondents violated.
+
+In sum, we hold that there is no genuine issue of material fact as to whetherLeckner timely filed his complaint under the Environmental Acts, worked for an entity defined as an employer under the ERA, or engaged in protected activity under the SOX.
+
+CONCLUSION
+
+We AFFIRM the ALJ’s Decision and Order Granting Summary Decision andDENY Leckner’s complaint.
+
+SO ORDERED.
+

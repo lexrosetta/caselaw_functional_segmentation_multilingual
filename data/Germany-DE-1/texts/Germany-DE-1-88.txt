@@ -1,0 +1,120 @@
+
+
+STRE201410059
+
+BFH
+
+1. Senat
+
+20130911
+
+I R 28/13
+
+Urteil
+
+§ 8 Abs 3 S 2 KStG 2002, § 6a EStG 2002, EStG VZ 2006
+
+Titel
+
+Verdeckte Gewinnausschüttung durch Kapitalabfindung der Pensionszusage an den beherrschenden Gesellschafter-Geschäftsführer einer GmbH
+
+Leitsätze
+
+1. Zahlt eine GmbH ihrem beherrschenden (und weiterhin als Geschäftsführer tätigen) Gesellschafter-Geschäftsführer aus Anlass der Übertragung von Gesellschaftsanteilen auf seinen Sohn eine Abfindung gegen Verzicht auf die ihm erteilte betriebliche Pensionszusage, obschon als Versorgungsfälle ursprünglich nur die dauernde Arbeitsunfähigkeit und die Beendigung des Geschäftsführervertrages mit oder nach Vollendung des 65. Lebensjahres vereinbart waren, ist regelmäßig eine Veranlassung durch das Gesellschaftsverhältnis und damit eine vGA anzunehmen.
+
+2. Sagt eine GmbH ihrem beherrschenden Gesellschafter-Geschäftsführer an Stelle der monatlichen Rente "spontan" die Zahlung einer Kapitalabfindung der Versorgungsanwartschaft zu, so ist die gezahlte Abfindung regelmäßig verdeckte Gewinnausschüttung (Anschluss an Senatsurteil vom 15. September 2004 I R 62/03, BFHE 207, 443, BStBl II 2005, 176). Überdies unterfällt die Zahlung der Kapitalabfindung an Stelle der Rente dem Schriftlichkeitserfordernis in § 6a Abs. 1 Nr. 3 EStG 2002.
+
+3. Die Kapitalabfindung führt bei der GmbH auch dann zu einer Vermögensminderung als Voraussetzung einer verdeckten Gewinnausschüttung, wenn der Begünstigte zeitgleich auf seine Anwartschaftsrechte auf die Versorgung verzichtet und die bis dahin gebildete Pensionsrückstellung erfolgswirksam aufgelöst wird. Es gilt insofern eine geschäftsvorfallbezogene, nicht aber eine handelsbilanzielle Betrachtungsweise (Anschluss an Senatsurteile vom 14. März 2006 I R 38/05, BFH/NV 2006, 1515, und vom 5. März 2008 I R 12/07, BFHE 220, 454; Klarstellung des Senatsurteils vom 28. April 2010 I R 78/08, BFHE 229, 234, BStBl II 2013, 41).
+
+Tatbestand
+
+1
+
+I. Die Geschäftsanteile an der Klägerin und Revisionsbeklagten (Klägerin), einer GmbH, hielten bis zum 1. November 2006, dem Streitjahr, der am 18. April 1954 geborene WL zu 97,6 v.H. sowie dessen Kinder ML, PL und CL zu jeweils 0,8 v.H. WL war zugleich alleiniger Geschäftsführer.
+
+2
+
+Mit Vertrag vom 9. November 2006 erwarb ML die Anteile seiner Geschwister. WL und ML gründeten zum 1. November 2006 eine Gesellschaft bürgerlichen Rechts (L-GbR), an welcher WL zu 65 v.H. und ML zu 35 v.H. beteiligt waren. WL brachte in die L-GbR das von der Klägerin genutzte Betriebsgrundstück und seine Geschäftsanteile an der Klägerin ein.
+
+3
+
+Im Geschäftsführervertrag vom April 1990 hatte die Klägerin WL folgende Altersversorgung zugesagt:
+
+4
+
+"§ 7 Alters-, Invaliden- und Hinterbliebenenversorgung1. Der Geschäftsführer erhält ein lebenslanges Ruhegehalt mit 60 % Witwenrentenanwartschaft, wenna) er dauernd arbeitsunfähig wird,b) der Geschäftsführervertrag mit oder nach Vollendung des 65. Lebensjahres endet.Der Anspruch auf Zahlung des Ruhegehalts entfällt, wenn die Gesellschaft den Vertrag aufgrund eines vom Geschäftsführer verschuldeten wichtigen Grundes kündigt.2. Das Ruhegehalt beträgt jährlich 72.000 DM.3. Stirbt der Geschäftsführer während der Dauer des Vertrages oder während der Zeit, in der ihm ein Anspruch auf Ruhegeld zusteht, so erhält seine Ehefrau ein Witwengeld i.H.v. 60 Prozent seines Ruhegehaltes.4. Ruhegehalt und Witwengeld ändern sich im gleichen Zeitpunkt und im gleichen Verhältnis, in dem sich das monatliche Grundgehalt eines leitenden Regierungsdirektors des Landes Bayern gegenüber dem Stand bei Eintritt in den Ruhestand ändert.5. Ruhegehalt und Witwengeld werden in gleichen monatlichen Teilbeträgen jeweils am Monatsende gezahlt.6. Eine Beleihung, Abtretung oder Verpfändung des Ruhegehaltsanspruchs ist ausgeschlossen. § 11 Schlussbestimmungen1. Vertragsänderungen bedürfen in jedem Falle der Schriftform sowie der ausdrücklichen Zustimmung der Gesellschafterversammlung."
+
+5
+
+Mit Nachtrag vom 31. Juli 2006 zum Geschäftsführervertrag wurde vereinbart:
+
+6
+
+"(WL) beabsichtigt, einen Teil seiner Anteile an der (Klägerin) an seinen Sohn (ML) zu übertragen. Um seinem Sohn eine von Pensionsansprüchen unbelastete Gesellschaft übergeben zu können, verzichtet (WL) auf seinen Pensionsanspruch (einschließlich Witwenanwartschaft) gegenüber der (Klägerin).Dies vorausgeschickt, wird folgendes vereinbart:(WL) verzichtet mit Wirkung vom August 2006 auf seinen Pensionsanspruch. Als Abfindung erhält er von der (Klägerin) einen Einmalbetrag von 171.268,00 €. Dieser Betrag kommt im August 2006 zur Auszahlung."
+
+7
+
+Der im August 2006 an WL ausbezahlte Betrag wurde als Arbeitslohn der Lohnsteuer unterworfen und als Betriebsausgabe behandelt. Die Pensionsrückstellung wurde gewinnwirksam aufgelöst. WL arbeitete als Geschäftsführer der Klägerin weiter.
+
+8
+
+Der Beklagte und Revisionskläger (das Finanzamt --FA--) behandelte die Abfindungszahlung als verdeckte Gewinnausschüttung (vGA).
+
+9
+
+Die Klage gegen den hiernach ergangenen Körperschaftsteuerbescheid war erfolgreich. Das Finanzgericht (FG) Nürnberg gab ihr durch Urteil vom 27. November 2012 1 K 229/11 statt.
+
+10
+
+Die Revision stützt das FA auf Verletzung materiellen Rechts. Es beantragt, das FG-Urteil aufzuheben und die Klage abzuweisen.
+
+11
+
+Die Klägerin beantragt, die Revision zurückzuweisen.
+
+Entscheidungsgründe
+
+12
+
+II. Die Revision ist begründet. Sie führt zur Aufhebung der Vorentscheidung und zur Klageabweisung. Der im Streitjahr vereinbarte und gezahlte Abfindungsbetrag zieht eine vGA nach sich.
+
+13
+
+1. Unter einer vGA i.S. des § 8 Abs. 3 Satz 2 des Körperschaftsteuergesetzes (KStG) ist bei einer Kapitalgesellschaft eine Vermögensminderung (verhinderte Vermögensmehrung) zu verstehen, die durch das Gesellschaftsverhältnis veranlasst ist, sich auf die Höhe des Unterschiedsbetrages gemäß § 4 Abs. 1 Satz 1 des Einkommensteuergesetzes (EStG 2002) i.V.m. § 8 Abs. 1 KStG auswirkt und in keinem Zusammenhang zu einer offenen Ausschüttung steht. Für den größten Teil der entschiedenen Fälle hat der Senat die Veranlassung durch das Gesellschaftsverhältnis angenommen, wenn die Kapitalgesellschaft ihrem Gesellschafter einen Vermögensvorteil zuwendet, den sie bei Anwendung der Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters einem Nichtgesellschafter nicht gewährt hätte. Ist der begünstigte Gesellschafter ein beherrschender, so kann eine vGA auch dann anzunehmen sein, wenn die Kapitalgesellschaft eine Leistung an ihn erbringt, für die es an einer klaren, im Voraus getroffenen, zivilrechtlich wirksamen und tatsächlich durchgeführten Vereinbarung fehlt (ständige Spruchpraxis des Senats).
+
+14
+
+2. Vor diesem Hintergrund liegt im Streitfall in der vereinbarten und gezahlten Abfindung an WL aus Anlass dessen Verzichts auf die ihm zugesagte Pensionsanwartschaft eine vGA vor.
+
+15
+
+a) Dabei mag dahinstehen, ob die WL versprochene Versorgung aufgrund der Zusagebedingungen als verfallbar ausgestaltet war, und bejahendenfalls, ob die Anwartschaft unter den besonderen Gegebenheiten des Streitfalls trotzdem über einen "Abfindungswert" verfügte. Es mag auch dahinstehen, ob die der Abfindung zugrunde liegende Motivation --die Entlastung der Klägerin von den Sozialverbindlichkeiten aus Anlass der Anteilsübertragung auf ML-- bei einem beherrschenden Gesellschafter-Geschäftsführer einen tragfähigen betrieblichen Grund darstellt, um die Versorgungsansprüche wie hier geschehen abzufinden (vgl. Otto in Blomeyer/Rolfs/Otto, Betriebsrentengesetz, 5. Aufl., StR F Rz 424; Höfer/Veit/Verhuven, Betriebsrentenrecht, BetrAVG, Band II, Rz 3150, jeweils m.w.N.; anders bei einem nichtbeherrschenden Gesellschafter, s. Senatsurteil vom 28. April 2010 I R 78/08, BFHE 229, 234, BStBl II 2013, 41, m.w.N.). Dahinstehen mag gleichermaßen, ob es sich mit den Anforderungen an einen hypothetischen Fremdvergleich ohne weiteres verträgt, wenn lediglich der bereits erdiente sog. past service abgefunden wird, nicht jedoch der sog. future service (das bejahend Bundesministerium der Finanzen --BMF--, Schreiben vom 14. August 2012, BStBl I 2012, 874; s. dazu aber m.w.N. z.B. Gosch in Kirchhof, EStG, 12. Aufl., § 6a Rz 23), und wenn überdies nicht unbedingt sichergestellt ist, dass der Abfindungsbetrag dem Barwert der Anwartschaft entspricht (s. zum Barwerterfordernis im Abfindungsfall Senatsurteile vom 10. November 1998 I R 49/97, BFHE 187, 474, BStBl II 2005, 261; in BFHE 229, 234, BStBl II 2013, 41; s. dazu BMF-Schreiben vom 6. April 2005, BStBl I 2005, 619). Und schließlich soll hier dahinstehen, ob die parallele Zahlung von Versorgungsgeld und laufendem Gehalt infolge der uneingeschränkt fortgeführten Tätigkeit von WL als Geschäftsführer wegen besonderer Gegebenheiten im Streitfall --so das FG-- bei der Klägerin tatsächlich "nicht einmal ansatzweise" mit jenem Sachverhalt vergleichbar ist, über die der Senat in seinem Urteil vom 5. März 2008 I R 12/07 (BFHE 220, 454) zu entscheiden hatte.
+
+16
+
+b) All das kann unbeantwortet bleiben, weil es unter den Gegebenheiten des Streitfalls an der erforderlichen vorherigen klaren und eindeutigen Abmachung über die Kapitalabfindung fehlte. Denn im ursprünglichen Geschäftsführervertrag selbst war solches nicht vorgesehen. Das versprochene Ruhegehalt war vielmehr erst bei bzw. nach Eintritt der aufschiebenden sowie auflösenden Bedingungen nach Maßgabe entsprechender pro rata-Zahlungen fällig. Dass WL bereits einen rechnerischen Teil der Anwartschaft "erdient" hatte und dass dieser Teil nach den Feststellungen des FG infolge der Abfindungszahlung nicht überschritten worden war, ändert daran nichts. Ausschlaggebend ist allein, dass auch der Anspruch auf den bereits erdienten Teil der Anwartschaft dem begünstigten WL im Zahlungszeitpunkt nicht zustand, sondern ausweislich der Zusagebedingungen von weiteren unabdingbaren Umständen abhing, deren (Nicht-)Eintritt in diesem Zeitpunkt weder absehbar noch verlässlich prognostizierbar war. Der spätere tatsächliche Eintritt des Versorgungsfalls bei angenommener fortbestehender Versorgungsanwartschaft konnte deswegen nicht schlicht als "wahrscheinlich" unterstellt werden.
+
+17
+
+Jedenfalls in Anbetracht dieser Besonderheiten des Streitfalls reichte es aber nicht aus, dass sich die Beteiligten "ad hoc" kurz vor der beabsichtigten (Teil-)Abfindung der Versorgungsanwartschaft auf einen Nachtrag zu der Pensionszusage verständigt haben, durch die die besagten aufschiebenden und auflösenden Bedingungen gegen die Abfindung --also sozusagen gegen "Generalquittung"-- aufgehoben wurden. Dem Erfordernis der klaren und eindeutigen und vorherigen Abmachung zwischen der Kapitalgesellschaft und dem beherrschenden Gesellschafter wurde nicht mehr genügt, wodurch wiederum eine im Gesellschaftlichen gründende (Mit-)Veranlassung der geleisteten Zahlung indiziert wird und eine solche Veranlassung mangels tragfähiger Gegenindizien anzunehmen ist (s.a. Senatsurteil vom 15. September 2004 I R 62/03, BFHE 207, 443, BStBl II 2005, 176, dort zur Gewährung einer Sonderprovision). Ob selbiges auch anzunehmen wäre, wenn die versprochene Versorgungsanwartschaft bereits unbedingt entstanden ist, kann offen bleiben (zum Streitstand s. Gosch, KStG, 2. Aufl., § 8 Rz 1075; Otto in Blomeyer/Rolfs/Otto, a.a.O., StR F Rz 417; Höfer/Veit/Verhuven, a.a.O., Rz 3142, jeweils m.w.N.). Allerdings ist anzunehmen, dass die Zusage der an Stelle der laufenden Rente zu zahlenden einmaligen Kapitalabfindung ohnehin nicht den Schriftlichkeitsanforderungen des § 6a Abs. 1 Nr. 3 EStG 2002 genügt (vgl. dazu BMF-Schreiben in BStBl I 2005, 619, dort unter 3.; Gosch, a.a.O., § 8 Rz 1075; Neumann, GmbH-Rundschau --GmbHR-- 1997, 292, 294; Schmidt, Der GmbH-Steuer-Berater --GmbH-StB-- 1999, 169, 171; Haßelberg, Deutsches Steuerrecht 2002, 1803; anders Otto in Blomeyer/ Rolfs/Otto, a.a.O., StR F Rz 417; Höfer/Veit/Verhuven, a.a.O., Rz 3142).
+
+18
+
+c) Dass das FG in der Abfindung trotz einer solchen im Gesellschaftsverhältnis wurzelnden Veranlassung keine vGA gesehen hat, beruht auf der Fehleinschätzung, dass die Abfindung für die Klägerin im Ergebnis womöglich vorteilhaft gewesen sei, weil sie dadurch von dem sog. future service entlastet werde. Damit übersieht das FG aber den sog. doppelten Fremdvergleich, wonach nicht nur auf den --die Interessen der Gesellschaft im Auge behaltenden-- ordentlichen und gewissenhaften Geschäftsleiter, sondern ebenso auf die Interessenlage des objektiven und gedachten Vertragspartners abzustellen ist: Ein fremder Dritter hätte eine solche Vereinbarung über eine Abfindung nur der bereits erdienten Versorgungsanwartschaft und zudem in einer Höhe, die nach den FA-Berechnungen und den darauf aufbauenden FG-Feststellungen unterhalb des Anwartschaftsbarwerts lag, aber kaum konsentiert (vgl. dazu grundlegend Senatsurteil vom 17. Mai 1995 I R 147/93, BFHE 178, 203, BStBl II 1996, 204; s. auch z.B. Höfer/Veit/Verhuven, a.a.O., Rz 3139; Otto in Blomeyer/Rolfs/Otto, a.a.O., StR F Rz 387, 434 a.E.).
+
+19
+
+d) Die daraus abzuleitende Konsequenz --das Vorliegen einer vGA-- scheitert nicht an dem Fehlen einer hierfür erforderlichen Vermögensminderung.
+
+20
+
+Die Vermögensminderung liegt in der Hingabe des Kapitalbetrages und in dem entsprechenden Vermögensabgang. Dass die Klägerin uno actu die bis dahin von ihr nach Maßgabe von § 6a EStG 2002 gebildete Pensionsrückstellung aufgelöst hat, ändert nichts. Denn die Auflösung der Rückstellung ist unmittelbare Folge des Umstandes, dass der Versorgungsanspruch mit der Zahlung des versprochenen Betrages aus zivilrechtlicher Sicht erfüllt war. Dies ist zwar auf die getätigte Auszahlung zurückzuführen. Doch bleibt es dabei, dass die Auszahlung aus den beschriebenen Gründen durch das Geschäftsverhältnis und damit nicht betrieblich veranlasst war, was wiederum die spezifisch körperschaftsteuerrechtliche Konsequenz der außerbilanziellen Hinzurechnung des Vermögensabgangs als vGA nach sich zieht. Eine "Neutralisierung" dieser Konsequenz infolge einer wechselseitigen Saldierung der jeweiligen Geschäftsvorfälle scheidet aus. Der besagten körperschaftsteuerrechtlichen Konsequenz unterfällt der jeweilige Geschäftsvorfall, nicht der Saldo aus der Vermögensminderung hier --der durch das Gesellschaftsverhältnis bedingten Auszahlung-- und der Vermögensmehrung dort --der bilanzrechtlich bedingten Rückstellungsauflösung--. Beide Vorfälle sind vielmehr auseinanderzuhalten und steuerrechtlich eigenständig zu behandeln. Der Senat hält insofern an dem fest, das er durch Urteil vom 14. März 2006 I R 38/05 (BFH/NV 2006, 1515) --dort ebenfalls bezogen auf eine Anwartschaftsabfindung gegen einen Teilverzicht des Begünstigten-- und in BFHE 220, 454, unter II.2.a, a.E. der Entscheidungsgründe, entschieden hat (vgl. im einzelnen z.B. Gosch, a.a.O., § 8 Rz 398; Schallmoser/Eisgruber/ Janetzko in Herrmann/Heuer/Raupach, § 8 KStG Rz 303; Wilk, daselbst, § 8 KStG Rz 108), und folgt nicht der dagegen geäußerten Kritik (z.B. Briese, GmbHR 2008, 568; Hoffmann, GmbHR 2006, 824, derselbe, GmbH-StB 2010, 371; Otto in Blomeyer/Rolfs/Otto, a.a.O., StR F Rz 430; s.a. Höfer/Veit/ Verhuven, a.a.O., Rz 3137 ff.).
+
+21
+
+Das Senatsurteil in BFHE 229, 234, BStBl II 2013, 41 widerspricht dem nicht. In jener Entscheidung sind zwar --zum einen (unter II.4.a der Entscheidungsgründe)-- die getätigten Rentenzahlungen nach Eintritt des Versorgungsfalls mit der gegenläufigen entsprechenden Minderung der Pensionsrückstellung verrechnet worden. Doch betraf das nur die Situation, dass die außerbilanzielle Hinzurechnung der als vGA zu beurteilenden Zuführungen zur Pensionsrückstellung in der Anwartschaftsphase unterblieben war und sie infolge zwischenzeitlicher Bestandskraft der betreffenden Steuerbescheide auch nicht mehr nachgeholt werden konnte. So verhält es sich im Streitfall, in dem die Abfindung als solche ein gesellschaftlich mitveranlasster Geschäftsvorfall ist, jedoch nicht (s. auch Gosch, BFH/PR 2010, 376). Zum anderen (unter II.5.a cc der Entscheidungsgründe) betraf das Urteil die Zahlung von Kapitalabfindungen im Zusammenhang mit der Übertragung von Versorgungsverpflichtungen auf einen anderen Rechtsträger, die der Senat als gerade nicht als einen durch das Gesellschaftsverhältnis veranlassten Vorfall angesehen hat. Soweit dort allerdings zusätzlich auf den Aspekt der fehlenden Vermögensminderung abgestellt worden ist, mag das missgedeutet werden können und ist deswegen im vorgenannten Sinne abzugrenzen und klarzustellen.
+
+22
+
+3. Die Vorinstanz hat im Ergebnis ein davon abweichendes Rechtsverständnis vertreten. Über die spruchreife Sache entscheidet der Senat nach § 90 Abs. 2 der Finanzgerichtsordnung (FGO) mit Einverständnis der Beteiligten im schriftlichen Verfahren durch Aufhebung des angefochtenen Urteils und durch Klageabweisung.
+

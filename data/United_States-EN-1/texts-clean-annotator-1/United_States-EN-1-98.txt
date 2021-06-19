@@ -1,0 +1,98 @@
+
+
+Plaintiffs Larry Blair and Charlie Davis, on behalf of themselves and all other persons similarly situated, brought suit under the Fair Labor Standards Act (“FLSA”), the Kansas Wage Payment Act (“KWPA”), and the Kansas Minimum Wage and Maximum Hours Law (“KMWMHL”).  Plaintiffs contend that Defendant TransAm Trucking, Inc. misclassified them as “independent contractors” when they were in reality “employees” of TransAm Trucking. Because of this alleged misclassification, Plaintiffs assert that Defendant failed to pay them minimum wages in violation of the FLSA, KWPA, and KMWMHL.  Both parties move for summary judgment on the issue of whether Plaintiffs should be considered employees or independent contractors.  Because the material facts are in dispute, the Court denies both parties’ motions for summary judgment.  
+
+
+
+ 
+
+Defendant TransAm Trucking, Inc. (“TransAm” or “Defendant”) is an interstate and intrastate for-hire motor carrier with facilities in Olathe, Kansas, and Rockwell, Texas. TransAm requires qualified drivers to haul tractor-trailer loads on its behalf.  TransAm has two types of drivers, either “Company Drivers” or “Owner Operators.”1 
+
+TransAm enters into a written contract, designated an Independent Contractor Agreement (“ICA”), with Owner Operators.  The ICA is a lease in which an Owner Operator agrees to lease to TransAm the use of a tractor for the hauling of freight to TransAm’s customers.  Every Owner Operator signs a separate ICA for each tractor he leases to TransAm. The ICA is a one-year term that automatically renews unless cancelled by either party with 14 days notice.    
+
+One way in which an Owner Operator may lease a tractor to TransAm is by leasing a tractor from TransAm Leasing, Inc., a wholly-owned subsidiary of TransAm.2 The trucks leased through TransAm Leasing are part of the fleet of trucks that are owned and being depreciated by TransAm.  Owner Operators who choose to lease a tractor from TransAm Leasing may select their own tractors, with varying lease terms and lease costs available depending on the age and miles on the tractor chosen.  The lease period for any individual truck leased by TransAm 
+
+1 Plaintiff objects to Defendant’s use of the term “Owner Operator” arguing that it implies that these drivers are not employees of Defendant.  Plaintiff uses the term “Leased Drivers,” to which Defendant objects and argues that it implies that drivers are employees of Defendant.  The dispute in this case is over whether these drivers, whether they are called “Owner Operators” or “Leased Drivers,” are in fact employees of Defendant or whether they are independent contractors.  For the sake of simplicity, the Court will use the term “Owner Operator” in this opinion.  
+
+2 TransAm Leasing, Inc. is not a Defendant in this case.  
+
+Leasing cannot be longer than the remaining depreciation period assigned to that truck by TransAm.   Owner Operators who choose to lease a tractor through TransAm Leasing have the option to purchase their tractor at the end of the lease with a balloon buy-out payment.  The Owner Operator enters into an Equipment Lease Agreement with TransAm Leasing. As part of the ICA, the truck leased to the Owner Operator (through the Equipment Lease Agreement) and then leased back to TransAm, can only be used to haul loads for TransAm.  The Federal Motor Carrier Safety Act (“FMCSA”) requires that a driver lease his tractor to only one motor carrier and operate a unit only under one motor carrier number at a time.   
+
+Plaintiff Larry Blair was a Company Driver for TransAm from December 2002 until May 2004 when Blair voluntarily resigned.  In March 2007, Blair elected to return to TransAm. He had the option of being either a “Company Driver” or “Owner Operator,” and Blair chose to be an Owner Operator. Blair signed his first ICA on March 23, 2007. Plaintiff Charlie Davis became an “Owner Operator” for TransAm in December 2005 and signed his first ICA on December 9, 2005.  Both Blair and Davis entered into four ICA’s and leased four different tractors from TransAm Leasing, and then leased those tractors to TransAm. 
+
+In August, 2009, Blair and Davis filed a Complaint against TransAm. They filed an Amended Complaint on January 28, 2010, on behalf of themselves and all other persons similarly situated,3 alleging violations of the Fair Labor Standards Act (“FLSA”), the Kansas Wage Payment Act (“KWPA”), and Kansas Minimum Wage and Maximum Hours Law (“KMWMHL”).  Plaintiffs contend that Defendant misclassified them as “independent 
+
+3 The Court has not certified a class as the parties chose to proceed in two phases.  The first phase requires a determination of whether Plaintiffs should be considered employees or independent contractors. Indeed, this determination is what the parties seek with their motions for summary judgment.  
+
+contractors” when they were in reality “employees” of TransAm Trucking.  Because of this alleged misclassification, Plaintiffs assert that Defendants failed to pay them minimum wages in violation of the FLSA, KWPA, and KMWMHL.   
+
+Defendant filed a Motion for Summary Judgment (Doc. 63) asserting that it properly classified Plaintiffs as independent contractors and thus did not violate the FLSA or KWPA. Plaintiffs also filed a Motion for Partial Summary Judgment (Doc. 64) stating that Plaintiffs were improperly classified as independent contractors and should be considered employees under the FLSA. 
+
+
+
+
+
+Summary judgment is appropriate if the moving party demonstrates that there is no genuine issue as to any material fact, and the movant is entitled to judgment as a matter of law.4 A fact is “material” when it is essential to the claim, and issues of fact are “genuine” if the proffered evidence permits a reasonable jury to decide the issue in either party’s favor.5  The movant bears the initial burden of proof, and must show the lack of evidence on an essential element of the claim.6  The nonmovant must then bring forth specific facts showing a genuine issue for trial.7  These facts must be clearly identified through affidavits, deposition transcripts, or incorporated exhibits—conclusory allegations alone cannot survive a motion for summary 
+
+4  Fed. R. Civ. P. 56(a). 
+
+5 Haynes v. Level 3 Commc’ns, LLC, 456 F.3d 1215, 1219 (10th Cir. 2006). 
+
+6 Thom v. Bristol-Myers Squibb Co., 353 F.3d 848, 851 (10th Cir. 2003) (citing Celotex Corp. v. Catrett, 477 U.S. 317, 322-23 (1986)). 
+
+7 Garrison v. Gambro, Inc., 428 F.3d 933, 935 (10th Cir. 2005). 
+
+judgment.8  The Court views all evidence and reasonable inferences in the light most favorable to the party opposing summary judgment.9 
+
+Though the parties in this case have filed cross-motions for summary judgment, the legal standard remains the same.10 Each party retains the burden of establishing the lack of a genuine issue of material fact and entitlement to judgment as a matter of law.11  Each motion will be considered separately.12  “To the extent the cross-motions overlap, however, the court may address the legal arguments together.”13 
+
+
+
+ 
+
+The FLSA defines an “employee” as “any individual employed by an employer.”14  “[I]n determining whether an individual is covered by the FLSA, our inquiry is not limited by any contractual terminology or traditional common law concepts of employee or independent contractor.”15  Courts employ an economic realities test which focuses on “whether the individual is economically dependent on the business to which he renders service, or is, as a 
+
+8 Mitchell v. City of Moore, Okla., 218 F.3d 1190, 1197 (10th Cir. 2000) (citing Adler v. Wal-Mart Stores, Inc., 144 F.3d 664, 670 (10th Cir. 1998)). 
+
+9 LifeWise Master Funding v. Telebank, 374 F.3d 917, 927 (10th Cir. 2004). 
+
+10 City of Shawnee v. Argonaut Ins. Co., 546 F. Supp. 2d 1163, 1172 (D. Kan. 2008). 
+
+11 United Wats, Inc. v. Cincinnati Ins. Co., 971 F. Supp. 1375, 1381-82 (D. Kan. 1997) (citing Houghton v. Foremost Fin. Servs. Corp., 724 F.2d 112, 114 (10th Cir.1983)). 
+
+12 Atl. Richfield Co. v. Farm Credit Bank of Wichita, 226 F.3d 1138, 1148 (10th Cir. 2000). 
+
+13 Berges v. Standard Ins. Co., 704 F. Supp. 2d 1149, 1155 (D. Kan. 2010). 
+
+14 29 U.S.C. § 203(e)(1). 
+
+15 Baker v. Flint Eng’g & Constr. Co., 137 F.3d 1436, 1440 (10th Cir. 1998) (quotation marks and citations omitted).  
+
+matter of economic fact, in business for himself.”16  In the Tenth Circuit, there are six factors under this test. These include: 
+
+(1) the degree of control exerted by the alleged employer over the worker; (2) the worker’s opportunity for profit or loss; (3) the worker’s investment in the business; (4) the permanence of the working relationship; (5) the degree of skill required to perform the work; and (6) the extent to which the work is an integral part of the alleged employer’s business.17 
+
+No one factor is dispositive, but rather the Court must consider the totality of the circumstances.18 The Court must first make factual findings as to the individual’s work and then apply those facts to the six factors of the economic realities test.19  The ultimate question as to whether an individual acted as an employee or independent contractor is a matter of law.20 
+
+Under the KWPA, there is “no absolute rule for determining whether an individual is an independent contractor or an employee.  It is the facts and circumstances in each case that determine whether one is an employee or an independent contractor.”21  “The primary test used by the courts in determining whether the employer-employee relationship exists is whether the employer has the right of control and supervision over the work of the alleged employee, and the right to direct the manner in which the work is to be performed, as well as the result which is to be accomplished.”22  This right, however, is only one factor, and numerous other factors may be 
+
+16 Doty v. Elias, 733 F.2d 720, 722-23 (10th Cir. 1984) (citation omitted).  17 Baker, 137 F.3d at 1440. 18 Id. at 1441.  19 Id. at 1440-41. 20 Id. 21 Wallis v. Sec’y of Kan. Dep’t of Human Res., 236 Kan. 97, 102, 689 P.2d 787, 792 (1984). 22 Id. at 102-03, 689 P.3d at 792. 
+
+relevant in determining whether an individual should be considered an employee or independent contractor under the KWPA.23 
+
+Defendant contends that the facts demonstrate that TransAm exerts little control over its Owner Operators, and they are properly classified as independent contractors under both the FLSA and KWPA. Defendant primarily relies upon the contractual language contained in the ICA to support this contention.  This contractual language, however, is not dispositive to the issue as to which party exercised control over Plaintiffs’ work activities.24  Plaintiff presents evidence that Defendant may have exercised control over Plaintiffs’ work, including such work activities as the right to hire or fire employees, the routes in which Plaintiffs must drive, and Plaintiffs’ ability to dictate their profit and loss.  Defendant disputes Plaintiffs’ characterization of the facts. These disputed facts relate to several issues under the economic realities test and to factors under the KWPA.  Because of these disputed issues of fact, the Court must deny both Defendant’s and Plaintiffs’ motions for summary judgment.25 
+
+23 See Crawford v. Dep’t of Human Res., 17 Kan. App. 2d 707, 710-11, 845 P.2d 703, 706 (1989) (considering twenty factors when determining whether individuals were employees or independent contractors).  
+
+24 Baker, 137 F.3d at 1440 (stating that the inquiry of whether an individual is an employee under the FLSA is not limited to contractual language). 
+
+25 As noted above, summary judgment is appropriate when the material facts are not in dispute.  In this case, Defendant asserts 151 facts in support of its motion for summary judgment.  Plaintiffs attempt to controvert the majority of these facts or “objects” to those facts.  Plaintiffs assert 38 facts in support for their motion for summary judgment, and Defendant “objects” or attempts to controvert the majority of Plaintiffs’ facts.  In addition, Defendant asserts an additional 101 facts in its response, and Plaintiffs then object and controvert the majority of those facts. Cases that involve unnecessarily long statements of “uncontroverted facts” are not amenable to summary judgment disposition. 
+
+IT IS ACCORDINGLY ORDERED this 13th day of November, 2013, that Defendant’s Motion for Summary Judgment (Doc. 63) is DENIED. 
+
+IT IS FURTHER ORDERED that Plaintiffs’ Motion for Partial Summary Judgment (Doc. 64) is DENIED. 
+
+
+
+
+

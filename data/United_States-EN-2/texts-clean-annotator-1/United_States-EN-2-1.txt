@@ -1,0 +1,44 @@
+
+J. HAYNES, Administrative Appeals Judge.  Timothy Stearns complained that the Respondent, his employer, Union Pacific Railway Company , fired him in violation of the whistleblower protections of the Federal Railroad Safety Act of 1982 (FRSA) and its implementing regulations1 because he expressed concerns about railroad safety. Prior to a hearing, an Administrative Law Judge (ALJ) granted Respondent’s motion for summary decision and dismissed Stearns’ complaint. Stearns appealed to the Administrative Review Board (ARB). We affirm.
+
+
+
+The following facts are generally undisputed.2 Timothy Stearns was a yardmaster at the North Platte, Nebraska locomotive service facility. On March 3, 2014, he left work and turned over his duties to an employee not fully qualified as a yardmaster. Stearns was disciplined and later signed a letter of leniency which returned him to service on an eighteen month probation period. The letter stated that Stearns could be fired if he again violated Rule 1.6 of the Respondent’s General Code of Operating Rules (GCOR).
+
+On July 27, 2014, Stearns requested information from a co-worker who replied that he was busy and didn’t have the information. Stearns became irate and belittled him for not doing his job.3 Supervisor Greg Mellon overheard the raised voices and attempted to calm Stearns but he continued yelling that the co-worker was not providing him the information he needed to keep the trains moving.
+
+After the initial altercation, Mellon called Stearns into his office and counseled him about acting in a professional manner. Later at dinner, Stearns described the incident to another yardmaster. Stearns then stood up and threw a steak knife against the wall, remarking, “I’ll tell you what I would have liked to have done, I would of liked to do this towards him.” The witness prepared a written statement of what he saw and heard and gave it to Mellon.4Respondent’s Motion for Summary Decision (Order) at 2-3.
+
+On July 28, 2014, Stearns was removed from service. An investigatory hearing took place on May 27, 2015, and the Respondent fired Stearns on June 5, 2015, for violating Rule 1.65 and Respondent’s workplace violence policy.6Stearns filed a complaint with the Occupational Safety and HealthAdministration (OSHA) on July 22, 2015. On January 12, 2016, OSHA dismissed the complaint and Stearns timely requested a hearing before an ALJ.7 Prior to the hearing, the Respondent filed a motion for summary decision, and Stearns filed an opposition. The ALJ granted Respondent’s motion on September 22, 2016, and dismissed Stearns’s complaint. Stearns has appealed to the ARB.
+
+
+The Secretary of Labor has delegated authority to decide this appeal to the Administrative Review Board.8 The ARB reviews an ALJ’s decision granting summary decision using a de novo standard.9Summary decision is appropriate if the pleadings, affidavits, and other evidence show that there is no genuine issue as to any material fact and that safety of themselves or others, negligent, insubordinate, dishonest, immoral, quarrelsome, or discourteous. Any act of hostility, misconduct, or willful disregard or negligence affecting the interest of the company or its employees is cause for dismissal and must be reported. Indifference to duty or to the performance of duty will not be tolerated. Complainant’s Exhibit (CX) 1; see Order at 3 n.8. of Responsibility to the Administrative Review Board), 77 Fed. Reg. 69,378-69,380 (Nov. 16, 2012). the moving party is entitled to prevail as a matter of law.10 In reviewing such a motion, the evidence before the ALJ is viewed in the light most favorable to the non-moving party; the Board may not weigh the evidence or determine the truth of the matter; our only task is to determine whether there is a genuine conflict as to any material fact for hearing.11
+
+The FRSA prohibits a railroad carrier engaged in interstate commerce or its officers or employees from discharging, demoting, suspending, reprimanding, or in any other way retaliating against an employee because the employee engages in any of the protected activities identified under 49 U.S.C. § 20109(a). Protected activities include providing information regarding any conduct which the employee reasonably believes constitutes a violation of any federal law, rule, or regulation relating to railroad safety or security.12To prevail under the FRSA, a complainant must establish three points by a preponderance of the evidence. They are that: (1) he engaged in protected activity as statutorily defined; (2) he suffered an unfavorable personnel action; and, (3) the protected activity was a contributing factor in the unfavorable personnel action.13 If a complainant meets this burden of proof, the employer may avoid liability only if it proves by clear and convincing evidence that it would have taken the same unfavorable personnel action absent the complainant’s protected activity.14ALJ No. 2009-ERA-014, slip op. at 6 (ARB Sept. 28, 2015) (citations omitted).
+
+Ry., ARB No. 11-013, ALJ No. 2010-FRS-012, slip op. at 9 (ARB Oct. 26, 2012).
+
+FRS-044, slip op. at 4 (ARB Jul. 6, 2018).
+
+No. 13-074, ALJ No. 2005-ERA-006, slip op. at 12 (ARB Apr. 25, 2014) (discussing three factors to be considered in assessing clear and convincing evidence).
+
+The issue on appeal is whether the pleadings, affidavits, and other evidence show that there is a genuine issue as to a material fact, namely, whether any protected activity contributed to Stearns’s discharge. After reviewing the evidence presented in the light most favorable to Stearns, we agree with the ALJ’s conclusion on this issue. In this case, the ALJ properly granted the Respondent’s motion for summary decision because Stearns has proffered no evidence that any alleged protected activity contributed to his discharge.
+
+As noted above, Stearns had signed a disciplinary letter for violatingRule 1.6 of the GCOR fewer than five months prior to the July incident.15 The letter stated that if Stearns violated Rule 1.6 during an eighteen month probation, he would be “removed from service without a formal investigation.” The June 5, 2015 dismissal letter stated that Respondent fired Stearns because of his verbal attack on his co-worker, and his subsequent hostile statements and the knife-throwing incident. The ALJ found no material fact in dispute because Stearns admitted to making the threatening comments and throwing a knife; he also stated that he felt badly about his behavior, and wished he could take it back.
+
+On appeal, Stearns asks the ARB to apply its decision in Fordham v.
+
+Fannie Mae that in determining contributory causation the ALJ must not weigh the employer’s evidence in support of its affirmative defense.16 However, we subsequently reconsidered the rule announced in Fordham and affirmed the ALJ’s duty to weigh all relevant evidence when determining the elements of a FRSA complaint. 17 (ARB Jan. 6, 2017), aff’d, Powers v. U.S. Dep’t of Labor, No. 17-70676, 723 Fed. Appx. 522, 2018 IER Cases 180,768 (9th Cir, May 22, 2018)(unpub.), citing Palmer v. Canadian Nat 'l Ry., ARB No. 16-035, ALJ No. 2014-FRS-154, at 16, 37 (ARB Sept. 30, 2016; reissued Jan. 4. 2017).
+
+Stearns also argues that as yardmaster he was responsible for the safe and efficient operation of train movement. However, Stearns has produced no evidence that a delay in moving a particular train would have endangered safety in the terminal operations or cause any hazardous condition.
+
+Finally, Stearns argues that he was engaging in protected activity just by being an employee under the FRSA and by moving interstate commerce through the terminal. The FRSA, however, still requires an employee to prove the specific elements of a complaint. Here, Stearns has offered no evidence that could prove that he engaged in protected activity or that the activity he did claim contributed to his discharge. The ALJ properly granted the Respondent’s motion for summary decision.
+
+
+
+The Respondent is entitled to summary decision as a matter of law.
+
+Accordingly, we AFFIRM the ALJ’s Order Granting Respondent’s Motion for Summary Decision and DENY Stearns’s complaint.
+
+SO ORDERED.
+

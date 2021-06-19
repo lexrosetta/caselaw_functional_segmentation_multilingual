@@ -1,0 +1,50 @@
+
+
+The Complainant, Apostolos Xanthopoulos, filed a retaliation complaint under Section 806 of the Corporate and Criminal Fraud AccountabilityAct of 2002, Title VIII of the Sarbanes-Oxley Act, 18 U.S.C. § 1514A (2010) (SOX) and its implementing regulations, 29 C.F.R. Part 1980 (2019). Complainant alleged that his former employer violated whistleblower protection provisions by discharging Complainant on October 3, 2017, because he engaged in protected activity.
+
+Complainant filed his complaint of unlawful retaliation on September 18, 2018. OSHA dismissed the complaint because it was untimely. Complainant requested a hearing before an Administrative Law Judge (ALJ). On March 22, 2019, after receiving Complainant’s response to an order to show cause for untimeliness, the ALJ dismissed the complaint, holding that Complainant failed to timely file a complaint alleging retaliation in violation of the SOX act and failed to show that equitable relief was warranted. Complainant filed a petition requesting that theAdministrative Review Board (ARB or the Board) review the ALJ’s order. We affirm.
+
+
+
+The ARB has jurisdiction to review the ALJ’s SOX decision pursuant toSecretary’s Order No. 01-2020 (Delegation of Authority and Assignment ofResponsibility to the Administrative Review Board (Secretary’s discretionary review of ARB decisions)), 85 Fed. Reg. 13,186 (Mar. 6, 2020). The ARB reviews all conclusions of law de novo. Micallef v. Harrah’s Rincon Casino & Resort, ARB No.
+
+2016-0095, ALJ No. 2015-SOX-00025, slip op. at 3 (ARB July 5, 2018).
+
+
+
+Section 806 prohibits certain covered employers from discharging, demoting, suspending, threatening, harassing, or in any other manner discriminating against employees who provide information to a covered employer or a federal agency orCongress regarding conduct that the employee reasonably believes constitutes a violation of 18 U.S.C. §§ 1341 (mail fraud), 1343 (wire, radio, TV fraud), 1344 (bank fraud), or 1348 (securities fraud), or any rule or regulation of the Securities andExchange Commission, or any provision of Federal law relating to fraud against shareholders. 18 U.S.C. § 1514A(a)(1). SOX complaints must be filed “not later than the employee became aware of the violation.” 18 U.S.C. §1514A(b)(2)(D).
+
+In the case at bar, Complainant was fired on October 3, 2017, and filed his complaint 350 days later, on September 18, 2018. As the ALJ held, the complaint was untimely. Further, the ALJ found no grounds for equitable modification. We agree with the ALJ that dismissing the complaint was in accordance with the law.
+
+On appeal, Complainant argues that filings he made with the SEC warrant equitable modification because they constitute SOX claims mistakenly filed in the wrong forum. He asserts that he believed that the SEC would investigate his discrimination claim in regard to his discharge. In his reply brief, he asserted that he did not become aware that he should file in a different forum until an August would not investigate his claims regarding his discharge.
+
+We are not persuaded by Xanthopoulos’ argument that he is entitled to equitable relief from the 180-day limitations period. When deciding whether equitable modification is warranted, the Board is guided by the principles applied in School Dist. of the City of Allentown v. Marshall, 657 F.2d 16, 20 (3d Cir. 1981) in which the United States Court of Appeals for the Third Circuit recognized three appropriate situations for tolling: “(1) [when] the defendant has actively misled the plaintiff respecting the cause of action, (2) the plaintiff has in some extraordinary way been prevented from asserting his rights, or (3) the plaintiff has raised the precise statutory claim in issue but has mistakenly done so in the wrong forum.”DeFazio v. Sheraton Steamboat Resorts & Villas, ARB No. 2011-0063, ALJ No.
+
+2011-SOX-00035, slip op. at 3 (ARB Oct. 23, 2012). The Board has recognized a fourth situation in which equitable tolling may be warranted where the employer’s acts or omissions have lulled the complainant into foregoing prompt action to vindicate his rights.1 Id. at 3 n.5 (citing Hyman v. KD Res., ARB No. 09-076, ALJ No 2009-SOX-020, slip op. at 7 (ARB Mar. 21, 2010)).
+
+While Complainant informed the SEC as a part of his ongoing filings that he had been fired, his filings do not constitute the “precise statutory claim”“mistakenly” filed in the wrong forum. Specifically, Complainant’s filings with theSEC do not set forth a SOX retaliation or discrimination claim seeking SOX remedies. Some of his filings do not mention his termination. In other filings,Complainant claims that his termination was retaliatory but he did not seek employee-based remedies such as reinstatement, back pay, or other damages associated with the termination. Instead, Complainant makes a vague reference to serving the interest of the investing public.2 The only monetary remedy mentioned in the filings relates to seeking a monetary award through the SEC’s Whistleblower claim of being “lulled” into foregoing prompt action, and other than one vague reference in his petition for review, Xanthopoulos has not argued such a claim.
+
+2018.
+
+Program.3 The SEC “is authorized by Congress to provide monetary awards [between 10% and 30% of the money collected] to eligible individuals who come forward with high-quality original information that leads to a Commission enforcement action in which over $1,000,000 in sanctions is ordered.” 17 C.F.R. § 240.21F-1 to F-14; see also https://www.sec.gov/whistleblower.
+
+It is clear from Complainant’s filings that he wanted the SEC to address the underlying problems Complainant identified. In one of his filings, Complainant stated:
+
+Perhaps it is time for me, to consider some suing against Mercer, no? . .
+
+.  [A remedy for] [t]he myriad of insults, hostile environment, financial hardship, and internal turmoil that I have experienced, would be nothing, to finding out that your Respected Commission, had actually done something to stop Mercer from one or all of its questionable practices. I remain faithful to this course, and will continue to submit evidence of the fact that Mercer, does not care about the negative impact that its ratings have, on the investor public. . .
+
+Complainant’s Brief, Exhibit L at 8-9. Again, this statement shows thatComplainant’s primary purpose in his SEC filing against Respondent was to right the underlying wrong that he believed Respondent committed against shareholders, not to provide make-whole remedies concerning his employment.
+
+In Complainant’s last report to the SEC (which would have been untimely as filed on June 26, 2018), Complainant stated he was “currently investigating my options, regarding this possible case of sexual harassment against me. This on top of the wrongful termination, as the case may be, and/or illegal retaliation under the whistleblower protection of the Dodd-Frank act. It is must [sic], too much, all at once. I will keep your Office posted of my legal actions as needed.”4 This language concedes Complainant’s awareness (1) that he must seek further legal action, including the whistleblower complaint, in some forum other than the SEC and (2) that the SEC is not investigating these matters.5Complainant has asserted sparked his knowledge was published, and thus nullifies his argument that the article allegedly prompted him to seek recourse in another forum.
+
+Complainant’s reply at 1, 2, 4, 5, 11.
+
+Nothing in Complainant’s SEC filings indicates that Complainant sought or wanted the SEC to investigate his discharge or restore his employment or wages to him. Thus, his SEC filings cannot constitute the precise statutory claim as contemplated by equitable principles. Further, it is clear that Complainant did not mistakenly file a SOX whistleblower claim with the SEC, but deliberately filed with the SEC a non-SOX claim for the purpose of remedying Respondent’s wrongful conduct that he complained of and seeking a whistleblower award. Again,Complainant’s filings show that he was aware that he had other potential claims against Respondent for Respondent’s wrongful actions against him.6 It was incumbent upon him to proceed on that awareness in a timely manner.
+
+
+
+Accordingly, we AFFIRM the ALJ’s Order Dismissing the Complaint.
+
+SO ORDERED. 
+

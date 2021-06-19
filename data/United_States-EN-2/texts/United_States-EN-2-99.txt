@@ -1,0 +1,58 @@
+U.S. Department of Labor Administrative Review Board Washington, DC 20210-0001In the Matter of:
+
+CHRISTIAN RONNIE,  ARB CASE NO. 2019-0020
+
+COMPLAINANT, ALJ CASE NO. 2018-SOX-00006 v.  DATE:  September 29, 2020OFFICE DEPOT, INC.,RESPONDENT.
+
+Appearances:
+
+For the Complainant:
+
+Christian Ronnie; pro se; Atlantic Highlands, New Jersey
+
+For the Respondent:
+
+Stella S. Chu, Esq. and Patrick G. DeBlasio, III, Esq.; LittlerMendelson, P.C.; Miami, FloridaBEFORE:  James D. McGinley, Chief Administrative Appeals Judge,Thomas H. Burrell and Heather C. Leslie, Administrative Appeals JudgesDECISION AND ORDER
+
+The Complainant, Christian Ronnie, filed a retaliation complaint underSection 806 of the Corporate and Criminal Fraud Accountability Act of 2002, TitleVIII of the Sarbanes-Oxley Act, 18 U.S.C. § 1514A (2010) (SOX), as amended, and its implementing regulations, 29 C.F.R. Part 1980 (2019). Complainant alleged that his former employer, Office Depot, Inc. (Respondent), violated whistleblower protection provisions by retaliating against him because he engaged in protected activity.
+
+On January 4, 2019, the Administrative Law Judge (ALJ) grantedRespondent’s motion for summary decision, concluding that there was no genuine issue of material fact as to whether Complainant engaged in protected activity, an essential element of his claim, and dismissed his claim. Complainant filed a petition requesting that the Administrative Review Board (ARB or the Board) review theALJ’s order. We affirm because the record supports the conclusion thatComplainant did not engage in protected activity.
+
+BACKGROUND1
+
+Respondent sends sales data to a third-party vendor, Applied PredictiveTechnologies (APT), to interpret sales figures, analyze sales data, and generate reports containing U.S. retail store optimization rates. Respondent also uses an internal program (GSC), which pulls sales data directly from its IT department, to generate similar reports.
+
+Complainant worked for Respondent as a Senior Financial Analyst. Part of his responsibilities included reporting sales figures to senior management. In his performance self-evaluation for the year 2015, Complainant noted that he had reported technical flaws, and identified a mechanical issue causing a significant increase in results. In February of 2016, Complainant disclosed to senior management that he discovered a discrepancy in sales data existing between two sets of data that Respondent used to analyze sales. The discrepancy was between sales data provided to APT and GSC numbers obtained internally from its IT department.
+
+Respondent acknowledged the discrepancy reported by Complainant. InMarch of 2016, Respondent requested that Complainant research the problem and find the root cause of the discrepancy and to report his findings to senior management so that they can address the underlying problem. DespiteRespondent’s repeated efforts, Complainant did not follow directives to identify the problem, but instead recommended on multiple occasions that the solution was to simply disregard the GSC data and rely solely on the APT data. On April 7, 2016, these background facts, we make no findings of fact.
+
+Respondent gave Complainant a “Final Warning” because of his failure to complete the task of finding the cause of the discrepancy. On April 19, 2016, Respondent terminated Complainant’s employment.
+
+At the time of his deposition taken in this matter, Complainant did not have an explanation as to why there was a discrepancy between the two sets of sales data, or why Respondent’s IT function structured the data it reported in the way that it did.
+
+JURISDICTION AND STANDARD OF REVIEW
+
+The Secretary of Labor has delegated to the Board his authority to issue final agency decisions under the SOX.23 The ARB reviews an ALJ’s grant of summary decision de novo under the same standard the ALJ applies. Summary decision is permitted where “there is no genuine dispute as to any material fact and the movant is entitled to decision as a matter of law.”3 The ARB views the record on the whole in the light most favorable to the non-moving party.4DISCUSSION
+
+To state a claim under Section 806, a complainant must allege that he engaged in protected activity, the employer took an unfavorable action against him, and that the protected activity was a contributing factor in the adverse action.56 If the complainant proves that protected activity was a contributing factor in the adverse personnel action, the ALJ must then determine whether the employer hasResponsibility to the Administrative Review Board (Secretary’s discretionary review of ARB decisions)), 85 Fed. Reg. 13,186 (Mar. 6, 2020).
+
+00025, slip op. at 3 (ARB July 5, 2018). proven, by clear and convincing evidence, that, in the absence of the protected 78activity, it would have taken the same adverse action.6The SOX prohibits covered employers from discharging, demoting, suspending, threatening, harassing, or in any other manner discriminating against employees who provide information to a covered employer or a federal agency orCongress regarding conduct that the employee reasonably believes constitutes a violation of 18 U.S.C. §§ 1341 (mail fraud), 1343 (wire, radio, TV fraud), 1344 (bank fraud), or 1348 (securities fraud), or any rule or regulation of the Securities andExchange Commission, or any provision of Federal law relating to fraud against shareholders.7Reporting an actual violation is not required; a complainant can engage in protected activity when he reports a belief of a violation that is about to occur or is in the stages of occurring.9 A complainant need not establish the various elements of securities fraud to prevail, and a communication is protected where it is based on a reasonable, but mistaken, belief that the employer’s conduct constitutes a violation of one of the six enumerated categories of law under Section 806.10 Additionally, a respondent is not shielded from liability because it was already aware of problems reported by the complainant.11Upon review of the ALJ’s order, we conclude that the order is a well-reasoned decision based on the undisputed facts and the applicable law. The ALJ properly concluded that Complainant failed to establish a genuine issue of material fact as to whether he had engaged in protected activity under SOX.
+
+2007-SOX-00005, slip op at 11 (ARB Sept. 13, 2011).
+
+0045, ALJ No. 2019-SOX-00008 (ARB June 29, 2020). (ARB Apr. 25, 2013).
+
+Mar. 28, 2012).
+
+26, 2014).
+
+On appeal, Complainant argues that Respondent purposely manipulated sales data while it was in the process of being acquired and the decision of whether the acquisition should be approved was under review. However, there is no evidenceRespondent manipulated the sales data, or that the internal reports generated byAPT and GSC were used in subsequent proceedings. Additionally, the undisputed evidence demonstrates that Respondent sought to find the cause of the discrepancy and repeatedly asked Complainant to find the cause, but that he was unable or unwilling to do so.
+
+There is no evidence that Complainant had an objectively reasonable belief that Respondent violated any SEC rule or regulation or otherwise engaged in securities fraud when he communicated to senior management about the sales data discrepancy. Complainant failed to set forth any regulation, rule, or Federal law that an objectively reasonable person would think Respondent violated, and it is not the responsibility of the fact-finder to identify one. A complainant need not cite the code but nonetheless has to complain about conduct that he or she believes would reasonably fall under one of the enumerated categories.  Mere speculation is not sufficient.12 Accordingly, we hold that there is no genuine issue of material fact as to whether Complainant engaged in protected activity.
+
+CONCLUSION
+
+We AFFIRM the ALJ’s Order Granting Respondent’s Motion for SummaryDecision and DENY Mr. Christian Ronnie’s complaint.
+
+SO ORDERED. actual violation of law, or cite a code section he believes was violated, ‘general inquiries' ... do not constitute protected activity.”); Erhart v. Bofi Holding, Inc., No. 15-CV-02287, 2020WL 1550207, at *11 (S.D. Cal. Mar. 31, 2020) (“This Court should not be expected to— and realistically cannot—“go fishing through securities law and regulation for provisions [Erhart] may have believed were violated.”).
+

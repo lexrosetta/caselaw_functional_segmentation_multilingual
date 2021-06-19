@@ -1,0 +1,99 @@
+
+Plaintiffs1 bring this Fair Labor Standards Act (“FLSA”) case against Defendants alleging that Defendants failed to pay Plaintiffs overtime wages as required by law.  (Am. Compl., Doc. 72).  Defendants filed a counterclaim, (Doc. 99 at 5-10), alleging breach of contract. This case is currently before the Court on Plaintiffs’ Motion for Partial Summary Judgment (Doc. 152) and Defendants’ Omnibus Motion for Summary Judgment (Doc. 155).2 As discussed below, each motion shall be granted in part and denied in part. 
+
+1The term “Plaintiffs” refers to all Plaintiffs except Johanna Cardile, Garciela Everest, Jorge Perrira, and Andrew Sugrim; those Plaintiffs have settled with Defendants and their claims have been dismissed with prejudice. (Doc. 170).  Insofar as Plaintiffs’ motion seeks to have Plaintiffs Cardile and Perrira dismissed from Defendants’ counterclaim, the motion is denied as moot. 
+
+2The relevant filings are: Plaintiffs’ Motion for Partial Summary Judgment (Doc. 152), Defendants’ Response (Doc. 162), and Plaintiffs’ Reply (Doc. 167); and Defendants’ Omnibus Motion for Summary Judgment (Doc. 155), Plaintiffs’ Response (Doc. 157), and Defendants’ Reply (Doc. 165). 
+
+
+“The court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.” Fed. R. Civ. P. 56(a). When faced with a “properly supported motion for summary judgment, [the nonmoving party] must come forward with specific factual evidence, presenting more than mere allegations.”  Gargiulo v. G.M. Sales, Inc., 131 F.3d 995, 999 (11th Cir. 1997). However, the failure to respond and create a factual dispute by the nonmoving party “does not automatically authorize the entry of summary judgment for the moving party.” Dixie Stevedores, Inc. v. Marinic Maritime, Ltd., 778 F.2d 670, 673 (11th Cir. 1985). 
+
+In ruling on a motion for summary judgment, the Court construes the facts and all reasonable inferences therefrom in the light most favorable to the nonmoving party. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255 (1986).  “[A]t the summary judgment stage the judge’s function is not himself to weigh the evidence and determine the truth of the matter but to determine whether there is a genuine issue for trial.”  Id. at 249. Some degree of factual dispute is expected, but to successfully counter a motion for summary judgment the factual dispute must be material and genuine. That is, the factual evidence must “affect the outcome of the suit” and must be “such that a reasonable jury could return a verdict for the nonmoving party.” Id. at 248. 
+
+
+
+
+It is undisputed that Plaintiffs were employed by Defendants3 at various times since 1996 as closing officers for Defendants’ timeshare sales.  Plaintiffs allege that they were not paid the legally-required overtime wages when they worked as closing officers. In their counterclaim, Defendants assert that even if this were true, any damages that Plaintiffs would be entitled to under the FLSA should be off-set by Defendants’ damages from Plaintiffs’ breach of contract. 
+
+The contracts at issue are the Independent Contractor Agreements that Plaintiffs signed when they were hired by Defendants as timeshare sales representatives–not as closing officers. Pursuant to these agreements, Plaintiffs were entitled to commissions on timeshare sales that they made. Plaintiffs were paid those commissions, minus a ten percent reserve, as soon as the sale closed even though the commission was not actually earned until the purchaser had successfully placed ten percent down and made six timely, consecutive payments. The ten percent reserve was kept to off-set any unearned commissions; if a purchaser failed to make the required payments, Plaintiffs’ commissions would be “charged back” against the reserve. Additionally, the agreements provide: 
+
+In the event [Plaintiff] is no longer engaged by CFI, irrespective of the reason for the termination of engagement, [Plaintiff] shall be charged back for all sales upon which commission[s] have been paid in the event the purchaser(s) has/have not made six (6) timely and consecutive monthly payments as well as ten percent (10%) minimum down payment. 
+
+3Defendants assert that Plaintiffs were only employed by Defendant CFI Sales & Marketing, LLC. However, this distinction is not relevant for purposes of this Order. 
+
+(See e.g., Satterfield Agreement,4 Ex. D to Doc. 155, at 7). 
+
+
+
+
+Neither party is seeking summary judgment on the merits of Plaintiffs’ FLSA claims. Rather, the parties are seeking a determination as to whether the FLSA limitations period is two or three years. Additionally, Plaintiffs seek summary judgment on Defendants’ counterclaim for breach of contract, asserting that Defendants’ claim is barred by the statute of limitations and that even if it were not, Defendants failed to prove damages.  Defendants argue, on the other hand, that Plaintiffs are not entitled to summary judgment on the breach of contract claim because it is a compulsory counterclaim for recoupment and therefore not time-barred and that they have at least established the existence of a genuine issue of material fact as to whether or not they incurred damages.5 
+
+
+“The statute of limitations for a claim seeking unpaid overtime wages under the FLSA is generally two years. But if the claim is one ‘arising out of a willful violation,’ the statute of limitations is extended to three years.” Morgan v. Family Dollar Stores, Inc., 551 F.3d 1233, 1280 (11th Cir. 2008) (quoting 29 U.S.C. § 255(a)).  “To establish that the violation of the [FLSA] was willful in order to extend the limitations period, the employee must prove by a 
+
+4 The parties appear to agree that all of the timeshare sales representative agreements contained the same language as the Satterfield Agreement. 
+
+5 In addition to these issues, Defendants argue that they are entitled to a ruling that Plaintiffs’ FLSA claims are limited to the time when Plaintiffs were employed as closing officers and that Plaintiff Bethzaida Caballero was not entitled to overtime under the FLSA when she was employed as a trainer.  Plaintiffs concede both of these issues, and Defendants will be granted summary judgment accordingly. 
+
+preponderance of the evidence that his employer either knew that its conduct was prohibited by the statute or showed reckless disregard about whether it was.” Alvarez Perez v. Sanford-Orlando Kennel Club, Inc., 515 F.3d 1150, 1162-63 (11th Cir. 2008).  As defined in the Code of Federal Regulations, “[r]eckless disregard . . . means failure to make adequate inquiry into whether conduct is in compliance with the [FLSA].”  5 C.F.R. § 551.104. “The determination of willfulness is a mixed question of law and fact,”  Allen v. Bd. of Pub. Educ. for Bibb Cnty., 495 F.3d 1306, 1324 (11th Cir. 2007) (quotation omitted).  
+
+Generally, a factual determination as to whether a defendant violated the FLSA must be made prior to a determination of whether that violation was willful.  However, for purposes of these motions, the parties make arguments assuming that Defendants violated the FLSA. Assuming Defendants violated the FLSA, Defendants have presented evidence that at least creates a genuine issue of material fact as to whether they acted willfully in doing so.  (Exs. D, J, & N to Doc. 155). Accordingly, to the extent Plaintiffs’ motion seeks a ruling that the FLSA limitations period is three years, the motion shall be denied. 
+
+
+
+
+It is undisputed that the applicable limitations period for a breach of contract claim is five years, running from the time of the breach.  § 95.11(2)(b), Fla. Stat.  The parties disagree, however, about the when the alleged breach occurred.  Additionally, the parties disagree over whether the statute of limitations even applies in this case; Defendants assert that their breach of contract claim is a compulsory counterclaim for recoupment and therefore the statute of limitations has been tolled, while Plaintiffs argue that Defendants’ claim is a permissive counterclaim for a set-off and, therefore, the statute of limitations applies. 
+
+“A ‘set-off’ is a legal term of art which refers to a counterclaim demand, arising out of a transaction extrinsic to plaintiff’s cause of action.  A recoupment, on the other hand, is a claim arising out of the same transaction between the same parties.”  S. Broad. Grp. v. Gem Broad., Inc., 145 F. Supp. 2d 1316, 1331 n.9 (M.D. Fla. 2001); see also Howard Johnson, Inc. of Fla. v. Tucker, 157 F.2d 959, 961 (5th Cir. 1946) (“Recoupment is the act of rebating or recouping a part of a claim upon which one is sued by means of a legal or equitable right resulting from a counterclaim arising out of the same transaction.  It differs from a setoff, in that [a] setoff is a counter demand which a defendant holds against a plaintiff arising out of a transaction extrinsic of plaintiff’s cause of action.” (internal citation and quotation omitted)). In other words, a recoupment claim is more akin to an affirmative defense and is a compulsory counterclaim, while a set-off claim is a permissive counterclaim.  
+
+This distinction is important because “the defense of recoupment may be asserted even though the underlying claim is barred by the applicable statute of limitations as an independent cause of action,”  Allie v. Ionata, 503 So. 2d 1237, 1239 (Fla. 1987), whereas a “permissive counterclaim,” such as that for a set-off, “will be barred if it is filed beyond the statute of limitations,” Smith v. Fla. Dep’t of Corr., 27 So. 3d 124, 127 (Fla. 1st DCA 2010); Callaway Land & Cattle Co. v. Banyon Lakes C. Corp., 831 So. 2d 204, 207 (Fla. 4th DCA 2002). 
+
+Federal Rule of Civil Procedure 13(a) “defines a compulsory counterclaim as any claim that ‘arises out of the transaction or occurrence that is the subject matter of the opposing party’s claim.’”  Republic Health Corp. v. Lifemark Hosps. of Fla., Inc., 755 F.2d 
+
+1453, 1455 (11th Cir. 1985) (quoting Fed. R. Civ. P. 13(a)).  To help with this determination, the Eleventh Circuit employs the “logical relationship test.”  Id. “Under this test, there is a logical relationship when ‘the same operative facts serve as the basis of both claims or the aggregate core of facts upon which the claim rests activates additional legal rights, otherwise dormant, in the defendant.’” Id. (quoting Plant v. Blazer Fin. Servs., Inc., 598 F.2d 1357, 1361 (5th Cir.1979)). 
+
+Defendants’ counterclaim fails the logical relationship test.  The operative facts and the elements of proof for each of the claims are separate and distinct.  Plaintiffs’ claims are based on allegations that Defendants failed to pay proper overtime wages pursuant to the FLSA while Plaintiffs were employed as closing officers.  Defendants’ counterclaim, on the other hand, is based on allegations that Plaintiffs breached their contracts while employed as timeshare sales representatives. These claims involve different time periods, different contracts, and different pay arrangements.  The mere fact that both claims involve Plaintiffs’ “employment” and “wages” while working for Defendants is insufficient to make Defendants’ counterclaim compulsory. In fact, a very similar argument was rejected in Mercer v. Palm Harbor Homes, Inc., No. 805CV1435T30TGW, 2005 WL 3019302, at *1 (M.D. Fla. Nov. 10, 2005). 
+
+The plaintiffs in Mercer filed a claim against their employer for violations of the FLSA, and the employer filed a counterclaim against one of the plaintiffs–Mr. Kalishek–for conversion. Id. The employer alleged that while Mr. Kalishek was working for it, he “appropriated a 12 inch cut saw and blades,” and the employer requested that the court offset its damages to Mr. Kalishek by the value of the property.  Id. Mr. Kalishek countered that the employer’s counterclaim was permissive and that therefore the court did not have jurisdiction over it. Id. The Mercer court agreed that the employer’s claim was permissive because the facts underlying the claims and the elements of the claims were distinct, and it reasoned that the mere fact that “the alleged conversion took place during Mr. Kalishek’s employment . . . [was], by itself, insufficient to satisfy the ‘logical relationship’ test.”  Id. 
+
+Accordingly, Defendants’ counterclaim for breach of contract is a permissive counterclaim for a set-off–not a compulsory counterclaim for recoupment6–and therefore it is subject to the five-year statute of limitations.  This conclusion, however, does not end the analysis; as mentioned previously, Plaintiffs and Defendants disagree about when the alleged breach occurred. 
+
+Defendants assert that the breaches occurred after Plaintiffs left Defendants’ employ when their individual reserve accounts were exhausted.  Plaintiffs, however, assert that if any breach occurred, it was when the purchasers of the timeshares failed to make the required payments because that was the time that it was known to Defendants that Plaintiffs did not earn the pre-paid commissions.  Additionally, Plaintiffs assert that Defendants’ proposed date of breach could be manipulated by Defendants because they are in possession and control of Plaintiffs’ reserve accounts. After considering the parties’ arguments and examining the contractual language, it is clear that the latest time any breach could have occurred was six months after Plaintiffs left Defendants’ employ. 
+
+6 As discussed in Mercer, this Court retains supplemental jurisdiction over Defendants’ counterclaim because Defendants only seek a set-off, they do not seek affirmative relief. 2005 WL 3019302, at *2 (citing Allapattah Servs., Inc. v. Exxon Corp., 157 F. Supp. 2d 1291, 1322 (S.D. Fla. 2001)). 
+
+Plaintiffs’ contracts provide that “during the term that [Plaintiff] is engaged by CFI, no sales originated by [Plaintiff] for which [Plaintiff] has been paid a commission will be subject to charge back except as otherwise set forth herein.”  (Satterfield Agreement at 8). The only exception to this rule set forth in the contract is the “Reserve” provision; pursuant to this provision, “[t]en percent (10%) of commission due on each sale will be retained by CFI,” id., and then any unearned commissions would be charged back against the reserve as long as the individual was employed by Defendants, (Connie Sharp Dep., Doc. 155-13, at 15).  In practice, the reserve account was a revolving account that would at times have a positive balance and at other times have a negative balance because money was constantly being added and subtracted depending on the sales and the charge backs.  While employed, however, Defendants never directly charged Plaintiffs for the deficits in the reserve accounts, (id. at 16); Defendants would simply continue to take ten percent from Plaintiffs’ subsequent sales to replenish the reserve, (see id. at 20). 
+
+Once Plaintiffs left Defendants’ employ, the terms of the agreement required that Plaintiffs and Defendants settle up. If–after all unearned commissions were charged back against the reserve–the reserve balance was in the positive, the agreement required those remaining funds to be reimbursed to Plaintiffs.  Similarly, if at that point the reserve account was in the negative, Plaintiffs would be required to pay the balance back to Defendants.  At the very latest, Defendants would be able to determine whether commissions were earned or unearned six months after Plaintiffs left Defendants’ employ because by that time the purchaser of a timeshare would have either made or not made his six timely, consecutive payments. Whether the reserve was exhausted at that time would affect the amount of money to be paid, but the timing of the breach does not depend on the amount of the damages. 
+
+In sum, if Plaintiffs breached their agreements with Defendants, such breaches occurred at the latest six months after Plaintiffs left Defendants’ employ.  However, there is no evidence currently before the Court as to the dates that Plaintiffs left Defendants’ employ, and therefore summary judgment cannot be granted regarding Plaintiffs’ statute-of-limitations defense. 
+
+
+
+
+Finally, Plaintiffs assert that even if they did breach their contracts, Defendants did not suffer any damages from the alleged breach because Defendants were limited to the reserve account for the charge backs. The plain language of the agreements contradicts Plaintiffs’ argument.  As stated above, the agreements required Plaintiffs to repay all unearned commissions upon leaving Defendants’ employ; no language restricts Defendants’ recovery to the reserve. 
+
+
+
+
+
+
+In accordance with the foregoing, Defendants’ Omnibus Motion for Summary Judgment (Doc. 155) is GRANTED in part and DENIED in part. Additionally, Plaintiffs’ Motion for Partial Summary Judgment (Doc. 152) is GRANTED in part and DENIED in part. It is further ORDERED and ADJUDGED as follows: 
+
+1. Defendants’ motion is GRANTED insofar as it seeks a ruling that Plaintiffs’ FLSA claims are limited to when Plaintiffs were employed by Defendants as closing officers; 
+
+2. Defendants’ motion is GRANTED insofar as it seeks a ruling that Plaintiff 
+
+-10­
+
+Bethzaida Caballero was an exempt employee and not entitled to overtime wages under the FLSA during the time that she worked as a trainer; 
+
+3. Defendants’ motion is DENIED in all other respects; 
+
+4. Plaintiffs’ motion is GRANTED insofar as it seeks a ruling that Defendants’ breach of contract claim is a permissive counterclaim for a set-off and therefore subject to the statute of limitations as set forth herein; and 
+
+5. Plaintiffs’ motion is DENIED in all other respects. DONE and ORDERED
+
+
+
+

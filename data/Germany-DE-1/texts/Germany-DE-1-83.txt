@@ -1,0 +1,104 @@
+
+
+STRE201210312
+
+BFH
+
+7. Senat
+
+20121106
+
+VII R 72/11
+
+Urteil
+
+§ 328 AO, § 102 FGO
+
+Titel
+
+(Zwangsgeld gegen Insolvenzverwalter auch wegen Nichtabgabe von "Null-Erklärungen" - Überprüfung einer Ermessensentscheidung)
+
+Leitsätze
+
+Die Festsetzung von Zwangsgeld zur Durchsetzung der steuerlichen Erklärungspflichten des Insolvenzverwalters ist weder unverhältnismäßig noch ermessensfehlerhaft, auch wenn voraussichtlich nicht mit steuerlichen Auswirkungen zu rechnen ist.
+
+Tatbestand
+
+1
+
+I. Der Kläger und Revisionsbeklagte (Kläger) ist Insolvenzverwalter in dem über das Vermögen der T-GmbH im September 2001 eröffneten Insolvenzverfahren.
+
+2
+
+Nachdem der Beklagte und Revisionskläger (das Finanzamt --FA--) den Kläger mehrfach vergeblich aufgefordert hatte, noch ausstehende Steuererklärungen, Bilanzen sowie Gewinn- und Verlustrechnungen für die Insolvenzschuldnerin abzugeben, drohte er mit jeweils gesonderten Bescheiden dem Kläger die Festsetzung von Zwangsgeld an, soweit er nicht für die Zeiträume 3. September 2001 bis 31. Dezember 2001 sowie die Kalenderjahre 2005 bis 2008 Steuererklärungen nebst Bilanzen sowie Gewinn- und Verlustrechnungen vorlege.
+
+3
+
+Die dagegen eingelegten Einsprüche blieben erfolglos.
+
+4
+
+Im Dezember 2009 setzte das FA gegenüber dem Kläger die angedrohten Zwangsgelder fest. In seinen Einsprüchen gegen die Festsetzungsbescheide wies der Kläger erneut darauf hin, das Insolvenzverfahren sei abschlussreif, die Zwangsgeldfestsetzungen deshalb unbillig und unangemessen. Die Schlussunterlagen (mit dem Ergebnis der Masseunzulänglichkeit) seien bereits übermittelt, die entsprechenden Kontenjournale lege er nochmals vor.
+
+5
+
+Das FA wies die Einsprüche unter dem 18. März 2010 als unbegründet zurück. Der Insolvenzverwalter bleibe auch nach einer Schätzung der Besteuerungsgrundlagen verpflichtet, die Steuererklärungen für eine Insolvenzschuldnerin zu erstellen.
+
+6
+
+Zum Schlusstermin im Juli 2011 zeigte der Kläger dem Amtsgericht die Masseunzulänglichkeit der Insolvenzschuldnerin gemäß § 208 der Insolvenzordnung an. Die Einstellung des Verfahrens steht noch aus.
+
+7
+
+Das Finanzgericht (FG) gab der gegen die Zwangsgeldfestsetzungen gerichteten Klage statt. Das FA habe von seinem Ermessen, die Abgabe von Steuererklärungen mit Zwangsmitteln durchzusetzen, in einer dem Zweck der Ermächtigung nicht entsprechenden Weise Gebrauch gemacht. Zwar sei es zu Recht davon ausgegangen, dass der Insolvenzverwalter die steuerlichen Pflichten für den Insolvenzschuldner zu erfüllen habe, und zwar auch dann, wenn die Kosten für die Erstellung dieser Erklärungen durch die Insolvenzmasse nicht gedeckt sein sollten bzw. die Insolvenzmasse mit Kosten belastet werde, denen keine finanziellen Vorteile gegenüberstünden. Die Festsetzung von Zwangsgeldern gegenüber dem Kläger sei jedoch in Anbetracht der Situation der Insolvenzschuldnerin ein ungeeignetes Zwangsmittel. Mit dem Zwangsgeld (§ 328 Abs. 1 der Abgabenordnung --AO--) habe das FA Steuererklärungen (sowie Bilanzen ohne maßgebliche Änderungen) eingefordert, obwohl ihm bekannt gewesen sei, dass diese keine steuerlichen Auswirkungen hätten. Es erscheine bei dieser Sachlage als verfehlt (und unzweckmäßig), mit Zwangsgeld Steuererklärungen einzufordern, die mit an Gewissheit grenzender Wahrscheinlichkeit zu keinem Erfolg (Steuern) führten und lediglich Kosten verursachten. Das Zwangsmittel werde hier von dem eigentlichen Ziel der Steuererhebung entkoppelt. Das gelte auch dann, wenn der Insolvenzverwalter lediglich sog. Nullmeldungen und aufbereitete Bilanzen hätte vorlegen können. In Anbetracht der konkreten Umstände wäre eine Schätzung das "probate" und weniger belastende Mittel gewesen.
+
+8
+
+Die Entscheidung ist in Entscheidungen der Finanzgerichte 2012, 388 veröffentlicht.
+
+9
+
+Mit der Revision macht das FA die Verletzung des § 328 Abs. 1 Satz 1 i.V.m. § 5 AO geltend. Entgegen der Auffassung des FG habe das FA mit der Verhängung der Zwangsgelder von der Vorschrift in einer dem Zweck der Ermächtigung dienenden Weise Gebrauch gemacht. Insbesondere sei nicht offensichtlich gewesen, dass bei der insolventen T-GmbH im Verlauf des (langjährigen) Insolvenzverfahrens keine steuerrelevanten Vorgänge hätten entstehen können. Nur durch die Abgabe der Jahresabschlüsse und Steuererklärungen könne zweifelsfrei festgestellt werden, ob die geschätzte Festsetzung auf 0 € zutreffend gewesen sei. Auch treffe nicht zu, dass eine Schätzung hier das weniger belastende Mittel gewesen sei. Wenn das FG meine, mangels Geschäftstätigkeit der T-GmbH sei eine Schätzung der Steuern ohne Aufwand möglich gewesen, so müsse das auch für den mit der Erstellung einer Steuererklärung verbundenen Aufwand des Klägers gelten.
+
+10
+
+Der Kläger hält die Zwangsgeldfestsetzung "infolge der Massesituation" mit dem FG für unverhältnismäßig.
+
+Entscheidungsgründe
+
+11
+
+II. Die Revision des FA ist begründet. Das Urteil des FG verstößt gegen Bundesrecht (§ 118 Abs. 1 der Finanzgerichtsordnung --FGO--). Die angefochtene Zwangsgeldfestsetzung gegen den Kläger ist rechtmäßig; das FA hat das ihm eingeräumte Ermessen in rechtlich nicht zu beanstandender Weise ausgeübt.
+
+12
+
+Gemäß § 328 Abs. 1 AO kann ein Verwaltungsakt, der auf Vornahme einer Handlung gerichtet ist, mit Zwangsmitteln (Zwangsgeld, Ersatzvornahme, unmittelbarer Zwang) durchgesetzt werden. Damit ist der Finanzbehörde in einem ersten Schritt eine Ermessensentscheidung abverlangt, ob sie ein Zwangsmittel anwenden soll (Entschließungsermessen), und in einem zweiten Schritt, welches der drei abschließend aufgeführten Mittel sachgerecht ist (Auswahlermessen).
+
+13
+
+1. Mit der Aufhebung der Zwangsgeldfestsetzung wegen mangelhafter Ermessensausübung des FA hat das FG die Grenzen der ihm durch § 102 FGO eingeräumten Überprüfungsbefugnis überschritten.
+
+14
+
+Eine Korrektur der Ermessensentscheidung ist dem FG nur unter den Voraussetzungen des § 102 FGO erlaubt. Danach prüft es, ob die gesetzlichen Grenzen des Ermessens überschritten wurden oder die Behörde von ihrem Ermessen in einer dem Zweck der Ermächtigung nicht entsprechenden Weise Gebrauch gemacht hat (vgl. Urteil des Bundesfinanzhofs vom 28. September 2011 VIII R 8/09, BFHE 235, 298, BStBl II 2012, 395). Hinsichtlich dieser letztgenannten Alternative ist die gerichtliche Prüfung darauf beschränkt, ob ein sog. Ermessensfehlgebrauch vorliegt, die Ausübung des Ermessens also rechtlich zu beanstanden ist. Hingegen ist das Gericht nicht befugt, eine eigene Ermessensentscheidung zu treffen und diese an die Stelle der behördlichen Ermessensentscheidung zu setzen (Senatsurteil vom 28. September 2010 VII R 45/09, BFHE 231, 409, Zeitschrift für Zölle und Verbrauchsteuern --ZfZ-- 2011, 12; vgl. Gräber/ von Groll, Finanzgerichtsordnung, 7. Aufl., § 102 Rz 14).
+
+15
+
+Den Feststellungen des FG sind keine Anhaltspunkte für einen Ermessensfehlgebrauch des FA zu entnehmen. Da der Kläger die Zwangsgeldandrohungen hat bestandskräftig werden lassen, könnten ohnehin nur solche Umstände einen Ermessensfehler bei der Zwangsgeldfestsetzung begründen, die nicht schon bei der Androhung des Zwangsgeldes hätten berücksichtigt werden können und müssen. Derartige Umstände, die ein Absehen von der Festsetzung der Zwangsgelder geböten, sind nicht ersichtlich. Auch das FG meint nicht, das FA habe seine Entscheidung aufgrund eines unrichtigen oder unvollständigen Sachverhalts getroffen. Es hält die Entscheidung vielmehr gerade wegen der auch dem FA bekannten Sachlage, dass die Abgabe der geforderten Erklärungen durch den Kläger mit hoher Wahrscheinlichkeit keine steuerlichen Auswirkungen haben dürfte, für verfehlt und unzweckmäßig. Damit beanstandet es die Wertung der bei der Ermessensentscheidung zu berücksichtigenden und vom FA auch berücksichtigten Umstände und setzt im Ergebnis seine für richtiger gehaltene Ermessensentscheidung, von der Festsetzung der Zwangsgelder abzusehen, anstelle derjenigen des FA. Soweit aber reicht die gerichtliche Kontrollkompetenz des § 102 FGO nicht.
+
+16
+
+2. Das Urteil ist auch nicht im Ergebnis richtig, so dass die Revision auch nicht deswegen zurückzuweisen ist (vgl. § 126 Abs. 4 FGO).
+
+17
+
+Die Ausführungen des FG, insbesondere die Formulierung, die Festsetzung von Zwangsgeldern stelle in Anbetracht der Situation der Insolvenzschuldnerin ein ungeeignetes Zwangsmittel dar, deuten darauf hin, dass es die Zwangsgeldfestsetzungen im Streitfall für unverhältnismäßig hält. Die Wahrung des Grundsatzes der Verhältnismäßigkeit jeglicher belastenden behördlichen Maßnahme ist eine Rechtspflicht, deren Einhaltung der uneingeschränkten gerichtlichen Überprüfung unterliegt (vgl. Senatsbeschluss vom 1. August 2005 VII B 97/04, BFH/NV 2005, 2255; s. auch Senatsurteil vom 17. Mai 2011 VII R 40/10, BFHE 233, 567, ZfZ 2011, 247).
+
+18
+
+Der Streitfall weist allerdings keine Besonderheiten auf, die die Annahme rechtfertigen könnten, die --regelmäßig zulässige und gebotene-- Durchsetzung der auch vom Insolvenzverwalter zu erfüllenden Erklärungspflichten durch Festsetzung der bestandskräftig angedrohten Zwangsgelder sei ausnahmsweise unverhältnismäßig. Wie das FG zutreffend ausgeführt hat, steht der Durchsetzung der steuerlichen Pflichten des Insolvenzverwalters weder entgegen, dass möglicherweise entstehende Kosten die Insolvenzmasse belasten, obwohl keine steuerlichen Auswirkungen zu erwarten sind (vgl. Senatsurteil vom 23. August 1994 VII R 143/92, BFHE 175, 309, BStBl II 1995, 194), noch dass das FA die Möglichkeit der Schätzung hätte wahrnehmen können (Senatsurteil vom 13. Februar 1996 VII R 43/95, BFH/NV 1996, 530).
+
+19
+
+Im vorliegenden Fall hat das FA zudem zutreffend darauf hingewiesen, dass die Erfüllung seiner Erklärungspflichten für den Kläger schon deshalb keinen unverhältnismäßigen Aufwand bedeutete, weil er die dafür erforderlichen Vorarbeiten mit seinem Schlussbericht gegenüber dem Insolvenzgericht bereits geleistet habe und die Erstellung der sich daraus nach seinen eigenen Angaben ergebenden "Null-Erklärungen" ihm als Rechtsanwalt keine Schwierigkeit bereiten sollte.
+

@@ -1,0 +1,60 @@
+U.S. Department of LaborIn the Matter of:
+
+MYLON LARRICK,
+
+COMPLAINANT, v.
+
+BECHTEL NATIONAL, INC.,
+
+RESPONDENT.
+
+Appearances:
+
+For the Complainant:
+
+Administrative Review Board Washington, D.C. 2021 o
+
+ARB CASE NO. 2017-0053
+
+ALJ CASE NO. 2017-ERA-00004
+
+DATE: FEB 2 0 2020
+
+Mylon A. Larrick; pro se; Akron, Ohio
+
+For the Respondent: Leslie Droubay Killoran, Esq.; Bechtel National, Inc.; Richland, WashingtonBefore: Thomas H. Burrell, Acting Chief Administrative Appeals Judge, and James A. Haynes and Heather C. Leslie, Administrative Appeals JudgesDECISION AND ORDER
+
+PER CURIAM. The Complainant, Mylon Larrick, filed a retaliation complaint under the employee protection provision of the Energy Reorganization Act (ERA), as amended, 1 with the Department of Labor's Occupational Safety and Health Administration (OSHA). Larrick alleged that he was retaliated against for raising nuclear safety concerns. OSHA dismissed the claim as it was not filed within 180Part 24 (2019). days of the alleged adverse action and no equitable tolling exception applied. Thus, the claim was untimely.
+
+The case was referred to the Office of Administrative Law Judges (OALJ) per Larrick's request of March 23, 2017. Respondent moved to dismiss for untimeliness. Complainant did not file an opposition to the motion or ask for an extension to make such a filing. On June 8, 2017, the Administrative Law Judge (ALJ) issued an Order of Dismissal, concluding the claim was untimely based on the official notice he took of the content of the Secretary's Findings contained in a Notice sent to the parties by OSHA on February 27, 2017. That Notice indicated that Respondent advised Complainant on July 18, 2016, that he would be laid off at a later date. Complainant did not file his complaint with OSHA until February 27, 2017. Complainant requested that the Administrative Review Board (ARB) review theALJ's order. We affirm.
+
+JURISDICTION AND STANDARD OF REVIEW
+
+The Secretary of Labor has delegated to the ARB the authority to issue final agency decisions in review or on appeal of matters arising under the ERA and its implementing regulations at 29 C.F.R. Part 24. 2 The ARB will affirm the ALJ's factual findings if supported by substantial evidence, but reviews all conclusions of law de novo. 29 C.F.R. § 24.ll0(b); Tran v. S. California Edison Co., ARB No. 2018- 0024, ALJ No. 2017-ERA-00008, slip op. at 2 (ARB Oct. 24, 2019). Summary decision is permitted where "there is no genuine dispute as to any material fact and the movant is entitled to decision as a matter oflaw." 29 C.F.R. § 18.72(a) (2018). On summary decision, we review the record on the whole in the light most favorable to the non-moving party. Micallef v. Harrah's Ricon Casino & Resort, ARB No. 2016-0095, ALJ No. 2015-SOX-00025, slip op. at 3 (ARB July 5, 2018).
+
+DISCUSSION
+
+The ERA provides that any employee who believes he has been discharged or otherwise discriminated against in violation of the ERA "may, within 180 days after such violation occurs," file a complaint with the Secretary of Labor alleging such discharge or discrimination. 42 U.S.C.A. § 585l(b)(l). The implementing regulationsResponsibility to the Administrative Review Board), 84 Fed. Reg. 13,072 (April 3, 2019); 29 C.F.R. § 24. ll0(a). provide that "any complaint shall be filed within 180 days after the occurrence of the alleged violation." 29 C.F.R. § 24.103(d)(2).
+
+In whistleblower cases, statutes of limitation such as section 585l(b)(l) run from the date an employee receives "final, definitive, and unequivocal notice" of an adverse employment decision. Swenk v. Exelon Generation Co., ARB No. 04-028,ALJ No. 2003-ERA-00030, slip op. at 4 (ARB Apr. 28, 2005) (quoting Jenkins v. U.S. Envtl. Prot. Agency, ARB No. 1998-0146, ALJ No. 1988-SWD-00002, slip op. at 14 (ARB Feb. 28, 2003)). "Final" and "definitive" notice denotes communication that is decisive or conclusive, i.e., leaving no further chance for action, discussion, or change. Id. "Unequivocal" notice means communication that is not ambiguous, i.e., free of misleading possibilities. Id. (citing Larry v. The Detroit Edison Co., No. 1986- ERA-00032, slip op. at 14 (Sec'y June 28, 1991)). The time for filing a complaint begins when the employee knew or should have known of the adverse action, regardless of the effective date. Id. (citing Riden v. Tennessee Valley Auth., No. 1989-ERA-00049, slip op. at 2 (Sec'y July 18, 1990)).
+
+As the ALJ correctly found, Larrick should have filed a complaint under the ERA alleging whistleblower protection within 180 days of the July 18, 2016 notification to him that he would be laid off at a later date, August 31, 2016.
+
+On appeal, Larrick first argues that he never received the motion to dismiss so he could not properly oppose it. However, Bechtel National asserts that it mailed it to Complainant at his address of record. Assuming that Larrick did not receive the motion, he has not provided any grounds on appeal that, if argued below, would cause us to reverse the ALJ's findings and conclusions. 3 We review motions for summary decision and legal questions (including this issue of whether equitable tolling is warranted) de novo. Considering all of Larrick's arguments, we conclude that he has failed to show either that his complaint was timely or that equitable tolling principles should apply.
+
+The crux of Larrick's argument is that he believed that he was filing within the 180-day statute of limitations because he filed within 180 days from the day his employment ended on August 31, 2016. But as noted above, the 180 days began to the Eighth Circuit assumed that the plaintiff did not receive the defendant's motion for summary decision as plaintiff asserted, but went on to decide the case as the plaintiff had "indicated on appeal what he would have shown had he been given the opportunity to respond to the summary judgment motion."). run on July 18, 2016, the date he was informed he would be laid off. 4 Thus, his complaint was untimely. Larrick must justify the application of equitable tolling principles to his case. 5 Larrick's only argument concerning tolling was that he was ignorant as to the law about the limitations period. Ignorance of the law will generally not support a finding of entitlement to equitable tolling and we conclude it does not here. Williamson v. Washington Savannah River Co., ARB No. 07-071, ALJ No. 2006-ERA-030, slip op. at 4 (ARB June 28, 2007) (citation omitted).
+
+Larrick's second and final argument is that he believes that the delay has not caused prejudice, injury or damages to the opposing party. However, as argued byBechtel National, a lack of prejudice is not an independent grounds for equitable modification principles.
+
+The pertinent facts regarding the timeliness of Larrick's complaint are not disputed. The ALJ properly applied the statutes and case law governing the 180- day statute of limitations. Moreover, Larrick has not made any argument that would allow for application of equitable tolling. Therefore, we affirm the ALJ'sOrder of Dismissal, and dismiss Larrick's untimely complaint.
+
+CONCLUSION
+
+Accordingly, we AFFIRM the ALJ's conclusion that the claim filed on February 27, 2017, was untimely, and deny the complaint.
+
+SO ORDERED.
+
+Respondent informed Larrick on July 18, 2016, that he would be laid off in August.
+
+' The Board has held that circumstances justifying equitable tolling include situations in which (1) the respondent has actively misled the complainant respecting the cause of action, (2) the complainant has been prevented from asserting his rights in some extraordinary way, or (3) the complainant has raised the precise statutory claim in the wrong forum. School District of the City of Allentown v. Marshall, 657 F.2d 16 (3d Cir. 1981); Sysko u. PPL Corp., ARB No. 2006-0138, ALJ No. 2006-ERA-00023 (ARB May 27, 2008). While these circumstances are not exclusive, limitations periods and other filing deadlines should be equitably modified only in exceptional circumstances. Hill u. Tennessee Valley Author.:ty, Nos. 1987-ERA-023, -024, slip op. at 3 (Sec'y April 21, 1994).
+

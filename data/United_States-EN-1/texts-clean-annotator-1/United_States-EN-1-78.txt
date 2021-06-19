@@ -1,0 +1,66 @@
+
+
+Before the Court is the Grower Defendant’s Motion for Summary Judgment (Ct. Rec. 304). A hearing on the motion was held on August 31, 2009.  Plaintiffs were represented by Brad Moore. The Grower Defendants were represented by Ryan Edgley. 
+
+This case was originally filed on June 6, 2006.  Since that time, the Court has addressed a motion to dismiss and motion to stay (Ct. Rec. 36), a motion for partial summary judgment (Ct. Rec. 105), a motion to lift the stay (Ct. Rec. 178), and a motion to amend (Ct. Rec. 212).  The Court has certified the class (Ct. Rec. 115, 214), as well as approved opt-in notices (Ct. Rec. 92) and notices to be sent to the purported class members (Ct. Rec. 88, 293).  In addition, there are pending motions for summary judgment (Ct. Rec. 280, 301). 
+
+As a result of these various motions, proceedings, and rulings, the nature and scope of Plaintiffs’ federal claims have been significantly narrowed and are now better understood by the Court and the Defendants.  We now know that the Fair Labor Standards Act (“FLSA”) claim involved only the first week of work.  The FLSA claim is not about wages and work paid during the entire time that Plaintiffs were employed by Global Horizons, Inc. to work at the Grower Defendants’ farms. Rather, Plaintiffs are bringing a narrow FLSA federal claim that is referred to as a Arriaga claim.  Plaintiffs allege that the expenses paid in Thailand for physical exams, Visa application fees, passport fees, and fees for recruitment and travel were for the benefit of Global Horizons, Inc., and when subtracted from the wages paid during the first work week in the state of Washington, brought their wages below the federal minimum for that work week.  There are no facts concerning this claim that involve the Grower Defendants.
+
+ Plaintiffs alleged breach of contract claims and claims based on alleged violations of the state Farm Labor Contractor Act (“FLCA”). These state claims also involve facts concerning the activities of Global Horizon, Inc., but involve conduct during the recruitment process and the Plaintiffs’ contracts with Global Horizon, Inc. The Grower Defendants are sued only because of vicarious liability imposed by state statute under certain circumstances.  The only factual issue involving the Grower Defendants is the date the Grower Defendants learned that Global Horizons, Inc. did not have a state license. /// /// 
+
+ 
+
+The jurisdiction of the federal courts is limited to “cases” and “controversies.” U.S. Const., Art. III, sec. 2.  “Whenever it appears by suggestion of the parties or otherwise that the court lacks jurisdiction of the subject matter, the court shall dismiss the action.”  Fed. R. Civ. P. 12(h)(3).  An objection that a federal court lacks subject matter jurisdiction may be raised at any time, even after trial and the entry of judgment.  Arbaugh v. Y & H Corp., 546 U.S. 500, 506 (2006). The objection, made under Federal Rule of Civil Procedure 12(b)(1), may be raised by a party or by the court on its own initiative. Id. 
+
+Federal courts deciding claims within their federal-question subject matter jurisdiction under 28 U.S.C. § 1331, may decide state law claims not within their subject matter jurisdiction if the federal and state law claims “derive from a common nucleus of operative fact” and are such that a plaintiff would ordinarily be expected to try them in one judicial proceeding. Gibbs, 383 U.S. 715, 725 (1966). 
+
+28 U.S.C. § 1367 provides: 
+
+(a) Except as provided in subsections (b) and (c) or as expresslyprovided otherwise by Federal statute, in any civil action of which thedistrict courts have original jurisdiction, the district courts shall havesupplemental jurisdiction over all other claims that are so related toclaims in the action within such original jurisdiction that they formpart of the same case or controversy under Article III of the UnitedStates Constitution. Such supplemental jurisdiction shall includeclaims that involve the joinder or intervention of additional parties. 
+
+Under the Gibbs standard, there are three requirements before federal courts may exercise supplemental jurisdiction to hear state law claims: (1) “the federal claim must have substance sufficient to confer subject matter jurisdiction on the court;” (2) the state and federal claims must derive from a common nucleus of operative facts; and (3) the plaintiff’s claims are such that he or she would ordinarily expect to try them all in one judicial proceeding.  Gibbs, 383 U.S. at 725. 
+
+Here, the Grower Defendants argue that the facts underlying the federal FLSA claim are not operative in determining Plaintiffs’ state law FLCA claim. The Court agrees. The Court finds the reasoning and analysis of the Third Circuit in Lyon v. Whisman, 45 F.3d 758 (3rd Cir. 1995) and the Eleventh Circuit in Hudson v. Delta Airlines, Inc., 90 F.3d 451 (11th Cir. 1996) provide guidance to the Court in determining whether this Court should hear the state claims.  In Lyons, the Third Circuit held that the plaintiff’s FLSA claim involved very narrow, well-defined factual issues about hours worked during particular weeks, and the facts relevant to her state law contract and tort claims, which involved the employer’s underpayment of a bonus and refusal to pay the bonus if the plaintiff started looking for another job, were distinct. Lyons, 45 F.3d at 763. While the case involved the same parties, employment relationship, time period, and compensation issues, the operative facts were not common. 
+
+In this case, the FLSA claim is narrow and distinct.  The operative facts involving the FLSA claim include the amount of wages that were paid the first week of work and the amount of expenses paid by the plaintiffs, and the legal question of whether these expenses were for the benefit of Global Horizons, Inc.1 These facts are not operative to the Farm Labor Contract Act claims. 
+
+At best, Plaintiffs argue that the facts between the FLSA claim and the FLCA claims “overlap.” However, overlapping facts do not meet the requirements of a common nucleus of operative facts.  As such, the Court concludes that it does not have authority to exercise supplemental jurisdiction over the FLCA claims because the FLSA claims and the FLCA claims are a separate case and controversy. 
+
+In the alternative, even if the Court has the authority to exercise 
+
+1In their Proposed Pretrial Order, Plaintiffs agree that they were each paid $348.40 in wages during their first week of employment with Global Horizons. 
+
+
+
+ORDER GRANTING THE GROWER DEFENDANTS’ MOTION FOR SUMMARY JUDGMENT; DISMISSING CLAIMS AGAINST GROWER DEFENDANTS WITHOUT PREJUDICE ~ 4 
+
+supplemental jurisdiction over the FLCA claims, it questions whether it should do so. At first blush, strong reasons exist to try the FLCA claims on October 13, 2009. This case has been before this Court since 2006, and the parties are ready for trial. However, the interpretation of Wash. Rev. Code § 19.30.200 as applied to this case implicates a novel or complex issue of state law.  The alternative ground for the instant motion is to dismiss the FLCA claim because at the time of the alleged violation of the FLCA, Global Horizons had a license.  The motion addresses a crucial legal interpretation of the Washington statute where there is no precedent to guide the Court. The state court is in a better position to interpret §19.30.200 and determine the scope of liability for persons who use unlicensed farm contractors.  In addition, at the trial, the state claims would consume the bulk of the presentation of evidence. In such cases, the Court must consider whether the retention of jurisdiction over the state claims is appropriate.  See 28 U.S.C. § 1367(c). It may not be in this case. 
+
+Here, the Global Defendants did not join in the motion.  The same analysis may apply to Global and the Court is required to address the jurisdictional issue. Before the Court so rules, however, it will give the parties on opportunity to address the Court on this issue.
+
+
+
+ Accordingly, IT IS HEREBY ORDERED: 
+
+1. 
+
+The Grower Defendant’s Motion for Summary Judgment (Ct. Rec. 304) is GRANTED. 
+
+
+
+2. 
+
+The claims against the Grower Defendants are dismissed without prejudice. 
+
+
+
+3. 
+
+The Global Defendants are ordered to file responsive briefing as to whether the Court has subject matter jurisdiction to hear the state law claims on or before September 11, 2009. On or before September 18, 2009, Plaintiff shall file their response. 
+
+
+
+
+
+
+

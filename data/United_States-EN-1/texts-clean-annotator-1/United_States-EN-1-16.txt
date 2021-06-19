@@ -1,0 +1,766 @@
+
+
+Plaintiffs in this certified wage and hour class action are current and former massage therapists that have been classified as independent contractors by Defendant A Perfect Day Franchise, Inc. and/or A Perfect Day, Inc. (“Perfect Day”).  Plaintiffs allege violations of the Fair Labor Standards Act (“FLSA”) as well as California wage and hour laws.  Before the Court is Defendant Huan Zou’s Motion to Dismiss (“Motion to Dismiss”), ECF No. 283; Plaintiffs’ Motion for Terminating, Issue, Evidentiary, and Monetary Sanctions (“Motion for Sanctions”), ECF No. 317; and Defendants’ Motion for Summary Adjudication (“Motion for Summary Adjudication”), ECF No. 318. A hearing on these motions1 was held on February 16, 2012. For the reasons set forth below, Defendant Huan Zou’s Motion to Dismiss is DENIED; Plaintiffs’ Motion for 
+
+1
+
+   The Motion to Dismiss was submitted on the briefs before the February 16, 2012 hearing date.1 Case No.: 10-CV-01189-LHK ORDER RE: MOTION FOR SANCTIONS AND MOTION FOR SUMMARY ADJUDICATION 
+
+Sanctions is GRANTED in part, and DENIED, in part; and Defendants’ Motion for Summary Adjudication is GRANTED in part, and DENIED, in part. 
+
+ 
+
+
+
+The topic of the corporate assets, structure, and ownership of Defendant Perfect Day – the main employer in this case – has plagued the discovery process and been the subject of numerous discovery disputes before this Court. This topic is also a central theme running through the motions pending before the Court.  Plaintiffs, citing Defendants’ alleged discovery abuses, ask this Court to impose the ultimate sanction of default judgment against Defendants.  Defendants, on the other hand, move for summary judgment on the liability of the individual defendants.  The individual defendants Tom Schriner, Chuanyu Li (“Jade Li”), Tailiang Li, Jin Qiu, Jun Ma, and corporate defendant Minjian Hand Healing Institute, Inc. (“Minjian”) argue that summary judgment in their favor is appropriate because Plaintiffs have not established that these defendants retained control over the employment relationship with the massage therapists, or that the corporate structure was a sham such that they may be liable for the alleged state and federal wage and hour violations. Finally, Defendant Huan Zou, moves to dismiss the Second Amended Complaint (“SAC”) as to him because he claims he has not been properly served.  Plaintiffs allege that he is evading service and as the sole owner of Perfect Day Franchise, Inc., has not been prejudiced by any defects in service. 
+
+Because the corporate assets, ownership and structure of Perfect Day is important to resolution of the pending motions, a brief summary of the disputed and undisputed facts is necessary to understand the nature of the relationship between the Defendants in this case.  
+
+Founding of Perfect Day 
+
+Perfect Day owns and operates or has owned and operated spas in Fremont, Santa Clara, and Millbrae, California. A Perfect Day, Inc. was incorporated under the laws of California in 2003. Defendant Tom Schriner; his wife Martha Schriner, and Defendant Huan Zou were the original owners and corporate officers of A Perfect Day, Inc.  Sheldon MSJ Decl. Ex. A at 63.2 Initially, Huan Zou was Perfect Day’s Chief Executive Officer, and Martha Schriner was Perfect 
+
+2 “Sheldon MSJ Decl.” refers to the document at ECF No. 318-1. 
+
+Day’s Secretary and Chief Financial Officer.  Statement of Information, TS000037, Olivier Sanctions Decl. Ex. 37.  Tom Schriner was also named as a director of the corporation.  Id. Together, the Schriners owned a 50% interest in the corporation, while Huan Zou owned the remaining 50% interest.  Sheldon MSJ Decl. Ex. A at 63.  Perfect Day, Inc. initially had one spa location on Paseo Padre Parkway in Fremont, California.  Chuanyu Li Dep. at 15, Sheldon MSJ Decl. Ex. C; Fremont Planning Application at FRE000006, Olivier MSJ Decl. Ex. 13. 
+
+Mr. Zou and Mr. Schriner became business partners because Mr. Zou had experience as a masseuse, while Mr. Schriner had experience running his own landscaping business.  See Sheldon MSJ Decl. Ex. A at 25-26; 34-39. Initially, Mr. Zou ran his own massage business that the city shut down because Mr. Zou failed to do the permitting correctly.  See id. at 25-27. Mr. Schriner agreed to help Mr. Zou with the permitting because Mr. Schriner had a lot of experience working with the city in running his own business.  Id.  Mr. Schriner’s involvement in the initial venture was mostly limited to handling business matters.  For example, he assisted in getting the business up and running by meeting with the landlord to obtain the lease, and obtaining the various permits that were required by the city. Schriner Dep. at 32, Olivier MSJ Decl. Ex. 4.   
+
+In addition to providing advice and assistance in the practical aspects of starting the business, Mr. Schriner also provided the initial investment to start Perfect Day.  Schriner Dep. at 46-47, Olivier MSJ Decl. Ex. 4. At the beginning, Mr. Schriner wrote checks directly to Mr. Zou, but later, he contributed money to the corporation.  Schriner Dep. at 47, Olivier MSJ Decl. Ex. 4.  Mr. Schriner estimates that he first invested $250,000 into the Fremont location of Perfect Day, and that he eventually invested an additional $400,000 into the company.  Schriner Dep. at 47 & 56-57, Olivier MSJ Decl. Ex. 4. Mr. Schriner provided additional support to Perfect Day by signing a one million dollar loan on behalf of Perfect Day for tenant improvements.  The loan is still in the process of being paid back. Schriner Dep. at 73-74, Olivier MSJ Decl. Ex. 4.   
+
+Minjian was also founded around the same time that Perfect Day was founded.  Minjian is a California corporation which purports to be a massage therapy school. Defendant Tailiang Li is the founder, owner, and instructor of Minjian. Tailiang Li Dep. at 15-16, Olivier MSJ Decl. Ex. 3; Business Application, FREM00009, Olivier MSJ Decl. Ex. 13 (listing Tailiang Li as the sole owner of Minjian Hand Healing Institute).  Moreover Tailiang Li has testified that he has sole control over Minjian’s finances. Tailiang Li Dep. at 27, Olivier MSJ Decl. Ex. 3 (testifying that he is also the only person who can write or deposit checks for Minjian).  Defendant Jin Qiu is Tailiang Li’s wife, and Defendant Chuanyu Li (“Jade Li”) is Tailiang Li’s daughter.  Tailiang Li Dep. at 29-30, Olivier MSJ Decl. Ex. 3. 
+
+The parties dispute the relationship between Minjian and Perfect Day.  In his deposition, Tailiang Li denied any connection between the two corporate entities.  See, e.g. Tailiang Li Dep. at 30-31, Olivier Decl. Ex. 3 (Tailiang Li testified that he had “no idea” the name of the spa in which his daughter works, even though it is located in the same building as his company, Minjian); Jade Li Dep. at 65-67 (Jade Li testified that she doesn’t know what Minjian is, that there was “no relationship” between Minjian and Perfect Day, and refusing to answer a question regarding who “Tailiang Li” is, even though Tailing Li is the father of Jade Li).  However, the record is replete with examples of connections, both formal and informal, between Perfect Day and Minjian.  For example, there is evidence in the record that Minjian was located at the same location as Perfect Day Spa. Compare Business Application, FREM00009, Olivier MSJ Decl. Ex. 13 with FREM000006, Olivier MSJ Decl. Ex. 13.  Moreover, Jade Li, Tailiang Li’s daughter, is a manager at Perfect Day. 
+
+Permit applications, and other submissions Perfect Day sent to several municipal entities, including Fremont, California and Santa Clara, California indicate that Tom Schriner and Huan Zou intended to open both Perfect Day and Minjian together and that the two businesses were meant to be complementary.  The overall business plan was to found a school that could train the massage therapists that would eventually work for Perfect Day.  See e.g. FREM000006, Olivier MSJ Decl. Ex. 13 (application in which Schriner indicated to Fremont an intent to open “a Massage Therapy Establishment and Training Massage Therapists” at the Perfect Day site in Fremont); FREM000235 (Tom Schriner told the city of Fremont in 2003 that “[i]n order to have employees that meet the high standards we have established, we had to make sure that they go through a 200­hour minimum training course under Dr. Tailiang Li who owns and manages the Minjian Hand Healing Institute. All employees will have to pass his high standards and be certified by the City of Fremont.  The employees will work in an open ethical environment.”); FREM000247 (In 2003, a representative from a Perfect Day also represented to the City of Fremont that “Minjian Hand Healing Institute is planning to open in Fremont in conjunction with a Perfect Day Spa.”); SC0000005, SC0000007, Olivier MSJ Decl. Ex. 14 (Perfect Day brochure submitted to Santa Clara indicated that all Perfect Day employees “have to go through our School and pass their City tests for massage.”). 
+
+The testimony of several class members supports an inference that Minjian and Perfect Day were in fact a joint business venture.  Several class members were directed to attend Minjian by Perfect Day. Cui Dep. at 15, Olivier MSJ Decl. Ex. 6A; see also Dai Dep. at 10, Olivier MSJ Decl. Ex. 7A. Many class members testified that they interviewed to be message therapists for Perfect Day with Tailiang Li. Li told prospective massage therapists that before they would be hired by Perfect Day, they had to be trained through Minjian.  Dai Dep. at 8, Olivier MSJ Decl. Ex. 7B (When Dai interviewed with Tailiang Li, Li indicated that Dai “would be hired first and then trained in a school that belonged to the company”); see also Wang Dep. at 76:13-17, Olivier MSJ Decl. Ex. 9 (Wang interviewed with Principal Li at Perfect Day Spa, and was told that Wang “had to go through the training in the school in order to work at that Perfect Day Spa.”); Yang Dep. at 50, Olivier MSJ Decl. Ex. 10 (interviewed with Principal Li regarding training at the school and working at Perfect Day).  Finally, several class members indicated that Perfect Day deducted tuition payments owed to Minjian from their pay checks.  Giufu Li Dep. at 12, Olivier MSJ Decl. Ex. 8B; Yang Dep. at 64, Olivier MSJ Decl. Ex. 10; see also Cheung Dep. at 29, Olivier MSJ Decl. Ex. 5. 
+
+Perfect Day Management 
+
+Perfect Day employs two managers: Jade Li and Jun Ma.  Ma is the branch manager for the Millbrae and Santa Clara branches.  Ma Dep. at 237, Olivier MSJ Decl. Ex. 2; Jade Li Dep. at 22, Olivier MSJ Decl. Ex. 1. Jun Ma is, and at all times relevant to this matter has been, the Human Resources Manager at Perfect Day.  Jade Li Dep. at 20-21, Olivier Decl. Ex. 1; Ma Dep. at 237, Olivier Decl. Ex. 2. As the H.R. Manager, Ma is responsible for supervising, hiring, and managing the massage therapists at Perfect Day.  Jade Li Dep. at 83, Olivier MSJ Decl. Ex. 1.  In addition, Ma has control over the personnel files at Perfect Day.  Jade Li Dep. at 77-78, Olivier Decl. Ex. 1; Ma Dep. at 53-54, Olivier Decl. Ex. 2. 
+
+The parties dispute the extent to which Ma is responsible for setting the massage therapists hours and rates of pay. According to Ma, Perfect Day imposes no restrictions on hours worked or schedules kept. Rather, it is the responsibility of the massage therapists to coordinate with each other with respect to schedules. See Ma Dep. at 262-267, Olivier MSJ Decl. Ex. 2.  According to several class members, however, Ma was responsible for setting the massage therapists’ working hours and directing their work. Cui Dep. at 18, Olivier MSJ Decl. Ex. 6B; Dai Dep. at 24, Olivier MSJ Decl. Ex. 7B; Guifu Li Dep. at 31-32, Olivier MSJ Decl. Ex. 8B; Yu Dep. at 22, Olivier MSJ Decl. Ex. 11B. Moreover, several Plaintiffs testified that Ma had the authority to reduce their pay.  Plaintiff Guifu Li testified that if the massage therapists’ work did not meet Ma’s requirements, their pay would be deducted. Guifu Li Dep. at 32, Olivier MSJ Decl. Ex. 8B.  Plaintiff Yuan testified that Ma reduced his rate of pay.  Yuan Dep. at 19, Olivier MSJ Decl. Ex. 12. 
+
+In addition to being Tailiang Li’s daughter, Jade Li is also the branch manager for Perfect Day’s Fremont branch. Jade Li Dep. at 22, Olivier MSJ Decl. Ex. 1.  As part of her managerial job duties, Jade Li is responsible for confirming that new massage therapists have signed the independent contractor agreements, and Jade Li is also responsible for signing the contractor agreements on behalf of Perfect Day.  Jade Li Dep. at 35, 38, Olivier MSJ Decl. Ex. 1.  Jade Li’s role in Perfect Day’s management is less clear than Ma’s.3  Based on records obtained from various municipalities, it appears as though Jade Li acted as a representative, point of contact, or agent on behalf of both Perfect Day and Minjian. See, e.g., Fremont Business Tax Return, FREM0000038; Fremont Business Tax Return Renewal, FREM00000049; Planning Commission Report and Correspondence, FREM000055, FREMO00000066, Olivier MSJ Decl. Ex. 13. 
+
+Similarly, there is some evidence that Tailiang Li also functioned as a manager at Perfect Day. At least one class member testified that Tailiang Li paid frequent visits to the Perfect Day office and Tailiang Li “would issue orders to the branch manager, and the branch manager would in turn give [massage therapists] the assignments.”  Yu Dep. at 24, Olivier MSJ Decl. Ex. 11B; see 
+
+3  Additionally, one named Plaintiff testified that Jade Li told him that if the massage therapists performed well, the hourly rate of pay would be increased.  Guifu Li Dep. at 37, Olivier MSJ Decl. Ex. 8B. However, it is far from clear that Jade Li actually had the authority to increase or decrease the massage therapists’ rate of pay. 
+
+also Yuan Dep. at 11, Olivier MSJ Decl. Ex. 12 (testifying that he saw Li “a lot” at Perfect Day Spa location). 
+
+While it appears as though Jade Li and Jun Ma act within a management capacity for Perfect Day, the limits of their authority to control or direct the work of the massage therapists, and the authority of those above them to set policy is entirely unclear.  When asked about the structure of Perfect Day above the management level, the defendants failed to identify any supervisor in charge. An exemplary exchange from the deposition of Jade Li is excerpted below. 
+
+Q: Who do you report to at the company? 
+
+A: I don’t need to report to anyone, I just report to myself. 
+
+Q: Who gives you your paychecks? 
+
+A: Perfect Day Spa. 
+
+Q: What individual gives you your paychecks? 
+
+A: Individual. The boss. 
+
+Q: Who is the boss? 
+
+A: I’ve said it’s a corporation, it’s a group. 
+
+Jade Li Dep. at 55:18-56:1, Olivier MSJ Decl. Ex. 1.  Other than Jun Ma, Jade Li, and Tailiang Li, no one else has been identified as controlling the day to day management of Perfect Day. 
+
+Changes to Perfect Day’s Corporate Structure and Ownership 
+
+Despite the lack of information on this topic provided by either Perfect Day, or the individual defendants, as explained below, the corporate records maintained by the California Secretary of State indicate several changes in Perfect Day’s structure and ownership that occurred during the class period4 from March 2006 through the present.  
+
+In July 2005, Tom and Martha Schriner, as the Chairman of the Board and Secretary,5 respectively, filed an amendment to the Articles of Incorporation and the corporation’s name from “A Perfect Day, Inc.” to “A Perfect Day Spa, Inc.” See CSOS000007, Olivier Sanction Decl. Ex. 
+
+34. In October 2005, the name was again changed from “A Perfect Day Spa, Inc.” to “A Perfect 
+
+4   The class period is from March 2006 through the present.5    While the Schriners were officers and directors of Perfect Day, they may not have observed corporate formalities.  Although Schriner initially looked at Perfect Day’s profit and loss statements, he eventually stopped doing so.  Schriner Dep. at 84, Olivier MSJ Decl. Ex. 4.  Additionally, Schriner indicated that sometimes he received money directly from Huan Zou’s personal account, as opposed to Perfect Day’s account.  Schriner Dep. at 103-04, Olivier MSJ Decl. Ex. 4. Schriner didn’t recall having formal corporate meetings where minutes were taken.  Schriner Dep. at 100-01, Olivier MSJ Decl. Ex. 4
+
+7 Case No.: 10-CV-01189-LHK ORDER RE: MOTION FOR SANCTIONS AND MOTION FOR SUMMARY ADJUDICATION 
+
+Day Spas, Inc.” See CSOS000009, Olivier Sanction Decl. Ex. 34.  In March 2007, the Schriners once again amended the Articles of Incorporation and changed the corporate name back to “A Perfect Day, Inc.”  See CSOS000011, Olivier Sanction Decl. Ex. 34.  A Statement of Information filed with the state in May 2009 identified Tom Schriner as the CEO, Martha Schriner as the CFO and Secretary, and Huan Zou as a director of A Perfect Day, Inc. See CSOS000016, Olivier Sanction Decl. Ex. 34. In September 2009, the Schriners and Huan Zou dissolved A Perfect Day, Inc. See CSOS000013, Olivier Sanction Decl. Ex. 34. 
+
+In September 2008, “A Perfect Day Franchise, Inc.” was incorporated under the laws of California by Huan Zou. See CSOS000001, Olivier Sanction Decl. Ex. 34.  In a statement of information signed October 1, 2009 and filed January 22, 2010, Tom Schriner was identified as the CEO, Huan Zou was identified as the Secretary, Martha Schriner was identified as the CFO, and Jun Ma was identified as a Director of A Perfect Day Franchise, Inc.  See CSOS000002, Olivier Sanction Decl. Ex. 34. In December 2009, because Mr. Schriner was experiencing health problems, the Schriners sold their interest in Perfect Day to Huan Zou for $600,000.  Schriner Dep. at 70, Olivier MSJ Decl. Ex. 4; Sheldon MSJ Decl. Ex. B.  In a subsequent Statement of Information filed with the state, Huan Zou identified himself as the sole corporate officer and director of A Perfect Day Franchise, Inc. See CSOS000003, Olivier Sanction Decl. Ex. 34.  Han Zou has represented in the course of this litigation that he is now the sole owner of Perfect Day Franchise, Inc. See Zou Decl. ¶ 3, November 7, 2011, ECF No. 288; see also Tr. of August 19, 2011 at 72, ECF No. 302-2. 
+
+Despite Mr. Zou’s reassurances that he is the sole owner of Perfect Day, Plaintiffs have submitted documents that Perfect Day has submitted to various government entities indicating that Perfect Day Spa is currently owned by May Team, Inc.  Anna Tong, who shares the same address as Tom Schriner, is the CEO of May Team, Inc., which shares the same address as the Fremont location of Perfect Day. See ECF No. 284-1 at 14; ECF No. 298 at 14-21; Olivier Sanctions Decl. ¶ 62a; Olivier Sanctions Decl. Ex. 27, FREM111297, FREM000025-28.  When asked about this apparent discrepancy in ownership and the corporate relationship between the Perfect Day entities and May Team Inc., Defense counsel represented that A Perfect Day Franchise, Inc., “was doing business as a Perfect Day Spa,” but was unable to explain the corporate relationship between May Team and Perfect Day Franchise, Inc.  Transcript of November 21, 2011 hearing at 9:20-24; 10:11­21, ECF No. 305 (“The Court: What’s the relationship? Mr. Sheldon: I just don’t feel comfortable, you know, conclusively stating what that relationship is.”). 
+
+The parties appear to agree that Mr. Zou is currently in China, although they dispute how long he has been there. Mr. Zou, himself, has submitted a declaration that he has been in China since March 2009. Other evidence in the record suggests that Mr. Zou has been in China since December 2009.  Schriner Dep. at 91:20-92:6, Olivier MSJ Decl. Ex 4 (testifying that the last time Schriner saw Zou was in December 2009 when they signed the purchase agreement); Sheldon MSJ Decl. Ex. B (purchase agreement executed in December 2009 in California).  Neither Mr. Zou nor defense counsel has explained why Mr. Zou returned to China despite being granted asylum in the United States from persecution China in September 2001.  Olivier Sanctions Decl. Ex. 29, MILLPD000153-55. 
+
+
+
+
+
+In addition to the factual background, a brief summary of the procedural background is necessary for resolution of these motions.  Specifically, the procedural background demonstrates that Defendants have repeatedly engaged in questionable conduct that has required the Court to intervene and impose a series of escalating warnings and sanctions. 
+
+Plaintiffs filed their initial complaint on March 22, 2010.  ECF No. 1. Perfect Day Franchise, Inc. was the only named Defendant in the original complaint.  See Compl., ECF No. 1.  Plaintiffs filed a First Amended Complaint (“FAC”) on May 12, 2010.  In addition to Perfect Day Franchise, Inc. and Perfect Day, Inc., Plaintiffs also named Minjian, Tom Schriner, Tailiang Li, Jin Qiu, and Jesse Doe as additional Defendants.  See FAC, ECF No. 6. Finally, the Second Amended Complaint (“SAC”) was filed April 12, 2011.  See ECF No. 179. In addition to the previously identified Defendants, the SAC also named Huan Zou, Jun Ma, and Chuanyu Li (aka “Jade Li”) as Defendants. SAC ¶¶ 15-17. 
+
+The SAC is the operative complaint in this case.  In the SAC, Plaintiffs claim that Perfect Day has misclassified them as independent contractors rather than employees.  Flowing from this misclassification, Plaintiffs claim that Perfect Day failed to pay them and other putative class members minimum wage and overtime in violation of the Fair Labor Standards Act (“FLSA”) and the California Labor Code. Plaintiffs also claim that Perfect Day failed to provide meal periods, failed to furnish and keep accurate wage statements and payroll, wrongly subtracted materials costs from Plaintiffs’ wages, failed to timely pay wages upon termination of employment, wrongly took Plaintiffs’ tips, all in violation of California wage and hour laws and the California Unfair Competition Law.6 
+
+The first year of litigation in this case was marked by several disputes that required Court intervention, curative measures to ensure the fairness of the proceedings, and warnings to defense counsel regarding the imposition of future sanctions for misconduct and discovery abuses.  In May 2010, after the complaint was filed, Perfect Day managers Jun Ma and Jade Li held mandatory individual meetings at each of the three Perfect Day locations during business hours with putative class members to communicate with them about the lawsuit and have the putative class members sign forms opting out of the lawsuit.  Defendants submitted signed opt-out forms for 38 of the estimated 40 workers at three Perfect Day locations.  However, these opt-out forms differed from the opt-out forms Jun Ma and Jade Li submitted with their declarations as the forms they had putative class members sign.  See Order at 5, September 29, 2010, ECF No. 85.  The Court found Perfect Day’s tactics coercive, invalidated the opt-out forms, and required Perfect Day to post a curative notice to the putative class.  See Order, September 29, 2010, ECF No. 85.  Because of apparently false submissions by Defendants, the Court also issued an order to show cause why sanctions should not be imposed. Id. 
+
+During the order to show cause hearing, both Jun Ma and Jade Li testified that they destroyed the original signed opt-out forms because of Perfect Day’s paperless policy, but they kept a scanned version of the signed opt-out forms.  Ultimately, the Court declined to issue sanctions, but warned that future sanctions “will be evaluated based on the full record in this case.”  Order Declining To Impose Sanctions at 2, ECF No. 122. 
+
+In July 2010, Defendants also moved to dismiss this suit and to compel arbitration pursuant to an arbitration provision of the independent contractor agreement.  See ECF No. 35. As a result 
+
+6 Plaintiffs also claim that they are entitled to penalties pursuant to the Private Attorney General Act, Cal. Labor Code §2699 et seq. 
+
+10 Case No.: 10-CV-01189-LHK ORDER RE: MOTION FOR SANCTIONS AND MOTION FOR SUMMARY ADJUDICATION 
+
+of this motion, it became apparent that Perfect Day engaged in a policy of shredding all paper documents and retained dubious electronic copies of these documents. In the Court’s order issued in January 25, 2011, the Court found that: 
+
+Given the significant uncertainty raised by Perfect Day’s opaque document 
+
+retention practices, the inconsistent testimony Perfect Day’s managers have 
+
+provided about the origins of Defendants’ [Independent Contract Agreement], and 
+
+the credible testimony by five Perfect Day workers stating that they did not sign 
+
+Defendants’ ICA, the Court finds that Perfect Day has not carried its burden to 
+
+establish by a preponderance of the evidence that the arbitration clause it is 
+
+attempting to enforce was contained in the agreements signed by its workers.”   
+
+Order Denying Defs.’ Request to Dismiss Case and Compel Arbitration at 6-7, ECF No. 142.7 Additionally, the Court once again considered whether Perfect Day should be sanctioned because of Perfect Day’s practice of destroying documents that were relevant to the litigation.  Ultimately, however, the Court declined to impose sanctions because the remedies provided in the order were sufficient to cure the potential harm to the Plaintiffs.  See id. at 10, ECF No. 142. 
+
+The second year of litigation in this case was marked by discovery disputes between the parties. Specifically, it has become clear that Defendants are unwilling to provide evidence regarding the corporate structure, ownership, and control of Perfect Day.  On March 8, 2011, Plaintiffs’ served a deposition notice on Perfect Day pursuant to Federal Rule of Civil Procedure 30(b)(6). See Olivier Decl. Ex. A, August 11, 2011, ECF No. 237-1.  Among other topics, Plaintiffs noticed a corporate deponent to testify as to “PERFECT DAY’s corporate structure and ownership.” Id.  Shortly thereafter, on April 7, 2011, Perfect Day identified Huan Zou as the person most knowledgeable on this deposition topic via e-mail to opposing counsel.  See Olivier Decl. Ex. B, August 11, 2011, ECF No. 237-1. 
+
+In the months after they served the 30(b)(6) deposition notice, Plaintiffs were unable to depose Mr. Zou as to the topic referenced in the March 8, 2011 deposition notice.  Defendants repeatedly failed to produce Mr. Zou for deposition, explaining that he was in China and was unavailable to testify.  See Olivier Decl. ¶5, August 11, 2011, ECF No. 237-1.  As a result of Defendant’s failure to produce Mr. Zou, as well as other 30(b)(6) deponents, for deposition, Plaintiffs were unable to complete their class certification briefing on time, and the Court reset the briefing schedule twice. See Order ¶¶ 8 & 10, ECF No. 195; Order, ECF No. 208.   
+
+Even after the Court ordered the parties to stipulate to the deposition dates for Mr. Zou, the Plaintiffs were still unable to take Mr. Zou’s deposition during June or July 2011.  The Plaintiffs then moved to compel the deposition of Mr. Zou as Perfect Day’s 30(b)(6) witness regarding the corporate structure and ownership of Perfect Day and sought sanctions for failure to comply with the previous court order to stipulate as to the deposition schedule of Mr. Zou.  See ECF No. 223. On August 29, 2011, the Court ordered that Perfect Day produce a 30(b)(6) corporate deponent – either Mr. Zou or another designated witness – to testify regarding Perfect Day’s corporate structure or ownership. See Order at 6, ECF No. 248. 
+
+The Court granted Plaintiffs’ motion for attorneys’ fees of $800.  See Order at 5, citing Fed. 
+
+R. Civ. P. 37(a)(5)(A), ECF No. 248.  Additionally, to remedy the prejudice to Plaintiffs as a result of Perfect Day’s unreasonable refusal to produce its corporate deponent, the Court prohibited Perfect Day “from utilizing declaration evidence (from Mr. Zou or any other corporate designee) regarding its corporate structure or ownership in its opposition to class certification/collective action. Perfect Day will be further precluded from utilizing such evidence until it produces a corporate deponent on this topic.” Id. at 6. Perfect Day was also warned that it is “on notice . . . that continuing failure to produce a 30(b)(6) deponent may result in additional exclusion of evidence and/or additional monetary sanctions.” Id. at 7. 
+
+In addition to the difficulties Plaintiffs have faced in deposing Mr. Zou, Plaintiffs have also had difficulties serving the summons and complaint on Mr. Zou.  On April 13, 2011, after filing the SAC, Plaintiffs’ counsel contacted defense counsel by email to determine whether defense counsel would accept service on behalf of Mr. Zou.  See Olivier Decl. Exs. C & D, ECF No. 302-2.  Defense counsel refused. Id.  In a letter dated September 20, 2011, Mr. Zou’s counsel provided Plaintiffs with Mr. Zou’s address in China.  Sheldon Decl. Ex. B, ECF No. 283-2. On September 27, 2011, Plaintiffs left copies of the Summons and Complaint for Mr. Zou at A Perfect Day Spa in Fremont, California.  Unable, after repeated requests, to locate the person “in charge,” the process server left copies with the receptionist.  See Sheldon Ex. A, ECF No. 283-2.  Thereafter, Plaintiffs mailed a copy of the Summons and Complaint to Mr. Zou.8 See Proof of Service, ECF No. 263. 
+
+Plaintiffs have not been above reproach in this litigation either.  On October 5, 2011, the Court granted Defendants’ motion to disqualify counsel because Plaintiffs’ counsel Adam Wang previously consulted with Jun Ma in 2006 regarding employment issues at Perfect Day.  See Order at 2-5, ECF No. 268. The Court concluded, however, that disqualification of Adam Wang was sufficient to cure any prejudice to Defendants.  Id. at 9-10. 
+
+Nearing the close of discovery, both parties filed several motions to compel.  The Court held an omnibus hearing on both parties’ motions to compel on November 21, 2011.  Given the impending discovery deadline, the Court issued oral rulings on each of the discovery motions, and later memorialized these rulings in a written order.  See ECF No. 299. Defendants filed two motions to compel interrogatory responses and document production.  See ECF Nos. 278 and 279. Defendants sought discovery from unnamed class members.  Defendants’ motion was granted in part and denied in part at the hearing on November 21, 2011.   
+
+Plaintiffs also filed several motions to compel, and several of these motions involved the theme of the corporate assets, ownership and structure of Perfect Day.  First, Plaintiffs moved to compel production of documents with information regarding corporate assets and liabilities, and the financial relationships between Defendants from Perfect Day, Minjian and Tom Schriner.9 See Pl.’s Mot. to Compel, ECF No. 277.  Plaintiffs’ motion to compel was granted in part.  Defendants were only required to disclose documents and information since March 22, 2006, but in all other 
+
+8 It is unclear whether the summons and complaint were mailed to Mr. Zou in China, or whether they were mailed to Perfect Day Spa. 9 Specifically, Plaintiffs requested from Perfect Day: “[a]ny and all documents which evidence, 
+
+refer, or relate to the assets of Perfect Day including profit and loss statements, bank statements, and other accounting records.” Similarly, Plaintiffs requested from Minjian: “any and all documents which evidence, refer, or relate to the assets of Minjian including profit and loss statements, bank statements, and other accounting records.”  Plaintiffs requested from Tom Schriner those same documents, plus: “any and all documents which evidence, refer or relate to any income or compensation received by you from Perfect Day, Minjian, Defendant Tailiang Li, and/or Defendant Jin Qiu.” See Pl.’s Mot. to Compel at 1, ECF No. 277. 
+
+13 Case No.: 10-CV-01189-LHK ORDER RE: MOTION FOR SANCTIONS AND MOTION FOR SUMMARY ADJUDICATION aspects the request was granted. Order, ECF No. 299. In ruling on this motion during the hearing, 
+
+the Court warned defense counsel: 
+
+I get the sense, based on the discovery motions and the sanctions order I’ve already done so far, that for whatever reason, the defendants are reluctant to provide information about corporate structure, about corporate assets, about corporate finances. And I just want to put the Defendants on notice that this court has the power to deem facts alleged in the complaint regarding the corporate structure and ownership admitted and Federal Rule of Civil Procedure 37(B)(2)(A)(1) allows the court to direct that the matters embraced in the order or other designated facts be taken as established for purposes of the action as the prevailing party claims. 
+
+Tr. of Nov. 21, 2011 Hr’g. at 5:12-6:1, ECF No. 305.   
+
+Second, Plaintiffs moved to compel the deposition of Anna Tong.  ECF No. 284. As 
+
+explained above, according to documents Perfect Day Spa filed with the City of Santa Clara, Ms. 
+
+Tong is the CEO of May Team, Inc., the corporate owner of Perfect Day Spa.  Defense counsel 
+
+represented at the hearing that he did not represent either Anna Tong or May Team, and that he 
+
+would not be able to accept service of a subpoena for Ms. Tong’s deposition.  See Tr. of Nov. 21, 
+
+2011 Hr’g. at 13, ECF No. 305. Plaintiffs’ counsel represented that they had repeatedly attempted 
+
+to serve Ms. Tong, but that she appeared to be evading service.  Tr. of Nov. 21, 2011 Hr’g. at 14. 
+
+The Court granted Plaintiffs’ motion to compel the deposition of Ms. Tong.  Order, ECF No. 299. 
+
+In doing so, the Court made the following finding: 
+
+If you represent to the [city] that Anna Tong is the CEO of May Team and May Team owns Perfect Day Spas and Huan Zou shows up nowhere in all the corporate documentation and licensing documentation for this company, and then you’re playing the shell game because Huan Zou is not available, he’s in China, but you don’t represent – I mean, I think you’re playing games.  I come to that conclusion. I make that factual finding.  On this issue of corporate assets and corporate relationship and corporate entities, the Defendants are being obstructionist. 
+
+Tr. of Nov. 21, 2011 Hr’g. at 11:6-16.   
+
+Third, Plaintiffs moved to compel depositions of various individual defendants.  See ECF 
+
+No. 281. The Court granted Plaintiffs’ request in part, but set time limits on the amount of time 
+
+that the deponents could be deposed. See Order at 1-2, ECF No. 299. The Court ordered that 
+
+Plaintiffs “shall be permitted to depose Jun Ma for an additional 5 hours; to depose Tailing Li for an additional 4 hours; and to question Jin Qiu for 7 hours as permitted by the Federal Rules of Civil Procedure. Defendants are not ordered to produce Jade Li for deposition, but are required to ask Ms. Li if she will agree to sit for 3 additional hours of deposition.”  Id. 
+
+Finally, Plaintiffs moved to compel Defendants to produce 1099 forms for class members, documents related to third-party entities identified by Defendants in their Joint Case Management Conference report, and to provide the time period employed at Perfect Day of each class member.  See Pl.’s Mot. to Compel, ECF No. 282.  Specifically, Plaintiffs asked for the start and end dates of the class members because the information provided by the Defendants was incomplete.  Tr. of Nov. 21, 2011 Hr’g. at 33-34, ECF No. 305. The Court granted Plaintiffs’ requests in their entirety. See Order at 1, ECF No. 299; Tr. of Nov. 21, 2011 Hr’g. at 49.  Additionally, in light of the additional discovery that needed to take place as a result of the rulings on the discovery motions, the fact discovery cut-off deadline was extended to December 16, 2011.  Order at 2, ECF No. 299. 
+
+The close of fact discovery has passed, and the trial date of April 2, 2012 fast approaches. Yet Perfect Day10 has still not produced the company’s financial documents, nor has Perfect Day produced a witness prepared to testify on the corporate structure and ownership of the company.  Huan Zou, the sole owner of Perfect Day who defense counsel has indicated is the only person who can testify as to the corporate structure and ownership of Perfect Day, is unavailable in China.  Nonetheless, on March 5, 2012, Huan Zou, on behalf of Perfect Day, petitioned for Chapter 7 bankruptcy in the Northern District of California, and filed an automatic stay in this action.11 See ECF No. 347. Additionally, Huan Zou sent an e-mail to Defense counsel indicating that he was terminating the representation on March 16, 2012.  See ECF No. 371-1. Defense counsel continues 
+
+10 Defendants also claim that Plaintiffs have not fulfilled their discovery obligations and have also violated the Court’s November 21, 2011 discovery orders.  Sheldon Decl. ¶¶ 15-16.  However, as Defendants have not moved for sanctions, and as Defendants have not identified why they have been prejudiced by Plaintiffs’ conduct, the Court need not address Defendants’ allegations here. 11 This case was stayed as a result of Perfect Day’s bankruptcy from March 5, 2012 to March 14, 2012. See U.S. Bankruptcy Court, Northern District of California, Case No. 12-51703, Docket Entry on March 14, 2012. On March 6, 2012, Tailiang Li and Jin Qiu also petitioned for bankruptcy and filed an automatic stay of this action.  ECF No. 355. This case was stayed as aresult of Tailiang Li and Jin Qiu’s bankruptcy from March 6, 2012 until March 19, 2012.  See U.S. Bankruptcy Court, Northern District of California, Case No. 12-30712, Docket Entry on March 19, 2012. 
+
+to refuse to accept service of process on behalf of Mr. Zou even though Perfect Day designated Mr. Zou as a 30(b)(6) witness and Mr. Zou has engaged in this litigation.   
+
+In light of the procedural history of this case, the Court has significant concerns regarding Defendants’ tactics, and the ability of Plaintiffs to fairly prosecute this action.  With this background in mind, the Court turns to each of the pending motions. 
+
+
+
+
+
+Pursuant to Federal Rule of Civil Procedure 12(b)(5), Mr. Zou moves to dismiss Plaintiffs’ SAC for failure to properly serve the summons and complaint in compliance with Federal Rule of Civil Procedure 4. See Mot. to Dismiss, ECF. No. 283.  Mr. Zou argues that the SAC should be dismissed as to him for two reasons: (1) Plaintiff failed to properly serve him as “an individual in a foreign country,” pursuant to Federal Rule of Civil Procedure 4(f); and (2) Plaintiffs failed to serve Mr. Zou within 120 days from the date they filed their SAC, pursuant to Federal Rule of Civil Procedure 4(m).  Id. at 1. 
+
+Sufficiency of service of process is governed by Federal Rule of Civil Procedure 4.  Specifically, Federal Rule 4(f) governs service on an individual in a foreign country.  See Fed. R. Civ. P. 4(f) (directing how to effect service on “an individual in a foreign country”).  Contrary to Plaintiffs’ argument, Mr. Zou’s residency status does not determine whether service of process must be effected under Rule 4(f). Stars’ Desert Inn Hotel & Country Club, Inc. v. Hwang, 105 F.3d 521, 524 (9th Cir. 1997) (“[T]he application of [Rule 4(f)] is not triggered by the citizenship of the individual being served but rather the place in which service is effected.”).  Because it appears that Mr. Zou was physically in China at the time that service was effected, Rule 4(f) applies. 
+
+Having found that Rule 4(f) is the applicable service rule, the Court rejects Defendant’s contention that Plaintiffs must adhere to the 120-day time limit for service of process imposed by Rule 4(m).  The plain language of Rule 4(m) clearly exempts service in a foreign country.  See Fed. 
+
+R. Civ. P. 4(m) (“This subdivision (m) does not apply to service in a foreign country under Rule 4(f) or 4(j)(1).”); see also Lucas v. Natoli, 936 F.2d 432, 432 (9th Cir. 1991) (“[T]he plain language of [Rule 4(m)] makes the 120-day service provision inapplicable to service in a foreign country . . . .”). Therefore, service of Mr. Zou beyond the 120-day time limit imposed by Federal Rule 4(m) does not require dismissal of the SAC as to Mr. Zou. 
+
+Rule 4(f) provides several methods for effecting service on an individual in a foreign country. An individual may be served at a place not within any judicial district of the United States “by any internationally agreed means of service that is reasonably calculated to give notice, such as those authorized by the Hague Convention on the Service Abroad of Judicial and Extrajudicial Documents.”  Fed. R. Civ. P. 4(f)(1). The rule further provides service “by [any] other means not prohibited by international agreement, as the court orders.”  Fed. R. Civ. P. 4(f)(3).  “As [is] obvious from its plain language, service under Rule 4(f)(3) must be (1) directed by the court; and 
+
+(2) not prohibited by international agreement.  No other limitations are evident from the text.”  Rio Prop., Inc. v. Rio Int’l Interlink, 284 F.3d 1007, 1014 (9th Cir. 2002).  Additionally, any method of service of process “must also comport with constitutional notions of due process,” i.e., they must be “reasonably calculated, under all the circumstances,” to apprise interested parties of the action and provide them with an opportunity to respond.  Rio, 284 F.3d at 1016 (internal citations and quotations omitted).   
+
+Plaintiffs do not argue that they have complied with the rules of serving individuals in a foreign country. Indeed, Plaintiffs offer no argument that their attempts to serve Mr. Zou at Perfect Day complied with the Hague Convention, as required under Rule 4(f)(1), or were pursuant to an order of the court as required under Rule 4(f)(3).  However, Plaintiffs argue that the Court may order service of process on Mr. Zou by alternative methods.  See Pls.’ Opp’n to Mot. to Dismiss at 10, ECF No. 302. The Court agrees. 
+
+Pursuant to Rule 4(f)(3), a court may direct service when “the facts and circumstances of the present case necessitate[] the district court’s intervention.  Thus, when [the plaintiff presents] the district court with its inability to serve an elusive international defendant striving to evade service of process,” the district court may exercise its discretionary powers to craft alternate means of service of process.  Rio, 284 F.3d at 1016. 
+
+The Court finds that Mr. Zou has been elusive and has attempted to evade service of process in this case.  Defense counsel has refused to accept service on behalf of Mr. Zou, despite the fact that Mr. Zou maintains that he is the sole owner of Perfect Day and Mr. Zou has engaged in litigation by filing a declaration in support of this motion to dismiss.  Plaintiffs have also been unable to serve Mr. Zou in person, because Perfect Day has refused to produce Mr. Zou for deposition despite designating him as the 30(b)(6) deponent.  See Order Granting Mot. to Compel at 2-3, ECF No. 248.12  Moreover, given that Defendants and defense counsel have refused to be forthright regarding who, precisely, is in charge of Perfect Day, it is unlikely that proper service will be effected absent court intervention. 
+
+In similar circumstances, another district court in the Northern District of California directed an alternative service of process on individual defendants located in China where the defendants were proving to be elusive. In that case, the court found that service of process was properly effected by serving the defendants through the California office of the corporate defendant, where all the foreign defendants were either directors or senior officers of the California company’s Chinese subsidiary.  See In re LDK Solar Sec. Litig., No. 07-CV-05182-WHA, 2008 WL 2415186 at *1 (N.D. Cal. June 12, 2008) (Alsup, J.).  Judge Alsup concluded that ordering service of process in this manner on an individual in China complied with Federal Rule 4(f)(3) because it was not prohibited by international agreement.   
+
+In conformity with Federal Rule 4(f)(3), the Court ORDERS service of process on Mr. Zou as “the sole owner and the only corporate officer” of A Perfect Day, through A Perfect Day’s Fremont, California location.  See ECF No. 302-2 at 72.  The Court finds that service under this method will comply with Rule 4(f)(3) because it is (1) directed by the court; and (2) not prohibited by international agreement.  See Rio, 284 F.3d at 1014; see also In re LDK Solar Sec. Litig., 2008 WL 2415186 at *4. Moreover, the Court is confident that service in this method complies with Mr. Zou’s due process rights. Mr. Zou has had notice of the pendency of this action since at least April 2011, when he was identified by Perfect Day as the person most knowledgeable regarding corporate structure and ownership. In reality, as the sole owner of Perfect Day, it is likely that Mr. 
+
+12   As explained above Mr. Zou was granted asylum because of persecution in China, but has beenin China during most of this lawsuit.  Although “unavailable” to participate in litigation, Zou signed the March 5, 2012 bankruptcy petition, and on March 16, 2012, fired the attorneys on behalf of himself and Perfect Day. 
+
+18 Case No.: 10-CV-01189-LHK ORDER RE: MOTION FOR SANCTIONS AND MOTION FOR SUMMARY ADJUDICATION 
+
+Zou had notice of the action from the time that the original complaint was first filed and service was effected on Perfect Day. 
+
+Although Plaintiffs have previously served Mr. Zou through A Perfect Day’s Fremont, California location, that service was not court-ordered pursuant to Rule 4(f)(3).  Therefore, the Court orders service of Mr. Zou again through delivery at A Perfect Day Spa, which shall transmit the relevant documents to Mr. Zou.  Service shall be completed within three days of the date of this Order. 
+
+
+
+
+
+Plaintiffs seek several forms of relief for the discovery abuses perpetrated by Defendants.  Specifically, Plaintiffs seek a default judgment against Perfect Day, Minjian, Huan Zou, Tailiang Li, Jade Li, and Jun Ma. In the alternative, Plaintiffs seek specific issue and evidentiary sanctions for Defendants’ discovery abuses.  Finally, Plaintiffs’ seek attorneys fees for the extra costs of litigation that have accrued as a result of Defendants’ conduct.  The Court first determines whether it has the authority to sanction Defendants and, if so, what sanctions are appropriate. 
+
+
+
+ 
+
+Rule 37 provides that, “[i]f a party or a party’s officer, director, or managing agent--or a witness designated under Rule 30(b)(6) or 31(a)(4)--fails to obey an order to provide or permit discovery . . . the court where the action is pending may issue further just orders.”  Fed. R. Civ. P. 37(b)(2)(A).13 Rule 37 allows a district court to impose on a disobedient party a variety of sanctions, including: 
+
+(i) directing that the matters embraced in the order or other designated facts be taken as established for purposes of the action, as the prevailing party claims; 
+
+13 Even without a discovery order, discovery misconduct may be punished under the court’s “inherent powers” to manage its affairs.  Uniguard Security Ins. Co. v. Lakwork Eng. Mfg. Corp., 982 F.2d 363, 368 (9th Cir. 1992); E. & J. Gallo Winery v. Gibson, Dunn & Crutcher LLP, 432 F. App’x 657, 659 (9th Cir. 2011) (“A court may levy a sanction on the basis of its own inherent power ‘when a party has acted in bad faith, vexatiously, wantonly or, for oppressive reasons.’”) (citing Chambers v. NASCO, Inc., 501 U.S. 32, 45-46 (1991)). 
+
+(ii) prohibiting the disobedient party from supporting or opposing designated claims or defenses, or from introducing designated matters in evidence;14 
+
+(iii) striking pleadings in whole or in part; 
+
+(iv)
+
+ staying further proceedings until the order is obeyed; 
+
+
+
+(v)
+
+ dismissing the action or proceeding in whole or in part; 
+
+
+
+(vi)
+
+ rendering a default judgment against the disobedient party; or 
+
+
+
+
+
+(vii) treating as contempt of court the failure to obey any order except an order to submit to a physical or mental examination. Fed. R. Civ. P. 37(b)(2)(A). Rule 37 sanctions must be applied diligently both “to penalize those whose conduct may be deemed to warrant such a sanction, [and] to deter those who might be tempted to such conduct in the absence of such a deterrent.  Nat’l Hockey League v. Metro. Hockey Club, 427 U.S. 639, 643 
+
+(1976). A “district court has great latitude in imposing sanctions for discovery abuse.”  Dahl v. City of Huntington Beach, 84 F.3d 363, 367 (9th Cir.1996). 
+
+
+
+1. Violations of this Court’s Discovery Orders 
+
+As a condition precedent to imposing sanctions pursuant to Federal Rule of Civil Procedure 37 the Defendants must have violated a Court Order.  See Fed. R. Civ. P. 37(b)(2)(A); Wanderer v. Johnston, 910 F.2d 652, 657 (9th Cir. 1990) (explaining that sanctions are appropriate where a party or someone under the party’s control is guilty of failing to produce documents or things as ordered by the court). A district court’s finding that one of its orders was violated “is entitled to considerable weight” because the district judge is “best equipped to assess the circumstances of non-compliance.”  Payne v. Exxon Corp., 121 F.3d 503, 507 (9th Cir. 1997). 
+
+The Court finds that the following court orders15 were violated: 
+
+14 See, e.g., Goodman v. Staples The Office Superstore, LLC, 644 F.3d 817, 827 (9th Cir. 2011) (“Because Goodman's failure to disclose her non-medical experts’ reports in a timely manner was neither substantially justified nor harmless, the district court did not abuse its discretion in precluding those experts from testifying in Goodman's case-in-chief.”). 
+
+. 
+
+In the June 17, 2011 Case Management Order the parties were ordered to set the deposition of 30(b)(6) witness Huan Zou. ECF No. 203. Perfect Day was found to have violated this Order in the August 29, 2011 Order. ECF No. 248. 
+
+
+
+. 
+
+On August 29, 2011, Perfect Day was ordered to produce for deposition 30(b)(6) witness Huan Zou. To date, Perfect Day has still not produced a witness prepared to testify as to Perfect Day’s corporate structure and ownership.  
+
+
+
+. 
+
+On November 21, 2011, Perfect Day was ordered to produce financial information, including “bank statements, cancelled checks, accounting records, profit and loss statements, tax filings or other information.”  To date, Perfect Day has produced virtually16 no financial information. 
+
+
+
+. 
+
+On November 21, 2011, Minjian was ordered to produce its financial information. Although the parties agree that Minjian produced bank statements, the production is incomplete and therefore in violation of this Court’s discovery order because there are pages missing from the documents, and Minjian has failed to produce other financial information including copies of checks, accounting records, and tax filings. 
+
+
+
+. 
+
+On November 21, 2011, Tom Schriner was ordered to produce financial information.  The parties agree that Schriner produced financial information, but the production was incomplete because it did not contain documentation of financial transactions that were referenced in Schriner’s deposition. 
+
+
+
+. 
+
+On November 21, 2011, Perfect Day was ordered to produce the class members’ 1099 forms.  The Court finds that the production is incomplete, in violation of this Court’s order because Perfect Day only produced a list of the 1099 amounts, instead of the forms themselves, and because Perfect Day only produced information for the years 2007 and 2008. 
+
+
+
+. 
+
+On November 21, 2011, Perfect Day was ordered to produce the class members’ dates of employment.  The Court finds that the production is incomplete, in violation of the Court order because the list does not include end dates of employment for class members no longer employed by Perfect Day.  
+
+
+
+. 
+
+On November 21, 2011, Perfect Day was ordered to produce third party interested entity documents.  The Court finds that the production is incomplete, in violation of the Court order. 
+
+
+
+
+
+15   On November 21, 2011, Tailiang Li, Jun Ma, Jin Qiu, and Anna Tong were ordered to appear for their depositions.  The individuals were not deposed in violation of this Court’s order.  However, the Court does not find that Defendants violated this Court’s order because the depositions were cancelled by Plaintiffs’ counsel because Plaintiffs’ counsel asserts she could not depose these individuals without their document productions.16  Perfect Day has produced an apparently incomplete Excel spreadsheet of checks, rather than actual copies of checks. 
+
+21 Case No.: 10-CV-01189-LHK ORDER RE: MOTION FOR SANCTIONS AND MOTION FOR SUMMARY ADJUDICATION 
+
+Additionally, Defendants Perfect Day, Minjian, and Tom Schriner’s protestations that they have produced all documents within their custody and control are not credible.  Plaintiffs have obtained scores of documents related to corporate Defendants Minjian and Perfect Day that were produced not by Defendants, but from third parties.  Moreover, Tom Schriner testified at his deposition regarding documents that were never produced.  This serves as significant evidence that these Defendants likely withheld many relevant and responsive documents from Plaintiffs in the course of discovery. 
+
+Moreover, many of the documents that Plaintiffs obtained through public records requests from municipal and state entities contradict the individual Defendants’ sworn deposition testimony.  For example, despite Tailiang Li’s testimony that there was no connection between Minjian and Perfect Day, business license applications submitted to the city of Fremont suggested that Minjian and Perfect Day are intimately intertwined. 
+
+The inevitable inference is that Defendants Perfect Day, Minjian, and Tom Schriner not only possess documents that were never produced, but that the information contained in those documents is unfavorable to Defendants’ interests.  Gibson v. Chrysler Corp., 261 F.3d 927, 948 (9th Cir. 2001) (explaining that there is a presumption that “the party resisting discovery is doing so because the information sought is unfavorable to its interest.  In such a case, the sanction merely serves as a mechanism for establishing facts that are being improperly hidden by the party resisting discovery.”). 
+
+2. Entry of Default 
+
+Citing Defendants’ noncompliance with court orders, history of misconduct in this litigation, and general refusal to cooperate in discovery, Plaintiffs seek “terminating sanctions,” i.e., an entry of default judgment against Defendants17 Perfect Day, Minjian, Huan Zou, Tailiang Li, Jade Li, and Jun Ma in the present action. 
+
+17 Defendants filed objections to Plaintiffs’ motion for sanctions and to the Declaration of Monique Olivier in support of Plaintiffs’ motions.  ECF No. 322-2. The Court declines to consider these objections as they do not comply with Civil Local Rule 7-3(a), which requires the objections to motions be contained within the brief or memorandum. 
+
+Rule 37(b)(2)(A)(vi) authorizes a court to render default judgment or dismissal against a party that disobeys a court order. A default judgment or dismissal levied by a court against a non-compliant party is a “drastic” sanction that may only be invoked if the party’s noncompliance is due to “willfulness, fault, or bad faith.” Payne, 121 F.3d at 507 (citing Henry v. Gill Indus., 983 F.2d 943, 946 (9th Cir. 1993)). 
+
+Before granting a dismissal or default judgment for noncompliance with court-ordered discovery under Rule 37, the court must weigh the following factors: 
+
+(1) The public’s interest in expeditious resolution of the litigation; (2) the court’s need to manage its docket; (3) the risk of prejudice to the defendants; (4) the public policy favoring disposition of cases on their merits; and (5) the availability of less drastic actions. 
+
+Payne, 121 F.3d at 507; Malone v. U.S. Postal Serv., 833 F.2d 128, 130 (9th Cir. 1987). Where a court order is violated, the first and second factors weigh in favor of default, while the fourth weighs against default; the third (risk of prejudice to the party seeking sanctions) and fifth factors (availability of less drastic actions) are therefore decisive.  Id. (citing Adriana Int’l Corp. v. Theoren, 913 F.2d 1406, 1412 (9th Cir. 1990)); United States v. Uptergrove, No.06-cv-1630-AWI­GSA, 2008 WL 652119, at *8 (E.D. Cal. Mar. 10, 1998).  In assessing the prejudice to the party seeking sanctions, the question to be considered is whether “the [non-moving party’s] actions impair the [moving party’s] ability to go to trial or threaten to interfere with the rightful decision of the case.”  Malone, 833 F.2d at 131. 
+
+As documented in detail above, several Defendants, and in particular Perfect Day, have obstructed the discovery process to avoid disclosure of the company’s finances, corporate control and ownership. Several examples of this evasive behavior lead the Court to find that the conduct is both willful and coordinated amongst all the Defendants18: Tailiang Li testified that there is no connection between Perfect Day and Minjian despite voluminous documentary evidence to the contrary; Jade Li was unwilling to identify her boss at Perfect Day; Huan Zou has refused to be 
+
+18 Additionally, the fact that the Court has repeatedly found Jun Ma’s testimony not to be credible further supports the Court’s finding that Jun Ma is also a part of the coordinated efforts of all Defendants to hide the true ownership and control of Perfect Day.  See Order Declining to Impose Sanctions, ECF No. 122; Order Denying Motion to Compel Arbitration and Sanctions, ECF No. 142. 
+
+deposed and has evaded service, despite the fact that he claims he is the sole owner of Perfect Day; Plaintiffs have introduced evidence of two different owners of Perfect Day; all Defendants have been represented by attorneys at the Law Offices of Richard Wahng; and none of the Defendants (or defense counsel) has been able to adequately explain the corporate structure of Perfect Day and its related entity.   
+
+Nonetheless, the Court declines to impose such a drastic sanction upon Defendants Perfect Day, Minjian, Huan Zou, Tailiang Li, Jade Li, and Jun Ma.  The imposition of dismissal or default judgment is “the most severe penalty,” and is authorized only in “extreme circumstances.”  United States ex rel. Wiltec Guam, Inc. v. Kahaluu Constr. Co., 857 F.2d 600, 603, 603 n. 5 (9th Cir.1988) (citing Fjelstad v. Am. Honda Motor Co., 762 F.2d 1334, 1338 (9th Cir.1985)). This “most severe penalty” is not warranted in this case because Defendants are not equally culpable for the discovery violations that have occurred.  Several Defendants, including Jun Ma, Jade Li,19 Tailiang Li, and Jin Qiu, have not been found to have violated a court order.  Moreover, as is clear from the recitation of the violations of this Court’s discovery orders, the most egregious violations have been by Perfect Day. Entering default judgment against all Defendants except Jin Qiu would be an over-inclusive remedy, and would potentially allow Plaintiffs to obtain a windfall without ever reaching the merits of the wage and hour claims.  This outcome is not appropriate given that dismissal and default judgment, “the sanctions of last resort, run counter to the strong public policy of deciding cases on their merits and affording litigants their fair day in court.”  General Atomic Co. v. Exxon Nuclear Co., 90 F.R.D. 290, 307 (S.D. Cal. 1981). 
+
+Moreover, the Court has available lesser sanctions that may be effective to cure the consequences of Defendants’ discovery failures.  Id. The discovery violations have related to the corporate structure, ownership and finances of Perfect Day.  The Court may consider issue and evidence preclusion that will allow a more narrowly tailored and curative remedy to Defendants’ 
+
+19 At the February 16, 2012 hearing, Plaintiffs clarified that they were moving for default judgment against Jade Li and Jun Ma based not on a violation of a discovery order, but rather because these defendants had lied under oath during their depositions.  While the Court agrees with Plaintiffs that Jun Ma and Jade Li’s testimony utterly lacks credibility, the Court declines to impose terminating sanctions against them on this basis.   
+
+24 Case No.: 10-CV-01189-LHK ORDER RE: MOTION FOR SANCTIONS AND MOTION FOR SUMMARY ADJUDICATION 
+
+conduct. Accordingly, the Court declines to issue default judgment against Defendants’ Perfect Day, Minjian, Huan Zou, Tailiang Li, Jade Li, and Jun Ma. 
+
+3. Motion for Issue and Evidentiary Sanctions 
+
+Plaintiffs also seek a variety of issue and evidentiary sanctions as an alternative to an entry of default judgment.  A district court, as a sanction for failure to comply with discovery orders, may order the matters at issue or other designated facts to be “established” for purposes of the action. Rule 37(b)(2)(A)(i); see, e.g., Ins. Corp. of Ireland, Ltd. v. Compagnie des Bauxites de Guinee (Compagnie des Bauxites), 456 U.S. 694, 695 (1982) (holding that a district court did not abuse its discretion in finding personal jurisdiction as a sanction, where the plaintiff repeatedly attempted to use discovery to establish jurisdictional facts, only to be obstructed by defendant’s refusal to produce the requested information).  There are two limitations to the application of a Rule 37(b)(2) sanction. First, “any sanction must be ‘just’; second, the sanction must be specifically related to the particular ‘claim’ which was at issue in the order to provide discovery.”  Compagnie des Bauxites, 456 U.S. at 707. 
+
+ One of Plaintiffs’ theories of liability with respect to Tom Schriner, Huan Zou, Tailiang Li, Jin Qiu and Minjian is that Perfect Day is merely a shell corporation controlled by these individual Defendants and Minjian. See SAC ¶¶19-20. In support of this theory, Plaintiffs have alleged that Tom Shriner, Huan Zou, Tailiang Li, Jin Qiu and Minjian have commingled assets, diverted funds from the corporate entities, and have otherwise failed to respect the corporate form.  Id. 
+
+“There is no doubt that [Plaintiffs’] ability to prove the allegations” in its complaint regarding the alter ego theory of liability was “seriously impaired by the absence of the withheld documents.”  General Atomic Co., 90 F.R.D. at 308. The financial documents withheld by Perfect Day, Minjian, and Tom Schriner would have had a bearing on whether or not the defendants identified above were alter egos of Perfect Day.  Additionally, the 30(b)(6) deposition testimony could have shed light on how Perfect Day was structured and who its corporate owners are.  Without this testimony, there was no way for Plaintiffs to test their theory that Perfect Day is in fact a corporate shell.  The withheld evidence is uniquely within the possession of the Defendants.  Thus, additional diligent investigation by the Plaintiffs is unlikely to cure the prejudice caused by Defendants’ conduct. Court intervention to protect Plaintiffs’ ability to prove these allegations is necessary. 
+
+While Rule 37(b)(2)(A) authorizes a court to designate facts relating to the missing evidence “be taken to be established,” the Court chooses to follow an approach taken in Alliance to End Repression v. Rochford, 75 F.R.D. 438 (N.D. Ill. 1976), and General Atomic Co. v. Exxon Nuclear Co., 90 F.R.D. 290 (S.D. Cal. 1980). In those cases, the courts deemed facts alleged in the complaint established for trial, subject to rebuttal by the non-moving party, where the moving party was prejudiced because of the other party’s discovery abuses. Rochford, 75 F.R.D. at 440-441; General Atomic Co., 90 F.R.D. at 308. Following this approach, the facts in paragraphs 19 and 20 regarding alter ego liability will be deemed established for trial.  Defendants Perfect Day, Minjian, Schriner, Zou, Tailiang Li and Jin Qiu will have the burden of rebutting these allegations at trial.20 
+
+This is an appropriate and narrowly tailored sanction to address the Court’s orders that have been violated by Perfect Day, Minjian, and Schriner.  Because the rights of several other Defendants are impacted by the abuses of these three Defendants, all Defendants impacted by this ruling will have the opportunity to rebut the presumption at trial.  While the Court is aware of the necessity of protecting the individual Defendants’ rights, the Court finds that this remedial measure is fair given that there is evidence that there has been collusive conduct on the part of all of the Defendants with respect to this issue of corporate ownership and corporate assets; all Defendants have been represented by the same counsel, and have been repeatedly warned that the improper discovery conduct would lead to sanctions if they were not corrected.  Despite these warnings, Perfect Day has repeatedly refused to produce documents and deponents that would clarify its corporate ownership and structure. 
+
+Moreover, the relief to Plaintiffs is narrowly tailored to directly address the prejudice from Defendants’ conduct. See Compagnie des Bauxites, 456 U.S. at 700 (“The purpose and scope of the ordered discovery [is] directly related to the issue of [alter ego liability] and the rule 37 sanction [is] tailored to establish as admitted those . . . facts that, because of the [Defendants’] 
+
+20   The Court also reserves the right at a later point to revisit this sanction and impose additional issue sanctions should Defendants take a position regarding the corporate ownership or structure of Perfect Day at trial. 
+
+26 Case No.: 10-CV-01189-LHK ORDER RE: MOTION FOR SANCTIONS AND MOTION FOR SUMMARY ADJUDICATION 
+
+failure to comply with discovery orders, [Plaintiff] was unable to adduce through discovery.”) (internal quotations omitted).  This sanction flows directly from Perfect Day’s refusal to produce a 30(b)(6) deponent on corporate ownership and structure and its refusal to provide a complete and accurate picture of its corporate assets, and from Minjian and Tom Schriner’s failure to produce complete and accurate records of their financial interactions with Perfect Day.  For example, Perfect Day has failed to produce any bank statements, cancelled checks, accounting records, profit and loss statements, tax filings, or any other financial information.  Olivier Sanctions Decl. ¶ 17.  Minjian has failed to produce complete bank statements, and has not produced copies of checks, accounting records, tax filings, and other financial information.  Olivier Sanctions Decl. ¶ 18.   Tom Schriner has failed to produce documents related to his financial dealings with Perfect Day and Huan Zou. Olivier Sanctions Decl. ¶ 19. 
+
+Although ideally the sanction would only be applied to Perfect Day, Minjian, and Tom Schriner, such a sanction would be overly narrow in this case.  Because the evidence of collusion and obfuscation on this issue applies more broadly than these three Defendants, so too must the sanction. Therefore, the sanction applies to all Defendants with ownership interests in Perfect Day or Minjian, or those who have been held out as officers and directors of Perfect Day or Minjian.  
+
+Additionally, both parties are precluded from introducing at trial documents that were requested during the course of discovery and not produced by the discovery cut-off date of December 16, 2011.21  Moreover, in light of Perfect Day’s refusal to produce Mr. Zou for deposition, Perfect Day may not offer the testimony of Huan Zou or any other corporate deponent on the topic of corporate ownership, structure, or assets at trial.  See Fed. R. Civ. P. 16(b) and 37(b)(2); Von Brimer v. Whirlpool Corp., 536 F.2d 838, 843 (9th Cir. 1976) (district court properly excluded evidence pursuant to Fed. R. Civ. P. 37(b)(2) for failure to comply with pre-trial discovery orders.). 
+
+Finally, Perfect Day’s failure to produce a complete class list of employment dates and class members’ 1099 forms has, to some degree, interfered with Plaintiffs’ ability to determine the 
+
+21  To the extent Plaintiffs are able to obtain documents related to Perfect Day’s accounting practices from the additional discovery that was ordered on February 16, 2012, this evidence will be admissible at trial. 
+
+number of minimum wage and overtime hours worked, the wage rates earned by class members, and therefore the total estimated value of the class claims.  This withheld evidence bears on a potential award of damages.  In light of the additional discovery regarding Perfect Day’s accounting practices that was ordered on February 16, 2012, the Court defers ruling on whether and how to impose additional issue or evidentiary sanctions related to this withheld evidence.  
+
+Because these sanctions are sufficient to address the harm to Plaintiffs as a result of Defendants’ dilatory discovery tactics, the Court declines to impose additional non-monetary sanctions at this time.22 
+
+
+
+Finally, Plaintiffs seek monetary sanctions against Defendants and Defense counsel for (1) time spent preparing the motions to compel that were heard on November 21, 2011, (2) costs and fees incurred in serving Anna Tong and May Team with deposition and records subpoenas, (3) costs and fees incurred in serving Martha Schriner with a deposition subpoena, and (4) costs and expenses incurred in third party subpoenas and public records requests.  See Olivier Sanctions Decl. ¶¶ 72-76. 
+
+Federal Rule of Civil Procedure 37 requires that monetary sanctions be imposed upon the party or attorney opposing an order to compel deposition testimony that is granted by the Court.  Fed. R. Civ. P. 37(a)(5)(A). The Court may not impose sanctions against the losing party if his or her position was substantially justified or “other circumstances make an award of expenses unjust.”  Fed. R. Civ. P. 37(a)(5)(A)(ii)-(iii). 
+
+Plaintiffs’ request for monetary sanctions for costs and fees arising out of the Motions to Compel that were heard on November 21, 2011, are GRANTED in part.  Fees related to bringing motions in which Plaintiffs were successful or almost entirely successful will be granted, including the following motions: (1) Plaintiffs’ Motion to Compel Responses Regarding Financial Information (ECF No. 277), (2) Plaintiffs’ Motion to Compel the Deposition of Anna Tong  (ECF 
+
+22 This Order does not preclude Plaintiffs from filing motions in limine related to Plaintiffs’ discovery abuses. 
+
+28 Case No.: 10-CV-01189-LHK ORDER RE: MOTION FOR SANCTIONS AND MOTION FOR SUMMARY ADJUDICATION 
+
+No. 284), and (3) Plaintiffs’ Motion to Compel Production of Documents and Responses to Interrogatories (ECF No. 282). 
+
+The information from these three motions to compel was related to either the topic of Perfect Day’s finances, corporate structure, and ownership or the wages earned by the members of the class. In light of Defendants’ discovery conduct discussed above, the Court cannot conclude that Defendants’ position on these matters was substantially justified or an award of fees would be unjust. The Court does not find sanctions appropriate for the Motion to Compel Depositions (ECF No. 281). The parties were able to reach an agreement regarding the depositions without court intervention, and Defendants had substantial justifications for why several Defendants should not be deposed. 
+
+Plaintiffs have failed to provide an accounting of the hours that were expended on each motion to compel, and it is therefore not possible to evaluate the reasonableness of the fees incurred. Accordingly, Plaintiffs’ counsel may submit a supplemental declaration and accounting of the costs and fees associated with bringing the following motions: (1) Plaintiffs’ Motion to Compel Responses Regarding Financial Information (ECF No. 277), (2) Plaintiffs’ Motion to Compel the Deposition of Anna Tong  (ECF No. 284), and (3) Plaintiffs’ Motion to Compel Production of Documents and Responses to Interrogatories (ECF No. 282).  Plaintiffs may also include in this accounting the costs associated with attempting to serve a deposition subpoena on Anna Tong. 
+
+Plaintiffs also seek monetary sanctions for costs and fees incurred in serving Martha Schriner with a deposition subpoena, and costs and expenses incurred in third party subpoenas and public records requests to obtain documents that should have been, but were not, produced by Defendants. These fees were not incurred in making a discovery motion and so cannot be the basis for an attorneys’ fee award under Rule 37. Alternatively, 28 U.S.C. § 1927 states that “who so multiplies the proceedings in any case unreasonably and vexatiously may be required by the court to satisfy personally the excess costs, expenses, and attorneys’ fees reasonably incurred because of such conduct.” Sanctions imposed pursuant to 28 U.S.C. § 1927 “must be supported by a finding of subjective bad faith.” Moore v. Keegan Mgmt. Co. (In Re Keegan Mgmt. Co., Sec. Litig.), 78 F.3d 431, 436 (9th Cir. 1996) (citations and quotation marks omitted).  Such “[b]ad faith is present when an attorney knowingly or recklessly raises a frivolous argument, or argues a meritorious claim for the purpose of harassing an opponent.”  Id.  Alternatively, discovery misconduct may be punished under the court’s “inherent powers” to manage its affairs.  Uniguard Security Ins. Co. v. Lakwork Eng. Mfg. Corp., 982 F.2d 363, 368 (9th Cir. 1992); 
+
+After failing to produce Huan Zou, or any other 30(b)(6) deponent on the corporate structure and ownership, despite a court order, for over six months, and failing to produce Perfect Days’ financial documents, the Court finds that the Law Offices of Richard Wahng have been engaging in bad faith with respect to this discovery issue.  Defense counsel was warned on November 4, 2010 that sanctions could be imposed for improper conduct.  In light of the significant discovery abuses identified above, as well as the fact that defense counsel itself has not been able to identify, with candor to the Court, the proper corporate entity and owner, the Court finds that defense counsel has also been proceeding in bad faith in refusing to turn over discovery which was ordered by the Court. Accordingly, the Court awards $4,977.59,23 to be paid by defense counsel, for costs incurred in obtaining records from third parties and records requests that should have been produced by Perfect Day. See Olivier Sanctions Decl. ¶ 76. 
+
+
+
+ 
+
+Summary judgment must be granted if there is no genuine issue of material fact and the movant is entitled to judgment as a matter of law.  Fed. R. Civ. P. 56(a); Celotex Corp. v. Catrett, 477 U.S. 317, 321 (1986). Material facts are those which may affect the outcome of the case, and a dispute as to a material fact is “genuine” only if there is sufficient evidence for a reasonable trier of fact to decide in favor of the nonmoving party.  Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986). On a motion for summary judgment, the Court draws all reasonable inferences that may be taken from the underlying facts in the light most favorable to the nonmoving party.  Matsushita 
+
+23   The Court does not award sanctions against defense counsel for the additional costs related to the subpoena of Martha Schriner. See Olivier Sanctions Decl. ¶ 75. Unlike the costs associated with the discovery violations discussed above, defense counsel was not given a warning by the Court such that defense counsel had notice that its conduct could be perceived as bad faith.  Accordingly, the Court finds sanctions based on this conduct inappropriate.   
+
+30 Case No.: 10-CV-01189-LHK ORDER RE: MOTION FOR SANCTIONS AND MOTION FOR SUMMARY ADJUDICATION 
+
+Elec. Indus. Co., Ltd. v. Zenith Radio Corp., 475 U.S. 574, 587 (1986). “[T]he district court does not assess credibility or weigh the evidence, but simply determines whether there is a genuine factual issue for trial.”  House v. Bell, 547 U.S. 518, 559-560 (2006). 
+
+The moving party has the initial burden of production for showing the absence of any material fact.  Celotex, 477 U.S. at 331. The moving party can satisfy this burden in two ways. “First the moving party may submit affirmative evidence that negates an essential element of the nonmoving party’s claim.  Second, the moving party may demonstrate to the Court that the nonmoving party’s evidence is insufficient to establish an essential element of the nonmoving party’s claim.” Id. Once the moving party has satisfied its initial burden of production, the burden of proof shifts to the nonmovant to show that that there is a genuine issue of material fact.  A party asserting that a fact is genuinely disputed must support that assertion by either citing to particular parts of materials in the record or by showing that the materials cited by the moving party do not establish the absence of a genuine dispute. Fed. R. Civ. P. 56(c).  The nonmovant must go beyond its pleadings “and by her own affidavits, or by the depositions, answers to interrogatories, and admissions on file, designate specific facts showing that there is a genuine issue for trial.”  Celotex, 477 U.S. at 324 (internal quotation marks and citation omitted). 
+
+The nonmoving party must present “affirmative evidence in order to defeat a properly supported motion” for summary judgment.  Anderson, 477 U.S. at 257. Conclusory or speculative allegations are insufficient to raise genuine issues of fact and defeat summary judgment.  See, e.g., Thornhill Pub. Co., Inc. v. GTE Corp., 594 F.2d 730, 738 (9th Cir. 1979). Affirmative evidence is required “even where the evidence is likely to be within the possession of the defendant, so long as the plaintiff has had a full opportunity to conduct discovery.”  Anderson, 477 U.S. at 257. It therefore follows that summary judgment should be denied “where the nonmoving party has not had the opportunity to discover information that is essential to his opposition.”24 Id. at 250 n.5. 
+
+24 Notably, most of the documentary evidence Plaintiffs’ submitted in support of the opposition to Defendants’ motion for summary judgment was obtained from third party subpoenas and not from Defendants themselves.  This fact is relevant for two reasons: (1) it illustrates how much relevant, discoverable material was likely withheld from Defendants, and (2) it suggests that despite Defendants’ discovery abuses, Plaintiffs have been in large part able to prosecute their case.  This fact militates against sanctioning Defendants by issuing a default judgment and weighs in favor ofmore targeted sanctions. 
+
+ 
+
+1. “Employer” Under the FLSA 
+
+In their motion for summary judgment,25 Defendants argue that Tom Schriner, Jade Li, Tailiang Li, Jin Qiu, Jun Ma, and Minjian, are not “employers” for the purposes of the Fair Labor Standards Act (“FLSA”).  Defs.’ Mot. for Summary Adjudication at 1, ECF No. 318.  Plaintiffs respond that individual Defendants Jun Ma, Jade Li, Tom Schriner, and Tailiang Li are directly liable under the FLSA. Pl.’s Opp’n. to Def.’s Mot. for Summary Judgment at 8-14, ECF No. 321. 
+
+ Under the FLSA, an “employer” includes “any person acting directly or indirectly in the interest of an employer in relation to an employee.” 29 U.S.C. § 203(d) (2006) (“Definitions”) (emphasis added).  The definition of “employer” under the FLSA “is to be given an expansive interpretation.”  Lambert v. Ackerley, 180 F.3d 997, 1011-12 (9th Cir. 1999). The determination of whether an employer-employee relationship exists does not depend on “isolated factors but rather upon the circumstances of the whole activity.”  Rutherford Food Corp. v. McComb, 331 U.S. 722, 730 (1947). The touchstone of the inquiry is the “economic reality” of the relationship.  Boucher v. Shaw, 572 F.3d 1087, 1091 (9th Cir. 2009) (citing Goldberg v. Whitaker House Coop., Inc., 366 U.S. 28, 33 (1961)). 
+
+“Where an individual exercises control over the nature and structure of the employment relationship, or economic control over the relationship, that individual is an employer within the meaning of the [FLSA].” Lambert, 180 F.3d at 1012. To determine whether an individual is an employer under the FLSA, the Ninth Circuit applies a four-factor “economic reality” test that considers: 
+
+Whether the alleged employer (1) had the power to hire and fire the employees, (2) 
+
+supervised and controlled employee work schedules or conditions of employment, 
+
+(3) determined the rate and method of payment, and (4) maintained employment records. 
+
+See id. at 1001-02, 1012 (quoting the district court’s jury instruction).  Thus, an individual officer, director, or supervisor may be held liable as an employer under the FLSA where the evidence 
+
+25 Plaintiffs filed objections to Defendants’ motion for summary judgment.  ECF No. 321-1. The Court declines to consider these objections as they do not comply with Civil Local Rule 7-3(a), which requires the objections to motions be contained within the brief or memorandum.
+
+32 Case No.: 10-CV-01189-LHK ORDER RE: MOTION FOR SANCTIONS AND MOTION FOR SUMMARY ADJUDICATION 
+
+supports a determination that the individual exercised economic and operational control over the employment relationship.  See Boucher, 572 F.3d at 1091 (finding that a defendant responsible for handling labor and employment matters, who also held 30% ownership over a company, was an “employer” under the FLSA); Biggs v. Wilson, 1 F.3d 1537, 1538 (9th Cir. 1993) (finding that a state’s failure to issue state employees’ paychecks until after a state budget was passed by the legislature and signed by the Governor demonstrated the “economic reality” of being a state employee, and was therefore a violation of the FLSA). 
+
+Although Ninth Circuit cases attributing employer liability under the FLSA to individual defendants involve corporate owners, officers, directors, or others in an official corporate capacity, there is nothing in the FLSA or Ninth Circuit’s definition that limits individual defendant-employers to such positions.  See 29 U.S.C. § 203(d); Lambert, 180 F.3d at 1012 (providing four-factor economic reality test).  Indeed, “employer” status under the FLSA has been found where a manager had the authority to hire and fire employees, instructed employees to falsify their time cards, maintained employment records, filled out time and wage sheets, signed paychecks, and “paid all the bills.” Solis v. Best Miracle, 709 F. Supp. 2d 843, 847 (E.D. Cal. 2010), aff’d, No. 10­56146, 2011 WL 6882942 (9th Cir. Dec. 30, 2011); but see Baird v. Kessler, 172 F. Supp. 2d 1305, 1311 (E.D. Cal. 2001) (supervisors and managers who did not “control the purse strings” were not individually liable as “employers,” even though they set work schedules, assisted in drafting employee handbooks, recommended or reviewed the termination of employees, and maintained employment records). 
+
+The Court finds that Plaintiffs have identified a material issue of fact regarding whether Jun Ma, and Tailiang Li are “employers” within the meaning of the FLSA.  Reviewing the facts in the record in the light most favorable to Plaintiffs, Plaintiffs have not identified a material issue of fact regarding whether Tom Schriner and Jade Li are employers under the FLSA.  
+
+
+
+
+
+a. Jun Ma 
+
+There is a disputed issue of material fact in the record regarding whether Ma maintained economic control over class members such that he is an “employer” under the FLSA.  Ma has submitted a declaration claiming that he is an employee of Perfect Day, he has no ownership interest in Perfect Day, and he has no control over setting the rate of pay of the massage therapists.  Ma Decl. ¶¶ 1-7. However, there is evidence in the record from which a reasonable jury could find that Ma meets the “economic realities” test under the FLSA. 
+
+For example, Jade Li testified that, as the H.R. Manager, Ma is responsible for supervising, hiring, and managing the massage therapists at Perfect Day.  In addition, Ma himself testified that he maintains control over the personnel files at Perfect Day.  Moreover, testimony from several Plaintiffs suggests that Ma had control over the workers’ hours and had the authority to reduce the massage therapists’ rates of pay.  See Cui Dep. at 18, Olivier MSJ Decl. Ex. 6B; Dai Dep. at 24, Olivier MSJ Decl. Ex. 7B; Guifu Li Dep. at 31-32, Olivier MSJ Decl. Ex. 8B; Yu Dep. at 22, Olivier MSJ Decl. Ex. 11B; Yuan Dep. at 19, Olivier MSJ Decl. Ex. 12.  There is also evidence that Jun Ma may have at one time been a director at Perfect Day, suggesting that he may have been able to exercise economic control over class members.  
+
+Thus, under the economic realities test, a reasonable jury could find that Ma exercised economic control over Perfect Day’s massage therapists and thus was an employer under the FLSA. See Solis, 709 F. Supp. 2d at 850. Accordingly, Defendants’ Motion for Summary Adjudication with respect to Defendant Jun Ma’s status as an employer under the FLSA is DENIED. 
+
+
+
+b. Jade Li 
+
+Viewing the evidence in the record in the light most favorable to Plaintiffs, Plaintiffs have not identified sufficient evidence for a reasonable trier of fact to find that Jade Li is an “employer” under the FLSA.  Plaintiffs have pointed to evidence that Jade Li is the manager of the Fremont branch of Perfect Day, and that she also has acted as a representative, point of contact, or agent on behalf of Perfect Day and Minjian in filing applications and documents with various government entities. As part of her managerial job duties, Jade Li is responsible for signing the contractor agreements on behalf of Perfect Day.  
+
+Plaintiffs have also presented evidence that Jade Li, as well as other managers, conducted weekly meetings and that Plaintiffs’ pay was deducted for tardiness.  Additionally, one named Plaintiff testified that Jade Li told him that if the massage therapists performed well, the hourly rate of pay would be increased. Even in the light most favorable to Plaintiffs, however, it is far from clear that Jade Li actually had authority to increase or decrease the massage therapists’ rate of pay, or otherwise had actual control over their pay rate.  Moreover, Plaintiffs have not provided sufficient evidence to support a jury finding that Jade Li had control of class members’ schedules and hours, control over decisions related to hiring and firing, or maintained the company’s employment records.  Cf. Lambert, 180 F.3d at 1001-02, 1012. The facts do not establish that Jade Li exercised control over the nature and structure of the employment relationship or otherwise “controlled the purse strings” at Perfect Day.  See Baird, 172 F. Supp. 2d at 1311. Accordingly, Defendants’ Motion for Summary Adjudication with respect to Defendant Jade Li’s status as an employer under the FLSA is GRANTED.  
+
+
+
+c. Tom Schriner 
+
+Viewing the evidence in the record in the light most favorable to Plaintiffs, Plaintiffs have not identified sufficient evidence for a reasonable trier of fact to find that Tom Schriner is an “employer” under the FLSA.  Plaintiffs argue that Tom Schriner had operational control over Perfect Day because he took out a loan from Bank of America on behalf of Perfect Day and he evaluated the massage therapists.  Opp’n to Mot. for Summary Adjudication at 13-14. 
+
+The evidence in the record establishes that Tom Schriner was at one time part owner of Perfect Day.  The record establishes that Schriner contributed start up costs to Perfect Day, and also contributed other financing to the corporation.  He also obtained a one million dollar loan from Bank of America on behalf of the company.  Additionally, one of the class members in this case testified that he was told by other workers that Schriner “evaluated” his performance as a novice massage therapist.  See Wang Decl. at 80-87, Olivier MSJ Decl. Ex. 9. 
+
+In cases where courts have found corporate officers and board members liable as employers, the individuals were generally involved in supervising employees, controlling work schedules, and setting wages. See Chao v. Hotel Oasis, Inc., 493 F.3d 26, 34 (1st Cir. 2007) (company president had ultimate control over day-to-day operations and was in charge of setting employee wages and schedules); Herman v. RSR Security Servs. Ltd., 172 F.3d 132, 141 (2d Cir. 1999) (corporate officer and board member made financial decisions, hired managerial staff, signed checks, frequently gave employees instructions on conducting company business, and supervised and controlled employee work schedules); De Guzman v. Parc Temple LLC, 537 F. Supp. 2d 1087, 1094 (C.D. Cal. 2008) (company president owned 70% of residential care facility, hired the plaintiff, set his work schedule, determined rate and method of pay, and signed paychecks).  
+
+In this case, there is insufficient evidence in the record for a reasonable jury to find either that Schriner was involved in the day-to-day operations and was in charge of setting employee wages and schedules, or that he had power over the “purse strings” such that he had the ability to exercise economic control over the class members.  See Bonnette v. Cal. Health & Welfare Agency, 704 F.2d 1465, 1470 (9th Cir. 1983), abrogated on other grounds by Garcia v. San Antonio Metro. Transit Auth., 469 U.S. 528 (1985). 
+
+First, there is almost no evidence that Schriner was involved in the day-to-day operations of Perfect Day. Even assuming that the worker’s testimony is not inadmissible as hearsay under Federal Rule of Evidence 801, there is no evidence that Schriner has authority to hire and fire therapists, set their work schedules, direct or control their work or determine the rate and method of pay. Second, even though there is evidence that Schriner provided financing to Perfect Day, there is no evidence that this funding in any way impacted the employment relationship.  Cf. Biggs, 1 F.3d at 1538. Accordingly, Plaintiffs have not met their burden of identifying facts, which, if believed would establish that Schriner exercises control over the nature and structure of the employment relationship, or economic control over the relationship.”  Lambert, 180 F.3d at 1012. Accordingly, Defendants’ Motion for Summary Adjudication with respect to Defendant Tom Schriner’s status as an employer under the FLSA is GRANTED. 
+
+
+
+d. Tailiang Li 
+
+There is a disputed issue of material fact in the record regarding Tailiang Li’s role at Perfect Day. Although Tailiang Li testified that he had no involvement in Perfect Day, Plaintiffs have provided evidence that Tailiang Li supervised and controlled the massage therapists work and had economic control over their paychecks.  If Plaintiffs’ evidence is credited, a reasonable jury could find that Tailiang Li maintained economic control over class members such that he is an “employer” under the FLSA.   
+
+First, Plaintiffs have submitted evidence that Tailiang Li had supervisory authority over the massage therapists.  At least one class member testified that Tailiang Li paid frequent visits to the Perfect Day office and Li “would issue orders to the branch manager, and the branch manager would in turn give [massage therapists] the assignments.”  Yu Dep. at 24, Olivier MSJ Decl. Ex. 11B. Additionally, there is testimony in the record that Tailiang Li had the authority to hire class members.  For example, Tailiang Li interviewed several massage therapists before they were hired, and told several massage therapists that before they would be hired by Perfect Day, they had to be trained through Minjian, a school that was owned by Perfect Day.  Cui Dep. at 15, Olivier MSJ Decl. Ex. 6A; see also Dai Dep. at 10, Olivier MSJ Decl. Ex. 7A; Dai Dep. at 8, Olivier MSJ Decl. Ex. 7B; see also Wang Dep. at 76:13-17, Olivier MSJ Decl. Ex. 9; Yang Dep. at 50, Olivier MSJ Decl. Ex. 10. 
+
+Additionally, several class members indicated that Perfect Day deducted tuition payments owed to Minjian from their paychecks.  Giufu Li Dep. at 12, Olivier MSJ Decl. Ex. 8B; Yang Dep. at 64, Olivier MSJ Decl. Ex. 10; see also Cheung Dep. at 29, Olivier MSJ Decl. Ex. 5. As the sole owner of Minjian and individual solely responsible for its finances, a reasonable jury could infer that Tailiang Li determined the amount to be deducted from the massage therapists’ pay checks, and therefore that Tailiang Li had control over the payments received by the massage therapists. 
+
+Taken together, a reasonable jury could find that Tailiang Li retained economic and operational control over the Plaintiffs because he had the power to hire and fire the massage therapists, he supervised the massage therapists, and he had control over their compensation.  Lambert, 180 F.3d at 1012. Accordingly, Defendants’ Motion for Summary Adjudication with respect to Defendant Jun Ma’s status as an employer under the FLSA is DENIED. 
+
+2. Minjian as a Joint Employer 
+
+
+
+
+
+a. FLSA 
+
+Plaintiff also alleges that Minjian is liable under the FLSA as a “joint employer.”  Pl.’s Opp’n. to Def.’s Mot. for Summary Judgment at 14-15, ECF No. 321.  Two or more employers may be “joint employers” for the purposes of the FLSA.  Bonnette, 704 F.2d at 1469-70. “All joint employers are individually responsible for compliance with the FLSA.”  Id.; see 29 C.F.R. § 791.2(a) (2012). A fundamental principle behind the joint employment doctrine is that a worker 
+
+may be employed by more than one entity at the same time.  See Bonnette, 704 F.2d at 1469; 
+
+Gilbreath v. Cutter Biological, Inc., 931 F.2d 1320, 1324 (9th Cir. 1991). 
+
+Regulations issued by the Department of Labor provide that, “[w]here the employee 
+
+performs work which simultaneously benefits two or more employers,26 or works for two or more 
+
+employers at different times during the workweek, a joint employment relationship generally will 
+
+be considered to exist in situations such as:” 
+
+(1)
+
+ Where there is an arrangement between the employers to share the employee's services, as, for example, to interchange employees; or 
+
+
+
+(2)
+
+ Where one employer is acting directly or indirectly in the interest of the other employer (or employers) in relation to the employee; or 
+
+
+
+(3)
+
+ Where the employers are not completely disassociated with respect to the employment of a particular employee and may be deemed to share control of the employee, directly or indirectly, by reason of the fact that one employer controls, is controlled by, or is under common control with the other employer. 
+
+
+
+
+
+29 C.F.R. § 791.2(b). As has been recognized by the Ninth Circuit “Subsection 791.2(b)(3) tells us 
+
+that joint employment will generally be considered to exist when 1) the employers are not 
+
+‘completely disassociated’ with respect to the employment of the individuals and 2) where one 
+
+employer is controlled by another or the employers are under common control.”  Chao v. A-One 
+
+Med. Servs., Inc., 346 F.3d 908, 918 (9th Cir. 2003). 
+
+Although Minjian does not fit the traditional definition of employer because it is 
+
+purportedly a school, there is a disputed issue of material fact in the record regarding Minjian’s 
+
+role with respect to Perfect Day. If Plaintiffs’ evidence is credited, a reasonable jury could find 
+
+26 There appear to be two tests employed by the Ninth Circuit to determine whether a second entity is a “joint employer” subject to liability under the FLSA.  The first is an eight-factor “economic reality” test which applies when there is a “vertical” joint employment relationship.  A vertical joint employment relationship applies when “a company has contracted for workers who are directly employed by an intermediary company.” Chao v. A-One Medical Servs., Inc., 346 F.3d 908, 917 (9th Cir. 2003). This case appears to be more closely akin to a “horizontal” joint employment relationship, where two entities share operations. Id. at 912-913; see also Futrell v. Payday California, Inc., 190 Cal. App. 4th 1419, 1430 (2011) (describing a “horizontal” employment structure “when the employment structure involves shared employees, administrators, supervisors, administrative services, and schedulers”). 
+
+38 Case No.: 10-CV-01189-LHK ORDER RE: MOTION FOR SANCTIONS AND MOTION FOR SUMMARY ADJUDICATION 
+
+that Minjian, through its sole owner and operator Tailiang Li, maintained common control over class members such that Minjian is a “joint employer” under the FLSA.   
+
+First, as explained above, several class members indicated that Perfect Day deducted tuition payments owed to Minjian from their paychecks.  Plaintiffs have provided evidence that their wages were in some way affected or tied to the amount owed to Minjian.  Giufu Li Dep. at 12, Olivier MSJ Decl. Ex. 8B; Yang Dep. at 64, Olivier MSJ Decl. Ex. 10; see also Cheung Dep. at 29, Olivier MSJ Decl. Ex. 5. Thus, the two entities are not “completely disassociated” with respect to the employment of the individuals.  See Chao, 346 F.3d at 918. 
+
+Second, Plaintiffs have submitted evidence that Tailiang Li had supervisory authority over the massage therapists and controlled the work that the massage therapists performed.  Yu Dep. at 24, Olivier MSJ Decl. Ex. 11B; see also Yuan Dep. at 11, Olivier MSJ Decl. Ex. 12.  Additionally, there is testimony in the record that Tailiang Li had the authority to hire class members.  Yang Dep. at 50, Olivier MSJ Decl. Ex. 10; Dai Dep. at 8, Olivier MSJ Decl. Ex. 7B; Wang Dep. at 76:13-17, Olivier MSJ Decl. Ex. 9. Moreover, there is evidence in the record that before massage therapists could work at Perfect Day, they had to be trained through Minjian.  See id.; Cui Dep. at 15, Olivier MSJ Decl. Ex. 6A; see also Dai Dep. at 10, Olivier MSJ Decl. Ex. 7A.  From this evidence, a reasonable jury could infer that Minjian and Perfect Day were operated under the common control of Tailiang Li. See Chao, 346 F.3d at 918 (concluding that joint employer status exists where two entities were operated under the common control of one individual).  Accordingly, Defendants’ Motion for Summary Adjudication with respect to Defendant Minjian’s status as a joint employer under the FLSA is DENIED. 
+
+
+
+b. State Law Claims 
+
+Additionally, Plaintiffs also appear to claim that Minjian is liable for the state law wage and hour claims under a joint employer theory of liability.  See Pls.’ Opp’n to Mot. for Summary Adjudication at 14-16. Under California law,27 an entity must meet one of three tests to be liable as 
+
+27  To the extent that Plaintiffs cite a different test, it appears that they are relying on a test that applies not to wage and hour claims, but rather to claims under the FEHA.  See Jones v. County ofLos Angeles, 99 Cal. App. 4th 1039 (2002); Wynn v. Nat’l Broad. Co., Inc., 234 F. Supp. 2d 1067,1093 (C.D. Cal. 2002). It does not appear that this test is applicable to state wage and hour claims.  See Martinez, 49 Cal. 4th at 50 & n.16. 
+
+a “joint employer.”  An employer must either (1) exercise control over the employee’s wages, hours or working conditions; or (2) allow him to suffer work or permit him to work; or (3) engage him, creating a common law employment relationship.  See Futrell v. Payday California, Inc., 190 Cal. App. 4th 1419, 1429 (2011) citing Martinez v. Combs, 49 Cal. 4th 35, 64 (2010). 
+
+Plaintiffs have raised a triable issue of fact regarding joint employer liability under two of the California tests. Under the first test, Defendants argue that Minjian did not control the hours or the rates of pay of the massage therapists. Defs’ Mot. for Summary Adjudication at 26.  However, Plaintiffs have identified a genuine issue of material fact regarding whether Minjian, through its owner Tailiang Li, controlled the massage therapists’ working conditions.  Plaintiffs have submitted evidence that Tailiang Li had supervisory authority over the massage therapists and controlled the work that the massage therapists performed.   
+
+Additionally, Plaintiffs have raised a triable issue of fact regarding whether Minjian “suffered or permitted” Plaintiffs to work.  “The verbs ‘to suffer’ and ‘to permit,’ as we have seen, are terms of art in employment law.”  Martinez, 49 Cal.4th at 64.  “[T]he basis of liability is the defendant’s knowledge of and failure to prevent the [illegal] work from occurring.”  Martinez, 49 Cal.4th at 69. Although Defendants argue that Minjian “did not turn a blind eye toward work being done in its building or for its benefit,” Defs’ Mot. for Summary Adjudication at 26, and   Defendants dispute the evidence presented, Plaintiffs have pointed to evidence that Tailiang Li was involved in both operations and therefore likely had knowledge of the alleged wage and hour violations occurring at Perfect Day. 
+
+Moreover, Plaintiffs have offered evidence, which, if credited by the jury, would establish that Minjian “suffered or permitted plaintiffs to work” because Minjian “had the power to prevent plaintiffs from working.” Cf. Martinez, 49 Cal. 4th at 70; cf. also Futrell, 190 Cal. App. 4th at 1434. Evidence provided by Plaintiffs suggests that (1) massage therapists were interviewed and were hired by Tailiang Li, the Principal at Minjian, and (2) massage therapists had to attend Minjian and pass Tailiang Li’s high standards before being employed by Perfect Day.  Thus, a reasonable jury could conclude that Tailiang Li and Minjian were gate keepers that had the authority to allow or prevent massage therapists from working at Perfect Day.  Accordingly, Defendants’ Motion for Summary Adjudication with respect to Defendant Minjian’s status as a joint employer under California state law is DENIED. 
+
+3. Alter Ego Liability 
+
+Plaintiffs also claim that Tom Schriner, Jade Li, Tailiant Li, Jin Qiu, Jun Ma, and Minjian are liable for all claims against Perfect Day under an alter ego theory of liability.28 Pls.’ Opp’n to Mot. for Summary Adjudication at 16-23. While a corporation is ordinarily regarded as a legal entity “separate and distinct from its stockholders, officers and directors,” that presumption may be challenged under the alter ego doctrine “where a corporation is used by an individual or individuals, or by another corporation, to perpetrate fraud, circumvent a statute, or accomplish some other wrong or inequitable purpose.”  Robbins v. Blecher, 52 Cal. App. 4th 886, 892 (1997); see also Smith v. Simmons, 638 F. Supp. 2d 1180, 1190-91 (E.D. Cal. 2009), aff’d, 409 F. App’x 88 (9th Cir. 2010). “The alter ego doctrine prevents individuals or other corporations from misusing the corporate laws by the device of a sham corporate entity formed for the purpose of committing fraud or other misdeeds.”  Sonora Diamond Corp. v. Superior Court, 83 Cal. App. 4th 523, 538 (2000). The alter ego doctrine allows a court to “disregard the corporate entity and treat the corporation’s acts as if they were done by the persons actually controlling the corporation.”  Robbins, 52 Cal. App. 4th at 892. 
+
+In California, the party seeking to have the corporate entity disregarded bears the burden of proving that the alter ego theory should be applied.  Matter of Christian & Porter Aluminum Co., 584 F.2d 326, 338 (9th Cir. 1978). While there is no specific “litmus test” for determining whether an individual is an alter ego of a corporate entity, California imposes two general requirements: (1) “that there be such a unity of interest and ownership that the separate personalities of the corporation and the individual no longer exist;” and (2) that “if the acts are treated as those of the 
+
+28 The California Supreme Court in Reynolds v. Bement, 36 Cal. 4th 1075 (2005), overruled onother grounds by Martinez v. Combs, 49 Cal. 4th 35 (2010), forecloses Plaintiffs’ ability to hold a corporation’s directors, officers, and shareholders personally liable for the corporation’s state law wage and hour violations. Plaintiffs appear to concede that individual Defendants are not directly liable for Plaintiffs’ state law wage and hour claims.  See Pls.’ Opp’n to Mot. for SummaryAdjudication at 8-14. Notably, the Court in Reynolds, did not address personal liability under analter ego theory of liability for recovery of state law wage claims, but rather acknowledged that such a theory of recovery remains available to those seeking to recover unpaid wages.  See id. at 1089 n.10. 
+
+corporation alone, an inequitable result will follow.”  Mesler v. Bragg Mgmt. Co., 39 Cal. 3d 290, 
+
+300 (1985) (quoting Automotriz etc. de California v. Resnick, 47 Cal. 2d 792, 796 (1957). 
+
+When assessing whether there is the requisite “unity of interest,” California courts will 
+
+consider factors such as: 
+
+. . . inadequate capitalization, commingling of funds and other assets, holding out by one entity that it is liable for the debts of the other, identical equitable ownership, use of the same offices and employees, use of one as a mere conduit for the affairs of the other, disregard of corporate formalities, lack of segregation of corporate records, and identical directors and officers.   
+
+Smith, 638 F. Supp. 2d at 1191 (citing VirtualMagic Asia, Inc. v. Fil–Cartoons, Inc., 99 Cal. App. 
+
+4th 228, 245 (2002)). 
+
+The following facts related to corporate structure and ownership in the SAC are deemed 
+
+admitted, subject to the discussion above: 
+
+Individual Defendants Tom Schriner, Tailiang Li, Jin Qiu, Huan Zou and Does 1 through 10 are, upon information and belief, owners, managers and/or directors of Perfect Day Spa and/or Minjian Institute, and have such unity of interest with Perfect Day Spa and/or Minjian Institute that they have in fact dominated and controlled Perfect Day Spa and/or Minjian Institute. These individuals have, among other things: 
+
+a. 
+
+Commingled funds and other assets of Minjian Institute and Perfect Day Spa with their funds and assets for their own convenience and to assist in evading the payment of obligations; 
+
+
+
+b. 
+
+Diverted funds and other assets of Minjian Institute and Perfect Day Spa to other than corporate uses; 
+
+
+
+c. 
+
+Treated the assets of Minjian Institute and Perfect Day Spa as their own;  
+
+
+
+d. 
+
+Failed to obtain authority to issue shares or to subscribe to issue shares of Minjian Institute and Perfect Day Spa;  
+
+
+
+e. 
+
+Failed to maintain minutes or adequate corporate records of Minjian Institute and Perfect Day Spa; 
+
+
+
+f. 
+
+Failed to adequately capitalize or provide any assets to Minjian Institute and Perfect Day Spa; and 
+
+
+
+g. 
+
+Diverted assets from Minjian Institute and Perfect Day Spa to themselves to the detriment of creditors, including Plaintiffs and Class members. 
+
+
+
+
+
+As a result of this conduct, Defendants Tom Schriner, Tailiang Li, Jin Qiu, and Huan Zou are directly liable to Plaintiffs and members of the class for the conduct of Minjian Institute and Perfect Day Spa complained of herein as their alter egos.  Recognition of the privilege of separate existence would promote injustice because these individual defendants have in bad faith dominated and controlled Minjian Institute and Perfect Day Spa and have profited from the deprivation of the rights of Plaintiffs and members of the class. 
+
+SAC ¶¶19-20. In light of the fact that these paragraphs are deemed admitted, Defendants’ Motion  for Summary Adjudication will be denied29 in large part. 
+
+
+
+
+
+a. Tom Schriner 
+
+Tom Schriner was a corporate officer or director during the class period.  Given the facts deemed admitted in the SAC, Plaintiffs have established a prima facie case of alter ego liability.  Schriner will have the burden at trial to rebut the presumption “that there [was] such a unity of interest and ownership [between Schriner and Perfect Day] that the separate personalities of the corporation and the individual no longer exist;” and (2) that “if the acts are treated as those of the corporation alone, an inequitable result will follow.”  Mesler, 39 Cal. 3d at 300. Accordingly, Defendants’ Motion for Summary Adjudication with respect to Defendant Tom Schriner’s alter ego liability is DENIED. 
+
+
+
+b. Minjian 
+
+“[U]nder the single enterprise rule, liability can [also] be found between sister [or affiliated] companies.”  Las Palmas Associates v. Las Palmas Ctr. Assocs., 235 Cal. App. 3d 1220, 1249 (1991). “Factors for the trial court to consider include the commingling of funds and assets of the two entities, identical equitable ownership in the two entities, use of the same offices and employees, disregard of corporate formalities, identical directors and officers, and use of one as a mere shell or conduit for the affairs of the other.”  Troyk v. Farmers Grp., Inc., 171 Cal. App. 4th 1305, 1342 (2009). 
+
+Plaintiffs have offered evidence that there is a unity of interest and ownership between Minjian and Perfect Day. For example, evidence in the record, if credited by the jury, establishes that Tailiang Li acted in a managerial or ownership capacity in both organizations and was the sole owner of Minjian. He signed leases and related documents on behalf of Minjian and Perfect Day.  Moreover, there is evidence in the record that, if credited by the jury, establishes that both Perfect 
+
+29 In their Reply, Defendants argue that a Rule 37 sanction motion cannot serve to defeat a motion for summary judgment.  Reply In Support of Motion for Summary Adjudication at 3, ECF No. 326.  However, the cases cited by Defendants do not present the unique circumstance here where the Court has granted a Rule 37 Sanctions Motion to deem certain facts admitted.  Defendants’ repeated violations of this Court’s discovery orders has hamstrung Plaintiffs’ ability to establish one of its theories of liability. It would be absurd to grant summary judgment in favor of a party who has withheld key evidence necessary for its opponent to establish its case.  Accordingly, theCourt rejects Defendants argument that the Court cannot accept facts deemed submitted as establishing a prima facie case such that summary judgment is precluded. 
+
+43 Case No.: 10-CV-01189-LHK ORDER RE: MOTION FOR SANCTIONS AND MOTION FOR SUMMARY ADJUDICATION 
+
+Day and Minjian were located in the same building and paid their rent using the same check.  Moreover, there is evidence that the entities were founded in conjunction with each other for a complementary purpose.  Finally, read broadly, the allegations in the SAC suggest that the funds were commingled between Minjian and Perfect Day and that the two entities really existed as one entity. Accordingly, Defendants’ Motion for Summary Adjudication with respect to Defendant Minjian’s alter ego liability is DENIED. 
+
+
+
+c. Jin Qiu/Tailiang Li 
+
+Tailiang Li and Jin Qiu30 are or were corporate officers of Minjian.  The facts in the SAC allege an elaborate ownership scheme in which there were no real boundaries between the two corporate entities and their individual owners.  Given the facts deemed admitted in the SAC, Plaintiffs have established a prima facie case of alter ego liability as to Jin Qiu and Tailiang Li.  Li and Qiu will have the burden at trial to rebut the presumption “that there [was] such a unity of interest and ownership [between Li and Qiu and Minjian] that the separate personalities of the corporation and the individual no longer exist;” and (2) that “if the acts are treated as those of the corporation alone, an inequitable result will follow.”  Mesler, 39 Cal. 3d at 300. Accordingly, Defendants’ Motion for Summary Adjudication with respect to Defendant Jin Qiu’s and Tailiang Li’s alter ego liability is DENIED. 
+
+
+
+d. Jun Ma 
+
+Jun Ma has been held out to the state of California as a director of Perfect Day.  Additionally, the factual allegations deemed admitted in the SAC establish that the owners and directors of Perfect Day have commingled assets, diverted funds from Perfect Day, and otherwise disregarded corporate formalities.  Plaintiffs have established a prima facie case of alter ego liability as to Jun Ma.  Ma will have the burden at trial to rebut the presumption “that there [is] such a unity of interest and ownership [between Ma and Perfect Day] that the separate personalities of the corporation and the individual no longer exist;” and (2) that “if the acts are treated as those of the corporation alone, an inequitable result will follow.”  Mesler, 39 Cal. 3d at 300. 
+
+30 Jin Qiu has filed a declaration disputing that she is a corporate officer of Minjian.  ECF No. 318­3. However, Plaintiffs have submitted documents from the State of California establishing that Ms. Qiu has held herself out as the President of Minjian.  See Olivier MSJ Decl. Ex. 20, CSOS000021. 44 
+
+Case No.: 10-CV-01189-LHK ORDER RE: MOTION FOR SANCTIONS AND MOTION FOR SUMMARY ADJUDICATION 
+
+Accordingly, Defendants’ Motion for Summary Adjudication with respect to Defendant Jun Ma’s alter ego liability is DENIED. 
+
+
+
+e. Jade Li 
+
+Unlike Jun Ma or Jin Qiu neither the facts deemed admitted in the SAC, nor documents filed with the state establish that Jade Li is, or has been held out to the state as, an owner, director, or corporate officer of Perfect Day or Minjian.  Even in light of the facts deemed admitted in the SAC, Plaintiffs have not established a prima facie case that there is a unity of interest and ownership between Jade Li and Perfect Day such that a jury could find that Jade Li is the alter ego of either Minjian or Perfect Day. Mesler, 39 Cal. 3d at 300. Accordingly, Defendants’ Motion for Summary Adjudication with respect to Defendant Jade Li’s alter ego liability is GRANTED.  
+
+
+
+
+
+For the foregoing reasons, the Court issues the following orders: 
+
+1. 
+
+Defendant Huan Zou’s Motion to Dismiss is DENIED.  Plaintiffs shall serve Mr. Zou again through delivery at A Perfect Day Spa, which shall transmit the relevant documents to Mr. Zou. Service shall be completed within three days of the date of this Order. 
+
+
+
+2. 
+
+Plaintiffs’ Motion for Sanctions is GRANTED, in part, and DENIED, in part.  Paragraphs 19 and 20 of the SAC will be deemed admitted unless rebutted by Defendants Tom Schriner, Tailiang Li, Jin Qiu, Jun Ma, and Minjian at trial.  Additionally, with respect to monetary sanctions, Plaintiffs may submit a supplemental declaration and accounting of the costs and fees associated with bringing the following motions: (1) Plaintiffs’ Motion to Compel Responses Regarding Financial Information (ECF No. 277), (2) Plaintiffs’ Motion to Compel the Deposition of Anna Tong (ECF No. 284), and (3) Plaintiffs’ Motion to Compel Production of Documents and Responses to Interrogatories (ECF No. 282). Plaintiffs’ declaration is due within 14 days of the date of this order. 
+
+
+
+3. 
+
+Defendants’ Motion for Summary Adjudication is GRANTED, in part, and DENIED, in part. Summary Judgment on all claims as to Jade Li is GRANTED.  All other Defendants may be found liable either as alter egos of the corporation, or directly liable as employers under the FLSA. 
+
+
+
+
+
+
+
+IT IS SO ORDERED. 
+
+
+
+
+
+
+

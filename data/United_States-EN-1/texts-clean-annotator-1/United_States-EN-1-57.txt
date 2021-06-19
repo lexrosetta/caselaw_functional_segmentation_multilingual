@@ -1,0 +1,184 @@
+
+
+Sallie Shannon Chapman worked as a “casino marketing executive” at the Golden Nugget casino in Las Vegas, Nevada, from 1991 to 2014.  She alleges that Fertitta Entertainment, Inc., Fertitta Entertainment Holdings, LLC, Fertitta Hospitality, LLC, Landry’s Inc., and Golden Nugget, Inc. were her employers, and that they wilfully misclassified her position as exempt from the overtime requirements of the Fair Labor Standards Act (FLSA), 29 U.S.C. §§ 201–19.  She sues for unpaid overtime wages under the FLSA and unjust enrichment.1 
+
+The defendants now move for summary judgment, arguing that: (1) there is no evidence demonstrating that Chapman was employed by any defendant other than Golden Nugget, Inc.; (2) the evidence demonstrates that she was employed in a “bona fide administrative capacity” and thus exempt from the FLSA’s overtime provisions; and (3) her common-law unjust-enrichment claim is preempted by the FLSA.2 I agree that there is no evidence suggesting that Chapman was employed by any defendant other than the Golden Nugget.  I also agree that Chapman’s unjust-enrichment claim seeks to recover only unpaid overtime wages, so it is preempted by the FLSA. But the defendants fail to demonstrate that Chapman’s primary duties included the use of discretion and independent judgment with respect to matters of significance.  I therefore grant the motion for summary judgment in part (leaving only Chapman’s FLSA claim against the Golden Nugget) and refer this matter to a magistrate judge for a mandatory settlement conference. 
+
+1 ECF No. 1. 2 ECF No. 36. 
+
+
+
+Summary judgment is appropriate when the pleadings and admissible evidence “show there is no genuine issue as to any material fact and that the movant is entitled to judgment as a matter of law.”3  When considering summary judgment, the court views all facts and draws all inferences in the light most favorable to the nonmoving party.4  If reasonable minds could differ on material facts, summary judgment is inappropriate because its purpose is to avoid unnecessary trials when the facts are undisputed, and the case must then proceed to the trier of fact.5 
+
+If the moving party satisfies Rule 56 by demonstrating the absence of any genuine issue of material fact, the burden shifts to the party resisting summary judgment to “set forth specific facts showing that there is a genuine issue for trial.”6 The nonmoving party “must do more than simply show that there is some metaphysical doubt as to the material facts”; she “must produce specific evidence, through affidavits or admissible discovery material, to show that” there is a sufficient evidentiary basis on which a reasonable fact finder could find in her favor.7 
+
+
+
+
+
+Chapman claims that all of the defendants are liable under the FLSA for unpaid overtime wages because they jointly employed her.8  The Department of Labor’s regulations interpreting the FLSA recognize that an individual can be simultaneously employed by two or more employers; in the case of joint employment, each employer is responsible—individually and 
+
+3 See Celotex Corp. v. Catrett, 477 U.S. 317, 330 (1986) (citing Fed. R. Civ. P. 56(c)).  
+
+4 Kaiser Cement Corp. v. Fishbach & Moore, Inc., 793 F.2d 1100, 1103 (9th Cir. 1986).  
+
+5 Warren v. City of Carlsbad, 58 F.3d 439, 441 (9th Cir. 1995); see also Nw. Motorcycle Ass’n v. 
+
+U.S. Dep’t of Agric., 18 F.3d 1468, 1471 (9th Cir. 1994).  
+
+6 Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 256 (1986); Celotex, 477 U.S. at 323. 
+
+7 Bank of Am. v. Orr, 285 F.3d 764, 783 (9th Cir. 2002) (internal citations omitted); Bhan v. NME Hosps., Inc., 929 F.2d 1404, 1409 (9th Cir. 1991); Anderson, 477 U.S. at 248–49. 
+
+8 ECF No. 1 at ¶¶ 12–13. 
+
+jointly—for FLSA compliance.9  In deciding whether a joint-employment relationship exists for FLSA purposes, courts consider “the total employment situation and the economic realities of the work relationship,” including “whether the alleged employer (1) had the power to hire and fire the employees, (2) supervised and controlled employee work schedules or conditions of employment, (3) determined the rate and method of payment, and (4) maintained employment records.”10 
+
+The defendants argue that Chapman has no proof that she was jointly employed by all of them, and they provide evidence that she was employed only by the Golden Nugget.11 As proof that she was jointly employed, Chapman provides a confidentiality and non-solicitation agreement that she signed.12  This agreement states that Chapman’s “Employer” is the “Golden Nugget.”13  It explains that the Golden Nugget is an entity among others that is owned directly or indirectly by Fertitta Entertainment, Inc., Fertitta Entertainment Holdings, LLC, Fertitta Hospitality, LLC, Landry’s, Inc., or Golden Nugget, Inc.14  It states that, in performing services for the Golden Nugget, Chapman might occasionally provide services to or for the benefit of the Golden Nugget’s parents, subsidiaries, and affiliates.15  But the agreement does not provide any details about Chapman’s employment situation or the economic realities of her work relationship 
+
+9 29 C.F.R. § 791.2(a). 
+
+10 Bonnette v. Cal. Health and Welfare Agency, 704 F.2d 1465, 1470 (9th Cir. 1983) (quotation marks and quoted reference omitted), disapproved on other grounds by Garcia v. San Antonio Metro. Transit Authority, 469 U.S. 528 (1985). 
+
+11 ECF No. 36-1 at 3, ¶¶ 3, 5.  The Golden Nugget’s senior vice president of casino marketing attests that Chapman was employed by GNLV, Corp. d/b/a Golden Nugget Las Vegas Hotel and Casino, but never by Fertitta Entertainment, Inc., Fertitta Entertainment Holdings, LLC, Fertitta Hospitality, LLC, or Landry’s, Inc.  ECF No. 36-1 at 3, ¶¶ 3, 5. 
+
+12 ECF No. 43-6. 
+
+13 Id. at 2. 
+
+14 Id. 
+
+15 Id. 
+
+with any of the other defendants.  It does not state which entity or entities had authority to terminate her other than the Golden Nugget.16 And it makes no mention of work schedules or conditions of employment, rate or method of pay, or employment records.  In short, it raises no genuine issues to keep any defendant other than the Golden Nugget in this case. 
+
+Because the record shows that Chapman was employed only by the Golden Nugget, no reasonable juror could conclude from this record that Chapman had an employee-employer relationship with any of the other defendants.  I therefore grant summary judgment in favor of all the defendants EXCEPT the Golden Nugget on Chapman’s claim for unpaid overtime wages under the FLSA. 
+
+
+
+
+
+The defendants next argue that the evidence establishes that Chapman was employed in a “bona fide administrative capacity” and thus exempt from the FLSA’s overtime requirements. The Secretary of Labor defines and determines the scope of the administrative exemption and has formulated the “short duties test” to determine whether an employee qualifies for it.17 To qualify, the employee must be paid at least $455 each week on a salary basis, and her “primary duty” must be to perform “office or nonmanual work directly related to management policies or general business operations of [her] employer” and include “the exercise of discretion and independent judgment.”18  How an employee spends her time working presents a question of fact, but whether her work activities fall within the administrative exemption is a question of law.19  The employer must prove that the employee meets each requirement for exemption.20 
+
+16 See ECF No. 43-6 at 4, ¶ 12 (stating that the agreement does not alter the at-will nature of Chapman’s employment, which was terminable at will by both her and the Golden Nugget). 
+
+17 In re Farmers Ins. Exch., Claims Reps. Overtime Pay Litig., 481 F.3d 1119, 1127 (9th Cir. 2007); 29 U.S.C. § 213(a)(1). 
+
+18 In re Farmers, 481 F.3d at 1127 (quotation marks and quoted reference omitted). 
+
+19 Icicle Seafoods Inc. v. Worthington, 475 U.S. 709, 714 (1986). 
+
+20 Bothell v. Phase Metrics, Inc., 299 F.3d 1120, 1125 (9th Cir. 2002). 
+
+There is no dispute that Chapman was paid on a salary basis each week in excess of $455 for her work as a casino marketing executive at the Golden Nugget.21 Also undisputed is what specific tasks Chapman performed in that role.22  Where the parties disagree is whether (1) Chapman’s duties: (1) primarily involved work directly related to management or general business operations of the casino and (2) included the exercise of discretion and independent judgment with respect to matters of significance. 
+
+
+
+To meet the requirement of performing work directly related to the management or general business operations of the employer, “an employee must perform work directly related to assisting with the running or servicing of the business, as distinguished, for example, from working on a manufacturing production line or selling a product in a retail or service establishment.”23 Chapman testified about what tasks she performed as a casino marketing executive.24  She spent the first half of her shift (approximately 4 hours) in the host office25 where she checked out guests, evaluated whether they should receive complimentary items, and issued those items within the parameters established by the Golden Nugget or sought approval when items fell outside of those parameters. While she was evaluating these guests, Chapman would “tell them about upcoming events” at the casino.26 
+
+21 ECF No. 36-9 at 22 (83:24–84:1 of the transcript). 
+
+22 Compare ECF No. 36 at 4–8, ¶¶ 8–36 with ECF No. 43 at 10–11. 
+
+23 29 C.F.R. § 541.201(a). 
+
+24 ECF No. 36-9. 
+
+25 The Golden Nugget’s host office “is a room in the casino meant to service individuals who hold Golden Nugget player cards and are frequent gamblers at the casino.  Its purpose is to ensure that frequent Golden Nugget gamblers are satisfied with their experience and want to return to the casino.” ECF No. 45-1 at 3–4, ¶ 9.  “The host office is completely separate from the Golden Nugget’s reception desk, which is responsible for checking retail guests in and out.”  Id. at 4, ¶ 10. 
+
+26 ECF No. 36-9 at 8 (28:08–15 of the transcript). 
+
+After that, the Golden Nugget gave Chapman a list of guests arriving in limousines, and she greeted them.27  The Golden Nugget also gave Chapman a list of known casino customers and tasked her with telemarketing to a certain number of them per day.28 She was scheduled to telemarket from her desk for an hour a day, but other duties precluded her from completing the required number of calls in a single sitting.29  Those other duties included interacting with casino customers whom she had a relationship with (e.g., taking their calls, returning their calls, calling them in the first instance to notify them of upcoming casino events, sending cards on special occasions, and speaking to them at the casino) and interacting with patrons on the casino floor (e.g., signing them up for a player’s card and otherwise encouraging them to become repeat customers).30  Chapman was expected to attended all casino events.31 She was tasked with assisting customers who wanted to establish or extend a line of credit, and she had authority to extend up to $5,000 in credit to customers.32 
+
+Chapman argues that her duties involved the casino’s day-to-day operations, not its general operations.  Chapman’s responsibilities primarily involved promoting activities at the Golden Nugget and persuading new and known customers to spend money at the casino.  She made the casino more appealing to customers by providing them complimentary items, assisting them in obtaining or extending lines of credit, extending up to $5,000 in credit to them, establishing and nurturing relationships with them, informing them about upcoming events at the casino, and encouraging new customers to get and use a player’s card.  
+
+27 Id. at 11 (37:7–9 of the transcript). 28 Id. at 7 (23:25–24:17 of the transcript), 11 (39:10–40:21 of the transcript). 29 Id. at 11 (39:2–9 of the transcript). 30 Id. at 11 (37:7–13 of the transcript), 12 (43:1–44:13 of the transcript). 31 Id. at 16 (60:17–25 of the transcript). 32 Id. at 20–21 (76:22–77:2 of the transcript). 
+
+Another court in this district already considered whether a similar set of duties was directly related to the general business operations of a gaming resort.  In Dannenbring v. Wynn Las Vegas, LLC, U.S. District Judge Mahan found that, “in the context of a gaming resort[,]” the duties of extending lines of credit and distributing complimentary items “certainly constitute ‘marketing.’”33  I agree with Judge Mahan’s reasoning and adopt it here.  I find that Chapman’s primary duties consisted of marketing the Golden Nugget casino to customers.  The regulations expressly provide that “work in functional areas” like “marketing” is directly related to management or general business operations.34  I therefore conclude that Chapman’s primary duties were directly related to the Golden Nugget’s general business operations. 
+
+
+
+ 
+
+The second requirement—customarily and regularly exercising discretion and independent judgment with respect to matters of significance—“is satisfied if the employee has the ability to compare, evaluate, and choose from possible courses of conduct.”35 This “implies that the employee has authority to make an independent choice, free from immediate direction or supervision. However, employees can exercise discretion and independent judgment even if their decisions or recommendations are reviewed at a higher level.”36 Discretion and independent judgment “does not require that the decisions made by an employee have a finality that goes with unlimited authority and a complete absence of review.”37 
+
+33 Dannenbring v. Wynn Las Vegas, LLC, 2014 WL 518759, at *8 (D. Nev. Feb. 7, 2014), aff’d, 646 Fed. Appx. 556 (9th Cir. 2016). 34 29 C.F.R. § 541.201(b). 35 Bothell v. Phase Metrics, Inc., 299 F.3d 1120, 1129 (9th Cir. 2002). 36 29 C.F.R. § 541.202(c). 
+
+37 Id. 
+
+The regulations list many “[f]actors to consider when determining whether an employee exercises discretion and independent judgment with respect to matters of significance . . . .”38 The defendants argue that five of them apply here because Chapman: (1) “ha[d] authority to waive or deviate from established policies and procedures without prior approval”; (2) performed work that affected the Golden Nugget’s “operations to a substantial degree”; (3) had authority to commit the Golden Nugget in matters having “significant financial impact”; (4) had authority “to formulate, affect, interpret, or implement management policies or operating practices”; and (5) “represent[ed] the company in handling complaints.”39 The record belies that the first factor applies here and it is not sufficiently developed to warrant summary judgment on the others. 
+
+The evidence shows that the Golden Nugget has established policies and procedures for the activities of (1) evaluating customers to provide them with complimentary items and (2) issuing them credit.  The written policies state that casino marketing executives like Chapman have authority to exercise discretion and independent judgment within the parameters set by the Golden Nugget for these activities, but that the employee needs prior approval to waive or deviate from them.40 Chapman testified that, in practice, she performed consistent with the Golden Nugget’s written policies: she could and did make decisions and independent judgments within the established parameters but sought approval to deviate or waive them.41  Based on this record, I find that the first factor identified by the defendants is not met because Chapman did not have authority to waive or deviate from the Golden Nugget’s established policies and procedures. 
+
+The record is too thin for me to decide as a matter of law if any of the other factors identified by the defendants are met.  The evidence does show that Chapman occasionally 
+
+38 Id. at § 541.202(b). 
+
+39 ECF No. 36 at 14 (quoting 29 C.F.R. § 541.202(b)). 
+
+40 ECF Nos. 36-4 (redacted casino and slot marketing parameters: complimentary criteria and policies), 38 (same but sealed), 43-1 (casino marketing department policies and procedures: credit policy). 
+
+41 ECF No. 36-9. 
+
+handled complaints like uncomfortable beds and cold eggs in a casino restaurant,42 but there is no evidence suggesting that those issues are matters of significance to the casino.  “The term ‘matters of significance’ refers to the level of importance or consequence of the work performed.”43  Defendants, in fact, offer no evidence to suggest that any of the duties where Chapman had authority to exercise discretion and independent judgment (i.e., extending lines of credit to qualified customers, issuing complimentary items to customers, crafting her marketing method and message, and addressing customer complaints) are matters of significance to the casino. 
+
+This lack of affirmative evidence bleeds into the factors themselves. The evidence shows that Chapman had authority to commit the casino to extend up to $5,000 in credit to qualified customers. Michael Leonard, senior vice president of casino marketing for the Golden Nugget casino, explains that casino credit is like an interest-free loan and, if the customer does not pay back the line of credit, the Golden Nugget suffers a loss in the amount of credit advanced and any fees or costs of collection.44  But, based on the evidence before me, whether extending credit and giving customers complimentary items has a “significant financial impact” on the casino requires me to speculate. Whether Chapman’s work affected the Golden Nugget’s operations “to a substantial degree” is also speculative.  I cannot determine as a matter of law from the evidence before me that Chapman exercised discretion and independent judgment in matters of significance to the Golden Nugget casino.  I therefore deny the defendants’ motion for summary judgment as to Chapman’s FLSA claim against the Golden Nugget. 
+
+42 Defendants argue that Chapman also handled complaints about bed bugs, but she testified that in those instances, “one of the higher-ups were made aware of it and, you know, made the final decision that I can offer [complimentary items] the next time they come in.”  ECF No. 36-9 at 28 (105:03–107:05 of the transcript). 
+
+43 29 C.F.R. 541.202(a). 
+
+44 ECF No. 36-1 at 3–4, ¶¶ 7–8. 
+
+
+
+
+
+
+
+
+
+Finally, the defendants argue that Chapman’s common-law claim for unjust enrichment is preempted by the FLSA under the second theory of conflict preemption: “where state law stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress.”45 Chapman responds that this claim is not an obstacle because it seeks to recover wages for off-the-clock work (commonly referred to as straight-time wages), which is not covered by the FLSA.  But her complaint does not bear that out. 
+
+Chapman’s unjust-enrichment claim boils down to allegations that the defendants unjustly enriched themselves by “failing to pay overtime wages due and owing” to her and that she “conferred the benefit of performing her work duties on Defendant companies who accepted and retained those benefits without payment.”46  These allegations give notice that Chapman seeks to recover unpaid overtime wages, but they do not give notice that she also seeks to recover unpaid straight-time wages.  Chapman alleges earlier in her complaint that she was required to receive calls on her employer-issued cell phone and perform work during days and times that she was not at the casino.47  But she makes no effort to meaningfully pull those allegations into her unjust-enrichment claim.48  Finally, Chapman’s prayer for relief does not help her argument: for the class and herself individually she seeks “[u]npaid overtime wages,” and for herself individually she cryptically seeks “wages, salary, employment benefits and other compensation denied or lost.”49 
+
+45 See Williamson v. Gen. Dynamics Corp., 208 F.3d 1144, 1149 (9th Cir. 2000) (quotation marks and quoted reference omitted). 
+
+46 ECF No. 1 at ¶¶ 31–32. 
+
+47 Id. at ¶¶ 18–19. 
+
+48 Chapman’s unjust-enrichment claim includes the obligatory language that it “incorporates by reference” all previous paragraphs “as though fully set forth herein[,]” but that statement is meaningless in this context because Chapman did not previously allege that the defendants failed to pay her straight-time wages. 
+
+49 ECF No. 1 at 7. 
+
+I find that, as pled, Chapman’s unjust enrichment claim seeks to recover only unpaid overtime wages.  “Claims that are directly covered by the FLSA (such as overtime and retaliation disputes) must be brought under the FLSA.”50 This claim is directly covered—and thus preempted—by the FLSA.  I therefore grant the defendants’ motion for summary judgment in their favor on Chapman’s unjust-enrichment claim. 
+
+
+
+
+
+
+
+Accordingly, IT IS HEREBY ORDERED that the defendants’ motion for summary judgment [ECF No. 36] is GRANTED in part: 
+
+• 
+
+Summary judgment is granted in favor of Fertitta Entertainment, Inc., Fertitta Entertainment Holdings, LLC, Fertitta Hospitality, LLC, and Landry’s Inc. on Chapman’s first claim (FLSA overtime violations); and 
+
+
+
+• 
+
+Summary judgment is granted in favor of Fertitta Entertainment, Inc., Fertitta Entertainment Holdings, LLC, Fertitta Hospitality, LLC, Landry’s Inc., and Golden Nugget, Inc. on Chapman’s second claim (unjust enrichment). 
+
+
+
+
+
+The motion is DENIED in all other respects. This leaves only Chapman’s first claim (FLSA overtime violations) against Golden Nugget, Inc. for further proceedings. IT IS FURTHER ORDERED that this case is referred to a magistrate judge for a mandatory settlement conference. 
+
+. 
+
+
+

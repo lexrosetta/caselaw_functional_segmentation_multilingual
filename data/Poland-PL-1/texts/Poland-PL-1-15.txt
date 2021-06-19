@@ -1,0 +1,65 @@
+m.araszkiewicz@acrlegal.pl
+
+Skuteczność cesji wierzytelności dokonanej przez bank na rzecz funduszu sekurytyzacyjnego w związku ze zmianą przepisów
+
+Wyrok
+Sądu Najwyższego - Izba Cywilna
+z dnia 15 października 2015 r.
+II CSK 848/14
+
+
+Teza
+
+I.
+ Skoro przepisy przewidujące wyjątek od zasady ogólnej wyrażonej w art. 509 KC zostały uchylone, to zasadę tę - zgodnie z regułą bezpośredniego zastosowania ustawy nowej - należy stosować do stosunków prawnych pozostających w toku. Również uwzględniając regułę intertemporalną wyrażoną w art. XLIX § 2 przepisów wprowadzających kodeks cywilny należy przyjąć, że cesja wierzytelności banku na rzecz funduszu sekurytyzacyjnego, jako autonomiczne źródło stosunku zobowiązaniowego w relacji do umowy kredytu bankowego oraz czynności zabezpieczających wierzytelności wynikające z tej umowy, podlega reżimowi prawnemu obowiązującemu w chwili jej dokonania.
+
+ opubl. Legalis.
+
+ II.
+ Okresowe wprowadzenie przez ustawodawcę wymagania zgody dłużnika banku na cesję wierzytelności banku na rzecz funduszu sekurytyzacyjnego nie usprawiedliwia kontynuacji szczególnej ochrony tego dłużnika i nie istnieje potrzeba utrzymania dotychczasowego reżimu prawnego cesji wierzytelności bankowych.
+
+ opubl. MonPrBank. 2016/10/36.
+
+
+	Legalis, MonPrBank 2016 nr 10, str. 36
+Kodeks cywilny,  Art. 509
+
+
+Numer 1460725
+
+
+Skład sądu
+SSN Jan Górowski (przewodniczący)
+ SSN Mirosław Bączyk
+ SSN Grzegorz Misiurek (sprawozdawca)
+
+
+Sentencja
+Sąd Najwyższy po rozpoznaniu na posiedzeniu niejawnym w Izbie Cywilnej w dniu 15 października 2015 r., skargi kasacyjnej powódki od wyroku Sądu Apelacyjnego z dnia 29 kwietnia 2014 r.,
+ 1. oddala skargę kasacyjną i przyznaje radcy prawnemu S. Z. od Skarbu Państwa - Sądu Apelacyjnego kwotę 3.600 (trzy tysiące sześćset) zł, powiększoną o należny podatek od towarów i usług, tytułem kosztów nieopłaconej pomocy prawnej udzielonej powódce z urzędu w postępowaniu kasacyjnym;
+ 2. zasądza od powódki na rzecz pozwanego kwotę 5.400 (pięć tysięcy czterysta) zł tytułem zwrotu kosztów postępowania kasacyjnego.
+
+
+Uzasadnienie
+Powódka E. D. w pozwie przeciwko P. Funduszowi Inwestycyjnemu Zamkniętemu w W. domagała się pozbawienie wykonalności tytułu wykonawczego w postaci nakazu zapłaty wydanego w postępowaniu nakazowym przez Sąd Okręgowy w P. w dniu 4 stycznia 2002 r., sygn. akt (...), uwzgledniającego - skierowane przeciwko niej przez Bank (...) S.A. w W. - żądanie zapłaty kwoty 428.416,71 zł z odsetkami ustawowymi i kosztami postępowania, utrzymanego w mocy prawomocnym wyrokiem Sądu Okręgowego w P. z dnia 17 czerwca 2002 r., sygn. akt (...), zaopatrzonego w klauzulę wykonalności na rzecz strony pozwanej - nabywcy opisanej wyżej wierzytelności.
+ Sąd Okręgowy w K. wyrokiem z dnia 28 sierpnia 2013 r. oddalił powództwo, a Sąd Apelacyjny wyrokiem zaskarżonym skargą kasacyjną oddalił apelację powódki od wyroku Sądu Okręgowego.
+ Sąd Apelacyjny w pełni podzielił - przyjętą za podstawę zaskarżonego wyroku - ocenę zarzutów, na których oparte zostało powództwo. Uznał, że kwestia wypełnienia przez wierzyciela weksli - na podstawie których wydano nakaz zapłaty - w sposób zgodny z porozumieniem wekslowym nie podlega badaniu przy ocenie powództwa opozycyjnego, gdyż dotyczy zdarzeń, sprzed powstania tytułu egzekucyjnego, a więc nie objętych hipotezą art. 840 § 1 pkt 2 KPC. Stwierdził, że powódka nie może skutecznie podważyć nadania tytułowi egzekucyjnemu klauzuli wykonalności na rzecz pozwanej na podstawie wyciągu z jej ksiąg rachunkowych, jako że wyciąg, o którym mowa w art. 194 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz.U. Nr 146, poz. 1546 ze zm.; dalej: „FundInwU”) - co wynika z wyroku Trybunału Konstytucyjnego z dnia 11 lipca 2011 r., P 1/10 (OTK-A 2011, nr 6, poz. 53) - nie ma mocy prawnej dokumentu urzędowego w postępowaniu cywilnym jedynie wobec konsumenta. Powódka poręczyła spłatę kredytu zaciągniętego przez współmałżonka na potrzeby, prowadzonego wspólnie, stuhektarowego gospodarstwa rolnego; nie może zatem - w świetle art. 221 KC - powoływać się na status konsumenta. Wskazał wreszcie, że dokonanie przelewu wierzytelności przez Bank (...) S.A. na rzecz pozwanego Funduszu Sekurytyzacyjnego nie wymagało - dla jego ważności - pisemnej zgody powódki jako poręczyciela wekslowego, gdyż powołany w uzasadnieniu żądania pozwu art. 92c ustawy z dnia 27 sierpnia 1997 r. - Prawo Bankowe (t.j. Dz.U. z 2002 r. Nr 72, poz. 665 ze zm.; dalej: „PrBank”), przewidujący wymaganie uzyskania takiej zgody, nie obowiązywał ani w czasie zawarcia umów poręczenia (w 1999 r.), ani w chwili dokonania przelewu wierzytelności (w dniu 9 czerwca 2009 r.).
+ W skardze kasacyjnej powódka wniosła o uchylenie zaskarżonego wyroku i przekazanie sprawy Sądowi Apelacyjnemu do ponownego rozpoznania.
+ W ramach podstawy naruszenia przepisów postępowania (art. 3983 § 1 pkt 2 KPC) zarzuciła naruszenie:
+ - art. 840 § 1 pkt 1 KPC w związku z art. 365 § 1 i art. 366 KPC przez przyjęcie, że powódka podważa powagę rzeczy osądzonej oraz
+ - art. 840 § 1 pkt 1 KPC w związku z art. 788 § 1 KPC i art. 194 FundInwU przez nadanie wyciągowi z ksiąg rachunkowych funduszu sekurytyzacyjnego mocy dokumentu urzędowego.
+ Podstawę naruszenia prawa materialnego skarżącą wypełniła zarzutami naruszenia:
+ - art. 221 KC w związku z art. 76 Konstytucji RP przez przyjęcie, że powódka w stosunkach z pozwanym i jego poprzednikiem prawnym nie ma przymiotu konsumenta, a także
+ - art. 92c PrBank w brzmieniu obowiązującym w latach 2004-2009 w związku z art. 326 FundInwU przez interpretację tych przepisów wyłącznie na korzyść pozwanego, z pominięciem reguł interpretacyjnych obowiązujących w demokratycznym państwie prawnym i zasadami praw nabytych.
+ Sąd Najwyższy zważył, co następuje:
+ Zgodnie z obowiązującym od dnia 1 lipca 2004 r. art. 326 ust. 1 FundInwU, do przelewu wierzytelności banku na fundusz sekurytyzacyjny, z tytułu umów zawartych przed dniem wejścia w życie ustawy o funduszach inwestycyjnych, należało stosować, z zastrzeżeniem ust. 2-4, przepisy art. 92a - 92c PrBank. Według zaś obowiązującego od tego samego dnia art. 92c PrBank, przelew wierzytelności banku na towarzystwo funduszy inwestycyjnych tworzące fundusz sekurytyzacyjny albo na fundusz sekurytyzacyjny wymagał uzyskania przez bank zgody dłużnika banku, będącego stroną czynności dokonanej z bankiem, jak również zgody dłużnika z tytułu zabezpieczenia wierzytelności banku wynikającej z dokonanej czynności oraz złożenia przez dłużnika oświadczenia o poddaniu się egzekucji na rzecz funduszu sekurytyzacyjnego, który nabędzie wierzytelność, przy czym zgoda i oświadczenie powinny być wyrażone w formie pisemnej pod rygorem nieważności (ust. 1); bank w terminie 14 dni od daty zawarcia umowy był obowiązany powiadomić pisemnie dłużnika o przelewie wierzytelności banku na towarzystwo funduszy inwestycyjnych tworzące fundusz sekurytyzacyjny albo na fundusz sekurytyzacyjny (ust. 2).
+ Możliwość odstępstwa od wymagania uzyskania - stosownie do art. 92c ust. 1 PrBank - zgody dłużnika na przelew wierzytelności banku na fundusz sekurytyzacyjny została zastrzeżona w art. 326 ust. 2 FundInwU na wypadek niedotrzymania przez kredytobiorcę warunków udzielenia kredytu, określonych w umowie.
+ Przytoczone unormowania zostały uchylone z dniem 13 stycznia 2009 r. przez art. 1 pkt 119 i art. 2 ustawy z dnia 4 września 2008 r. o zmianie ustawy o funduszach inwestycyjnych, ustawy - Prawo bankowe oraz ustawy o nadzorze nad rynkiem finansowym (Dz.U. Nr 231, poz. 1546), przy czym w regulacji tej nie zamieszczono przepisów intertemporalnych.
+ Z ustaleń faktycznych przyjętych za podstawę zaskarżonego wyroku wynika, że przelew wierzytelności Bank (...) S.A., stwierdzonych zaskarżonym tytułem wykonawczym, na rzecz pozwanego Funduszu Sekurytyzacyjnego nastąpił w dniu 9 czerwca 2009 r., a więc po uchyleniu art. 326 FundInwU i art. 92c PrBank. Prawidłowo zatem Sąd Apelacyjny uznał, że zgoda powódki na ten przelew nie była potrzebna a jej brak nie ma znaczenia dla oceny ważności tej umowy.
+ W orzecznictwie Sądu Najwyższego zwrócono już uwagę, że nie ma podstaw do uznania, iż okresowo wprowadzone przez ustawodawcę wymaganie uzyskania zgody dłużnika banku na cesję wierzytelności banku na rzecz funduszu sekurytyzacyjnego usprawiedliwia kontynuację szczególnej ochrony tego dłużnika albo że de lege lata istnieje potrzeba utrzymania dotychczasowego reżimu prawnego cesji wierzytelności bankowych (zob. wyrok z dnia 7 listopada 2014 r., IV CSK 131/14). W uzasadnieniu tego zapatrywania, podzielanego przez skład orzekający, podkreślono, że skoro przepisy przewidujące wyjątek od zasady ogólnej wyrażonej w art. 509 KC zostały uchylone, to zasadę tę - zgodnie z regułą bezpośredniego zastosowania ustawy nowej - należy stosować do stosunków prawnych pozostających w toku. Również uwzględniając regułę intertemporalną wyrażoną w art. XLIX § 2 przepisów wprowadzających kodeks cywilny należy przyjąć, że cesja wierzytelności banku na rzecz funduszu sekurytyzacyjnego, jako autonomiczne źródło stosunku zobowiązaniowego w relacji do umowy kredytu bankowego oraz czynności zabezpieczających wierzytelności wynikające z tej umowy, podlega reżimowi prawnemu obowiązującemu w chwili jej dokonania.
+ Skarżąca, podważając ocenę Sądu Apelacyjnego, wskazującą na brak przesłanek zastosowania w sprawie art. 326 FundInwU i art. 92c PrBank, podniosła zarzut ich błędnej wykładni. Zarzut ten, z uwagi na przyjętą przez Sąd Apelacyjny koncepcję rozstrzygnięcia, należało uznać za oczywiście chybiony.
+ Jedynie na marginesie wypada zauważyć, że gdyby nawet przyjąć, iż wymienione przepisy powinny zostać uwzględnione przy ocenie zasadności powództwa, to stanowisko co do braku podstaw do uzależnienia przelewu wierzytelności Banku (...) S.A. na pozwany Fundusz Sekurytyzacyjny od zgody powódki należy uznać za trafne. Skoro kredytobiorca - na co wskazano również w skardze kasacyjnej - nie spłacał zaciągniętego kredytu, a więc nie dotrzymał określonych w umowie warunków udzielenia kredytu, to konieczność uzyskania zgody powódki na przelew wierzytelności została wyłączona z mocy art. 326 ust. 2 FundInwU (zob. wyrok Sądu Najwyższego z dnia 29 września 2010 r., V CSK 61/10, OSNC-ZD 2011, nr 1, poz. 20).
+ Nieusprawiedliwiony okazał się również zarzut naruszenia art. 221 KC w związku z art. 76 Konstytucji. Skarżąca, formułując ten zarzut, nie wskazała, jak o wymaga tego art. 3983 § 1 pkt 2 KPC, czy przepisy te - w jej ocenie - zostały naruszone przez błędną wykładnię, czy niewłaściwe zastosowanie. Sąd Najwyższy, pozostając związany granicami podstaw skargi kasacyjnej (art. 398 § 1 KPC), nie jest uprawniony do snucia domysłów co do rzeczywistych intencji strony skarżącej.
+ U podstaw zaskarżonego wyroku legła również ocena, że powódka, poręczając weksle zabezpieczające spłatę kredytu zaciągniętego przez jej męża na potrzeby prowadzonego wspólnie gospodarstwa rolnego, nie działała jako konsument w rozumieniu art. 221 KC. Skoro ocena ta nie została skutecznie podważona, to za bezzasadny trzeba uznać zarzut naruszenia art. 840 § 1 w związku z art. 788 § 1 KPC i art. 194 FundInwU, oparty na odmiennym założeniu, tj. przekonaniu, iż powódce należy - we wskazanych okolicznościach - przypisać przymiot konsumenta.
+ Zamierzonego skutku nie mógł wreszcie wywrzeć zarzut naruszenia art. 840 § 1 w związku z art. 365 § 1 i art. 366 KPC. Uszło uwadze skarżącej, że zasadniczą przesłanką uznania przez Sąd Apelacyjny bezskuteczności powołania się w uzasadnieniu żądania pozwu na wypełnienie weksli zabezpieczających spłatę kredytu niezgodnie z porozumieniem wekslowym było stwierdzenie, że zarzut ten odnosił się do zdarzeń zaistniałych przed powstaniem tytułu egzekucyjnego, a więc nie objętych hipotezą art. 840 § 1 pkt 2 KPC.
+ Z tych względów na podstawie art. 39814 KPC orzeczono, jak w sentencji. Rozstrzygając o kosztach postepowania kasacyjnego Sąd Najwyższy uznał, że nie zachodzą szczególne okoliczności, które uzasadniałyby - stosownie do art. 102 KPC - odstąpienie od obciążenia nimi skarżącej.

@@ -1,0 +1,1374 @@
+
+This case comes before the Court on Plaintiffs’ Motion for Partial 
+
+Summary Judgment [211], Defendants’ Motion for Summary Judgment [218], 
+
+and Defendants’ Objection to Plaintiffs’ Late-Filed Consent Forms [271].  After 
+
+considering the record, the Court enters the following Order. 
+
+ 
+
+The Court bifurcated discovery in this action, with the first phase focused 
+
+on whether the entertainers at Onyx are independent contractors or employees. 
+
+(Dkt. [59]).  Therefore, the pending Motions for Summary Judgment [211, 218] 
+
+AO 72A (Rev.8/82) 
+
+require the Court to determine whether Plaintiffs should have been classified 
+
+and treated as employees rather than independent contractors. 
+
+
+Each of the named Plaintiffs in this action has performed at Club Onyx 
+
+(“Onyx” or the “Club”) as a dancer/entertainer. (Dkt. [211-2] at ¶ 31). 
+
+Defendant Jack Galardi is the CEO and controlling shareholder of the Corporate 
+
+Defendants–Pony Tail, Inc. (“Pony Tail”), Galardi South Enterprises, Inc. 
+
+1 The background section is taken from Plaintiffs’ Statement of Undisputed 
+
+Facts (“PSF”) [211-2] and Defendants’ Statement of Undisputed Material Facts 
+
+(“DSF”) [219].  In citing to any of Plaintiffs’ or Defendants’ undisputed facts, the 
+
+Court has considered any objection to such fact set forth in Plaintiffs’ Response to 
+
+Defendants’ Statement of Facts (“PRDF”) [249-1] or in Defendants’ Response to 
+
+Plaintiffs’ Statement of Undisputed Facts (“DRPF”) [255]. 
+
+The Court has also considered Defendants’ Objections to Declarations filed by 
+
+Plaintiffs [252].  Where Defendants have raised a valid objection to one of the 
+
+declarations, the Court has not relied upon the objectionable portion of the declaration 
+
+in ruling upon the Motions for Summary Judgment [211, 218]. Further, the Court’s 
+
+reliance on any of the declarations is limited, as less than 20 of Plaintiffs’ 226 material 
+
+facts solely cite one or more of these declarations.  Defendants do note that “the fact 
+
+that the Declarations are virtually identical to one another, make Defendants wonder 
+
+whether the declarations were read by the Declarants prior to signing them.”  (Dkt. 
+
+[252]at 1-2). Interestingly, Defendants filed 16 affidavits (Dkt. [253-1 through 253­16]), which other than having blanks to be filled in regarding the entertainer’s name, her start date at Onyx, and the names of any other nightclubs at which she has danced, are exactly identical. 
+
+Finally, Defendants have filed an Objection to Affidavit of Anna P. Prakash [283], which was filed in support of Plaintiffs’ Response [275] to Defendants’ Objections to Declarations [252].  The Court did not rely upon Ms. Prakash’s three paragraph affidavit or the accompanying exhibit in considering Defendants’ Objections to Declarations [252] and therefore Defendants’ Objection [283] thereto is moot. 
+
+2 
+
+AO 72A (Rev.8/82) 
+
+(“GSE”), and Galardi South Enterprises Consulting, Inc. (“GSEC”).  (PSF at ¶¶ 13-14). Defendant Michael Kap is the Chief Operating Officer of GSEC.  (Id. at ¶ 18). The parties disagree as to which Defendant(s) employs the entertainers if the entertainers are found to be employees, but the resolution of that question is immaterial to the determinations the Court needs to make in resolving the pending Motions for Summary Judgment [211, 218]. 
+
+
+
+Plaintiffs refer to Onyx as a strip club, Defendants refer to it as a 
+
+nightclub, regardless of this distinction in nomenclature, Onyx is a club in 
+
+Atlanta, Georgia that features “nude, female exotic dancers.”  (DSF at ¶¶ 1, 2, 
+
+4; PSF at ¶¶ 1, 2). The Club has one main stage where entertainers perform, as 
+
+well as two satellite stages. (PSF at ¶ 214). The main stage is visible from 
+
+almost every location in the club, and the satellite stages are located in the areas 
+
+in which the main stage is not visible.  (Id. at ¶ 215). Onyx features full-service 
+
+bars, televisions, pool tables, VIP rooms, and dining options.  (DSF at ¶ 5). 
+
+The Club’s management team includes a night manager, relief manager, 
+
+and a general manager.  (PSF at ¶ 24; DRPF at ¶ 24).  Rick Hayes, general 
+
+manager of Onyx, has worked as a manager at the Club since 2006.  (PSF at ¶ 
+
+26). Since October 2008, Cliff Adams has served as the night manager at 
+
+3 
+
+AO 72A (Rev.8/82) 
+
+Onyx, and for more than a year before that worked at the Club in other capacities. (Deposition of Clifford I. Adams (“Adams Depo.”), Dkt. [234] at 6:19-7:4, 7:5-8). The day-to-day operating decisions at Onyx are made by the Club’s management team, unless Defendant Kap conveys specific operating instructions from Defendant Galardi.  (PSF at ¶ 35). Management’s duties also encompass ensuring entertainers comply with the Club’s rules and policies as well as the laws of the City. (Id. at ¶ 34). 
+
+Assisting the Club’s management team with day-to-day operations, 
+
+particularly in regards to the entertainers, are house moms, “who assist[] 
+
+[entertainers] in the dressing room and on the floor with their various needs.” 
+
+(Id. at ¶ 37; DSF at ¶ 45). House moms, hired by the Club’s management, assist 
+
+the entertainers in getting prepared for their shift, signing them in, getting them 
+
+on the list for the stage set, and maintaining the dressing room.  (PSF at ¶ 36; 
+
+Deposition of Sabrina Swinger (“Swinger Depo.”) at 13:7-15).  Sabrina 
+
+Swinger has been a house mom at the Club since 2007 and considers herself 
+
+and the other house moms to be the entertainers direct managers.  (PSF at ¶¶ 41, 
+
+42). 
+
+4 
+
+AO 72A (Rev.8/82) 
+
+
+Onyx does not recruit entertainers. (DSF at ¶ 7). Rather, entertainers 
+
+interested in working at Onyx must come to the Club and apply in person.  (Id. 
+
+at ¶ 9). Defendants prefer dancers with prior exotic dancing experience, which 
+
+several of its hires have had, but there is no requirement for past experience or 
+
+formal dance training, and the Club does not provide any dance training.  (Id. at 
+
+¶¶ 10, 11; PSF at ¶¶ 186, 187). Applicants typically undergo a “body check” 
+
+and audition by dancing to two to three songs. (DSF at ¶ 12). The “body 
+
+check” is an examination of an applicant’s physical appearance, including 
+
+looking for stretch marks and tattoos.  (PSF at ¶ 190). The individual(s) before 
+
+which the applicant auditions evaluates how she moves on stage, her rhythm, 
+
+her perceived experience dancing naked, and her eye contact.  (Id. at ¶ 194). 
+
+Entertainers are evaluated by club management on the quality of their dancing, 
+
+experience in the industry, appearance, and communication skills.  (Id. at ¶ 195; 
+
+DSF at ¶ 13). The Club does not perform reference checks to verify previous 
+
+exotic dancing experience. (DSF at ¶ 21). 
+
+If the audition is successful, an entertainer must obtain an individual 
+
+adult entertainment license specific to Onyx from the City of Atlanta (the 
+
+“City”), before she may perform at the Club.  (Id. at ¶ 15). The entertainer is 
+
+5 
+
+AO 72A (Rev.8/82) 
+
+responsible for paying the $350 per year cost of the license. (Id. at 21). Some 
+
+entertainers perform at Onyx for more than a year, but Defendants contend that 
+
+many have relatively short-lived relationships with the Club.2 (DRPF at ¶ 197). 
+
+
+When an entertainer returns to Onyx after obtaining a current license 
+
+from the City, she is given a “Dancer Packet,” which contains forms to review, 
+
+complete and return to Club management.  (DSF at ¶ 19). The packet includes, 
+
+in part: 
+
+(1) Defendant’s Club Rules and Conduct for Contractors and Employees; (2) conduct in VIP Rooms; (3) Dancer Information Sheet; (4) Random Drug Test Consent Form; (5) Independent Contractor Agreement; (6) a document entitled “Wage Acknowledgment Regarding ‘Tip Credit’” (a document explaining nature of independent contractor relationship between Club Onyx and Dancers and explaining how Dancers would be compensated if they were classified as employees); [and] (7) Rules Recognition and Consent; . . . 
+
+2 The following individuals worked at the Club for an extended period: Plaintiff 
+
+Wells, sometime in 2006 through August 2009 (Deposition of Naturee Wells (“Wells 
+
+Depo.”) at 15:5-17:11); Plaintiff Sales, mid to late 2008 until August 2009 
+
+(Deposition of Summer Sales (“Sales Depo.”) 28:5-29:2); Plaintiff Clincy, June 2007 
+
+to Fall 2010 (PSF at ¶ 200); Plaintiff Leaphart, June 2008 to present (Id. at 201); 
+
+Plaintiff Pough, May 2008 to present (Id. at 202); Plaintiff Parker, latter half of 2008 
+
+to August 2009 (Id. at 203); Plaintiff Jordan, in 2006 and again from late 2007 to 
+
+December 2009 (Jordan Depo. 25:23-34:1); Opt-in Plaintiff Judith Bloedoorn, 
+
+October 2007 to July 2009 (PSF at ¶ 205); Opt-in Plaintiff Amber Jefferson, 
+
+approximately two years (Id. at 206); Opt-in Plaintiff British Martin, approximately 
+
+one year on two different occasions (Id. at 207); and Opt-in Plaintiff Torey Hughes, 
+
+approximately one year (Id. at 209). 
+
+6 
+
+AO 72A (Rev.8/82) 
+
+(Id. at ¶ 20). Also, upon an entertainer’s return with a valid license, the “house mom generally goes over the amounts entertainers are required to pay the disc jockey (“DJ”) and house mom with the entertainer and walks through the club’s general expectations.” (Id. at ¶ 122 (emphasis added)3). Onyx management has also asked entertainers to attend separate meetings to discuss Onyx’s rules and policies, changes in City law, promotional events and the Club’s decoration and furnishings. (Id. at ¶ 123). 
+
+The “Rules of Conduct for Contractors and Employees” (“RCCE”) is 
+
+drafted and distributed by GSEC. (PSF at ¶ 118; Deposition of Dennis 
+
+Williams, Feb. 3, 2010 (“Williams Depo.”), Ex. 9 (“RCCE”)).  The rules are not 
+
+always enforced as written, but Club management has discretion to enforce the 
+
+rules as they deem fit and fine entertainers for violations.  (Id. at ¶ 119; Adams 
+
+Depo. 34:9-20). House moms are generally the individuals that document 
+
+incidents that occur during their shift. (PSF at ¶ 132). One method sometimes 
+
+utilized by management to track rules infractions, and as a method of 
+
+disciplining entertainers, is a written notice of corrective action.  (Id. at ¶¶ 128, 
+
+129). Anyone can notify the house mom of conduct by an entertainer that 
+
+3 Defendants do not object to the veracity of Plaintiffs’ Fact #122, but do object 
+
+to other facts set forth in PSF on the ground that payment of fees to the DJ and house 
+
+mom are not mandated, but suggested. 
+
+7 
+
+AO 72A (Rev.8/82) 
+
+warrants corrective action, and the house mom may complete a written notice. (Id. at ¶ 133). Onyx management has discretion to impose fines in connection with a notice of corrective action, which are then generally collected by the house mom on the night they are imposed.  (Id. at ¶¶ 130, 136, 137). In addition to fines for violating written rules, Club management may also fine entertainers for bringing in outside food, breaking the law, and arguing or fighting with customers.  (Id. at ¶ 138). Management also has the authority to suspend entertainers for violating the rules, and Adams did so on three to four occasions. (Id. at ¶ 29; Adams Depo. at 60:2-6). 
+
+The first RCCE states: All entertainers will have expected performance days that they will 
+
+be needed to work. If you are not able to perform for legitimate reasons, you are asked to call and speak only to your House-mom or Manager. You will be subject to fines or other appropriate discipline for no call/no shows. 
+
+(RCCE at ¶ 1). Entertainers sign up for shifts for the following week on a schedule posted in the management office, and management has completed notices of corrective action for entertainers who have failed to do so.  (DSF at ¶ 49; PSF at ¶ 50). The parties dispute whether entertainers set their own schedules, select which days and nights they want to work, have discretion over 
+
+8 
+
+AO 72A (Rev.8/82) 
+
+how many days to work per week, and when they will arrive and leave for a shift. (DSF at ¶¶ 40, 48, 49; PRDF at ¶¶ 40, 48, 49).  Swinger testified that “we need to know what days [entertainers] are available to come in.  And we require or we would like for [entertainers] to make a four-day schedule.”  (Swinger Depo. at 34:20-23). She also testified that the minimum number of days is three for some entertainers and four for others.  (Id. at 33:18-19). Hayes testified that a four-day schedule is requested, but not enforced. (Deposition of James R. Hayes (“Hayes Depo”) at 25:13-15).  However, Adams testified that entertainers are “required to work a minimum four days a week unless they have school. [In which case, w]e allow them to work three days.”  (Adams Depo. at 92:13-18). 
+
+Whether or not there is a concrete rule as to the minimum number of 
+
+nights that an entertainer must work each week, Pony Tail has admitted that 
+
+some entertainers have been fined or otherwise disciplined for not working 
+
+scheduled nights without calling ahead. (Dkt. [212-12] at 77; PRDF at ¶ 49). 
+
+Plaintiff Sales testified that an entertainer could manipulate the schedule to 
+
+work any four days she wanted–an assertion supported by the testimony of 
+
+Plaintiff Clincy–but she was still required to work four days per week and 
+
+would be fined if she did not. (Sales Depo. at 43:7-44:17; Deposition of 
+
+9 
+
+AO 72A (Rev.8/82) 
+
+Karenza Clincy (“Clincy Depo.”) at 45:17-21). Members of the Club’s management testified that entertainers have been fined if they did not show up for a scheduled night without calling ahead or worked at another strip club when they were scheduled to work at Onyx. (Adams Depo. at 35:20-36:3; Hayes Depo. at 86:11-15). Additionally, management sometimes requires proof that an entertainer had obligations preventing her from working a scheduled shift. (PSF at ¶ 55). 
+
+Also, there are some days over which entertainers do not appear to have 
+
+discretion in regards to their schedule. Swinger testified that entertainers are 
+
+asked to work a certain number of slow days–days on which the Club typically 
+
+has lower attendance–and that management could determine whether an 
+
+entertainer had met that requirement by referencing the sign-in sheet, and could 
+
+impose a fine if an entertainer failed to meet the requirement.  (Swinger Depo. 
+
+at 73:2-11, 116:14-16). Adams also testified that Onyx required each dancer to 
+
+work two slow days each month. (Adams Depo. at 36:16-37:22).  Also, there 
+
+may be less flexibility in scheduling for new entertainers.  (See PSF at ¶ 64 
+
+(Clincy required to work 30 days on mid-shift before being able to work night-
+
+shift); Wells Depo. at 26:6-17 (required to work four day-shifts per week for a 
+
+month when first hired)).  
+
+10 
+
+AO 72A (Rev.8/82) 
+
+
+When an entertainer arrives at the Club, she checks in with the house mom, who records her arrival time, and puts her name on the DJ list–a list by which entertainers are called by the DJ to perform on stage.  (PSF at ¶ 70). Entertainers are urged to get dressed and on the floor within a reasonable amount of time and have been fined for not doing so.  (Id. at ¶ 78). The house mom maintains the dressing room and ensures that the entertainers have what they need to prepare for their shift. (Swinger Depo. at 13:7-15). At the direction of management, the house mom has also talked to entertainers about changing their appearance–hair, makeup, etc.–to comply with management’s desired appearance. (Id. at 52:12-53:2). Management has also directly instructed entertainers to make changes in their appearance and has taken disciplinary action for failure to comply.  (See PSF at ¶ 84 (instructing entertainers to lose weight and written notice of corrective action for failure to do so), Hayes Depo. at 82:22-83:12 (Plaintiff Hayes told by management to lose weight and was limited to day shift until she did so; also told to change hairstyle and wear makeup to cover scar), PSF at ¶ 82 (Plaintiff Parker asked to change hairstyle); see also RCCE #14 (“All entertainers must have hair done, nails and toenails painted, make-up on, costumes clean and in good condition 
+
+11 
+
+AO 72A (Rev.8/82) 
+
+and shoes (only high heels or stiletto platforms) clean and neat prior to the start of each shift. . . .”) and RCCE #15 (“Clean hygiene overall expected, Management will evaluate your appearance.  Do not take it personally.”)). 
+
+ 
+
+Once entertainers have signed in with the house mom, paid their bar fees, and gotten dressed, they go out on the main floor of the club to perform personal dances for customers or dance on stage.  (PSF at ¶ 86). At 11 p.m. the stage rotation begins. (Id. at ¶ 87). During the rotation, entertainers dance on stage in groups of as many as five, depending on how many entertainers are working that night. (Id. at ¶ 89). Customers throw money on stage or hand money directly to entertainers while they are dancing.  (Id. at ¶ 92). The general rule at the Club is that an entertainer on stage takes her top off when she receives $10, and takes off her bottom when she receives another $10. (Id. at ¶ 93). If there are five entertainers on stage and $100 or more has been thrown on stage, the DJ generally announces for all entertainers on stage to remove all their clothing. The Club’s floormen gather up the money thrown on stage and give it to the entertainers who danced in the stage set to divide evenly.  (Id. at ¶ 99). Dancers generally divide the tips evenly, which may be because it is the industry standard, or may be because it is mandated by Onyx.  (DSF at ¶ 65; 
+
+12 
+
+AO 72A (Rev.8/82) 
+
+Hayes Depo. 58:18-59:9; Swinger Depo. 53:15-21 (entertainers required to split tips evenly)). Disputes about how much stage money belongs to each entertainer are investigated and resolved by Onyx management.  (PSF at ¶ 101; Hayes Depo. at 59:10-60:17). 
+
+The parties dispute whether an entertainer may ignore a call to perform 
+
+on stage. Adams testified that one of his responsibilities as a manager is to 
+
+ensure that entertainers are on stage when the DJ calls them.  (Adams Depo. at 
+
+9:9-19). It appears that dancers may refuse to dance on stage when called, but 
+
+may be fined for failing to do so, or for arriving on stage too late, or leaving too 
+
+early. (DSF at ¶¶ 54, 55; PSF at ¶¶ 54, 55, 140; see also Deposition of 
+
+Kimberly Jordan (Jordan Depo.”) at 87:19-21 (fined for getting to stage too 
+
+late)). 
+
+Aside from dancing on stage, entertainers may also earn tips from the 
+
+Club’s customers by performing table-side dances and dances in the Club’s VIP 
+
+Rooms.  (DSF at ¶ 42). The parties disagree over whether entertainers may set 
+
+their own price for table-side dances. Defendants maintain that the amount a 
+
+customer pays for a table-side dance is ultimately decided by the individual 
+
+entertainer and the patron. (DSF at ¶ 30).  However, Defendants also state that 
+
+“the price of table or personal dances is set by industry custom in the relevant 
+
+13 
+
+AO 72A (Rev.8/82) 
+
+market.  In the Atlanta market, the industry-wide rate for such dances is $10.00.” (Dkt. [212-12] at 91).  One of the Rules set forth in the RCCE states that “[h]ouse dances are $10.00 ($20.00 in V.I.P. rooms).”  (RCCE at ¶ 7). Further, Adams asserts in his declaration that entertainers do not have the ability to negotiate the price of table-side dances. (Dkt. [227] at ¶ 5 (“Dancers who perform at Club Onyx remain free to . . . negotiate the rates for their entertainment services (with the exception of table dances, which dancers in the industry customarily charge $10.00 each) . . .”).  If a customer refuses to pay an entertainer for a table-side dance, the entertainer is supposed to inform a floorman and if management decides there is validity to the entertainer’s claim they may pursue the customer for payment.  (PSF at ¶ 159; see also RCCE at ¶ 7 (“Please get your money up front or else YOU risk not being paid!” (emphasis in original)). 
+
+Onyx does not pay any wages to the entertainers that perform there. 
+
+(DSF at ¶ 26). Rather, entertainers receive all payment directly from customers. 
+
+Onyx provides customers with one-dollar bills or other small bills that they can 
+
+use to tip the dancers. (Williams Depo. at 61:21-62:14).  Onyx has run out of 
+
+one-dollar bills to exchange with customers before.  (PSF at ¶ 154). There is 
+
+an ATM inside Onyx that customers can use to obtain cash.  (Id. at ¶155). 
+
+14 
+
+AO 72A (Rev.8/82) 
+
+When it runs out of money it is the responsibility of Onyx’s management to call the vendor to restock it. (Id.). 
+
+
+While the Club does not make payments to the entertainers, there are fees that the entertainers pay to Onyx and or its employees.  One fee that entertainers are required to pay each night in order to work is the “house fee” or “bar fee.” (Id. at ¶ 71). Entertainers are expected to pay this fee when they report to the house mom upon arriving at the Club for a shift.4 (Id.). This fee schedule was established by Onyx and varies based upon the day of the week and time of arrival, with the fee increasing the later in the night a dancer arrives at the Club. (Id. at ¶ 72; DSF at ¶ 38). Regardless of time of arrival, the fee on Monday is $29, and on Wednesday is $45. (PSF at ¶ 72). On other nights the fee is: $45 if the entertainer arrives between 8 and 9 p.m.; $75 if the entertainer arrives between 9 and 10 p.m.; and $100 if the entertainer arrives between 10 and 11 
+
+p.m. (Id.). Management has sent home entertainers that arrived to work after 11 p.m. (Id. at ¶ 66; see also Id. at ¶ 67 (Plaintiff Clincy denied permission to arrive after 11 p.m.); Id. at ¶ 68 (Plaintiffs Leaphart and Wells told on some 
+
+4 The “bar fees” collected by Defendants is transmitted to LVA Management, a company controlled by Defendant Galardi.  (Williams Depo–Feb. 3 at 83:24-84:25). 
+
+15 
+
+AO 72A (Rev.8/82) 
+
+occasions on which they arrived after 11 p.m that they could not dance that night); Id. at ¶ 69 (Plaintiff Parker sent home for arriving too late in the evening)). 
+
+Entertainers also tip the DJ after each shift–either $20 or 10% of their 
+
+gross receipts, whichever is greater. (DSF at ¶ 44).  The amount paid to the DJ 
+
+by each entertainer is tracked on a “DJ Fee Sheet.” (Williams Depo. at 95:6-11). 
+
+The payment was established by Onyx management, but the parties dispute 
+
+whether it is required, as opposed to a payment that is voluntarily made at the 
+
+end of each shift. (PSF at ¶¶ 109, 110; DRPF at ¶ 109). However, Club 
+
+management has the discretion to fine entertainers if they believe an entertainer 
+
+has not paid the DJ the full payment, and Swinger testified that entertainers get 
+
+fined for not tipping enough to the DJ. (PSF at ¶ 111; Swinger Depo. at 116:7­
+
+9). Defendant Pony Tail admitted “having fined entertainers when an 
+
+entertainer is suspected by Club Onyx Management of providing false 
+
+information by under-reporting the amount of tips and dance fees she generated 
+
+in a given night, and then under-reports the amount she is supposed to tip the 
+
+DJ.” (Dkt. [212-12] at 78; see also Adams Depo. at 81:11-12 (“If an entertainer 
+
+under reports, there is a fine because it is a form of theft.”).  The DJ is required 
+
+to give 40% of what he is paid by entertainers to the Club’s management.  (PSF 
+
+16 
+
+AO 72A (Rev.8/82) 
+
+at ¶ 112). Half of that amount is split amongst Onyx’s management and half is forwarded to the corporate office. (Id.). 
+
+Entertainers also tip the house mom at the end of a shift.  (DSF at ¶ 45). 
+
+Whether this payment is required is in dispute, but the customary amount is $7 
+
+for each entertainer. (PSF at ¶ 107; DRPF at ¶ 107). Adams testified that the 
+
+entertainers have to tip the house mom a minimum of $7.  (Adams Depo. at 
+
+80:11-15). Swinger testified that entertainers will not be disciplined for not 
+
+tipping the house mom. (Swinger Depo. at 113:2-18). The house mom keeps 
+
+the entirety of the amount she collects from the entertainers.  (PSF at ¶ 108). As 
+
+a result of these payments to the Club, DJ, and house mom, on some shifts the 
+
+dancers pay more than they earned performing, suffering a net loss for the 
+
+night. (DSF at ¶ 69). Defendants assert that entertainers “pay Club Onyx to 
+
+perform at one of Atlanta’s hottest nightclubs, providing them [] both the forum 
+
+and the opportunity to earn large sums of money performing for the Club’s 
+
+customers.” (DSF at ¶ 37). 
+
+
+Before leaving for the night, entertainers are required to go through a check-out process, which includes taking a breathalyzer test to assess blood alcohol content, tipping the DJ, and tipping the house mom. (PSF at ¶ 105; 
+
+17 
+
+AO 72A (Rev.8/82) 
+
+Adams Depo. at 80:3-10; Hayes Depo. at 75:18-76:11).  After taking the breathalyzer test, an entertainer receives an exit ticket from the house mom, which she then takes to the DJ. (Hayes Depo. at 75:18-76:11).  The DJ signs off on the ticket after he has been paid and the entertainer signs a DJ fee sheet indicating how much she paid, and then the entertainer takes the ticket to the floor manager.  (Id.; Williams Depo. at 95:6-11).  Once this process has been completed and the parking lot has been cleared of customers, the entertainers are allowed to leave in small groups.  (PSF at ¶¶ 115, 116). This measure is for the safety and security of the entertainers.  (DRPF at ¶ 116). Entertainers may be fined for leaving early without checking out and management has taken corrective action against entertainers who do not complete the check-out process. (PSF at ¶ 103; Hayes Depo. at 53:7-16). 
+
+
+Decisions about marketing and promotions for the Club are made 
+
+collectively with input from Williams, Kap, and GSE and GSEC’s director of 
+
+marketing, Jack Pepper.  (PSF at ¶ 143). Pony Tail also contracts with other 
+
+corporate entities to market Onyx.  (Id. at ¶ 145). Entertainers are not consulted 
+
+in making decisions as to how to market the Club.  (Id. at ¶ 151). Dancers 
+
+occasionally assist Onyx in promoting the club by handing out flyers.  (DSF at 
+
+18 
+
+AO 72A (Rev.8/82) 
+
+¶ 60). Additionally, some dancers may promote themselves on nights they are working through the use of Twitter. (DSF at ¶ 59; PRDF at ¶ 59). The Club has denied requests from entertainers to promote the Club by using the Club’s van or on the radio. (PSF at ¶ 170). 
+
+The parties dispute whether the presence of nude entertainers is a 
+
+significant driver of the Club’s business. Defendants argue that Onyx is 
+
+popular because the Club satisfies a niche for a hip-hop urban club for African 
+
+Americans.  (Williams Depo. at 59:10-21).  The Club regularly features 
+
+appearances by rap and R&B artists, and is frequented by sports and 
+
+entertainment personalities.  (DSF at ¶ 3). The Club also sells liquor by the 
+
+bottle, which Defendants assert is distinctive. (Id. at ¶ 6). Defendants assert 
+
+that many of the Club’s customers do not frequent Onyx for the nude 
+
+entertainment, but rather “come to Club Onyx simply to drink, dance, listen to 
+
+music, watch sporting events, shoot pool, and have a good time in a hip, urban 
+
+nightclub setting.” (DSF at ¶ 365; see also Swinger Depo. at 46:19-22 
+
+5 Defendants’ citations for this assertion do not support the statement that 
+
+customers come to Onyx to dance, listen to music, watch sporting events, or shoot 
+
+pool. Rather Hayes testified: “There are many customers that don’t [receive] dance[s 
+
+from] entertainers []or tip them.  They’re there to drink and have a good time in a 
+
+nightclub setting.” (Hayes Depo. at 69:14-16). 
+
+19 
+
+AO 72A (Rev.8/82) 
+
+(implying that half of the Club’s customers are not there because of the entertainers–“we do have customers come for the girls.  It is half and half.”). 
+
+In contrast to Defendants’ assertions, Adams testified that he has never 
+
+fired an entertainer because “[g]irls make the club busy.  As far as if you don’t 
+
+have enough girls in the building, your customers won’t stay, you know.” 
+
+(Adams Depo. at 60:9-12).  Similarly, Swinger testified that the Club “would 
+
+like for [the entertainers] to get on the floor within an hour so [the Club] can 
+
+keep some of the customers [] that are there to see the girls.”  (Swinger Depo. at 
+
+21:23-22:2). Onyx management has called in additional entertainers to work on 
+
+nights where there are many customers and only a few entertainers at the Club. 
+
+(PSF at ¶ 219). Also, the Club has advertised in XCITEMENT, a magazine 
+
+geared toward the adult entertainment industry.  (Id. at ¶ 224). Further, in 
+
+advertising the Club, Pepper chose to put scantily-clad women on a Club Onyx 
+
+billboard because “[i]t represents beauty, kind of like Crest Toothpaste, nice 
+
+smiles, inviting.”  (Deposition of Jack Pepper (“Pepper Depo.”) at 26:15-19). 
+
+He also believed that it conveyed to the public that Club Onyx is an adult 
+
+entertainment nightclub.  (Id. at 26:20-23). 
+
+Defendants also maintain that “Club Onyx does not profit from the dancers; the dancers themselves do.” (Id. at ¶ 67). Plaintiffs contest this, 
+
+20 
+
+AO 72A (Rev.8/82) 
+
+arguing that “Defendants profit from entertainers’ work at Onyx, for example, through the receipt of fines and fees, amounts entertainers tip the DJ, and the presence of customers on whom Onyx can impose door fees and drink minimums.”6 (PRDF at ¶ 67). While the general ledgers produced in this action do not reflect the amount of money paid to Defendants from the amount collected by the DJ, or the amount paid to the Club through fines, it appears that the largest portion of the Club’s revenue comes from the sale of alcohol to customers.  (Accounting Ledger, Ex. 21, Affidavit of Anna P. Prakash, Dkt. [212-21]). 
+
+
+Defendant Pony Tail leases the premises where Onyx is located and has 
+
+admitted to owning and controlling the Club.  (Id. at ¶¶ 172, 173). Club 
+
+management and Defendants control: decisions regarding the advertising and 
+
+marketing of the Club; selection and pricing of food and drinks; music 
+
+selection; club layout, amenities, and lighting; hiring of wait staff and security; 
+
+the amount of the cover charge; and the overall atmosphere of the Club.  (PSF 
+
+at ¶¶ 164, 147-150; DRPF at ¶ 164). Defendants contend that Onyx “exercises 
+
+6 To enter the Club, customers must pay a door fee of between $10 and $40, and there is a two drink minimum for customers.  (PSF at ¶¶ 156, 160). 
+
+21 
+
+AO 72A (Rev.8/82) 
+
+only a slight degree of control over its dancers,” and that they remain free to make decisions concerning, among other things, their appearance, their schedule, and their work outside of the Club. (Dkt. [227] at ¶ 5).  
+
+The named Plaintiffs have not made any capital investments in the 
+
+facilities, advertising, maintenance, sound system, lights, food, beverage, other 
+
+inventory, or staffing efforts undertaken on behalf of the Club and were not 
+
+consulted regarding the same.  (PSF at ¶ 171).  Defendants, citing the 
+
+depositions of Plaintiffs Clincy, Leaphart, and Parker, maintain that “[d]ancers 
+
+spend large sums of money selecting and purchasing their own costumes, shoes, 
+
+cosmetics, hair and nails.”  (DSF at ¶ 47).  Clincy testified that she spent 
+
+approximately: $1200-$2300 a month having her hair styled; $3,000-$4,000 a 
+
+year on costumes; $2,000-$3,000 a year on props; $4,000-$5,000 a year on 
+
+shoes; $7,000 a year on makeup; and $2,000-$3,000 a year on nails.  (Clincy 
+
+Depo. at 89:24-90:18, 107:25-109:22). Plaintiff Leaphart typically spent 
+
+approximately: $65-$200 per costume on one or more costumes each month; 
+
+$80-$200 for shoes occasionally; $175 per month on personal grooming; and 
+
+$100-$500 per month on hair.  (Leaphart Depo at 84:6-88:12).  Parker testified 
+
+that she paid approximately $40-$150 per costume.  (Parker Depo. at 163:4-13). 
+
+Plaintiffs maintain that these expenditure are not large in comparison to the 
+
+22 
+
+AO 72A (Rev.8/82) 
+
+expenses of operating the Club. (PRDF at ¶ 47). From 2007 to 2009, the Club’s expenses for equipment, furniture and fixtures, leasehold improvements, advertising, property and liability insurance, rent, set design, building maintenance and repairs, alcohol and other drinks, licenses and permits, and music averaged approximately $900,000 per year.  (Accounting Ledger, Ex. 21, Affidavit of Anna P. Prakash, Dkt. [212-21]). 
+
+
+
+The Court conditionally certified the FLSA collective action in this case, 
+
+approving a 60-day notice period for individuals to opt in by filing consent 
+
+forms with the Court.  (Dkt. [147]).  Notice was initially mailed on August 30, 
+
+2010, resulting in an October 29, 2010 deadline for opt-in plaintiffs. Plaintiffs’ 
+
+Counsel received two consent forms after this date.  One from Najila Harris on 
+
+November 3, 2010 (Dkt. [247]), and another from Brezzy Hurst on November 
+
+9, 2010 (Dkt. [267]).  
+
+Defendants object to the late-filed consent forms and argue that Harris 
+
+and Hurst should not be included in the collective.  In light of the circumstances 
+
+that delayed both Harris and Hurst in receiving notice of this action and their 
+
+submission of the consent forms within 10 days of the deadline, as well as 
+
+23 
+
+AO 72A (Rev.8/82) 
+
+interests of judicial economy and in recognition of the remedial purposes of the FLSA, the Court will allow the inclusion of both Harris and Hurst in the collective. Defendants’ Objection [271] is OVERRULED. 
+
+
+Federal Rule of Civil Procedure 56 requires that summary judgment be granted “if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.” Fed. R. Civ. P. 56(a). The moving party “bears ‘the initial responsibility of informing the . . . court of the basis for its motion, and identifying those portions of the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, which it believes demonstrate the absence of a genuine issue of material fact.’ ” Hickson Corp. v. N. Crossarm Co., 357 F.3d 1256, 1260 (11th Cir. 2004) (internal quotation marks omitted) (quoting Celotex Corp. v. Catrett, 477 U.S. 317, 323 (1986)). Where the moving party makes such a showing, the burden shifts to the non-movant, who must go beyond the pleadings and present affirmative evidence to show that a genuine issue of material fact does exist. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 257 (1986). 
+
+24 
+
+AO 72A (Rev.8/82) 
+
+The applicable substantive law identifies which facts are material. Id. at 
+
+248. A fact is not material if a dispute over that fact will not affect the outcome of the suit under the governing law. Id. An issue is genuine when the evidence is such that a reasonable jury could return a verdict for the non-moving party. Id. at 249–50. In resolving a motion for summary judgment, the court must view all evidence and draw all reasonable inferences in the light most favorable to the non-moving party. Patton v. Triad Guar. Ins. Corp., 277 F.3d 1294, 1296 (11th Cir. 2002). But, the court is bound only to draw those inferences which are reasonable. “Where the record taken as a whole could not lead a rational trier of fact to find for the non-moving party, there is no genuine issue for trial.” Allen v. Tyson Foods, Inc., 121 F.3d 642, 646 (11th Cir. 1997) (quoting Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 587 (1986)). “If the evidence is merely colorable, or is not significantly probative, summary judgment may be granted.” Anderson, 477 U.S. at 249–50 (internal citations omitted); see also Matsushita, 475 U.S. at 586 (explaining that once the moving party has met its burden under Rule 56, the nonmoving party “must do more than simply show there is some metaphysical doubt as to the material facts”). 
+
+25 
+
+AO 72A (Rev.8/82) 
+
+ The requirements of the Fair Labor Standards Act (“FLSA” or “Act”), 29 
+
+U.S.C. §§ 201-219, apply only to employees.  Freund v. Hi-Tech Satellite, Inc., 185 Fed. Appx. 782, 782 (11th Cir. 2006). The Act defines an “employee” as “any individual employed by an employer.”  29 U.S.C. § 203(e)(1). It in turn defines “to employ” as “to suffer or permit to work,” 29 U.S.C. § 203(g), and an “employer” as “any person acting . . . in the interest of an employer in relation to an employee,” 29 U.S.C. § 203(d).  Given the circuitous nature of these definitions the critical question is what does it mean “to suffer or permit to work.” The answer to this question is not found in the Act, because it fails to define the term.  Norton v. Worthen Van Serv., Inc., 839 F.2d 653, 654 (10th Cir. 1988). Plaintiffs assert that “Courts determine whether an employer/employee relationship exists by examining the ‘economic realities’ of the relationship between the putative employee and putative employer.” (Dkt. [211-1] at 4, citing Perdomo v. Ask 4 Realty & Mgmt., Inc., 298 Fed. Appx. 820, 821 (11th Cir. 2008); Freund, 185 Fed. Appx. at 782). Defendants do not dispute that this is part of the analysis, but rather argue that there is an antecedent question that must be answered before examining the economic reality of the relationship. (Dkt. [218-1] at 15).  For the reasons discussed 
+
+26 
+
+AO 72A (Rev.8/82) 
+
+below, the Court rejects Defendants’ argument for the application of an antecedent question. The Court then examines the economic realities of the relationship between the entertainers and Onyx. 
+
+i. There is no antecedent question to the economic realities test. Defendants argue that at a minimum each Plaintiff must establish that she is a putative “employee.”  (Dkt. [218-1] at 15, citing Benshoff v. City of Va. Beach, 180 F.3d 136, 140 (4th Cir. 1999)). Defendants argue that while the statutory definition of “employee” is broad, it is not intended to cover individuals who without any agreement for compensation work for their advantage on another’s premises. (Id. at 16). Defendants argue that certain courts have “incorrectly allow[ed] exotic dancer plaintiffs to avoid their statutory burden of proving they fall within an FLSA ‘employee’ category, [by proceeding] immediately into an analysis of the facts under the ‘economic realities’ test, that applies only to putative ‘employees.’” (Id., citing Benshoff, 180 F.3d at 140). However, the Supreme Court has noted that “[t]he test of employment under the Act is one of ‘economic reality.’”  Tony & Susan Alamo 
+
+Found. v. Sec’y of Labor, 471 U.S. 290, 301 (1985) (citing Goldberg v. Whitaker House Coop., Inc., 366 U.S. 28, 33 (1961)). Additionally, Defendants 
+
+27 
+
+AO 72A (Rev.8/82) 
+
+have failed to cite any factually analogous binding case law that makes such an antecedent determination a precursor to the application of the economic realities test. 
+
+The Supreme Court has stated that “[t]he definition ‘suffer or permit to 
+
+work’ was obviously not intended to stamp all persons as employees who, 
+
+without any express or implied compensation agreement, might work for their 
+
+own advantage on the premises of another.”  Walling v. Portland Terminal Co., 
+
+330 U.S. 148, 152 (1947). The Court in Walling acknowledged the breadth of 
+
+the definitions of “employ” and “employee,” but noted that “broad as they are, 
+
+they cannot be interpreted so as to make a person whose work serves only his 
+
+own interest an employee of another person who gives him aid and instruction.” 
+
+Id. At issue in Walling was whether a training course provided by the 
+
+defendant railroads to prospective yard brakemen without pay or allowance 
+
+constituted employment such that the trainees should have received 
+
+compensation. Id. at 149-150. Under the program, the trainee 
+
+first learns the routine activities by observation, and is then gradually permitted to do actual work under close scrutiny. His activities do not displace any of the regular employees, who do most of the work themselves, and must stand immediately by to supervise whatever the trainees do.  The applicant's work does not expedite the company business, but may, and sometimes does, actually impede and retard it. 
+
+28 
+
+AO 72A (Rev.8/82) 
+
+Id.  If the trainee successfully completes the seven to eight day course, his name is added to a list of individuals qualified to be hired by the railroad as a brakeman when the need arises.  Id. The Court, “[a]ccepting the unchallenged findings here that the railroads receive no ‘immediate advantage’ from any work done by the trainees, [held] that they [were] not employees within the Act’s meaning.” Id. at 153. 
+
+Even assuming that the analysis applied by the Supreme Court in Walling 
+
+to determine whether the trainees were employees is separate and distinct from 
+
+an analysis of the economic reality of the relationship or represents an 
+
+antecedent question to an analysis of economic reality, that analysis applied to 
+
+the facts of this action would result in a finding that the entertainers are 
+
+employees of Onyx.  The Court’s findings included: that the trainee’s work 
+
+“serves only his own interest;” that “[t]he applicant's work does not expedite the 
+
+company business, but may, and sometimes does, actually impede and retard 
+
+it;” and that “the railroads receive no ‘immediate advantage’ from any work 
+
+done by the trainees.” Id. at 149-150, 153. The relationship between the 
+
+railroads and trainees in Walling does not resemble the relationship between 
+
+entertainers and Onyx. Defendants attempt to argue that they receive no benefit 
+
+29 
+
+AO 72A (Rev.8/82) 
+
+from the presence of entertainers, stating that “Club Onyx does not profit from the dancers; the dancers themselves do.” (Id. at ¶ 67). No reasonable juror examining the record as a whole would believe that Defendants’ statement matches reality. 
+
+First, there is no dispute that when dancers arrive at the Club they are 
+
+required to pay a “house fee.” This house fee, collected by the Club, is then 
+
+transmitted to LVA Management, a company controlled by Defendant Galardi. 
+
+(Williams Depo. at 83:24-84:25).  In 2008 and 2009, the amount paid to LVA 
+
+management averaged approximately $94,000 each year.  (Accounting Ledger, 
+
+Ex. 21, Affidavit of Anna P. Prakash, Dkt. [212-21]).  Second, at the end of the 
+
+night entertainers pay a portion of the money they received that night to the DJ, 
+
+who in turn submits 40% of that money to Club management, who in turn 
+
+submits 50% of the funds received from the DJ directly to either one of the 
+
+corporate Defendants or another entity controlled by Defendant Galardi.7 
+
+Third, even if a minority of the Club’s customers attend because of the presence 
+
+of nude entertainment, those customers represent revenue to the Club through 
+
+7 If entertainers give the DJ 10% of their proceeds for the night, half of 40% of 
+
+which is then transferred to Defendants, Defendants directly receive 2% of the money 
+
+earned by entertainers each night. Even if this were the only benefit Defendants’ 
+
+received as a result of having entertainers at the Club, it constitutes an immediate 
+
+benefit to Defendants, which was absent in Walling. 
+
+30 
+
+AO 72A (Rev.8/82) 
+
+door fees and alcohol sales.8  To believe Defendants’ statement that “Club Onyx does not profit from the dancers,” would require a juror to believe that the Club’s profit would be the same regardless of whether the Club had any nude entertainment.9  The record presents no logical path to such a conclusion. 
+
+Defendants’ reliance on two Eleventh Circuit cases is also unavailing. 
+
+The first, Villarreal v. Woodham, 113 F.3d 202 (11th Cir. 1997), addresses 
+
+whether a pretrial detainee who was required to perform translation services for 
+
+other inmates, medical personnel, and court personnel is an employee under the 
+
+FLSA. The Eleventh Circuit noted that “[i]n general, work constitutes 
+
+employment when there is an expectation of in-kind benefits in exchange for 
+
+services.” Id. at 205 (citing Tony & Susan Alamo Found., 471 U.S. at 301, 
+
+303-04). However, in determining whether the pretrial detainee was an 
+
+employee, the Court examined the economic reality of the work relationship. 
+
+Id. at 205-07. The Court found that the pretrial detainee was removed from the 
+
+national economy and therefore was in a custodial relationship, not an 
+
+8 Given the testimony and actions of the Club’s management, the testimony of 
+
+one of its house moms, and its marketing efforts, see supra at 19-20, no reasonable 
+
+juror would conclude that the presence of nude entertainment does not represent an 
+
+immediate benefit to the Club. 
+
+9 A reasonable juror might then wonder why the Club even has nude entertainment, the presence of which subjects it to additional local ordinances. 
+
+31 
+
+AO 72A (Rev.8/82) 
+
+employment relationship.  Id. at 207. The relationship between Onyx and the entertainers that work there does not resemble that of a pretrial detainee. Villareal provides no support for finding that the entertainers at Onyx are not employees. 
+
+The second Eleventh Circuit case upon which Defendants rely is Patel v. 
+
+Wargo, 803 F.2d 632 (11th Cir. 1986). In that case, the Court faced the 
+
+question of whether an individual who does work for an entity affiliated with 
+
+his employer is also an employee of the affiliated entity.  Id. at 634-35. The 
+
+plaintiff worked primarily for his employer and “only occasionally did he 
+
+perform tasks for [the affiliated entity].” Id. at 635. The Court found that “[t]he 
+
+few acts he did for [the affiliated entity], he did . . . as a volunteer, as an 
+
+accommodation to his own employer, and not truly as an employee” of the 
+
+affiliated entity.” Id. The Court held that “[t]he evidence does not demonstrate 
+
+that [the plaintiff] contemplated compensation for his acts, . . . nor does it 
+
+demonstrate as a matter of economic reality that [the plaintiff] was dependent 
+
+upon [the affiliated entity].”  Id. (citations omitted).  In the present action the 
+
+entertainers did not perform at Onyx without the expectation of compensation. 
+
+While they did not receive compensation directly from Onyx, their 
+
+compensation from customers was dependent upon the Club’s operation.  The 
+
+32 
+
+AO 72A (Rev.8/82) 
+
+facts of the present action do not resemble those of Patel where an employee of one company did a few discrete tasks for a related company, and the case does not support the conclusion that the entertainers in the present action are not employees of Onyx. 
+
+Defendants reliance on O’Connor v. Davis, 126 F.3d 112 (2d Cir. 1997), 
+
+and Graves v. Womens Prof’l Rodeo Ass’n, 907 F.2d 71 (8th Cir. 1990), is also 
+
+unavailing. First, neither case arises under the FLSA.10 See O’Connor, 126 
+
+F.3d at 113 (asserting sexual harassment claims brought pursuant to Title VII of 
+
+the Civil Rights Act of 1964, 42 U.S.C. §§ 2000e-2000e-17 (“Title VII”) and 
+
+Title IX of the Education Amendments of 1972, 20 U.S.C. §§ 1681-1688); 
+
+Graves, 907 F.2d at 71 (asserting gender discrimination claim pursuant to Title 
+
+VII). Second, the facts of neither case are analogous.  The claims of the 
+
+plaintiff in O’Connor arise out of an internship at which her college placed her 
+
+10 The Second Circuit in O’Connor stated “that when Congress uses the term 
+
+‘employee’ without defining it with precision, courts should presume that Congress 
+
+had in mind “the conventional master-servant relationship as understood by the 
+
+common-law agency doctrine.” (126 F.3d at 115).  “But in determining who are 
+
+“employees” under the [FLSA], common law employee categories or employer-
+
+employee classifications under other statutes are not of controlling significance.” 
+
+Walling, 330 U.S. at 150 (citation omitted); see also Antenor v. D&S Farms, 88 F.3d 
+
+925, 929 (11th Cir. 1996) (citation omitted) (“In defining ‘employment’ under [the 
+
+FLSA], Congress expressly rejected the common-law definition of employment, 
+
+which is based on limiting concepts of control and supervision.”). 
+
+33 
+
+AO 72A (Rev.8/82) 
+
+as a requirement for her major.  126 F.3d at 113. In Graves, a male plaintiff 
+
+brought suit against the Women’s Professional Rodeo Association (“WPRA”) 
+
+for denying him membership on the basis of his gender, claiming that the 
+
+WPRA was an employer, and its members were its employees. 907 F.2d at 71. 
+
+Third, while both courts state that the “economic realities” test should be 
+
+applied “only in situations that plausibly approximate an employment 
+
+relationship” and found that no employer-employee relationship existed by 
+
+relying, in part, upon the absence of compensation to the plaintiffs, neither 
+
+court’s analysis supports Defendants’ contention that the entertainers are not 
+
+employees.  O’Connor, 126 F.3d at 115-16; Graves, 907 F.2d at 74. 
+
+The Second Circuit stated: 
+
+We believe that the preliminary question of remuneration is dispositive in this case. It is uncontested that O'Connor received from Rockland no salary or other wages, and no employee benefits such as health insurance, vacation, or sick pay, nor was she promised any such compensation. This case thus differs from Haavistola v. Community Fire Co., in which the Fourth Circuit considered whether a volunteer member of a fire company was an employee for Title VII purposes where “[o]n the one hand, [plaintiff] did not receive direct compensation as a member of the Fire Company, but, on the other hand, she did not affiliate with the company without reward entirely.” 6 F.3d 211, 221 (4th Cir.1993). The court then noted that the plaintiff received, through her volunteer position, a state-funded disability pension, survivors' benefits for dependents, scholarships for dependents upon death or disability, group life insurance, and several other benefits. See id. 
+
+34 
+
+AO 72A (Rev.8/82) 
+
+The court concluded that the district court granted summary judgment improvidently, given that a factfinder should determine whether “the benefits represent indirect but significant remuneration ... or inconsequential incidents of an otherwise gratuitous relationship.” Id. at 222. 
+
+Because the absence of either direct or indirect economic 
+
+remuneration or the promise thereof is undisputed in this case, we 
+
+agree with the district court that O'Connor was not a Rockland 
+
+employee within the meaning of Title VII and thus that her 
+
+discrimination claim under that statute must fail. 
+
+O’Connor, 126 F.3d at 116 (emphasis added and footnote omitted).  Defendants argue that Plaintiffs receive no direct compensation from them, but that is not the dispositive question in O’Connor. The Second Circuit noted that there was an absence of “direct or indirect economic remuneration.”  Id. The entertainers that work at Onyx have no expectation of compensation from Defendants, but they do expect to be indirectly compensated by the Club’s customers.  Like the plaintiff in Haavistola, entertainers “[do] not affiliate with the [Club] without reward entirely.” 6 F.3d at 221. Defendants acknowledge as much, asserting that entertainers “pay Club Onyx to perform at one of Atlanta’s hottest nightclubs, providing them [] both the forum and the opportunity to earn large sums of money performing for the Club’s customers.” (DSF at ¶ 37; see also DSF at ¶ 70 (“Plaintiffs each earn a considerable amount of money performing at Club Onyx.”)). Even assuming that the Second Circuit’s analysis, of whether 
+
+35 
+
+AO 72A (Rev.8/82) 
+
+an expectation of remuneration is present prior to examining the economic reality of the relationship in the Title VII context, is applicable to the FLSA, the entertainers’ expectation of indirect compensation satisfies this test. 
+
+The analysis of the Eighth Circuit in Graves is similarly unhelpful to 
+
+Defendants. The Eighth Circuit noted that “the absence of any compensation 
+
+flowing to WPRA members by reason of their membership, together with the 
+
+absence of any duty of service owed by members to WPRA or anyone else, 
+
+suffices to exclude WPRA from being an ‘employer’ of its members under Title 
+
+VII.” (907 F.2d at 74). As noted above, Plaintiffs are compensated by reason 
+
+of their work as entertainers and in order to receive this compensation they 
+
+provide services to the Club and its customers. 
+
+The Court does not find that any of the aforementioned cases require a 
+
+determination of whether an individual is an “employee,” before, or separate 
+
+and apart from, examining the economic reality of the work relationship under 
+
+the FLSA. Even assuming that the Court must determine whether an individual 
+
+is an “employee” under the FLSA prior to applying the “economic realities” 
+
+test, none of the cases cited by Defendants support a conclusion that the 
+
+entertainers are not employees of Onyx. 
+
+36 
+
+AO 72A (Rev.8/82) 
+
+
+Whether an entity is an employer within the meaning of the FLSA is a legal question, with subsidiary findings considered issues of fact.  Patel, 803 F.2d at 634, 634 n.1; Villarreal, 113 F.3d at 205. “The test of employment under the Act is one of ‘economic reality.’” Tony and Susan Alamo Found., 471 
+
+U.S. at 301 (citation omitted).  Several factors guide the inquiry into whether an individual is an employee or independent contractor, including: 
+
+(1)
+
+ the nature and degree of the alleged employer's control as to the manner in which the work is to be performed; 
+
+
+
+(2)
+
+ the alleged employee's opportunity for profit or loss depending upon his managerial skill; 
+
+
+
+(3)
+
+ the alleged employee's investment in equipment or materials required for his task, or his employment of workers; 
+
+
+
+(4)
+
+ whether the service rendered requires a special skill; 
+
+
+
+(5)
+
+ the degree of permanency and duration of the working relationship; 
+
+
+
+
+
+(6) the extent to which the service rendered is an integral part of the alleged employer's business. Freund, 185 Fed. Appx. at 783 (citing Sec’y of Labor v. Lauritzen, 835 F.2d 
+
+1529, 1535 (7th Cir. 1987)). “No one factor is determinative, and each factor should be given weight according to how much light it sheds on the nature of 
+
+37 
+
+AO 72A (Rev.8/82) 
+
+the economic dependence of the putative employee on the employer.” Perdomo, 298 Fed. Appx. at 821 (citing Antenor, 88 F.3d at 928-33); see also Usery v. Pilgrim Equip. Co., 527 F.2d 1308, 1311 (5th Cir.1976) (“No one of these considerations can become the final determinant, nor can the collective answers to all of the inquiries produce a resolution which submerges consideration of the dominant factor-economic dependence.”); Benshoff, 180 F.3d at 141 (“‘[t]he employer-employee relationship does not lend itself to rigid per se definitions, but depends upon the circumstances of the whole activity.’” (quoting Reich v. ConAgra, Inc., 987 F.2d 1357, 1361 (8th Cir. 1993)). 
+
+Before embarking on an examination of the factors set forth above as 
+
+applicable to the facts of this action, the Court notes that several courts have 
+
+addressed the question of whether a nude dancer is an employee under the 
+
+FLSA, and “[w]ithout exception, these courts have found an employment 
+
+relationship and required the nightclub to pay its dancers a minimum wage.” 
+
+Harrell v. Diamond A Entm’t, Inc., 992 F. Supp. 1343, 1347-48 (M.D. Fla. 
+
+1997) (citing e.g. Reich v. Circle C. Invs., Inc., 998 F.2d 324 (5th Cir. 1993) 
+
+(finding dancers are employees under the FLSA); Reich v. Priba Corp., 890 F. 
+
+Supp. 586 (N.D. Tex. 1995) (same); Martin v. Priba Corp., 1992 WL 486911 
+
+(N.D. Tex. Nov. 6, 1992) (same)); see also Morse v. Mer Corp., No. 1:08-cv­
+
+38 
+
+AO 72A (Rev.8/82) 
+
+1389-WLT-JMS, 2010 WL 2346334 (S.D. Ind. June 4, 2010) (same); Jeffcoat 
+
+v. Alaska Dep’t of Labor, 732 P.2d 1073 (Alaska 1987) (finding entertainers to 
+
+be employees under state labor laws based on FLSA); Doe v. Cin-Lan, Inc., No. 
+
+08-cv-12719, 2008 WL 4960170 (E.D. Mich. Nov. 20, 2008) (granting 
+
+entertainer’s motion for preliminary injunction, holding that entertainer was 
+
+substantially likely to succeed on claim that she is an employee under FLSA).  
+
+
+Plaintiffs contend that 
+
+Defendants’ control over entertainers’ work starts from the moment an entertainer is hired, carries through nearly every aspect of work until employment is terminated, and dictates the most meaningful aspects of an entertainers’ work such as how entertainers should look, exactly when and how entertainers will remove their clothing, when and how they will dance, and how much they will charge for their services. 
+
+(Dkt. [211-1] at 7).  Defendants respond that: 
+
+The evidence in this case shows that Plaintiffs, not Club Onyx, control the most meaningful parts of their dancing careers: when and how they dance, for whom they perform, their appearance, their income, manner of dance, and when they come-and-go from the Club. The few conditions identified by Plaintiffs as beyond their control are also beyond Club Onyx’s complete control, and are mandated not by the Club itself, but instead by State law and municipal ordinance. 
+
+39 
+
+AO 72A (Rev.8/82) 
+
+(Dkt. [257] at 7).  Defendants note that the State of Georgia and the City: control what types of activities can and cannot occur in the Club; control which permits and licenses dancers and club owners must have; control what hours the Club can legally be open for business; and impose a duty to reasonably monitor entertainers, such that they do not drive away from the Club intoxicated.  (Id. at 7-10). Defendants also argue that entertainers “are not required to adhere to written rules of conduct, and Club Onyx does not enforce its advisory rules by disciplining its dancers.” (Id. at 11). Defendants’ arguments are unavailing. 
+
+“An employer cannot saddle a worker with the status of independent 
+
+contractor, thereby relieving itself of its duties under the F.L.S.A., by granting 
+
+him some legal powers where the economic reality is that the worker is not and 
+
+never has been independently in the business which the employer would have 
+
+him operate.”  Mednick v. Albert Enters., Inc., 508 F.2d 297, 303 (5th Cir. 
+
+1975). As another court in this Circuit examining the same issue that is now 
+
+before the Court noted: 
+
+The mere fact that [the club] has delegated a measure of discretion to its dancers does not necessarily mean that its dancers are elevated to the status of independent contractors. Indeed, one could say that the nature of a dancer's job requires some measure of 
+
+40 
+
+AO 72A (Rev.8/82) 
+
+discretion and flexibility.11  The question this Court must resolve is whether a . . . dancer’s freedom to work when she wants and for whomever she wants reflects economic independence, or whether these freedoms merely mask the economic reality of dependence. 
+
+Harrell, 992 F. Supp. at 1349. 
+
+Upon an entertainer’s return to the Club with a valid license an 
+
+11 Footnote in original: For example, in 303 West 42nd St. Enters., Inc., 916 F.Supp. 349, the Southern District of New York found that certain "fantasy booth" performers were employees (rather than independent contractors), notwithstanding the freedom a performer had to strike her own deals with her customers: 
+
+Once inside the booth, it may seem, upon first glance, as if fantasy booth performers control the work by negotiating prices and performing in private. However, it must be remembered that Show World's product is adult entertainment. The only way to put forth the product is by the use of the human figure. The presence of the individual is essential for the distribution of the product. 
+
+One of the distinguishing characteristics of the services that booth performers provide is that the particular fantasy is narrowly tailored to the individual customer's needs and preferences. In this respect it may be likened to the services provided by a home health care provider who tailors her routine to the needs of the patient. Similarly, it may be likened to the stage dancer at an adult club who structures her routine so as to please the specific audience. Despite the individuality exercised in her performance of these services, for the purposes of employment taxes, both the health care provider and the stage dancer are employees. 
+
+Id. at 362 (citations omitted). Harrell, 992 F. Supp. at 1349 n.8. 
+
+41 
+
+AO 72A (Rev.8/82) 
+
+entertainer is given a packet, which includes among other things, Defendants’ rules of conduct. (See RCCE). The rules cover, among other things: scheduling; conduct regarding dancing on stage; dress and appearance; and the cost of table-side and VIP dances. (Id.). Defendants maintain that “Club Onyx does not enforce any rules except only those which bear directly on the dancers’ safety and compliance with the law.”  (Dkt. [257] at 13).  It appears from the record that while the rules may not be enforced consistently or uniformly, the Club’s management has the authority to fine or otherwise discipline entertainers for not complying with the rules, and has done so.  (See e.g., Adams Depo. at 34:9-11 (testifying that during the time he has been a manager, he has always had the authority to fine entertainers); Dkt. [212-12 at 77 (“Defendant Pony Tail, Inc. admits only that it has fined entertainers who do not call or show for their self-selected shifts . . . .”); Adams Depo. at 92:13-18 (stating entertainers are “required to work a minimum of four days a week unless they have school . . . .”); Hayes Depo. at 86:11-15 (stating that management has fined entertainer for working at another club if that work was during time they were scheduled to work at Onyx); Swinger Depo. 53:15-21 (entertainers required to split stage tips evenly); Adams Depo. at 9:9-19 (stating one of manager’s responsibilities is to ensure that entertainers are on stage when called); Adams Declaration, Dkt. 
+
+42 
+
+AO 72A (Rev.8/82) 
+
+[227]at ¶ 5 (stating entertainers do not have ability to negotiate price of table-side dance); Dkt. [212-12] at 78 (Defendant Pony Tail admitting “having fined entertainers when an entertainer is suspected by Club Onyx Management of . . . under-report[ing]the amount she is supposed to tip the DJ”); Adams Depo. at 81:11-12 (stating that an entertainer that under reports the amount of money made each shift, by which the amount paid to the DJ is calculated, is committing theft); Adams Depo at 60:2-6 (stating he has suspended entertainers on three or four occasions)). There is some evidence to the contrary, but not such that a reasonable juror examining the record as a whole, particularly the testimony of the Club’s management, could conclude that the Club does not, or has not, enforced its rules. Further, rules as to the cost of dances, scheduling shifts, and tipping the DJ, among others, have nothing to do with state laws or local ordinances. 
+
+The Court finds that based upon the totality of the record Defendants exercise a significant amount of control over the entertainers, and that this factor ways in favor of finding an employer-employee relationship.  
+
+
+Defendants argue that Plaintiffs’ opportunity to profit is largely a product of their own initiative, resulting from when and how often they choose to work, 
+
+43 
+
+AO 72A (Rev.8/82) 
+
+their conduct at work, and is “directly related to advertising, marketing, and promotion over which they have considerable control.”  (Dkt. [259] at 23-24). The Court is not aware of any decision in which a court found that an exotic dancer has significant control over her opportunity for profit or loss relative to the club at which she works. Several courts, however, have rejected this argument. See e.g., Circle C, 998 F.2d at 328 (noting that defendant “has a significant role in drawing customers to its nightclubs. The district court recognized that Circle C is responsible for advertisement, location, business hours, maintenance of facilities, aesthetics, and inventory of beverages and food.”); Morse, 2010 WL 2346334, at *4 (“The Defendant also emphasizes that the Plaintiffs were allowed to advertise and market themselves by using MySpace, Facebook, and simple word of mouth . . . This may be true, but the simple fact remains that, like the club in Circle C, the Defendant is primarily responsible for drawing customers into the club” (citation omitted)); Priba Corp., 890 F. Supp. at 593 (“entertainers do not control the key determinants of profit and loss of a successful enterprise . . . . the club establishes the hours of operation, sets the atmosphere, and coordinates advertising . . . . Any profit to the entertainers is more analogous to earned wages than a return for risk on 
+
+44 
+
+AO 72A (Rev.8/82) 
+
+capital investment.”).12  Similarly, in the present action, Defendants are 
+
+primarily responsible for attracting customers to the Club, as decisions about 
+
+marketing and promotions for the Club, its location, its maintenance, aesthetics, 
+
+and atmosphere, and food and alcohol availability and pricing are made by 
+
+Defendants and/or their employees, not the entertainers.  (PSF at ¶¶ 143, 147­
+
+151, 164). 
+
+Defendants also argue that because there are nights on which dancers 
+
+suffer an effective net loss as a result of fees paid to the Club, entertainers 
+
+cannot be considered employees.  (Dkt. [259] at 25).  However, as other courts 
+
+have found, the risk of loss is much greater for the Club than it is for an 
+
+entertainer. See Morse, 2010 WL 2346334, at *4 (“a Plaintiff’s only 
+
+‘opportunity for loss comes in the form of a ‘House Fee’ that she is required to 
+
+12 See also Harrell, 992 F. Supp. at 1350, 1352: Defendant argues that Plaintiff's income was solely and completely dependant upon her initiative. Plaintiff performed “rounds” to obtain tips and to solicit table dances (an activity called “hustling” in the industry). . . . The “hustling” argument has been universally rejected by every court to consider it. . . . That a dancer may increase her earnings by increased “hustling” matters little. As is the case with the zealous waiter at a fancy, four star restaurant, a dancer's stake, her take and the control she exercises over each of these are limited by the bounds of good service; ultimately, it is the restaurant that takes the risks and reaps the returns. 
+
+45 
+
+AO 72A (Rev.8/82) 
+
+pay for each shift . . . . ‘All other potential risks of loss, be they food and beverage related or liability-related, are borne solely by [the club].’”); Harrell, 992 F. Supp. at 1352 (“A dancer at [the club] risks little more than a daily “tip out” fee, the cost of her costumes, and her time . . . . ultimately, it is the [club] that takes the risks and reaps the returns.”); Priba Corp., 890 F. Supp. at 593 (“The extent of the risk that entertainers are confronted with is the loss of the “tip out” fee paid each shift. [The club], not the entertainers, shoulders the greatest risk of loss.”). 
+
+The second factor weighs in favor of finding an employer-employee relationship between the Club and Plaintiffs. 
+
+
+Defendants argue that their investment in exotic dancing pales in comparison to that of Plaintiffs, as “the Club’s only direct investment in their exotic dancing work are the stage and poles on which they dance . . . . The remaining investments, for facilities, maintenance, repairs, liquor licenses, and food would exist whether or not Plaintiffs performed at Club Onyx,” [and therefore,] “should not be considered in the Court’s analysis of the parties’ relevant degree of investment.”  (Dkt. [259] at 26).  Again, Defendants do not cite a single case in which a court has accepted this line of reasoning, but there 
+
+46 
+
+AO 72A (Rev.8/82) 
+
+are several that have rejected it. See e.g., Circle C, 998 F.2d at 324 (“The fact that the district court did not make specific findings regarding Circle C's investment does not detract from our analysis given the obvious significant investment Circle C has in operating a nightclub. The record does not completely identify Circle C's investment, but it does reveal that Circle C owns the liquor license, owns the inventory of beverages and refreshments, leases fixtures for the nightclub (e.g., the stage and lights), owns sound equipment and music, maintains and renovates the facilities, and advertises extensively.”); Morse, 2010 WL 2346334, at *5 (“The instant case is markedly similar to Circle C. The Plaintiffs ‘do not make any capital investment in Defendant’s facilities, advertising, maintenance, security, staff, sound system and lights, food, beverage, and other inventory.’ . . . The Plaintiffs’ only investment is in their costumes and their general appearance (i.e. hair, makeup, and nails). . . . Thus, as in Circle C, this factor tips in favor of employee status.”);  Harrell, 992 
+
+F. Supp. at 1350 (“Defendant fails to mention, however, any of the undoubtedly material expenditures (for advertising, facilities, maintenance, etc.) made by [the club]. The courts which have addressed this factor have universally concluded that a dancer’s investment is minor when compared to the club’s investment.” (citations omitted); Priba Corp., 890 F. Supp. at 593 (“Entertainers 
+
+47 
+
+AO 72A (Rev.8/82) 
+
+at the club make no investment in its facilities or atmosphere aside from choosing what clothing to wear when performing. All investment and risk capital is provided by defendants. Indeed, but for defendants' provision of the lavish work environment, the entertainers at the club likely would earn nothing.”). 
+
+From 2007-2009, the cost of equipment, fixtures, leasehold improvement, 
+
+advertising, property and liability insurance, rent, set design, maintenance and 
+
+repair, alcohol and other drinks, licenses, and music for the Club was on 
+
+average approximately $900,000 a year.  (Accounting Ledger, Ex. 21, Affidavit 
+
+of Anna P. Prakash, Dkt. [212-21]).  In comparison, if one takes the high end of 
+
+Plaintiff Clincy’s estimates for her annual spending related to hair, costumes, 
+
+props, shoes, makeup, and nails, the total is around $50,000.13 While this is a 
+
+significant amount, it is does not exceed the Club’s investments as Defendants 
+
+assert.14  Further, it appears that Clincy’s spending may be an outlier.  In 
+
+13 The Court used the following figures in calculating the total: hair 
+
+($2,300/month); costumes ($4,000/year); props ($3,000/year); shoes ($5,000/year); 
+
+makeup ($7,000/year); and nails ($3,000/year). (Clincy Depo. at 89:24-90:18, 107:25­
+
+109:22). 
+
+14 See Harrell v. Diamond A Entm't, Inc., 992 F. Supp. 1343, 1347-48 (M.D. 
+
+Fla. 1997) (“Defendant would have us believe that a dancer . . . could hang out her 
+
+own shingle, pay nothing in overhead,-no advertising, no facilities, no bouncers,-and 
+
+draw in a constant stream of paying customers.”) 
+
+48 
+
+AO 72A (Rev.8/82) 
+
+comparison, the other two individuals that Defendants rely upon for the assertion that entertainers invest large sums of money spend considerably less. It appears that Plaintiff Leaphart spends, on the high end, approximately $14,000 per year on her costumes, shoes, personal grooming, and hair.15 The portion of Plaintiff Parker’s testimony upon which Defendants rely indicates only that she spends approximately $40-$150 per costume.  The Court finds that Plaintiffs’ investment in exotic dancing is small in comparison to Defendants’ investment in the Club, and this factor weighs in favor of finding an employer-employee relationship.  (See supra at 21-22). 
+
+
+Defendants argue that “[t]he evidence in this case affirmatively shows that Club Onyx dancers, including Plaintiffs, are skilled, and come to perform at Club Onyx with prior experience performing exotic dancing at other clubs.” (Dkt. [259] at 29 (citations omitted)).  Plaintiffs contend that the primary requirement for being a dancer at Onyx “is appearance, not skill.”  (Dkt. [211-1] at 19). Defendants prefer dancers with prior exotic dancing experience, but there is no requirement for past experience or formal training.  (See supra at 4­
+
+15 The Court used the following figures, erring on the side of greater spending, 
+
+in calculating the total: costumes ($400/month); shoes ($1,000/year); personal 
+
+grooming ($175/month); hair ($500/month).  (Leaphart Depo. at 84:6-88:12). 
+
+49 
+
+AO 72A (Rev.8/82) 
+
+5). Nonetheless, in addition to a “body check,” applicants do audition by dancing to two or three songs. (DSF at ¶ 12). The applicant is evaluated on how she moves on stage, her rhythm, her perceived experience dancing naked and eye contact. (PSF at ¶ 194). The court in Harrell found that “Defendant’s argument regarding skill is equally uncompelling . . . There were no dance seminars, no instruction booklets, and no choreography whatsoever.”  992 F. Supp. at 1351. Similarly, the Club did not provide Plaintiffs with dance instruction or choreography. While Defendants may have preferred prior exotic dancing experience, it hired several entertainers that lacked such experience. (See Dkt. [253-1, 253-2, 253-3, 253-4, 253-6, 253-7, 253-8] at ¶ 11 (indicating that entertainers did not have prior dancing experience at other clubs); see also Circle C, 998 F.2d at 328 (finding that many of the club’s dancers had never before worked as a nude entertainer and that dancers “do not need long training or highly developed skills”)). While applicants had to dance as part of the audition process, the same was true in Morse, in which the court found that exotic dancing did not require special skills. 2010 WL 2346334 at *1, *4. 
+
+Examining the record as a whole, the Court finds that special skills are not required to perform as an entertainer at Onyx, and this factor weighs in 
+
+50 
+
+AO 72A (Rev.8/82) 
+
+favor of finding an employer-employee relationship between the Club and Plaintiffs. 
+
+
+Other courts have found, and Plaintiffs have previously asserted, that nude entertainers tend to be transient or itinerant. See Harrell, 992 F. Supp. at 1352 (“Other courts have found that exotic dancers tend to be itinerant” (citations omitted); see also Dkt. [12-1] at 24 n.11 (describing business of nude entertainment as transient in nature); Dkt. [47] at 10 (“given their relative youth, many entertainers are fairly transient”). Nonetheless, at least 11 of the Plaintiffs in this action and 10 other entertainers, not parties to this action, have had a work relationship with the Club that exceeded one year.  (See supra, at 6 n.2; Dkt. [253-5] at ¶ 2 (worked as entertainer at Onyx for approximately three years or more); Dkt. [253-7] at ¶ 2 (same); Dkt. [253-11] at ¶ 2 (same); Dkt. [253-14] at ¶ 2 (same); Dkt. [253-15] at ¶ 2 (same); Dkt. [253-1] at ¶ 2 (worked as entertainer at Onyx for two years or more); Dkt. [253-3] at ¶ 2 (same); Dkt. [253-10] at ¶ 2 (same); Dkt. [253-4] at ¶ 2 (worked as entertainer at Onyx for one year or more); Dkt. [253-9] at ¶ 2 (same); Dkt. [253-16] at ¶ 2 (same)). Assuming that all other Plaintiffs to this action have worked at Onyx for less than a year, and assuming this constitutes an impermanent relationship, this 
+
+51 
+
+AO 72A (Rev.8/82) 
+
+factor would weigh against the finding of an employer-employee relationship. However, the present record is one over which reasonable jurors could reach different conclusions as to this factor. Therefore, the Court cannot say that this factor weighs in favor of finding an employer-employee relationship.  
+
+
+Defendants argue that “[n]ude dancing, while also contributing to the 
+
+Club’s caché, is not it’s essential function.” (Dkt. [269] at 33).  Rather, 
+
+Defendants argue, 
+
+Club Onyx is one of the premier nightclubs in the Southeast, which regularly features appearances by international superstar rap and R&B artists, and celebrity sports and entertainment personalities, and is known as “a place to see and be seen.” . . . To this end, Club Onyx regularly promotes these appearances, which result in significantly higher customers than on non-promoted nights. . . . Club Onyx is also known for selling liquor by the glass and bottle, a unique privilege in the Atlanta bar and nightclub community, which further contributes to the Club’s caché. 
+
+(Id. at 32-33 (emphasis in original)).  Plaintiffs contend that Defendants’ argument that nude dancers are not integral to the Club’s business is “absurd,” because: Onyx has three stages for dancing, with at least one stage visible from all areas of the Club; its website and billboard feature scantily clad women; it advertises in adult magazines; and it admits that it is a strip club.  (Dkt. [272] at 18; Dkt. [211-1] at 22-24).  The Court agrees. 
+
+52 
+
+AO 72A (Rev.8/82) 
+
+Adams, the Club’s night manager, testified that “[g]irls make the club 
+
+busy. As far as if you don’t have enough girls in the building, your customers 
+
+won’t stay . . . .” (Adams Depo. at 60:9-12).  Defendants admit that on nights 
+
+that there are many customers and few entertainers at Onyx, management will 
+
+call in additional entertainers. (PSF at ¶ 219). GSE and GSEC’s director of 
+
+marketing, Jack Pepper, believed that the presence of scantily clad women on a 
+
+billboard advertising the Club conveyed to the public that Onyx is an adult 
+
+entertainment nightclub.  (Pepper Depo. at 26:15-19). Based upon the record as 
+
+a whole, a reasonable juror could not find that the presence of nude 
+
+entertainment is not integral to the Club. This factor weighs in favor of finding 
+
+an employer-employee relationship. 
+
+
+Defendants argue that because Plaintiffs were given the choice of being treated as an employee or independent contractor, and elected to be treated as an independent contractor, and because several Plaintiffs have held themselves out to the IRS as independent contractors in regards to their relationship to the Club, and because each entertainer must obtain an individual permit from the City to perform at the Club, the economic reality is that they are independent contractors. (Dkt. [259] at 34-39).  This is not the case.  “In deciding whether 
+
+53 
+
+AO 72A (Rev.8/82) 
+
+an individual is an ‘employee’ within the meaning of the FLSA, the label attached to the relationship is dispositive only to the degree it mirrors the economic reality of the relationship.”  Donovan v. Tehco, Inc., 642 F.2d 141, 143 (5th Cir. 1981); see also Tony and Susan Alamo Found., 471 U.S. at 302 (“the purposes of the Act require that it be applied even to those who would decline its protections”); Rutherford Food Corp. v. McComb, 331 U.S. 722, 729 (1947) (“Where the work done, in its essence, follows the usual path of an employee, putting on an ‘independent contractor’ label does not take the worker from the protection of the Act.”); Freund, 185 Fed. Appx. at 783 (not listing an individual’s subjective belief about her employment status as a factor that guides an inquiry in this Circuit into the economic reality of a work relationship); Harrell, 992 F. Supp. at 1353 (“Defendant’s . . . additional factors (characterization for tax purposes and the provision of employee benefits) are not relevant. Defendant cites no case which considers these factors in the context of the broad “suffer or permit to work” definition of employment contained in the FLSA.”). 
+
+
+
+In determining whether an employer-employee relationship existed between the Club and Plaintiffs “[n]o one factor is determinative;” “each factor 
+
+54 
+
+AO 72A (Rev.8/82) 
+
+should be given weight according to how much light it sheds on the nature of the economic dependence of the putative employee on the employer.” Perdomo, 298 Fed. Appx. at 821 (citing Antenor, 88 F.3d at 928-33); see also Usery v. Pilgrim Equip. Co., 527 F.2d 1308, 1311 (5th Cir.1976) (“No one of these considerations can become the final determinant, nor can the collective answers to all of the inquiries produce a resolution which submerges consideration of the dominant factor–economic dependence.”); Benshoff, 180 F.3d at 141 (“‘[t]he employer-employee relationship does not lend itself to rigid per se definitions, but depends upon the circumstances of the whole activity.’” (quoting Reich v. ConAgra, Inc., 987 F.2d 1357, 1361 (8th Cir. 1993)). 
+
+The Court has found that the Club’s degree of control over the work of 
+
+entertainers, the entertainers’ opportunity for profit and loss, the entertainers’ 
+
+relative investment, the lack of specialized skill required to be an entertainer, 
+
+and the integral nature of nude entertainment to the Club’s business support a 
+
+finding that an employer-employee relationship existed between the Club and 
+
+Plaintiffs. Considering these factors that the Eleventh Circuit has identified as 
+
+relevant, and in light of the record as a whole, the Court finds that Plaintiffs 
+
+should have been classified as employees under the FLSA. 
+
+55 
+
+AO 72A (Rev.8/82) 
+
+Having decided that Plaintiffs should have been classified as employees 
+
+under the FLSA, the case is scheduled to proceed with the second phase of 
+
+discovery addressing other FLSA defenses and damages.  See October 15, 2009 
+
+Scheduling Order (Dkt. [59]) at 2.  Consideration of the costs that might 
+
+reasonably be incurred in the next phase of discovery causes the Court to 
+
+conclude that the parties would be well served by engaging in mediation before 
+
+proceeding to this phase of discovery. Therefore, the Court hereby REFERS 
+
+the case to Chief Magistrate Judge Janet F. King for assignment to a Magistrate 
+
+Judge for mediation.  Discovery shall be STAYED until the mediation process 
+
+is concluded. 
+
+
+For the aforementioned reasons, Plaintiffs’ Motion for Partial Summary Judgment [211] is GRANTED, Defendants’ Motion for Summary Judgment 
+
+[218]is DENIED, and Defendants’ Objection to Plaintiffs’ Late-Filed Consent Forms [271] is OVERRULED. The case is hereby REFERRED to Chief Magistrate Judge Janet F. King for assignment to a Magistrate Judge for mediation.  Discovery shall be STAYED until the mediation process is concluded. If mediation is unsuccessful, the parties shall proceed with discovery in accordance with the October 15, 2009 Scheduling Order. 
+
+
+
+

@@ -1,0 +1,65 @@
+U.S. Department of Labor Administrative Review Board 200 Constitution Avenue, N.W.
+
+Washington, D.C.  20210
+
+In the Matter of:
+
+CURTIS HOLMQUIST, ARB CASE NO. 16-006 and ALJ CASE NO. 2014-FRS-057BRIDGET BRINE, CHAPTER 7  DATE:  January 12, 2018 TRUSTEE,COMPLAINANTS, v.
+
+WISCONSIN CENTRAL LTD., d/b/a CANADIAN NATIONAL RAILWAY,
+
+RESPONDENT.
+
+BEFORE:  THE ADMINISTRATIVE REVIEW BOARD
+
+Appearances:
+
+For the Complainant:
+
+David E. Schlesinger, Esq.; Nicholas D. Thompson, Esq.; Nichols Kaster, PLLP, Minneapolis, MinnesotaFor the Respondent:
+
+Susan K. Fitzke, Esq.; Jessica Bradley, Esq.; Littler Mendelson, P.C., Minneapolis, MinnesotaBefore:  Paul M. Igasaki, Chief Administrative Appeals Judge; E. Cooper Brown, Administrative Appeals Judge; and Leonard J. Howie III, Administrative Appeals JudgeDECISION AND ORDER OF REMAND
+
+This case arises under the Federal Rail Safety Act of 1982 (FRSA).1  Complainant2 Curtis Holmquist filed a complaint alleging that Respondent Wisconsin Central Ltd. (WC) retaliated against him in violation of FRSA’s whistleblower protection provisions.  On September 25, 2015, a Department of Labor Administrative Law Judge (ALJ) issued a Decision and Order (D. & O.) dismissing the complaint.  For the following reasons, the D. & O. is affirmed, in part, and reversed, in part, and the case is remanded to the ALJ for further consideration.
+
+BACKGROUND
+
+Holmquist began working for a WC predecessor in 2000, and on July 2, 2012, WC awarded him a mobile trackman position.  On July 9, 2012, WC ordered Holmquist to act as an Employee-in-Charge (EIC) and pilot a rail grinding train on a portion of the railroad.3  To pilot the train, Holmquist was required to obtain track authority, which was “necessary to prevent moving trains or the equipment from entering a particular track, on which the track workers are working, and is an essential function of the EIC.”4According to Holmquist, he did not feel comfortable piloting the rail grinding train. After his shift was over on July 9th, Holmquist left a voicemail message with Tony Hardy, his direct supervisor, stating that “he believed he could not safely pilot the rail grinding train the next day and that Hardy should find someone else to do it.”5  On July 10, 2012, Hardy ordered Holmquist to pilot the rail grinding train, and Holmquist told Hardy “he was uncomfortable and felt he was not qualified to function as an employee in charge of a rail grinding train.”6Holmquist relayed those same concerns to Lance Hunt, Canadian National Railway’s (CN) risk management specialist.  Hunt told Holmquist he would get someone else to act as EIC for the rail grinding train.  Hunt then called Daniel Bjork, Senior Manager of the Lake ZoneC.F.R. Part 1982 (2017) and 29 C.F.R. Part 18, Subpart A (2017).
+
+ALJ joined Bridget A. Brine, the trustee, as a party-in-interest. reducing the friction between the rail and the train.”  D. & O. at 5. for Review at 3. district, and told him that Holmquist had been asked to act as EIC for the rail grinding train but Holmquist told him “he didn‘t feel qualified or comfortable doing it.”7  Hunt did not tell Bjork that Holmquist said he could not act as an EIC in general.  Hardy also talked to Bjork and recommended that Holmquist be disqualified from acting as an EIC.  Following these conversations, Bjork disqualified Holmquist from all positions requiring track authority, which precluded him from occupying all EIC positions.  No one ever told Bjork that Holmquist did not feel safe obtaining track authority for a specific piece of equipment.
+
+WC informed Holmquist of his disqualification on July 31, 2012, and he transferred to a new position that did not include EIC responsibilities.  This transfer did not result in any loss of pay or reduction in benefits.  In February 2013 WC removed the disqualification, and with the exception of job assignments, the disqualification had no other impact on Holmquist’s employment.
+
+On January 28, 2013, Holmquist filed a complaint alleging that WC violated the FRSA by disqualifying him from EIC positions in retaliation for refusing to operate the rail grinding train.  The Occupational Safety and Health Administration (OSHA) dismissed the complaint, and Holmquist requested a hearing before an ALJ.  Following a hearing, the ALJ concluded that Holmquist engaged in FRSA-protected activity that contributed to an adverse employment action, but WC proved that it would have taken the same action in the absence of Holmquist’s protected activity.  Holmquist appealed the ALJ’s ruling to the Board.
+
+JURISDICTION AND STANDARD OF REVIEW
+
+The Secretary of Labor has delegated to the Administrative Review Board authority to issue final agency decisions under the FRSA.8  The Board reviews the ALJ’s factual determinations under the substantial evidence standard.9  The Board reviews an ALJ’s conclusions of law de novo.10 the Administrative Review Board), 77 Fed. Reg. 69,378 (Nov. 16, 2012); see 29 C.F.R. § 1982.110(a).
+
+Apr. 30, 2013) (citations omitted).
+
+DISCUSSION
+
+The FRSA prohibits a railroad carrier engaged in interstate or foreign commerce from discharging, demoting, suspending, reprimanding, or in any other way discriminating against an employee if such discrimination is due, in whole or in part, to the employee’s protected activity.11  The FRSA is governed by the legal burdens of proof set forth under the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, at 49 U.S.C.A. § 42121(b) (Thomas Reuters 2016).12  To prevail, an FRSA complainant must establish by a preponderance of the evidence that protected activity “was a contributing factor in the unfavorable personnel action alleged in the complaint.”13  If a complainant meets his burden of proof, the employer may avoid liability if it proves by clear and convincing evidence that it would have taken the same unfavorable personnel action in the absence of a complainant’s protected activity.14The ALJ concluded that:  (1) Holmquist engaged in protected activity when he toldHardy that he could not safely operate a rail grinding train on July 10, 2012;15 (2) WC subjected Holmquist to an adverse action when it disqualified him from all positions requiring track approval authority;16 and (3) Holmquist’s protected activity was a contributing factor in the adverse action.17  Holmquist has not appealed these findings, and we affirm them as supported by substantial evidence in the record.
+
+The ALJ’s conclusion that WC proved by clear and convincing evidence that it would have taken the adverse action absent any protected activity, resulting in the ALJ’s dismissal of grinding train, he did not feel it was safe to do so on July 10, 2012.  I find reporting that concern to his supervisor under the circumstances was protected activity.”). resulted in Complainant being open to fewer work assignments and reduced his opportunities for advancement within the company and, from the time it was issued until the time it was withdrawn from the personnel file, constituted an adverse action under the FRSA.”). action because, but for Complainant’s report, Respondent would not have issued the disqualification letter.”).
+
+Holmquist’s complaint,18 is, however, not supported by the substantial evidence of record.  On appeal, Holmquist’s only assertion is that the ALJ erred by concluding that WC proved that it would have taken the same adverse action absent Holmquist’s protected activity.  The Board agrees that the ALJ’s conclusion on this issue was incorrect.
+
+The ALJ concluded that WC met its burden because it was reasonable to removeHolmquist from all EIC positions in light of his communications with Hardy on July 9th.19  But such a conclusion does not establish that WC would have disqualified Holmquist if he had not engaged in those communications.  The ALJ’s conclusion contradicts his specific findings regarding the effect of Holmquist’s protected activities:
+
+In other words, if Mr. Holmquist had not told Mr. Hardy on July 9, grinding train and his refusal to do so the next day, Wisconsin Central management would not have initiated the subsequent informal investigation, and would not have disqualified Complainant from all EIC positions.  In other words, I find the protected activity was a contributing factor in the adverse personnel action because, but for Complainant’s report, Respondent would not have issued the disqualification letter . . . Complainant’s raising legitimate concerns to his supervisor regarding his discomfort and inability to pilot the rail grinder was the only reason Bjork subsequently disqualified Complainant.[20]The Board therefore reverses the ALJ’s legal conclusion that WC met its burden of proof absolving it of liability because the foregoing findings of fact (which are supported by substantial evidence) establish, contrary to the ALJ’s conclusion, that WC would not have taken the same adverse action in the absence of Holmquist’s protected activity.  Judgement for Holmquist is accordingly awarded.
+
+In light of the Board’s ruling, the question of Holmquist’s entitlement to damages must be addressed.  On appeal to the Board, Holmquist does not request any back pay.  And, as discussed above, WC withdrew Holmquist’s EIC disqualification.  The only remedies Holmquist have disqualified Holmquist from all EIC positions based on his relatively inchoate concerns about piloting the rail grinder.  It was a reasonable action in reaction to an employee’s strident declaration that he was uncomfortable piloting rail grinders and it was reasonable for Bjork to conclude that a safety concern piloting rail grinders, a train Complainant was qualified to pilot, extended to all trains.). sought before the ALJ were “$100,000.00 compensation for emotional distress and other compensatory damages and $250,000.00 in punitive damages.”21  Although the ALJ held that the disqualification had no monetary impact on Holmquist’s employment, he did not determine that Holmquist was not entitled to damages.  We must therefore remand the case for the sole purpose of determining if Holmquist is entitled to the remedies he requested before the ALJ.22CONCLUSION
+
+For the foregoing reasons, the ALJ’s Decision and Order Dismissing the Complaint, issued September 25, 2015, is AFFIRMED, IN PART, AND REVERSED, IN PART.  The ALJ’s determination that Holmquist engaged in FRSA-protected activity that contributed to an adverse employment action is AFFIRMED.  The ALJ’s conclusion that WC proved that it would have taken the same action in the absence of Holmquist’s protected activity is REVERSED, with JUDGEMENT entered for Holmquist.  The case is accordingly REMANDED to the ALJ for further consideration concerning Holmquist’s entitlement to damages consistent with this Decision and Order of Remand.
+
+SO ORDERED.
+
+E. COOPER BROWN Administrative Appeals Judge
+
+PAUL M. IGASAKI Chief Administrative Appeals Judge
+
+LEONARD J. HOWIE III Administrative Appeals Judge to disclose his bankruptcy status.
+
+	Administrative Appeals Judge 	Chief Administrative Appeals Judge

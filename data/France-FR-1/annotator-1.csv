@@ -1,0 +1,716 @@
+Type,Document,Start,End
+L0 Out of Scope,France-FR-1-1.txt,4066,10111
+L0 Out of Scope,France-FR-1-1.txt,0,74
+L2 Outcome,France-FR-1-1.txt,3865,4064
+L0 Out of Scope,France-FR-1-2.txt,0,130
+L1 Background,France-FR-1-2.txt,131,876
+L0 Out of Scope,France-FR-1-3.txt,0,74
+L0 Heading,France-FR-1-3.txt,1841,1857
+L0 Heading,France-FR-1-1.txt,3865,3882
+L0 Heading,France-FR-1-3.txt,80,101
+L0 Heading,France-FR-1-2.txt,133,155
+L0 Heading,France-FR-1-1.txt,76,105
+L0 Out of Scope,France-FR-1-4.txt,0,73
+L0 Out of Scope,France-FR-1-4.txt,6126,11425
+L0 Heading,France-FR-1-4.txt,5976,5992
+L1 Background,France-FR-1-4.txt,78,1327
+L1 Analysis,France-FR-1-4.txt,1330,6123
+L0 Heading,France-FR-1-4.txt,1330,1352
+L0 Heading,France-FR-1-4.txt,4380,4401
+L2 Outcome,France-FR-1-4.txt,5975,6123
+L0 Out of Scope,France-FR-1-8.txt,0,74
+L1 Background,France-FR-1-8.txt,77,938
+L0 Heading,France-FR-1-8.txt,939,962
+L0 Out of Scope,France-FR-1-5.txt,0,69
+L1 Background,France-FR-1-5.txt,74,640
+L0 Out of Scope,France-FR-1-2.txt,2378,9221
+L0 Out of Scope,France-FR-1-3.txt,2825,6048
+L2 Outcome,France-FR-1-3.txt,1841,2821
+L0 Out of Scope,France-FR-1-8.txt,2853,15228
+L1 Analysis,France-FR-1-8.txt,939,2852
+L2 Outcome,France-FR-1-8.txt,2019,2852
+L0 Out of Scope,France-FR-1-5.txt,3232,8559
+L1 Analysis,France-FR-1-5.txt,641,3229
+L2 Outcome,France-FR-1-5.txt,2516,3229
+L0 Heading,France-FR-1-5.txt,643,665
+L0 Out of Scope,France-FR-1-9.txt,0,73
+L0 Out of Scope,France-FR-1-9.txt,13005,28264
+L1 Background,France-FR-1-9.txt,76,1186
+L0 Heading,France-FR-1-9.txt,1187,1210
+L0 Heading,France-FR-1-9.txt,7337,7361
+L0 Heading,France-FR-1-9.txt,9467,9492
+L0 Heading,France-FR-1-9.txt,11247,11276
+L0 Heading,France-FR-1-9.txt,12127,12144
+L1 Analysis,France-FR-1-9.txt,1187,13004
+L2 Outcome,France-FR-1-9.txt,12127,13004
+L0 Out of Scope,France-FR-1-6.txt,0,73
+L0 Out of Scope,France-FR-1-6.txt,2087,2244
+L1 Background,France-FR-1-6.txt,76,1046
+L1 Analysis,France-FR-1-6.txt,1047,2086
+L2 Outcome,France-FR-1-6.txt,1747,2086
+L0 Heading,France-FR-1-6.txt,1747,1764
+L0 Out of Scope,France-FR-1-7.txt,0,75
+L0 Out of Scope,France-FR-1-7.txt,2404,2566
+L2 Outcome,France-FR-1-7.txt,2197,2403
+L0 Heading,France-FR-1-7.txt,2198,2214
+L0 Heading,France-FR-1-8.txt,2019,2092
+L0 Heading,France-FR-1-5.txt,2516,2591
+L0 Out of Scope,France-FR-1-19.txt,10394,147090
+L0 Out of Scope,France-FR-1-19.txt,0,551
+L1 Background,France-FR-1-19.txt,553,2744
+L0 Heading,France-FR-1-19.txt,2747,2818
+L0 Heading,France-FR-1-19.txt,3557,3606
+L0 Heading,France-FR-1-19.txt,4871,4919
+L0 Heading,France-FR-1-19.txt,5006,5088
+L0 Heading,France-FR-1-19.txt,6685,6762
+L0 Heading,France-FR-1-19.txt,8111,8188
+L0 Heading,France-FR-1-19.txt,9225,9299
+L1 Analysis,France-FR-1-19.txt,2747,10388
+L2 Outcome,France-FR-1-19.txt,9225,10388
+L0 Out of Scope,France-FR-1-10.txt,0,73
+L0 Out of Scope,France-FR-1-10.txt,2519,5431
+L0 Heading,France-FR-1-10.txt,78,126
+L1 Analysis,France-FR-1-10.txt,1711,2516
+L2 Outcome,France-FR-1-10.txt,2444,2516
+L0 Heading,France-FR-1-10.txt,2444,2460
+L0 Out of Scope,France-FR-1-11.txt,0,74
+L0 Out of Scope,France-FR-1-11.txt,1672,1833
+L0 Heading,France-FR-1-11.txt,442,500
+L0 Heading,France-FR-1-11.txt,1397,1413
+L1 Background,France-FR-1-11.txt,79,439
+L1 Analysis,France-FR-1-11.txt,442,1669
+L2 Outcome,France-FR-1-11.txt,1397,1669
+L0 Out of Scope,France-FR-1-12.txt,0,73
+L0 Out of Scope,France-FR-1-12.txt,2923,3078
+L1 Background,France-FR-1-12.txt,76,1512
+L1 Analysis,France-FR-1-12.txt,1513,2922
+L0 Heading,France-FR-1-12.txt,2825,2842
+L2 Outcome,France-FR-1-12.txt,2825,2922
+L0 Out of Scope,France-FR-1-14.txt,0,73
+L0 Out of Scope,France-FR-1-14.txt,3002,8895
+L0 Heading,France-FR-1-14.txt,76,115
+L0 Heading,France-FR-1-14.txt,2236,2252
+L2 Outcome,France-FR-1-14.txt,2236,3001
+L0 Out of Scope,France-FR-1-13.txt,0,73
+L0 Out of Scope,France-FR-1-13.txt,3546,10155
+L0 Heading,France-FR-1-13.txt,78,128
+L0 Heading,France-FR-1-13.txt,3215,3231
+L1 Background,France-FR-1-13.txt,78,2891
+L1 Analysis,France-FR-1-13.txt,2894,3543
+L2 Outcome,France-FR-1-13.txt,3215,3543
+L0 Out of Scope,France-FR-1-15.txt,0,75
+L0 Out of Scope,France-FR-1-15.txt,5673,12283
+L0 Heading,France-FR-1-15.txt,79,100
+L0 Heading,France-FR-1-15.txt,5327,5343
+L1 Background,France-FR-1-15.txt,78,4709
+L1 Analysis,France-FR-1-15.txt,4712,5670
+L2 Outcome,France-FR-1-15.txt,5327,5670
+L0 Out of Scope,France-FR-1-16.txt,0,73
+L0 Out of Scope,France-FR-1-16.txt,1088,1369
+L0 Heading,France-FR-1-16.txt,78,125
+L0 Heading,France-FR-1-16.txt,928,943
+L1 Background,France-FR-1-16.txt,78,710
+L1 Analysis,France-FR-1-16.txt,713,1085
+L2 Outcome,France-FR-1-16.txt,928,1085
+L0 Out of Scope,France-FR-1-17.txt,0,73
+L0 Out of Scope,France-FR-1-17.txt,3481,7605
+L0 Heading,France-FR-1-17.txt,78,99
+L0 Heading,France-FR-1-17.txt,3168,3184
+L1 Background,France-FR-1-17.txt,78,2746
+L1 Analysis,France-FR-1-17.txt,2749,3478
+L2 Outcome,France-FR-1-17.txt,3168,3478
+L0 Out of Scope,France-FR-1-18.txt,0,69
+L0 Out of Scope,France-FR-1-18.txt,7920,15759
+L0 Heading,France-FR-1-18.txt,5432,5457
+L0 Heading,France-FR-1-18.txt,7769,7786
+L0 Heading,France-FR-1-18.txt,1329,1352
+L1 Background,France-FR-1-18.txt,72,1328
+L1 Analysis,France-FR-1-18.txt,1329,7919
+L2 Outcome,France-FR-1-18.txt,7769,7919
+L0 Out of Scope,France-FR-1-20.txt,2750,5508
+L0 Heading,France-FR-1-20.txt,2525,2542
+L0 Heading,France-FR-1-20.txt,249,298
+L1 Analysis,France-FR-1-20.txt,1943,2749
+L2 Outcome,France-FR-1-20.txt,2525,2749
+L0 Out of Scope,France-FR-1-21.txt,0,73
+L0 Out of Scope,France-FR-1-21.txt,4733,32799
+L0 Heading,France-FR-1-21.txt,1444,1523
+L0 Heading,France-FR-1-21.txt,2914,2971
+L0 Heading,France-FR-1-21.txt,4005,4092
+L1 Background,France-FR-1-21.txt,76,1443
+L1 Analysis,France-FR-1-21.txt,1444,4732
+L2 Outcome,France-FR-1-21.txt,4005,4732
+L0 Out of Scope,France-FR-1-22.txt,0,74
+L0 Out of Scope,France-FR-1-22.txt,1797,1955
+L1 Background,France-FR-1-22.txt,77,548
+L1 Analysis,France-FR-1-22.txt,549,1796
+L0 Heading,France-FR-1-22.txt,1673,1690
+L2 Outcome,France-FR-1-22.txt,1673,1796
+L0 Out of Scope,France-FR-1-23.txt,0,69
+L0 Out of Scope,France-FR-1-23.txt,1487,1667
+L0 Heading,France-FR-1-23.txt,74,166
+L0 Heading,France-FR-1-23.txt,1317,1333
+L1 Background,France-FR-1-23.txt,72,882
+L1 Analysis,France-FR-1-23.txt,885,1484
+L2 Outcome,France-FR-1-23.txt,1317,1484
+L0 Out of Scope,France-FR-1-24.txt,0,73
+L0 Out of Scope,France-FR-1-24.txt,2327,4831
+L0 Heading,France-FR-1-24.txt,76,98
+L0 Heading,France-FR-1-24.txt,1736,1753
+L2 Outcome,France-FR-1-24.txt,1736,2326
+L0 Out of Scope,France-FR-1-25.txt,0,65
+L0 Out of Scope,France-FR-1-25.txt,2544,2697
+L0 Heading,France-FR-1-25.txt,2333,2349
+L1 Background,France-FR-1-25.txt,70,956
+L1 Analysis,France-FR-1-25.txt,959,2541
+L2 Outcome,France-FR-1-25.txt,2333,2541
+L0 Out of Scope,France-FR-1-26.txt,0,74
+L0 Out of Scope,France-FR-1-26.txt,1841,1999
+L0 Heading,France-FR-1-26.txt,1715,1731
+L1 Background,France-FR-1-26.txt,79,511
+L1 Analysis,France-FR-1-26.txt,514,1838
+L2 Outcome,France-FR-1-26.txt,1715,1838
+L0 Out of Scope,France-FR-1-27.txt,0,74
+L0 Out of Scope,France-FR-1-27.txt,2421,2584
+L0 Heading,France-FR-1-27.txt,2294,2310
+L1 Background,France-FR-1-27.txt,79,842
+L1 Analysis,France-FR-1-27.txt,845,2418
+L2 Outcome,France-FR-1-27.txt,2294,2418
+L0 Out of Scope,France-FR-1-28.txt,0,73
+L0 Out of Scope,France-FR-1-28.txt,1977,4644
+L0 Heading,France-FR-1-28.txt,78,199
+L0 Heading,France-FR-1-28.txt,1358,1374
+L1 Background,France-FR-1-28.txt,78,1237
+L1 Analysis,France-FR-1-28.txt,1240,1974
+L2 Outcome,France-FR-1-28.txt,1358,1974
+L1 Background,France-FR-1-3.txt,80,881
+L1 Analysis,France-FR-1-3.txt,885,2821
+L0 Heading,France-FR-1-5.txt,772,828
+L1 Background,France-FR-1-10.txt,77,1708
+L0 Out of Scope,France-FR-1-29.txt,0,74
+L0 Out of Scope,France-FR-1-29.txt,2411,2579
+L1 Background,France-FR-1-29.txt,78,1247
+L1 Analysis,France-FR-1-29.txt,1250,2410
+L0 Heading,France-FR-1-29.txt,2309,2325
+L2 Outcome,France-FR-1-29.txt,2309,2410
+L0 Out of Scope,France-FR-1-31.txt,0,73
+L0 Out of Scope,France-FR-1-31.txt,1061,1226
+L0 Heading,France-FR-1-31.txt,78,135
+L0 Heading,France-FR-1-31.txt,740,756
+L1 Background,France-FR-1-31.txt,78,507
+L1 Analysis,France-FR-1-31.txt,510,1058
+L2 Outcome,France-FR-1-31.txt,740,1058
+L0 Out of Scope,France-FR-1-30.txt,0,74
+L0 Out of Scope,France-FR-1-30.txt,1171,1330
+L0 Heading,France-FR-1-30.txt,1045,1061
+L1 Background,France-FR-1-30.txt,79,529
+L1 Analysis,France-FR-1-30.txt,532,1168
+L2 Outcome,France-FR-1-30.txt,1045,1168
+L0 Out of Scope,France-FR-1-32.txt,0,74
+L0 Out of Scope,France-FR-1-32.txt,3205,3363
+L1 Background,France-FR-1-32.txt,79,1005
+L1 Analysis,France-FR-1-32.txt,1008,3202
+L0 Heading,France-FR-1-32.txt,3100,3116
+L2 Outcome,France-FR-1-32.txt,3100,3202
+L0 Out of Scope,France-FR-1-33.txt,0,72
+L0 Out of Scope,France-FR-1-33.txt,5930,16291
+L0 Heading,France-FR-1-33.txt,565,614
+L0 Heading,France-FR-1-33.txt,3068,3112
+L0 Heading,France-FR-1-33.txt,4964,4980
+L1 Background,France-FR-1-33.txt,78,562
+L1 Analysis,France-FR-1-33.txt,565,5927
+L2 Outcome,France-FR-1-33.txt,4964,5927
+L0 Out of Scope,France-FR-1-34.txt,0,74
+L0 Out of Scope,France-FR-1-34.txt,2110,2276
+L1 Background,France-FR-1-34.txt,79,1027
+L1 Analysis,France-FR-1-34.txt,1030,2107
+L0 Heading,France-FR-1-34.txt,1984,2000
+L2 Outcome,France-FR-1-34.txt,1984,2107
+L0 Out of Scope,France-FR-1-35.txt,0,73
+L0 Out of Scope,France-FR-1-35.txt,1517,1679
+L0 Heading,France-FR-1-35.txt,1353,1369
+L0 Heading,France-FR-1-35.txt,78,219
+L1 Background,France-FR-1-35.txt,78,1163
+L1 Analysis,France-FR-1-35.txt,1165,1514
+L2 Outcome,France-FR-1-35.txt,1353,1514
+L0 Heading,France-FR-1-36.txt,0,21
+L0 Out of Scope,France-FR-1-36.txt,2590,10745
+L0 Heading,France-FR-1-36.txt,2511,2527
+L1 Background,France-FR-1-36.txt,0,1858
+L1 Analysis,France-FR-1-36.txt,1862,2586
+L2 Outcome,France-FR-1-36.txt,2511,2586
+L0 Heading,France-FR-1-38.txt,1316,1368
+L0 Heading,France-FR-1-38.txt,2203,2255
+L0 Heading,France-FR-1-38.txt,2705,2791
+L0 Out of Scope,France-FR-1-38.txt,3920,16149
+L1 Background,France-FR-1-38.txt,0,1312
+L1 Analysis,France-FR-1-38.txt,1316,3916
+L2 Outcome,France-FR-1-38.txt,2705,3916
+L0 Heading,France-FR-1-37.txt,0,48
+L0 Heading,France-FR-1-37.txt,1987,2003
+L0 Out of Scope,France-FR-1-37.txt,2774,6759
+L1 Background,France-FR-1-37.txt,0,1003
+L1 Analysis,France-FR-1-37.txt,1006,2770
+L2 Outcome,France-FR-1-37.txt,1987,2770
+L0 Heading,France-FR-1-39.txt,0,59
+L0 Heading,France-FR-1-39.txt,5994,6010
+L0 Out of Scope,France-FR-1-39.txt,6188,20554
+L1 Background,France-FR-1-39.txt,0,3746
+L1 Analysis,France-FR-1-39.txt,3750,6184
+L2 Outcome,France-FR-1-39.txt,5994,6184
+L0 Out of Scope,France-FR-1-40.txt,0,73
+L0 Out of Scope,France-FR-1-40.txt,1287,1443
+L0 Heading,France-FR-1-40.txt,78,136
+L0 Heading,France-FR-1-40.txt,1074,1090
+L2 Outcome,France-FR-1-40.txt,1074,1284
+L0 Out of Scope,France-FR-1-41.txt,0,73
+L0 Out of Scope,France-FR-1-41.txt,7889,17810
+L0 Heading,France-FR-1-41.txt,1185,1208
+L0 Heading,France-FR-1-41.txt,4128,4155
+L0 Heading,France-FR-1-41.txt,5684,5713
+L0 Heading,France-FR-1-41.txt,6624,6651
+L0 Heading,France-FR-1-41.txt,7186,7202
+L1 Background,France-FR-1-41.txt,78,1182
+L1 Analysis,France-FR-1-41.txt,1185,7886
+L2 Outcome,France-FR-1-41.txt,7186,7886
+L0 Out of Scope,France-FR-1-42.txt,0,73
+L0 Out of Scope,France-FR-1-42.txt,2316,5565
+L0 Heading,France-FR-1-42.txt,78,128
+L0 Heading,France-FR-1-42.txt,1553,1636
+L1 Background,France-FR-1-42.txt,78,1004
+L1 Analysis,France-FR-1-42.txt,1007,2313
+L2 Outcome,France-FR-1-42.txt,1553,2313
+L0 Out of Scope,France-FR-1-43.txt,0,73
+L0 Out of Scope,France-FR-1-43.txt,2610,2774
+L1 Background,France-FR-1-43.txt,78,1255
+L1 Analysis,France-FR-1-43.txt,1258,2607
+L0 Heading,France-FR-1-43.txt,2483,2499
+L2 Outcome,France-FR-1-43.txt,2483,2607
+L0 Out of Scope,France-FR-1-44.txt,0,69
+L0 Out of Scope,France-FR-1-44.txt,2707,6401
+L0 Heading,France-FR-1-44.txt,74,145
+L0 Heading,France-FR-1-44.txt,1771,1855
+L1 Background,France-FR-1-44.txt,74,1002
+L1 Analysis,France-FR-1-44.txt,1005,2704
+L2 Outcome,France-FR-1-44.txt,1771,2704
+L0 Out of Scope,France-FR-1-45.txt,0,73
+L0 Out of Scope,France-FR-1-45.txt,2013,2176
+L0 Heading,France-FR-1-45.txt,78,132
+L0 Heading,France-FR-1-45.txt,1755,1771
+L1 Background,France-FR-1-45.txt,78,1233
+L1 Analysis,France-FR-1-45.txt,1236,2010
+L2 Outcome,France-FR-1-45.txt,1755,2010
+L0 Out of Scope,France-FR-1-46.txt,0,73
+L0 Out of Scope,France-FR-1-46.txt,1945,2105
+L0 Heading,France-FR-1-46.txt,1774,1790
+L0 Heading,France-FR-1-46.txt,76,218
+L1 Background,France-FR-1-46.txt,76,1619
+L1 Analysis,France-FR-1-46.txt,1620,1944
+L2 Outcome,France-FR-1-46.txt,1774,1944
+L0 Out of Scope,France-FR-1-47.txt,0,74
+L0 Out of Scope,France-FR-1-47.txt,2396,2557
+L0 Heading,France-FR-1-47.txt,2270,2286
+L1 Background,France-FR-1-47.txt,79,861
+L1 Analysis,France-FR-1-47.txt,864,2393
+L2 Outcome,France-FR-1-47.txt,2270,2393
+L0 Out of Scope,France-FR-1-48.txt,0,73
+L0 Out of Scope,France-FR-1-48.txt,2617,2776
+L1 Background,France-FR-1-48.txt,76,952
+L0 Heading,France-FR-1-48.txt,2492,2509
+L1 Analysis,France-FR-1-48.txt,953,2616
+L2 Outcome,France-FR-1-48.txt,2492,2616
+L0 Out of Scope,France-FR-1-49.txt,4053,9162
+L0 Heading,France-FR-1-49.txt,206,264
+L0 Heading,France-FR-1-49.txt,3142,3229
+L1 Analysis,France-FR-1-49.txt,2159,4048
+L2 Outcome,France-FR-1-49.txt,3142,4048
+L0 Out of Scope,France-FR-1-50.txt,0,73
+L0 Out of Scope,France-FR-1-50.txt,2267,2427
+L1 Background,France-FR-1-50.txt,78,1324
+L1 Analysis,France-FR-1-50.txt,1327,2264
+L0 Heading,France-FR-1-50.txt,2139,2156
+L2 Outcome,France-FR-1-50.txt,2139,2264
+L0 Out of Scope,France-FR-1-51.txt,0,73
+L0 Out of Scope,France-FR-1-51.txt,2094,7814
+L0 Heading,France-FR-1-51.txt,1533,1550
+L0 Heading,France-FR-1-51.txt,76,197
+L1 Background,France-FR-1-51.txt,76,936
+L1 Analysis,France-FR-1-51.txt,937,2093
+L2 Outcome,France-FR-1-51.txt,1533,2093
+L1 Analysis,France-FR-1-2.txt,881,2375
+L0 Heading,France-FR-1-2.txt,1509,1583
+L2 Outcome,France-FR-1-2.txt,1509,2375
+L0 Out of Scope,France-FR-1-52.txt,0,73
+L0 Out of Scope,France-FR-1-52.txt,1080,1239
+L0 Heading,France-FR-1-52.txt,78,136
+L0 Heading,France-FR-1-52.txt,871,887
+L1 Background,France-FR-1-52.txt,78,735
+L1 Analysis,France-FR-1-52.txt,738,1077
+L2 Outcome,France-FR-1-52.txt,871,1077
+L0 Out of Scope,France-FR-1-53.txt,0,74
+L0 Out of Scope,France-FR-1-53.txt,3630,3792
+L0 Heading,France-FR-1-53.txt,3506,3522
+L1 Background,France-FR-1-53.txt,77,1763
+L1 Analysis,France-FR-1-53.txt,1764,3629
+L2 Outcome,France-FR-1-53.txt,3506,3629
+L0 Out of Scope,France-FR-1-54.txt,0,69
+L0 Out of Scope,France-FR-1-54.txt,1864,2044
+L0 Heading,France-FR-1-54.txt,74,166
+L0 Heading,France-FR-1-54.txt,1699,1715
+L1 Background,France-FR-1-54.txt,74,987
+L1 Analysis,France-FR-1-54.txt,990,1861
+L2 Outcome,France-FR-1-54.txt,1699,1861
+L0 Out of Scope,France-FR-1-55.txt,0,73
+L0 Out of Scope,France-FR-1-55.txt,4389,10152
+L0 Heading,France-FR-1-55.txt,78,128
+L0 Heading,France-FR-1-55.txt,3362,3447
+L1 Background,France-FR-1-55.txt,78,1900
+L1 Analysis,France-FR-1-55.txt,1903,4386
+L2 Outcome,France-FR-1-55.txt,3362,4386
+L0 Out of Scope,France-FR-1-56.txt,1572,1754
+L0 Out of Scope,France-FR-1-56.txt,0,156
+L0 Heading,France-FR-1-56.txt,159,251
+L0 Heading,France-FR-1-56.txt,1415,1431
+L1 Background,France-FR-1-56.txt,159,851
+L1 Analysis,France-FR-1-56.txt,854,1569
+L2 Outcome,France-FR-1-56.txt,1415,1569
+L0 Out of Scope,France-FR-1-57.txt,0,74
+L0 Out of Scope,France-FR-1-57.txt,2622,2782
+L0 Heading,France-FR-1-57.txt,2495,2511
+L1 Background,France-FR-1-57.txt,78,892
+L1 Analysis,France-FR-1-57.txt,895,2619
+L2 Outcome,France-FR-1-57.txt,2495,2619
+L0 Out of Scope,France-FR-1-58.txt,0,74
+L0 Out of Scope,France-FR-1-58.txt,2935,8961
+L0 Heading,France-FR-1-58.txt,78,99
+L0 Heading,France-FR-1-58.txt,2282,2298
+L1 Background,France-FR-1-58.txt,78,1433
+L1 Analysis,France-FR-1-58.txt,1436,2932
+L2 Outcome,France-FR-1-58.txt,2282,2932
+L0 Out of Scope,France-FR-1-59.txt,0,74
+L0 Out of Scope,France-FR-1-59.txt,2620,7064
+L0 Heading,France-FR-1-59.txt,78,99
+L0 Heading,France-FR-1-59.txt,1827,1843
+L1 Background,France-FR-1-59.txt,78,702
+L1 Analysis,France-FR-1-59.txt,705,2617
+L2 Outcome,France-FR-1-59.txt,1827,2617
+L0 Out of Scope,France-FR-1-60.txt,0,73
+L0 Out of Scope,France-FR-1-60.txt,1578,9987
+L0 Heading,France-FR-1-60.txt,77,203
+L0 Heading,France-FR-1-60.txt,824,840
+L1 Background,France-FR-1-60.txt,77,428
+L1 Analysis,France-FR-1-60.txt,431,1575
+L2 Outcome,France-FR-1-60.txt,824,1575
+L0 Out of Scope,France-FR-1-61.txt,0,73
+L0 Out of Scope,France-FR-1-61.txt,6602,16549
+L0 Heading,France-FR-1-61.txt,2674,2696
+L0 Heading,France-FR-1-61.txt,5270,5296
+L0 Heading,France-FR-1-61.txt,5916,5932
+L1 Background,France-FR-1-61.txt,77,2671
+L1 Analysis,France-FR-1-61.txt,2674,6599
+L2 Outcome,France-FR-1-61.txt,5916,6599
+L0 Out of Scope,France-FR-1-62.txt,0,73
+L0 Out of Scope,France-FR-1-62.txt,2478,4162
+L0 Heading,France-FR-1-62.txt,75,97
+L0 Heading,France-FR-1-62.txt,1815,1832
+L1 Background,France-FR-1-62.txt,75,960
+L1 Analysis,France-FR-1-62.txt,961,2477
+L2 Outcome,France-FR-1-62.txt,1815,2477
+L0 Out of Scope,France-FR-1-63.txt,3543,15713
+L0 Heading,France-FR-1-63.txt,192,242
+L0 Heading,France-FR-1-63.txt,2818,2904
+L0 Out of Scope,France-FR-1-63.txt,0,189
+L1 Background,France-FR-1-63.txt,192,1506
+L1 Analysis,France-FR-1-63.txt,1509,3540
+L2 Outcome,France-FR-1-63.txt,2818,3540
+L0 Out of Scope,France-FR-1-64.txt,0,73
+L0 Out of Scope,France-FR-1-64.txt,4485,14786
+L0 Heading,France-FR-1-64.txt,77,127
+L0 Heading,France-FR-1-64.txt,4318,4334
+L1 Background,France-FR-1-64.txt,77,2686
+L1 Analysis,France-FR-1-64.txt,2689,4482
+L2 Outcome,France-FR-1-64.txt,4318,4482
+L0 Out of Scope,France-FR-1-65.txt,0,73
+L0 Out of Scope,France-FR-1-65.txt,2461,8032
+L0 Heading,France-FR-1-65.txt,645,668
+L0 Heading,France-FR-1-65.txt,2350,2366
+L0 Heading,France-FR-1-65.txt,2204,2259
+L1 Background,France-FR-1-65.txt,77,642
+L1 Analysis,France-FR-1-65.txt,645,2458
+L2 Outcome,France-FR-1-65.txt,2350,2458
+L0 Out of Scope,France-FR-1-66.txt,0,74
+L0 Out of Scope,France-FR-1-66.txt,2782,11407
+L0 Heading,France-FR-1-66.txt,76,98
+L0 Heading,France-FR-1-66.txt,2168,2185
+L1 Background,France-FR-1-66.txt,76,956
+L1 Analysis,France-FR-1-66.txt,957,2781
+L2 Outcome,France-FR-1-66.txt,2168,2781
+L0 Out of Scope,France-FR-1-68.txt,0,72
+L0 Out of Scope,France-FR-1-68.txt,2457,10345
+L0 Heading,France-FR-1-68.txt,75,126
+L0 Heading,France-FR-1-68.txt,1674,1761
+L1 Background,France-FR-1-68.txt,75,1103
+L1 Analysis,France-FR-1-68.txt,1104,2456
+L2 Outcome,France-FR-1-68.txt,1674,2456
+L0 Out of Scope,France-FR-1-67.txt,0,74
+L0 Out of Scope,France-FR-1-67.txt,1695,1855
+L0 Heading,France-FR-1-67.txt,1608,1625
+L1 Background,France-FR-1-67.txt,76,931
+L1 Analysis,France-FR-1-67.txt,932,1694
+L2 Outcome,France-FR-1-67.txt,1608,1694
+L0 Out of Scope,France-FR-1-69.txt,3759,13317
+L0 Heading,France-FR-1-69.txt,243,264
+L0 Heading,France-FR-1-69.txt,3528,3544
+L1 Analysis,France-FR-1-69.txt,2880,3752
+L2 Outcome,France-FR-1-69.txt,3528,3753
+L0 Out of Scope,France-FR-1-70.txt,0,73
+L0 Out of Scope,France-FR-1-70.txt,2721,7023
+L0 Heading,France-FR-1-70.txt,77,98
+L0 Heading,France-FR-1-70.txt,2480,2496
+L1 Background,France-FR-1-70.txt,77,2135
+L1 Analysis,France-FR-1-70.txt,2138,2718
+L2 Outcome,France-FR-1-70.txt,2480,2718
+L0 Out of Scope,France-FR-1-71.txt,0,73
+L0 Out of Scope,France-FR-1-71.txt,6858,25353
+L0 Heading,France-FR-1-71.txt,708,731
+L0 Heading,France-FR-1-71.txt,3665,3722
+L0 Heading,France-FR-1-71.txt,5212,5268
+L0 Heading,France-FR-1-71.txt,5656,5743
+L1 Background,France-FR-1-71.txt,75,707
+L1 Analysis,France-FR-1-71.txt,708,6857
+L2 Outcome,France-FR-1-71.txt,5656,6857
+L0 Out of Scope,France-FR-1-77.txt,0,172
+L0 Heading,France-FR-1-77.txt,1973,2358
+L0 Out of Scope,France-FR-1-77.txt,29360,97640
+L0 Heading,France-FR-1-77.txt,21164,21420
+L0 Heading,France-FR-1-77.txt,29115,29131
+L1 Background,France-FR-1-77.txt,175,1970
+L1 Analysis,France-FR-1-77.txt,1973,29357
+L2 Outcome,France-FR-1-77.txt,29115,29357
+L0 Out of Scope,France-FR-1-72.txt,0,73
+L0 Out of Scope,France-FR-1-72.txt,2628,7012
+L0 Heading,France-FR-1-72.txt,75,96
+L0 Heading,France-FR-1-72.txt,2588,2605
+L1 Background,France-FR-1-72.txt,75,1952
+L1 Analysis,France-FR-1-72.txt,1953,2627
+L2 Outcome,France-FR-1-72.txt,2588,2627
+L0 Out of Scope,France-FR-1-75.txt,0,73
+L0 Out of Scope,France-FR-1-75.txt,6109,20180
+L0 Heading,France-FR-1-75.txt,75,97
+L0 Heading,France-FR-1-75.txt,5968,5985
+L1 Background,France-FR-1-75.txt,75,3812
+L1 Analysis,France-FR-1-75.txt,3813,6108
+L2 Outcome,France-FR-1-75.txt,5968,6108
+L0 Out of Scope,France-FR-1-73.txt,0,73
+L0 Out of Scope,France-FR-1-73.txt,3903,8763
+L0 Heading,France-FR-1-73.txt,394,417
+L0 Heading,France-FR-1-73.txt,2106,2128
+L0 Heading,France-FR-1-73.txt,3648,3665
+L1 Background,France-FR-1-73.txt,75,393
+L1 Analysis,France-FR-1-73.txt,394,3901
+L2 Outcome,France-FR-1-73.txt,3648,3901
+L0 Out of Scope,France-FR-1-74.txt,0,74
+L0 Out of Scope,France-FR-1-74.txt,1676,9583
+L0 Heading,France-FR-1-74.txt,78,116
+L0 Heading,France-FR-1-74.txt,1393,1409
+L1 Background,France-FR-1-74.txt,78,505
+L1 Analysis,France-FR-1-74.txt,508,1673
+L2 Outcome,France-FR-1-74.txt,1393,1673
+L0 Out of Scope,France-FR-1-76.txt,0,73
+L0 Out of Scope,France-FR-1-76.txt,3145,8351
+L0 Heading,France-FR-1-76.txt,719,775
+L0 Heading,France-FR-1-76.txt,2339,2355
+L1 Background,France-FR-1-76.txt,77,716
+L1 Analysis,France-FR-1-76.txt,719,3142
+L2 Outcome,France-FR-1-76.txt,2339,3142
+L0 Out of Scope,France-FR-1-78.txt,0,3641
+L0 Out of Scope,France-FR-1-78.txt,10237,46283
+L0 Heading,France-FR-1-78.txt,4962,5062
+L0 Heading,France-FR-1-78.txt,5780,5845
+L0 Heading,France-FR-1-78.txt,9527,9645
+L1 Background,France-FR-1-78.txt,3644,4959
+L1 Analysis,France-FR-1-78.txt,4962,10234
+L2 Outcome,France-FR-1-78.txt,9527,10234
+L0 Heading,France-FR-1-79.txt,398,441
+L0 Heading,France-FR-1-79.txt,6492,6579
+L0 Out of Scope,France-FR-1-79.txt,6842,12384
+L1 Analysis,France-FR-1-79.txt,5615,6841
+L2 Outcome,France-FR-1-79.txt,6492,6841
+L0 Out of Scope,France-FR-1-80.txt,0,73
+L0 Out of Scope,France-FR-1-80.txt,2918,7707
+L0 Heading,France-FR-1-80.txt,826,865
+L0 Heading,France-FR-1-80.txt,2126,2142
+L0 Heading,France-FR-1-80.txt,677,743
+L1 Background,France-FR-1-80.txt,76,676
+L1 Analysis,France-FR-1-80.txt,677,2917
+L2 Outcome,France-FR-1-80.txt,2126,2917
+L0 Out of Scope,France-FR-1-82.txt,0,74
+L0 Out of Scope,France-FR-1-82.txt,3359,12791
+L0 Heading,France-FR-1-82.txt,77,98
+L0 Heading,France-FR-1-82.txt,2364,2380
+L1 Background,France-FR-1-82.txt,77,937
+L1 Analysis,France-FR-1-82.txt,938,3358
+L2 Outcome,France-FR-1-82.txt,2364,3358
+L0 Out of Scope,France-FR-1-81.txt,0,74
+L0 Out of Scope,France-FR-1-81.txt,3629,11243
+L0 Heading,France-FR-1-81.txt,77,98
+L0 Heading,France-FR-1-81.txt,3438,3454
+L1 Background,France-FR-1-81.txt,77,2750
+L1 Analysis,France-FR-1-81.txt,2751,3628
+L2 Outcome,France-FR-1-81.txt,3438,3628
+L0 Out of Scope,France-FR-1-83.txt,0,73
+L0 Out of Scope,France-FR-1-83.txt,5329,17751
+L0 Heading,France-FR-1-83.txt,76,140
+L0 Heading,France-FR-1-83.txt,5027,5043
+L1 Background,France-FR-1-83.txt,76,3282
+L1 Analysis,France-FR-1-83.txt,3283,5328
+L2 Outcome,France-FR-1-83.txt,5027,5328
+L0 Out of Scope,France-FR-1-85.txt,0,73
+L0 Heading,France-FR-1-85.txt,76,197
+L0 Out of Scope,France-FR-1-85.txt,4836,10932
+L0 Heading,France-FR-1-85.txt,4287,4370
+L1 Background,France-FR-1-85.txt,76,3450
+L1 Analysis,France-FR-1-85.txt,3451,4835
+L2 Outcome,France-FR-1-85.txt,4287,4835
+L0 Out of Scope,France-FR-1-84.txt,0,73
+L0 Out of Scope,France-FR-1-84.txt,3677,18694
+L0 Heading,France-FR-1-84.txt,631,704
+L0 Heading,France-FR-1-84.txt,3433,3484
+L0 Heading,France-FR-1-84.txt,3571,3587
+L1 Background,France-FR-1-84.txt,76,630
+L1 Analysis,France-FR-1-84.txt,631,3675
+L2 Outcome,France-FR-1-84.txt,3571,3675
+L0 Out of Scope,France-FR-1-86.txt,0,73
+L0 Out of Scope,France-FR-1-86.txt,2427,7346
+L0 Heading,France-FR-1-86.txt,76,126
+L0 Heading,France-FR-1-86.txt,1476,1557
+L1 Background,France-FR-1-86.txt,76,827
+L1 Analysis,France-FR-1-86.txt,828,2426
+L2 Outcome,France-FR-1-86.txt,1476,2426
+L0 Out of Scope,France-FR-1-88.txt,0,73
+L0 Out of Scope,France-FR-1-88.txt,3016,16269
+L0 Heading,France-FR-1-88.txt,76,126
+L0 Heading,France-FR-1-88.txt,2353,2438
+L1 Background,France-FR-1-88.txt,76,1580
+L1 Analysis,France-FR-1-88.txt,1581,3015
+L2 Outcome,France-FR-1-88.txt,2353,3015
+L0 Out of Scope,France-FR-1-87.txt,0,73
+L0 Out of Scope,France-FR-1-87.txt,5566,16992
+L0 Heading,France-FR-1-87.txt,1852,1873
+L0 Heading,France-FR-1-87.txt,1730,1769
+L0 Heading,France-FR-1-87.txt,5415,5431
+L1 Background,France-FR-1-87.txt,76,1729
+L1 Analysis,France-FR-1-87.txt,1730,5565
+L2 Outcome,France-FR-1-87.txt,5415,5565
+L0 Heading,France-FR-1-89.txt,219,241
+L0 Heading,France-FR-1-89.txt,3942,3958
+L0 Out of Scope,France-FR-1-89.txt,4199,25838
+L1 Analysis,France-FR-1-89.txt,2480,4197
+L2 Outcome,France-FR-1-89.txt,3942,4197
+L0 Out of Scope,France-FR-1-90.txt,0,3386
+L0 Out of Scope,France-FR-1-90.txt,6648,21386
+L0 Heading,France-FR-1-90.txt,3387,3409
+L0 Heading,France-FR-1-90.txt,6410,6426
+L1 Background,France-FR-1-90.txt,3387,5000
+L1 Analysis,France-FR-1-90.txt,5001,6647
+L2 Outcome,France-FR-1-90.txt,6410,6647
+L0 Out of Scope,France-FR-1-91.txt,0,68
+L0 Out of Scope,France-FR-1-91.txt,2560,10514
+L0 Heading,France-FR-1-91.txt,72,122
+L0 Heading,France-FR-1-91.txt,1701,1776
+L1 Background,France-FR-1-91.txt,72,790
+L1 Analysis,France-FR-1-91.txt,791,2559
+L2 Outcome,France-FR-1-91.txt,1701,2559
+L0 Out of Scope,France-FR-1-92.txt,0,73
+L0 Out of Scope,France-FR-1-92.txt,12208,28650
+L0 Heading,France-FR-1-92.txt,1663,1685
+L0 Heading,France-FR-1-92.txt,5394,5415
+L0 Heading,France-FR-1-92.txt,11984,12000
+L1 Background,France-FR-1-92.txt,76,1662
+L1 Analysis,France-FR-1-92.txt,1663,12207
+L2 Outcome,France-FR-1-92.txt,11984,12207
+L0 Out of Scope,France-FR-1-93.txt,0,74
+L0 Out of Scope,France-FR-1-93.txt,5479,64412
+L0 Heading,France-FR-1-93.txt,1734,1794
+L0 Heading,France-FR-1-93.txt,2728,2767
+L0 Heading,France-FR-1-93.txt,3414,3519
+L0 Heading,France-FR-1-93.txt,4432,4448
+L1 Background,France-FR-1-93.txt,77,1733
+L1 Analysis,France-FR-1-93.txt,1734,5478
+L2 Outcome,France-FR-1-93.txt,4432,5478
+L1 Analysis,France-FR-1-1.txt,2535,4064
+L1 Background,France-FR-1-1.txt,76,2534
+L1 Background,France-FR-1-69.txt,242,2877
+L0 Out of Scope,France-FR-1-69.txt,0,240
+L1 Background,France-FR-1-14.txt,76,1202
+L1 Analysis,France-FR-1-14.txt,1203,3001
+L0 Out of Scope,France-FR-1-20.txt,0,248
+L1 Background,France-FR-1-20.txt,249,1942
+L1 Background,France-FR-1-7.txt,79,763
+L1 Analysis,France-FR-1-7.txt,766,2403
+L1 Background,France-FR-1-24.txt,76,1110
+L1 Analysis,France-FR-1-24.txt,1111,2326
+L1 Analysis,France-FR-1-40.txt,78,1284
+L0 Out of Scope,France-FR-1-49.txt,0,202
+L1 Background,France-FR-1-49.txt,205,2156
+L0 Out of Scope,France-FR-1-79.txt,0,397
+L1 Background,France-FR-1-79.txt,398,5614
+L0 Out of Scope,France-FR-1-89.txt,0,218
+L1 Background,France-FR-1-89.txt,219,2479
+L0 Out of Scope,France-FR-1-97.txt,0,69
+L0 Out of Scope,France-FR-1-97.txt,11451,30142
+L0 Heading,France-FR-1-97.txt,73,94
+L0 Heading,France-FR-1-97.txt,11163,11179
+L1 Background,France-FR-1-97.txt,73,9366
+L1 Analysis,France-FR-1-97.txt,9369,11449
+L2 Outcome,France-FR-1-97.txt,11163,11449
+L0 Out of Scope,France-FR-1-100.txt,0,73
+L0 Out of Scope,France-FR-1-100.txt,5185,39200
+L0 Heading,France-FR-1-100.txt,991,1033
+L0 Heading,France-FR-1-100.txt,3315,3393
+L1 Background,France-FR-1-100.txt,75,990
+L1 Analysis,France-FR-1-100.txt,991,5184
+L2 Outcome,France-FR-1-100.txt,4430,5184
+L0 Heading,France-FR-1-100.txt,4430,4505
+L0 Out of Scope,France-FR-1-96.txt,0,73
+L0 Out of Scope,France-FR-1-96.txt,7015,22461
+L0 Heading,France-FR-1-96.txt,610,632
+L0 Heading,France-FR-1-96.txt,4174,4195
+L0 Heading,France-FR-1-96.txt,6852,6868
+L1 Background,France-FR-1-96.txt,77,607
+L1 Analysis,France-FR-1-96.txt,610,7012
+L2 Outcome,France-FR-1-96.txt,6852,7012
+L0 Out of Scope,France-FR-1-98.txt,0,205
+L0 Heading,France-FR-1-98.txt,624,647
+L0 Heading,France-FR-1-98.txt,3487,3527
+L0 Out of Scope,France-FR-1-98.txt,4986,57557
+L1 Background,France-FR-1-98.txt,206,623
+L1 Analysis,France-FR-1-98.txt,624,4985
+L0 Heading,France-FR-1-98.txt,4687,4704
+L2 Outcome,France-FR-1-98.txt,4687,4985
+L0 Out of Scope,France-FR-1-99.txt,0,73
+L0 Out of Scope,France-FR-1-99.txt,2907,33302
+L0 Heading,France-FR-1-99.txt,273,332
+L0 Heading,France-FR-1-99.txt,421,469
+L0 Heading,France-FR-1-99.txt,1878,1895
+L1 Background,France-FR-1-99.txt,75,271
+L1 Analysis,France-FR-1-99.txt,273,2906
+L2 Outcome,France-FR-1-99.txt,1878,2906
+L0 Out of Scope,France-FR-1-95.txt,0,69
+L0 Out of Scope,France-FR-1-95.txt,7221,36554
+L0 Heading,France-FR-1-95.txt,2706,2779
+L0 Heading,France-FR-1-95.txt,4476,4520
+L0 Heading,France-FR-1-95.txt,5304,5400
+L1 Background,France-FR-1-95.txt,72,2705
+L1 Analysis,France-FR-1-95.txt,2706,7220
+L2 Outcome,France-FR-1-95.txt,5304,7220
+L0 Out of Scope,France-FR-1-94.txt,0,73
+L0 Out of Scope,France-FR-1-94.txt,6613,19024
+L0 Heading,France-FR-1-94.txt,909,988
+L0 Heading,France-FR-1-94.txt,2045,2127
+L0 Heading,France-FR-1-94.txt,3303,3386
+L0 Heading,France-FR-1-94.txt,4518,4574
+L0 Heading,France-FR-1-94.txt,5731,5747
+L1 Background,France-FR-1-94.txt,76,908
+L1 Analysis,France-FR-1-94.txt,909,6612
+L2 Outcome,France-FR-1-94.txt,5731,6612

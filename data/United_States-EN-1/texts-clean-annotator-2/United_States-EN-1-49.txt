@@ -1,0 +1,298 @@
+
+
+Pending before the Court is Plaintiff Unique S. Butler’s Second Motion for Partial Summary Judgment.  ECF No. 21.  The motion is fully briefed and is ripe for review.  For the reasons stated herein, the court determines that no hearing is necessary, Local Rule 105.6, and the motion will be granted in part and denied in part. 
+
+ 
+
+
+
+
+
+Defendant PP&G, Inc. is the owner and operator of Norma Jean’s Nite Club, a night club located in Baltimore that features semi-nude female dancers.  Plaintiff Unique S. Butler worked at various times as an exotic dancer at Norma Jean’s until August 2012, when she alleges that she was terminated. 
+
+Defendant has always classified the dancers who perform at Norma Jean’s as independent contractors.  Defendant asserts that the dancers are permitted to elect, in writing, to become either an employee or independent contractor.  To date, no dancer, 
+
+including Plaintiff, has elected to be classified as an employee.   
+
+There is no dispute that, during her time as an exotic dancer at Norma Jean’s, Plaintiff did not receive compensation in the form of hourly wages.  Rather, the only compensation Plaintiff received for her work as an exotic dancer was from customer tips.  Defendant contends that dancers were permitted to keep the entirety of their tips, save a non-mandatory, $45 cleaning or maintenance fee that they could pay to the club per shift.  Following her separation from Norma Jean’s, Plaintiff filed the present lawsuit against PP&G, Inc., arguing that, because she was misclassified by Defendant as an independent contractor rather than an employee, Defendant illegally failed to pay her wages.  She claims that, as an employee, she is entitled to back pay under the Fair Labor Standards Act, 29 U.S.C. §§ 201 et seq. (“FLSA”), and the Maryland Wage Payment and Collection Law, Md. Code Ann., Lab. & Empl. §§ 3-501 et seq. (“MWPCL”).  Defendant argues that Plaintiff elected to be an independent contractor, and thus was not entitled to wages under the FLSA and MWPCL. 
+
+Plaintiff previously filed a motion for partial summary judgment, asking the Court to find, as a matter of law, that: “(1) Plaintiff was an employee under FLSA; (2) Defendant is liable to Plaintiff under FLSA; (3) Plaintiff is entitled to 
+
+liquidated damages pursuant to § 216(b) of FLSA; and (4) Defendant violated MWPCL and thus, Plaintiff is entitled to treble damages under MWPCL.”  ECF No. 17 at 2.  Noting the dearth of a factual record, the Court denied the first motion for summary judgment on August 6, 2013.  See id.  Shortly thereafter, Plaintiff filed the present second motion for partial summary judgment, asking again for this Court to determine, as a matter of law, the same four issues.  As it appears to the Court, the only difference between the first motion for partial summary judgment and the pending, second motion for partial summary judgment is Plaintiff’s inclusion of and reliance on deposition testimony. 
+
+
+
+
+
+
+The purpose of summary judgment is to dismiss claims and defenses that lack evidentiary support.  Celotex Corp. v. Catrett, 477 U.S. 317, 323-24 (1986).  Accordingly, the Court will grant a motion for summary judgment if “there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.”  Fed. R. Civ. P. 56.  In ruling on a motion for summary judgment, all facts and inferences will be drawn in the light most favorable to the non-moving party.  Evans v. Techs. Applications & Serv. Co., 80 F.3d 954, 958 (4th Cir. 1996).  A motion for summary judgment will be denied when there is a “dispute about a material fact [that] is ‘genuine,’ 
+
+that is, if the evidence is such that a reasonable jury could return a verdict for the nonmoving party.”  Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986).   
+
+
+
+
+
+
+As the Court previously noted with respect to Plaintiff’s First Motion for Partial Summary Judgment, for a plaintiff to recover wages under the FLSA and MWPCL, the Court must find that there was an employment relationship between the plaintiff and the defendant.  An employee under the FLSA is “any individual employed by an employer,” and to employ is “to suffer or permit to work.”  29 U.S.C. §§ 203(e)(1), (g).  The FLSA has been construed liberally to ensure that it “applie[s] even to those who would decline its protections” because “employers might be able to use superior bargaining power to coerce employees to . . . waive their protections under the Act.”  Tony & Susan Alamo Found. v. Sec. of Labor, 471 U.S. 290, 296, 302 (1985).   Under the MWPCL, an employer is “any person who employs an individual in the State.”  Md. Code Ann., Lab. & Empl. § 3-501(b). 
+
+In order to determine whether an individual is an employee, courts must look to the “economic reality” of the relationship by analyzing the following six factors: 
+
+(1) The degree of control that the putative employer has over the manner in which the work is performed; 
+
+
+
+
+
+ 
+
+(2) The worker’s opportunities for profit or loss dependent on his managerial skill; 
+
+
+
+
+
+ 
+
+(3) The worker’s investment in equipment or material, or his employment of other workers; 
+
+
+
+
+
+ 
+
+(4) The degree of skill required for the work; 
+
+
+
+
+
+ 
+
+(5) The performance of the working relationship; and 
+
+
+
+
+
+ 
+
+(6) The degree to which the services rendered are an integral part of the putative employer’s business. 
+
+
+
+
+
+ 
+
+Schultz v. Capital Int’l Sec., Inc., 466 F.3d 298, 305 (4th Cir. 2006); see also United States v. Silk, 331 U.S. 704 (1947).  “No single factor is dispositive.”  Schultz, 466 F.3d at 305.  Further, “[c]ourts have also stressed that the label that the parties give to their relationship is not controlling.”  Heath v. Perdue Farms, Inc., 87 F. Supp. 2d 454, 457 (D. Md. 2000).  The ultimate question for the Court’s consideration is whether the dancers were, “as a matter of economic reality, dependent on the business they served, or, conversely, whether they were in business for themselves.”  Schultz, 466 F.3d at 305. 
+
+
+
+
+
+
+In determining whether the degree of control indicates the existence of an employer-employee relationship, courts generally consider “the degree of control that an alleged employer has in comparison to the control exerted by the worker.”  Id. (emphasis omitted).  “Where putative employers provide specific direction for how workers, particularly low-skilled workers, are to 
+
+perform their jobs, courts have weighed the control factor in favor of employee status.”  Montoya v. S.C.C.P. Painting Contractors, Inc., 589 F. Supp. 2d 569, 578 (D. Md. 2008).  The Court must resolve whether Plaintiff’s “freedom to work where she wants and for whomever she wants reflects economic independence, or whether those freedoms merely mask the economic reality of dependence.”  Reich v. Priba Corp., 890 F. Supp. 586, 592 (N.D. Tex. 1995). 
+
+Courts considering the status of exotic dancers under the FLSA generally look not only to the guidelines set by the club regarding the entertainers’ performances and behavior, but also to the club’s control over the atmosphere and clientele.  For example, in Reich v. Circle C. Investments, Inc., 998 F.2d 324 (5th Cir. 1993), the court determined that the club exerted significant control where the defendant set weekly work schedules, fined the dancers for absences and tardiness, set price levels for table dances and couch dances, set standards for costumes, and managed song selection, among other things.  Id. at 327.  Similarly, in Morse v. Mer Corp., the defendant exercised control by publishing “Entertainer Guidelines” that set minimum shift lengths, minimum charges, and behavioral prohibitions.  No. 1:08-cv-1389-WTL-JMS, 2010 WL 2346334, at *3 (S.D. Ind. June 4, 2010).  Additionally, although the court in Priba Corp. noted that the defendant exercised control over the 
+
+entertainers by setting show times and establishing behavioral guidelines, it emphasized that “the real touchstone” of the control factor was the “reality of the employment relationship.”  890 F. Supp. at 592.  Thus, the Priba court focused on the dancers’ dependence on the club for earnings, and the club’s control over advertising and atmosphere.  Id. 
+
+Here, unlike in many of the cases involving exotic dancers, see, e.g., Hart v. Rick’s Cabaret Int’l, Inc., ___ F. Supp. 2d ___, 2013 WL 4822199, at *6 (S.D.N.Y. 2013) (club exerted control where it had written behavioral guidelines, imposed fines, and imposed a dress code); Thompson v. Linda And A., Inc., 779 F. Supp. 2d 139, 148 (D.D.C. 2011) (significant control exercised where dancers were required to “sign in,” follow a schedule, were permitted to dance only for set durations, and the defendant enforced certain behavioral rules); Harrell v. Diamond A Entertainment, Inc., 992 F. Supp. 1343, 1349-50 (M.D. Fla. 1997) (economic dependence found where the club set fees, had a “stage rotation,” controlled customer volume and atmosphere, and required dancers to abide by written rules and regulations), Defendant does not appear to manage the day-to-day aspects of the dancers’ performance.  Defendant does not create work schedules for the dancers, but rather permits them to work at other clubs and to “come and go as they please.”  Walter Alexander Robinson, III Dep. 45:15-21, 79:1-4, Aug. 9, 
+
+2013.  Defendant did not mandate that Plaintiff dress or dance a certain way, did not limit the amount of lap dances she could perform, and did not limit the number of beverages a customer could purchase for her.  Unique S. Butler Dep. 40:1-10, Aug. 9, 2013.  The only behavioral guidelines that Defendant required Plaintiff to follow were those set by the Maryland State Liquor Board and the adult entertainment laws.  Robinson Dep. 51:1-14. 
+
+Defendant asserts that the only fee imposed on the Plaintiff was a non-mandatory $45 cleaning or maintenance fee.  Id. at 71:10-14.  Although Defendant recommends a minimum fee for lap dances, the manager testified that each dancer can set her own fee.  Id. at 55:13-56:4.  Plaintiff asserts that Defendant also imposed a “late fee,” mandated that she pay the DJ prior to getting on stage, and required her to tip the house mom.  Butler Dep. 20:9-13, 31:14-32:9.  Plaintiff also stated that Defendant required her to dance at particular times.  Id. at 19:11-19.  Further, she testified that, if dancers were sanctioned for any matter, they were instructed to work the day shift as punishment.  Id. at 32:6-15. 
+
+It is undisputed, however, that the Defendant alone is responsible for advertising and creating the atmosphere of the club.  Robinson Dep. 30:16-20 (“Q[:] The Defendant is responsible for the advertising, location, business hours, maintenance of facility, aesthetics, and inventory of beverages 
+
+and food?  A[:] Yes.  There’s no food.”); 33:6-12 (“Q[:] Okay.  The Plaintiff’s employment with Defendant was dependent on Defendant’s financial savvy and business know-how to keep Defendant’s business financially sound so as to keep the doors open and afford Plaintiff the opportunity to work at Norma Jean’s Nightclub?  A[:] Yes.”).  Like in Priba Corp., the visibility and quality of the club itself “dictates the flow of customers into the club.”  890 F. Supp. at 592.  Plaintiff is thus entirely dependent on the Defendant to provide her with customers, and her economic status “is inextricably linked to those conditions over which [Defendant has] complete control.”  Id. 
+
+Thus, although viewing the facts in the light most favorable to the Defendant suggests that Defendant does not exercise control over the day-to-day decisions and work of its dancers, it exercises significant control over the atmosphere, clientele, and operation of the club.  Thus, this factor likely tips in favor of economic dependence, as Defendant exclusively controls the flow of customers, on which Plaintiff depended for her income.  
+
+
+
+
+There is no dispute as to whether Plaintiff had the opportunity for profit or loss while working as an exotic dancer at Norma Jean’s.  Walter Robinson, in his deposition, was asked: 
+
+Q [Did Plaintiff] have the opportunity to enjoy in the profit or loss of the business of Norma Jean’s Nightclub [sic]? 
+
+ 
+
+A No. 
+
+ 
+
+Q So the profits or the losses – 
+
+ 
+
+A Yeah.  She wasn’t involved with the profits or losses at Norma Jean’s. 
+
+ 
+
+Robinson Dep. 17:20-18:5.  This factor therefore weighs in favor of a finding that Plaintiff was an employee. 
+
+
+
+
+
+
+The only monetary contributions that Plaintiff arguably made to Norma Jean’s was in the form of a tip or fee to the DJ, a tip to the “house mom,” and a $45 tip-out, or cleaning fee, for every shift that she worked.  See Butler Dep. 20:9-13, 31:14-32:9.  To the extent that these funds were used for the benefit of the nightclub, however, they were used only for the purpose of cleaning, not for investments.  See Lisa Ireland Dep. 17:19-18:11, Aug. 9, 2013 (funds not used for resurfacing of the pool tables, only for cleaning); Robinson Dep. 18:6-16, 58:21-59:16.  Therefore, this factor also weighs in favor of Plaintiff being considered an employee. 
+
+
+
+
+There is no dispute that little to no skill was required to dance at Norma Jean’s.  When asked whether PP&G required dancers to have previous certifications, education, or experience, the 
+
+manager of Norma Jean’s stated that “[n]o skill was necessary.  No skill was required.”  Robinson Dep. 33:13-18.  Thus, the lack of a requirement of specialized skills is “indicative of employee status.”  Dole v. Snell, 875 F.2d 802, 811 (10th Cir. 1989).   
+
+
+
+
+
+
+As to the permanence and duration of the working relationship, Plaintiff was generally permitted to work without a specified end date and could come and go as she pleased.  Robinson Dep. 45:15-21, 79:1-4.  Additionally, she was free to work at other adult entertainment clubs.  This factor tends to weigh in favor of independent contractor status.  As other courts have noted in considering this factor, however, “it is entitled to only modest weight in assessing employee status under the FLSA.”  Hart, ___ F. Supp. 2d at ____, 2013 WL 4822199, at *14; see also Priba Corp., 890 F. Supp. at 593 (“Because dancers tend to be itinerant, the court must focus on the nature of their dependence.”).   As the District Court for the Southern District of New York recently noted in regard to a similar challenge, “[t]hat dancers were free to work at other clubs or in other lines of work, and that they were not permanent employees, do[es] not distinguish them from countless workers in other areas of endeavor who are undeniably employees 
+
+under the FLSA – for example, waiters, ushers, and bartenders.”  Hart, ___ F. Supp. 2d at ___, 2013 WL 4822199, at *14.  
+
+
+
+
+
+
+It is undisputed that Defendant maintains an adult entertainment business at Norma Jean’s Nite Club.  Defendant asserts that, although the club features dancers, dancers are not integral to the operation of the business.  Rather, Defendant characterizes Norma Jean’s as “a sports bar” with pool tables, and contends that dancers constitute but one of the features.  Robinson Dep. 19:5-10, 31:2-7.  Defendant states that it makes all of its profits off of the sale of alcoholic beverages, not the exotic dancers. 
+
+Courts have routinely noted that the presence of exotic dancers are “essential,” or “obviously very important,” to the success of a topless nightclub.  See, e.g., Harrell, 922 F. Supp. at 1352; Martin v. Circle C. Invs., Inc., No. MO-91-CA-43, 1991 WL 338239, at *4 (W.D. Tex. Mar. 27, 1991).  For example, the court in Hart stated, in considering the club owners’ argument that “the Club’s restaurant, bar, and televisions served to attract customers,” that “[n]o reasonable jury could conclude that exotic dancers were not integral to the success of a club that marketed itself as a club for exotic dancers.”  ___ F. Supp. 2d at ___, 2013 WL 4822199, at *14.   
+
+Here, any contention that the exotic dancers were not integral to the operation of Norma Jean’s flies in the face of logic.  The presence of the exotic dancers was clearly a major attraction of the club, and increased significantly the sales of alcoholic beverages and, accordingly, the profits earned by PP&G.  Further, unlike the club in Hart, Norma Jean’s does not serve food or have a restaurant.  Rather, the only attractions, aside from exotic dancers, are televisions and pool tables.  Because no reasonable jury could determine that exotic dancers were not integral to the success of Norma Jean’s, this factor also tips in favor of employee status. 
+
+
+
+
+
+
+Considering the preceding factors in conjunction, and resolving all disputes of fact in favor of the Defendant, the Court concludes that Plaintiff was an employee, not an independent contractor, at Norma Jean’s Nite Club.  Although Defendant asserts that Plaintiff elected to become an independent contractor, neither the label placed on an employment relationship, nor an individual’s subjective belief about her employment status, are dispositive.  See, e.g., Clincy v. Galardi South Enterprises, Inc., 808 F. Supp. 2d 1326, 1329 (N.D. Ga. 2011).  Defendant controlled the economic opportunity of the Plaintiff.  Plaintiff did not have the opportunity for profit or loss, did not invest in the club, and did not have any 
+
+specialized skills.  Moreover, work of the type performed by Plaintiff as an exotic dancer is integral to the operation of the club.  Regardless of the Defendant’s characterization of the relationship as that of an independent contractor, “[w]here the work done, in its essence, follows the usual path of an employee, putting on an ‘independent contractor’ label does not take the worker from the protection of the [Fair Labor Standards] Act.”  Rutherford, 331 U.S. at 729. 
+
+
+
+
+
+
+Having determined that Plaintiff was an employee pursuant to the FLSA, Plaintiff next asks the Court to determine whether Defendant is liable to Plaintiff under the FLSA.  Pursuant to the FLSA, an employer must pay an employee an hourly wage no less than the federal minimum wage.1  29 U.S.C. § 206.  An employer who violates the minimum wage provisions is generally “liable to the employee or employees affected in the amount of their unpaid minimum wages . . . and in an additional equal amount as liquidated damages.”  29 U.S.C. § 216(b). 
+
+1 Plaintiff asserts that she is entitled to minimum wage payments of $7.25 per hour.  Because the amount of damages owed by Defendant is not implicated in the present Motion for Partial Summary Judgment, the Court makes no determination on the minimum wage that Plaintiff was entitled to be paid. 
+
+Here, Defendant does not contend that it paid Plaintiff wages, or that the fees earned by Plaintiff for services performed, like lap dances, are properly counted against its 
+
+statutory wage obligations.  Thus, it is undisputed that Defendant did not pay Plaintiff minimum wage in accordance with the FLSA.  Defendant is, therefore, liable to Plaintiff under the FLSA. 
+
+
+
+
+
+
+ 
+
+Plaintiff contends that, in addition to damages in the amount of her unpaid minimum wages, Defendant is also liable for liquidated damages under the FLSA.  Generally, an employer liable for minimum wage violations under the FLSA is liable both for unpaid wages and liquidated damages in an equal amount.  29 U.S.C. § 216(b).  If the employer “shows to the satisfaction of the court that the act or omission giving rise to such action was in good faith and that he had reasonable grounds for believing that his act or omission was not a violation of the Fair Labor Standards Act,” however, the Court may, in its discretion, decline to award liquidated damages.  The Fourth Circuit has generally interpreted § 260 as placing a “‘plain and substantial burden’ upon the employer to persuade the court that the ‘failure to obey the statute was both in good faith and predicated upon such reasonable grounds that it would be unfair to impose upon him more than a compensatory verdict.’” Mayhew v. Wells, 125 F.3d 216, 220 (4th Cir. 1997) (quoting Brinkley-Obu v. Hughes Training, Inc., 36 F.3d 336, 357 (4th Cir. 1994)). 
+
+Here, Defendant failed to oppose, in its response, Plaintiff’s contention that she is entitled to liquidated damages.  Thus, Defendant has essentially left uncontradicted Plaintiff’s assertion that Defendant “cannot produce any documented evidence that it relied on any legal opinion, Department of Labor Opinion, or other written guidance to mitigate its failure to pay wages as required by law.”  ECF No. 21-1 at 31.  The deposition of Walter Robinson supports this contention.  In his deposition, the following exchange occurred: 
+
+Q  Defendant did not rely on any U.S. Department of Labor opinion in your decision not to pay Plaintiff wages as required by law? 
+
+ 
+
+A  I don’t understand this question.  
+
+ 
+
+Q  You didn’t rely on any cases or any laws or opinions by the U.S. Department of Labor? 
+
+ 
+
+A  Not myself, no. 
+
+ 
+
+Q  Okay. And Defendant did not rely on Maryland Department of Labor opinion in your decision not to pay Plaintiff wages as required by law, correct? 
+
+ 
+
+A  Say that again.  I’m sorry. 
+
+ 
+
+Q  You did not rely on any Maryland Department of Labor opinion?  The last one was U.S.  This one is Maryland. 
+
+ 
+
+A  Okay. 
+
+ 
+
+Q  In your decision not to pay wages as required – 
+
+ 
+
+A  No, not myself personally. 
+
+ 
+
+Q  Okay.  And Defendant did not rely on any Fourth Circuit opinion in your decision not to pay Plaintiff wages as required by law, correct? 
+
+ 
+
+A  (Nodding head.) 
+
+ 
+
+Q  Okay.  Defendant did not rely on any Maryland Court opinion in your decision not to pay Plaintiff wages as required by law? 
+
+ 
+
+A  No. 
+
+ 
+
+Q  Defendant cannot produce any document or evidence that it relied on any legal opinion, Department of Labor opinion, or other written guidance to mitigate its failure to pay wages as required by law?  You can’t rely on any legal authority or opinion, any Department of Labor opinion, or other written guidance to mitigate its failure to pay – your failure to pay wages as required by law? 
+
+ 
+
+A  No. 
+
+ 
+
+Robinson Dep. 37:12-39:5; see also Ireland Dep. 7:9-8:7.  Moreover, no deposition testimony suggests that Defendant’s decision to classify Plaintiff rested on any reasoned grounds.  Rather, to the extent that Defendant explained its decision, it simply proffered that Department of Labor opinions did not apply, notwithstanding its ability to look up those opinions and other legal authority in the public record, see Ireland Dep. 7:9-8:7; Robinson Dep. 79:20-80:18, that it did not consult with the Liquor Board regarding its independent contractor classifications, id. at 80:19-81:7, and that “no one’s ever had a problem with [its independent contractor classifications] before.”  Id. at 81:5-7.  Because Defendant has not demonstrated 
+
+that its violation of the statute was in good faith and based on reasonable grounds, the Court therefore finds that Plaintiff is entitled to liquidated damages under the FLSA. 
+
+
+
+
+
+
+ 
+
+Last, Plaintiff contends that she is entitled to reimbursement of wage deductions made by Defendant.  Under the Maryland Wage Payment and Collection Law, Md. Code Ann., Lab. & Empl. § 3-503, “[a]n employer may not make a deduction from the wage of an employee unless the deduction is: (1) ordered by a court of competent jurisdiction; (2) authorized expressly in writing by the employee; (3) allowed by the Commissioner because the employee has received full consideration for the deduction; or (4) otherwise made in accordance with any rule or regulation issued by a governmental unit.”   
+
+The Court does not, at this juncture, have sufficient information to make a determination regarding Plaintiff’s alleged right to the reimbursement of wage deductions.  First, Plaintiff does not specify in her motion for partial summary judgment the nature of the deductions she is seeking to recoup.  Specifically, the deposition testimony reveals that Plaintiff allegedly paid a $45 maintenance or cleaning fee, a late fee, a mandatory “tip” to the house mom, and a mandatory “tip” to the DJ.  See Butler Dep. 31:14-32:6, 44:8-19.  In her motion, 
+
+however, Plaintiff asserts simply that the Defendant “made deductions from Plaintiff’s pay via charges, fees, mandated by Defendant to be paid by Plaintiff to Defendant.”  ECF No. 21-1 at 45.  Although Plaintiff specifically mentions the $45 maintenance or cleaning fee in her Reply, it is unclear if that is the extent of her request on this point. 
+
+Second, the Court does not have sufficient information at this time to determine whether any fees or fines paid by the Plaintiff appropriately qualify as deductions from her wages under § 3-503.  It is clear from the language of § 3-503 that, to be prohibited under the statute, the alleged deduction must not simply be a deduction from pay.  Rather, it must be a deduction from her wages.  The entire premise of Plaintiff’s suit, however, is that until this point, the only income Plaintiff has received from her employment with the Defendant has come in the form of tips – not wages.  It is therefore unclear, and the briefing by the parties is insufficient to determine, whether the fees paid by Plaintiff are properly considered to be deductions from her wages that would therefore be impermissible under § 3-503, or whether they are more appropriately construed as tip deductions.  Although the Court views this primarily as a legal issue, it notes that neither party identified nor briefed this point.  Based on the pleadings filed before the Court, therefore, it cannot determine at this 
+
+juncture that Plaintiff is entitled to judgment as a matter of law with respect to this issue.  See, e.g., Hart, ___ F. Supp. 2d at ___, 2013 WL4822199, at *28 (ordering supplemental briefing and denying cross-motions for summary judgment under an analogous provision of the New York Labor Law where the issue was neither identified nor addressed by either party).   
+
+
+
+
+For the foregoing reasons, Plaintiff’s Second Motion for Partial Summary Judgment will be granted in part and denied in part.  What remains at issue for trial is the amount of damages that are due to Plaintiff.  A scheduling conference, to be held via telephone, will be set for Thursday, November 21, 2013, at 10:00 a.m., in a call to be initiated by the Plaintiff, for the purpose of selecting a trial date.  Additionally, as a trial date approaches, the Court may, at a later date, order supplemental briefing regarding Plaintiff’s entitlement to reimbursement of wage deductions.  A separate order will issue. 
+
+ 
+
+

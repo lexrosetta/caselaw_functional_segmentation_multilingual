@@ -1,0 +1,208 @@
+
+
+KSRE130911522
+
+ECLI:DE:BSG:2010:200710UB2U1709R0
+
+BSG
+
+2. Senat
+
+20100720
+
+B 2 U 17/09 R
+
+Urteil
+
+§ 200 Abs 2 Halbs 1 SGB 7, § 21 Abs 2 SGB 10, § 67 SGB 10, §§ 67ff SGB 10, § 67c SGB 10, § 69 SGB 10, § 76 SGB 10, § 84 Abs 1a SGB 10, § 84 Abs 2 S 1 SGB 10, § 14 Abs 5 S 3 SGB 9, § 14 Abs 5 S 4 SGB 9, § 20 Abs 2 Nr 1 BDSG 1990, § 1 Abs 2 BDSG 1990, § 1 Abs 3 S 1 BDSG 1990
+
+Titel
+
+(Gesetzliche Unfallversicherung - sozialrechtliches Verwaltungsverfahren - Sozialdatenschutz - Löschungsanspruch gem § 84 Abs 2 S 1 SGB 10 - Gutachterauswahlrecht gem § 200 Abs 2 Halbs 1 SGB 7 - etwaige Verletzung - Heilung - Rügeobliegenheit des Versicherten gegenüber dem Unfallversicherungsträger: unverzügliche Mitteilung)
+
+Leitsätze
+
+Ein Versicherter, der meint, dass nicht der von ihm gewählte Arzt das Gutachten erstellt, muss dem Unfallversicherungsträger unverzüglich mitteilen, dass er sein Auswahlrecht verletzt sieht (Rügeobliegenheit).
+
+Tenor
+
+Die Revision des Klägers gegen das Urteil des Landessozialgerichts Nordrhein-Westfalen vom 3. September 2008 wird zurückgewiesen.
+
+Kosten sind nicht zu erstatten.
+
+Tatbestand
+
+1
+
+Der Kläger begehrt von der Beklagten die Löschung eines von ihr eingeholten medizinischen Sachverständigengutachtens.
+
+2
+
+Auf die ärztliche Anzeige einer Berufskrankheit (BK) teilte die Beklagte dem Kläger mit Schreiben vom 13.5.2003 mit, dass beabsichtigt sei, das Vorliegen einer BK durch ein ärztliches Gutachten feststellen zu lassen. Sie schlug als Gutachter Dr. Sch., , Dr. B., , und die "Orthopädische Gemeinschaftspraxis Prof. Dr. Dr. A., , " vor. Ferner wies sie darauf hin, dass das Gutachten auf Grund einer Untersuchung erstattet werden soll, zu der der Gutachter andere Ärzte hinzuziehen könne, und der Kläger der Übermittlung der Unterlagen über die bisherigen Feststellungen an den Gutachter nach den Vorschriften über den Sozialdatenschutz gemäß § 76 Abs 2 SGB X widersprechen könne. Mit eigenhändigem Schreiben vom 20.5.2003 erklärte der Kläger sein Einverständnis mit dem Gutachter "Orthopädische Gemeinschaftspraxis Prof. Dr. Dr. A.".
+
+3
+
+Dr. S. erstellte am 27.7.2003 als Mitglied der Orthopädischen Gemeinschaftspraxis Prof. Dr. Dr. A. nach Untersuchung des Klägers (am 25.7.2003) ein Gutachten. Daraufhin lehnte die Beklagte die Feststellung einer BK nach Nr 2108 (BK 2108) der Anlage zur Berufskrankheiten-Verordnung ab (Bescheid vom 2.10.2003; Widerspruchsbescheid vom 16.12.2003).
+
+4
+
+Der Kläger hat hiergegen am 6.1.2004 beim SG Köln geklagt. Am 20.5.2005 beantragte er bei der Beklagten, das Gutachten von Dr. S. vom 27.7.2003 zu löschen, hilfsweise, es zu sperren. Dies lehnte die Beklagte im Bescheid vom 22.7.2005 ab. Das SG hat "die Klage" abgewiesen (Urteil vom 30.11.2005). Sowohl die Ablehnung der Feststellung einer BK 2108 als auch die der Entfernung des Gutachtens aus den Verwaltungsakten, die nach § 96 SGG Gegenstand des Verfahrens geworden sei, seien rechtmäßig; der Kläger habe ein etwaiges Rügerecht verwirkt.
+
+5
+
+Das LSG Nordrhein-Westfalen hat das Verfahren, soweit die Klagen gegen die Ablehnung des Löschungsanspruchs gerichtet waren, zur gesonderten Verhandlung und Entscheidung abgetrennt und zur Nachholung des Widerspruchsverfahrens ausgesetzt. Nachdem die Beklagte den Widerspruch zurückgewiesen hatte (Widerspruchsbescheid vom 19.7.2007), hat es die Berufung des Klägers zurückgewiesen (Urteil vom 3.9.2008). Das Gutachten von Dr. S. sei nicht wegen Verstoßes gegen das in § 200 Abs 2 SGB VII geregelte Widerspruchs- und Auswahlrecht in rechtlich unzulässiger Weise zu Stande gekommen. Mit der Auswahl der "Orthopädischen Gemeinschaftspraxis Prof. Dr. Dr. A." habe der Kläger der Übermittlung seiner Sozialdaten an die Gemeinschaftspraxis zugestimmt. Ihm seien auch mehrere Gutachter vorgeschlagen worden. Dass sich sein Einverständnis nicht auf die Gemeinschaftspraxis, sondern allein auf Prof. Dr. Dr. A. bezogen habe, sei nicht zu erkennen gewesen. Aber auch unabhängig davon sei das von einem nicht namentlich bezeichneten Mitglied einer Gemeinschaftspraxis erstellte Gutachten nicht zu entfernen. Nach der Rechtsprechung des BSG könnten lediglich Verstöße gegen das Widerspruchsrecht durch Entfernung des Gutachtens aus der Akte geheilt werden.
+
+6
+
+Mit der vom BSG zugelassenen Revision rügt der Kläger die Verletzung seines Löschungsanspruchs aus § 84 Abs 2 Satz 1 SGB X. Das Gutachten von Dr. S. sei wegen Verstoßes gegen sein Auswahl- und Widerspruchsrecht des § 200 Abs 2 SGB VII zu löschen. Eine Gemeinschaftspraxis sei kein Gutachter im Sinne dieser Vorschrift, sondern eine Gesellschaft bürgerlichen Rechts, bei der allein die Ärzte als Rechtspersonen höchstpersönlich handelten. Da das Gutachterauswahlrecht nicht nur zur Verbesserung der Verfahrenstransparenz beitragen, sondern auch die Mitwirkungsrechte der Versicherten stärken solle, sei die Benennung eines individualisierten Arztes zwingend erforderlich. Nach dem Empfängerhorizont sei lediglich Prof. Dr. Dr. A. als Gutachter vorgeschlagen worden. Dieser hätte das Gutachten erstellen und dafür Sorge tragen müssen, dass die sich aus der Begutachtung ergebenden Daten den anderen Ärzten der Gemeinschaftspraxis nicht zugänglich gemacht würden. Mit der Auswahl der Orthopädischen Gemeinschaftspraxis Prof. Dr. Dr. A. sei kein Einverständnis zur Übermittlung der Sozialdaten an die anderen Ärzte der Gemeinschaftspraxis erklärt worden. Von einem Versicherten könnten Kenntnisse über den rechtlichen Status einer Gemeinschaftspraxis nicht verlangt werden. Durch die Datenübermittlung an Dr. S. sei zudem das Recht auf informationelle Selbstbestimmung verletzt worden. Dieser Verstoß ziehe ein Beweisverwertungsverbot nach sich. Dem stehe nicht entgegen, dass Prof. Dr. Dr. A. in einer späteren Stellungnahme zu demselben Ergebnis wie Dr. S. gekommen sei.
+
+7
+
+Der Kläger beantragt,die Urteile des Landessozialgerichts Nordrhein-Westfalen vom 3. September 2008 und des Sozialgerichts Köln vom 30. November 2005 sowie die ablehnende Entscheidung im Bescheid der Beklagten vom 22. Juli 2005 in der Gestalt des Widerspruchsbescheides vom 19. Juli 2007 aufzuheben und die Beklagte zu verpflichten, festzustellen, dass er einen Anspruch auf Löschung des Gutachtens des Dr. S. vom 27. Juli 2003 hat, hilfsweise, die Beklagte zu verurteilen, das Gutachten von Dr. S. vom 27. Juli 2003 zu löschen.
+
+8
+
+Die Beklagte beantragt,die Revision zurückzuweisen.
+
+9
+
+Sie schließt sich den Ausführungen der Vorinstanz an.
+
+Entscheidungsgründe
+
+10
+
+Die zulässige Revision ist nicht begründet. Das LSG hat die Berufung des Klägers gegen das Urteil des SG zu Recht zurückgewiesen. Der Kläger hat keinen Anspruch gegen die Beklagte auf Löschung des von ihr im Verwaltungsverfahren eingeholten medizinischen Sachverständigengutachtens.
+
+11
+
+1. Das LSG hatte zulässig den Rechtsstreit über den Löschungsanspruch von demjenigen über den Anspruch auf Feststellung einer BK 2108 getrennt und gesondert über den streitigen Löschungsanspruch entschieden. Denn es handelt sich um zwei unterschiedliche Rechtsfolgen und somit um unterschiedliche Streitgegenstände. Ferner ersetzt oder ändert die Feststellung der Beklagten, der Kläger habe keinen Löschungsanspruch gegen sie, ihre Feststellung nicht, er habe gegen sie keinen Anspruch auf Feststellung einer BK 2108. Daher war die den Löschungsanspruch verneinende Feststellung entgegen dem SG nicht Gegenstand des die Feststellung einer BK 2108 betreffenden Klageverfahrens iS des § 96 Abs 1 SGG geworden.
+
+12
+
+Die Entscheidung über den Löschungsanspruch ist für die Entscheidung des Rechtsstreits um die BK 2108 und diese für jene darüber hinaus auch nicht vorgreiflich iS des § 114 Abs 2 Satz 1 SGG. Dies gilt auch für die Frage, ob das ärztliche Gutachten, das der Kläger gelöscht haben will, im Streit um die BK 2108 verwertbar ist. Denn der Löschungsanspruch hängt allein von der Unzulässigkeit einer Speicherung von Sozialdaten ab. Hingegen ist für diesen Anspruch unerheblich, ob ein von der Verwaltung eingeholtes und tatsächlich nicht gelöschtes (Verwaltungs-) Gutachten vom Gericht (im Urkundsbeweis) gewürdigt werden darf oder einem Beweisverwertungsverbot unterfällt und deshalb für die Überzeugungsbildung des Gerichts nicht verwertbar ist. Denn die Frage der Verwertbarkeit von Sozialdaten stellt sich dem Gericht nur hinsichtlich solcher von einem Träger übermittelter Sozialdaten, die ihm "ungelöscht" zur Kenntnis gebracht wurden. Eine spätere, ggf gerichtlich erstrittene, tatsächliche Löschung der Daten in den Dateiträgern/Akten der Verwaltung kann diese erworbene Kenntnis des Gerichts, gegen das der Löschungsanspruch nicht gerichtet ist, nicht beseitigen.
+
+13
+
+2. Die zulässige Anfechtungsklage (§ 54 Abs 1 SGG) gegen die Feststellung der Beklagten, der Kläger habe keinen Löschungsanspruch gegen sie, ist unbegründet. Denn dieser Verwaltungsakt (vom 22.7.2005 in der Gestalt des Widerspruchsbescheides vom 19.7.2007) ist rechtmäßig und verletzt den Kläger nicht in seinen Rechten.
+
+14
+
+Daher konnte offen bleiben, mit welcher Klage in Fällen der vorliegenden Art die Anfechtungsklage zulässigerweise verbunden werden kann. Der Kläger hat sie (entsprechend der Rechtsprechung des Senats, Urteil vom 21.3.2006 - B 2 U 24/04 R - SozR 4-1300 § 84 Nr 1 RdNr 25; vgl auch BVerwG, Urteil vom 9.6.2010 - 6 C 5/09) mit einer Verpflichtungsklage (Verpflichtung der Beklagten zur Feststellung eines Anspruchs auf Löschung) kombiniert. Er hat sie hilfsweise mit einer (unechten <§ 54 Abs 4 SGG> oder echten <§ 54 Abs 5 SGG>) Leistungsklage auf tatsächliche Durchführung der Löschung verbunden (vgl zu den Klagearten VG Karlsruhe, Urteil vom 14.4.2010 - 3 RK 2309/09; Bieresborn in: von Wulffen, SGB X, § 84 RdNr 10). Unabhängig davon, ob die Verpflichtungsklage als spezielle Leistungsklage oder die unechte oder die allgemeine Leistungsklage gegeben und zulässig war, stand fest, dass (nur und jedenfalls) eine dieser Klagen zulässig war, sodass das BSG in jedem Fall zu einer Entscheidung in der Sache befugt war. Einer Bestimmung, welche dieser Klagen zulässig war, bedurfte es trotz des Haupt- und Hilfsantrags nicht, weil jede von ihnen, sofern zulässig, unbegründet war. Denn sie alle sind nur dann begründet, wenn der Kläger den abgelehnten Löschungsanspruch hat. Mit der Abweisung der Anfechtungsklage gegen diese Ablehnung steht aber fest, dass der Kläger keinen Anspruch gegen die Beklagte auf Feststellung eines Anspruchs auf Löschung und auch keinen Anspruch unmittelbar auf Löschung durch die Beklagte hat.
+
+15
+
+Deshalb war auch nicht zu entscheiden, ob die das Leistungsbegehren betreffenden Revisionsanträge des Klägers, "das Gutachten" zu löschen, hinreichend bestimmt waren. Dies war zweifelhaft, weil er grundsätzlich die Sozialdaten, deren Löschung er begehrt, so genau hätte bezeichnen müssen, dass im Urteil klar hätte ausgesprochen werden können, was die Beklagte in dem Gutachten hätte löschen müssen.
+
+16
+
+3. Die Feststellung der Beklagten, der Kläger habe keinen Löschungsanspruch gegen sie, ist rechtmäßig.
+
+17
+
+Als Anspruchsgrundlage kommt einzig § 84 Abs 2 Satz 1 SGB X in Betracht (a). Die Beklagte war zuständig und befugt, über den Löschungsanspruch des Klägers zu entscheiden (b). Die "Speicherung" des Gutachtens war zulässig. Selbst wenn vorliegend eine Verletzung des Auswahlrechts aus § 200 Abs 2 Halbs 1 SGB VII vorliegen sollte und diese überhaupt geeignet wäre, die Unzulässigkeit der "Speicherung" zu begründen, wäre dieser Verfahrensmangel unbeachtlich geworden, weil der Kläger ihn der Beklagten nicht rechtzeitig mitgeteilt hat (c).
+
+18
+
+a) Nach § 84 Abs 2 Satz 1 SGB X sind Sozialdaten zu löschen, wenn ihre Speicherung unzulässig ist. Der vom Informationseingriff Betroffene hat das Recht, vom Träger die Unkenntlichmachung seiner unzulässig gespeicherten Sozialdaten zu verlangen.
+
+19
+
+Diese Norm ist, wie in der genannten Senatsentscheidung vom 21.3.2006 vorausgesetzt, eine Anspruchsgrundlage. Der Bürger kann eine Löschung beanspruchen, obwohl § 38 SGB I (Rechtsanspruch bei gebundenen Sozialleistungen auch ohne Feststellung eines individualschützenden Normzwecks) nicht gilt. Denn § 84 Abs 2 Satz 1 SGB X ist eine drittschützende Norm. Sie soll dem Schutz der von einem Informationseingriff betroffenen Bürger, mithin einem von der Allgemeinheit abgrenzbaren Personenkreis, dienen und ihnen die Rechtsmacht zuweisen, gegen die Verwaltung durchzusetzen, dass die Ergebnisse des Eingriffs, die gespeicherten Sozialdaten, gelöscht werden.
+
+20
+
+§ 20 Abs 2 Nr 1 Bundesdatenschutzgesetz (BDSG), der gemäß § 1 Abs 2 BDSG nur auf personenbezogene Daten anwendbar ist, ist gegenüber § 84 Abs 2 Satz 1 SGB X subsidiär (§ 1 Abs 3 Satz 1 BDSG; vgl auch § 84 Abs 1a SGB X; offen gelassen im BSG-Urteil vom 13.10.1992 - 5 RJ 16/92 - BSGE 71, 170 ff). Denn § 84 Abs 2 Satz 1 SGB X ist eine Rechtsvorschrift des Bundes, die die Löschung (auch) personenbezogener (Sozial-) Daten regelt.
+
+21
+
+b) Die Beklagte war zuständig und befugt, verbindlich festzustellen, der Kläger habe den gegen sie erhobenen Löschungsanspruch nicht. Wie ua § 83 Abs 4 bis 6 SGB X hinsichtlich der Ablehnung eines Auskunftsanspruchs zeigt, lässt es das Gesetz iS des Gesetzesvorbehalts des § 31 SGB I zu, dass der Verwaltungsträger über das Bestehen eines im Zusammenhang mit gespeicherten Daten gegen ihn erhobenen Anspruchs selbst verbindlich entscheiden darf.
+
+22
+
+c) Die Speicherung des Gutachtens war zulässig iS des § 84 Abs 2 Satz 1 SGB X.
+
+23
+
+aa) Es konnte offen bleiben, ob ein Löschungsanspruch nach Einfügung eines in Papierform erstellten Gutachtens in eine Verwaltungsakte, die ein "Speichern auf einem Datenträger" iS des § 84 Abs 2 Satz 1 iVm § 67 Abs 6 Satz 2 Nr 1 SGB X ist, entgegen dem Gesetzeswortlaut die Löschung des ganzen Gutachtens oder nur diejenige von einzelnen unzulässig gespeicherten Sozialdaten erfasst. Unterstellt, der Anspruch erfasse die Löschung des ganzen Gutachtens, hat die Beklagte nach den Maßstäben des Sozialdatenschutzes des § 35 SGB I iVm §§ 67 ff SGB X zulässig gehandelt (§ 67c Abs 1 Satz 1 und Abs 2 Satz 1 SGB X). Denn das Einfügen des Gutachtens in die Verwaltungsakte war zur Erfüllung der Aufgabe der Beklagten erforderlich, über das Bestehen eines Anspruchs auf Feststellung einer BK 2108 rechtmäßig zu entscheiden. Die Daten waren ferner zu dem Zweck gespeichert worden, die das Verfahren abschließende Entscheidung darüber vorzubereiten und ggf später zu überprüfen, ob der Kläger die medizinischen Voraussetzungen einer BK 2108 erfüllt und den erhobenen Feststellungsanspruch hat.
+
+24
+
+bb) SGB X-spezifische Unzulässigkeitsgründe liegen nicht vor. Insbesondere berührt die Rüge des Klägers, es sei infolge der Verletzung seines Auswahlrechts auch sein Widerspruchsrecht verletzt, nicht die Zulässigkeit einer Speicherung von Sozialdaten gemäß § 67c Abs 1 Satz 1 und Abs 2 Satz 1 SGB X.
+
+25
+
+Die Beklagte hatte den Kläger gemäß § 200 Abs 2 SGB VII ua auf sein Widerspruchsrecht aus § 76 Abs 2 Nr 1 SGB X hingewiesen. Ferner war sie zur Datenübermittlung an die "Gemeinschaftspraxis Prof. Dr. Dr. A." nach § 69 Abs 1 Nr 1 SGB X sowie wegen des eigenhändig erklärten "Einverständnisses" des Klägers mit dieser Gemeinschaftspraxis als Gutachter befugt, unabhängig davon, ob der Kläger damit für sie nicht erkennbar gemeint hatte, er habe nur Prof. Dr. Dr. A. persönlich als Gutachter ausgewählt. Außerdem war sie (auch) zur Entgegennahme der von dem im Geheimnisverbund des § 78 Abs 1 Satz 1 SGB X stehenden Dr. S. erhobenen Daten gemäß § 76 Abs 2 Nr 1 SGB X ermächtigt. Der Kläger hatte nicht widersprochen.
+
+26
+
+cc) Die Beachtung des Auswahlrechts ist in § 67c SGB X nicht als Zulässigkeitsvoraussetzung einer Speicherung von Sozialdaten ausgestaltet. Auch keine andere Vorschrift des SGB regelt ausdrücklich, dass eine Verletzung des Auswahlrechts die Rechtsfolge der Unzulässigkeit der Speicherung von Sozialdaten begründet.
+
+27
+
+§ 200 Abs 2 Halbs 1 SGB VII sieht diese Rechtsfolge jedenfalls nicht ausdrücklich vor.
+
+28
+
+Es musste aber nicht abschließend geklärt werden, ob diese Vorschrift dennoch so verstanden werden darf, als ob sie gleichwohl die Unzulässigkeit der Speicherung sinngemäß und noch hinreichend bestimmt anordne. Denn die mögliche Verletzung dieses Verfahrensrechts des Klägers war unbeachtlich geworden.
+
+29
+
+Es kann offen bleiben, ob die Beklagte das einfachgesetzliche verwaltungsverfahrensrechtliche Auswahlrecht des Klägers aus § 200 Abs 2 Halbs 1 SGB VII verletzt hat.
+
+30
+
+Nach dieser Vorschrift "soll" - dh im Regelfall, wenn mehrere geeignete Gutachter vorhanden sind, "muss" - der Unfallversicherungsträger vor Erteilung eines Gutachtensauftrags dem Versicherten mehrere Gutachter zur Auswahl benennen. Dies entspricht im Regelfall dem Auswahlrecht aus § 14 Abs 5 Satz 3 und 4 SGB IX. Auch danach wird dem Wunsch des Leistungsberechtigten Rechnung getragen, wenn dieser sich für einen der (im Regelfall drei) vom Leistungsträger benannten Sachverständigen entschieden hat. Die Gutachter, zwischen denen der Versicherte auswählen darf, müssen folglich "benannt" werden. Ein eigenes, den Träger bindendes Vorschlagsrecht hat der Versicherte hingegen nicht (vgl Kranig in: Hauck/Noftz, SGB VII, K § 200 RdNr 11 und Gutachtenkolloquium, Band 13, 1998, S 35, 44; Ricke in: Kasseler Komm, SGB VII, § 200 RdNr 3; Franke in: LPK-SGB VII, § 200 RdNr 3; Kliegel in: Lauterbach, SGB VII, 4. Aufl, 6. Lfg., März 1998, § 200 RdNr 8, 14; Becker, MEDSACH 2006, 74 f; Neumann, Unfallmedizinische Tagungen Heft 97, 1997, S 231, 239; Plagemann, NJW 1996, 3173, 3176). Dies spricht dafür, dass die Gutachter genau mit ihrem "Namen" (einschließlich der Berufsbezeichnung und der Anschrift) zu benennen sind. Nur dann ist grundsätzlich sichergestellt, dass der Versicherte ohne eigene Nachforschungen darüber, wen der Träger als Gutachter zur Auswahl vorschlägt, sich über die Benannten unterrichten und eine sachlich begründete Auswahl unter ihnen treffen kann. Wird hingegen eine Gemeinschaftspraxis nur mit dem Namen eines ihrer Ärzte bezeichnet, werden die anderen Gutachter gerade nicht benannt.
+
+31
+
+Es musste ebenfalls nicht entschieden werden, ob der Kläger erkannt hatte, dass die "Gemeinschaftspraxis Prof. Dr. Dr. A." aus mehreren Ärzten und aus welchen sie bestand und ob er durch sein eigenhändiges Schreiben des Inhalts, er wähle diese Gemeinschaftspraxis, alle Ärzte der Gemeinschaftspraxis als Gutachter "auswählen" wollte.
+
+32
+
+dd) Eine (mögliche) Verletzung des Auswahlrechts war nämlich unbeachtlich geworden und konnte schon deshalb keine Unzulässigkeit der Speicherung begründen. Der Kläger war nämlich seiner verwaltungsverfahrensrechtlichen Obliegenheit nicht nachgekommen, der Beklagten unverzüglich mitzuteilen, dass nicht der von ihm angeblich allein ausgewählte Gutachter Prof. Dr. Dr. A., sondern der von ihm nach seinem Vortrag nicht ausgewählte Dr. S. die Begutachtung übernommen hatte.
+
+33
+
+Ein Versicherter, der meint, dass nicht der von ihm ausgewählte Arzt das Gutachten erstellt, muss dem Unfallversicherungsträger unverzüglich mitteilen, dass er sein Auswahlrecht verletzt sieht (Rügeobliegenheit).
+
+34
+
+Grundsätzlich hat er dies unverzüglich anzuzeigen, sobald er erkennt, dass ein anderer als der von ihm gewählte Gutachter vom Träger zum Gutachter bestellt wurde oder die Begutachtung übernimmt. Das muss er nicht hinnehmen; es obliegt ihm aber, sein Auswahlrecht unverzüglich zu verteidigen. Daher kann nach den Umständen des Einzelfalls seine Mitwirkung an einer Gutachtenerstellung durch einen vom Träger bestellten Gutachter, den der Versicherte zuvor als von ihm nicht ausgewählt erkannt hat, die Genehmigung der vom Träger getroffenen Gutachterauswahl bedeuten. Erkennt der Versicherte den Fehler ausnahmsweise erst später, etwa bei Kenntnisnahme von dem Gutachten, obliegt es ihm besonders dringlich, dies unverzüglich dem Träger mitzuteilen. Denn nur dann kann dieser sofort die Lage klären und notfalls rechtzeitig ein Gutachten des vom Versicherten ausgewählten Sachverständigen einholen. Nur so kann der Träger sicherstellen, dass er seine das Verwaltungsverfahren abschließende Entscheidung auf ein Gutachten stützen kann, das ohne eine Verletzung des Auswahlrechts erstellt wurde.
+
+35
+
+Das Auswahlrecht des § 200 Abs 2 Halbs 1 SGB VII ist rein verwaltungsverfahrensrechtlicher Natur. Es ermöglicht dem Bürger eine qualifizierte Mitwirkung bei der behördlichen Ermittlung des Sachverhalts von Amts wegen (§ 20 SGB X) und dient der Förderung der Akzeptanz des das Verwaltungsverfahren abschließenden Verwaltungsakts des Unfallversicherungsträgers, soweit er dem Gutachten des vom Bürger ausgewählten Gutachters folgt. Dadurch dient es mittelbar auch der besseren Durchsichtigkeit ("Transparenz") der Entscheidungsfindung des Trägers und des Datenflusses für den Versicherten.
+
+36
+
+Das Auswahlrecht bezweckt ausschließlich, im jeweiligen Verwaltungsverfahren einen inhaltlich richtigen und für den Versicherten akzeptablen verfahrensabschließenden Verwaltungsakt vorzubereiten. Von einer (beabsichtigten) Begutachtung durch einen vom Versicherten nicht ausgewählten Gutachter muss der Sozialversicherungsträger unverzüglich erfahren, um die Rechtsverletzung zu verhindern oder zu beseitigen und das Verfahren unter Beachtung des Auswahlrechts durchführen zu können. Der Bürger, der bei der Ermittlung des Sachverhalts mitwirken und insbesondere ihm bekannte Tatsachen angeben soll (§ 21 Abs 2 Satz 1 und 2 SGB X), ist hier der einzige, der eine Verletzung seines Auswahlrechts rechtzeitig abwenden oder eine Heilung dieses Verfahrensfehlers rechtzeitig anstoßen kann.
+
+37
+
+Eine Verletzung des Auswahlrechts kann grundsätzlich nur bis zum Abschluss des jeweiligen Verwaltungsverfahrens vom Unfallversicherungsträger geheilt werden. Deshalb wird die Verletzung, auch wenn sie ungeheilt bleibt, mit dem Abschluss des Verwaltungsverfahrens grundsätzlich unbeachtlich (vgl zur Rügeobliegenheit im Prüfungsrecht BVerwGE 96, 126, 129 ff, Juris-RdNr 18 f).
+
+38
+
+Dies gilt nur dann nicht, wenn der Bürger ausnahmsweise die Verletzung seines Auswahlrechts vor dem Erlass des abschließenden Verwaltungsakts nicht erkennen konnte, also keine Möglichkeit zur Rechtsverteidigung hatte, oder wenn der Träger das Auswahlrecht trotz einer rechtzeitigen Rüge des Bürgers nicht als verletzt ansieht und keine Heilung veranlasst. Dann kann der Bürger den Mangel auch noch im Widerspruchsverfahren geltend machen, sodass die Ausgangsbehörde, die auch die Abhilfebehörde ist, oder die Widerspruchsbehörde noch eine Heilung im Verantwortungsbereich der Verwaltung herbeiführen kann.
+
+39
+
+Wird erst danach gerügt, ist eine zweckwahrende Heilung des Auswahlrechts, die zu einem verfahrensfehlerfreien Abschluss des Verwaltungsverfahrens allein durch eine Entscheidung der Verwaltung führt, nicht mehr möglich. War nämlich eine (bestehende) Verletzung des Auswahlrechts auch bis zum Ende des Widerspruchsverfahrens nicht zu erkennen oder wurde sie, obwohl rechtzeitig gerügt, auch von der Widerspruchsbehörde des Trägers verneint, kann der Zweck des Auswahlrechts in dem jeweiligen Verwaltungsverfahren, in dem es besteht, nicht mehr erreicht werden. Der Verfahrensfehler bleibt ggf nur noch nach Maßgabe des § 42 Satz 1 SGB X rechtserheblich und kann nicht gesondert angefochten werden (so auch Kranig in: Hauck/Noftz, SGB VII, K § 200 RdNr 26 und K § 199 RdNr 5; aA Thüringer LSG, Urteil vom 22.1.2009 - L 1 U 1089/06 - Juris RdNr 40; offen gelassen ua in BSGE 100, 25, 39 f, RdNr 57 f mwN; kritisch dazu C. Wagner in jurisPK-SGB VII, § 200 RdNr 51). Er führt zur Aufhebung des verfahrensabschließenden Verwaltungsakts, wenn nicht offensichtlich ist, dass die Auswahlrechtsverletzung die Entscheidung der Verwaltung in der Sache nicht beeinflusst hat.
+
+40
+
+ee) Der Kläger hat den (angeblichen) Verfahrensmangel im Verwaltungsverfahren nicht rechtzeitig angezeigt. Er hat die Beklagte in Kenntnis der Begutachtung durch Dr. S. bis zum Verfahrensabschluss nicht darauf hingewiesen, dass er mit seiner eigenhändigen Erklärung nur Prof. Dr. Dr. A. als Gutachter habe wählen wollen. Daher kam es für die Zulässigkeit der im Verwaltungsverfahren erfolgten Speicherung des Gutachtens des Dr. S. auf diesen nicht einmal mit dem Widerspruch, sondern erst vor dem SG gerügten Mangel des Verwaltungsverfahrens nicht an.
+
+41
+
+ff) Es gibt auch keine anwendbare Rechtsnorm außerhalb des SGB, welche die Speicherung eines Gutachtens datenschutzrechtlich für unzulässig erklärt, wenn das Gutachten von einem Gutachter erstellt wurde, den der Bürger nicht als Sachverständigen ausgewählt hat.
+
+42
+
+Insbesondere das vom Kläger angeführte Grundrecht auf informationelle Selbstbestimmung (Art 2 Abs 1 iVm Art 1 Abs 1 GG), ein Abwehrrecht, verbietet die Speicherung eines Gutachtens in solchen Fällen nicht. Es gebietet dem Gesetzgeber grundsätzlich auch nicht, ein verletztes einfachgesetzliches Auswahlrecht als Unzulässigkeitsgrund für eine derartige Speicherung einzuführen. Dass das Auswahlrecht mittelbar auch die Durchsichtigkeit der Entscheidungsfindung des Trägers und die des Datenflusses für den Versicherten fördert, bedeutet noch nicht, dass es vom Schutzbereich des Rechts auf informationelle Selbstbestimmung umfasst wird und somit grundsätzlich allen Bürgern gegen alle Verwaltungsträger zustünde. Vielmehr ist es ein grundrechtlich nicht gebotenes, aber für ein bürgernahes Verwaltungsverfahren nützliches, einfachgesetzliches Verfahrensrecht der Versicherten gegen die Unfallversicherungsträger (und der Behinderten in Teilhabeverfahren).
+
+43
+
+Die Kostenentscheidung beruht auf §§ 183, 193 SGG.
+

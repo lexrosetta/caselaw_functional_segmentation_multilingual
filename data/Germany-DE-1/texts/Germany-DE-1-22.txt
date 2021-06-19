@@ -1,0 +1,738 @@
+
+
+JURE159015733
+
+BPatG
+
+München
+
+4. Senat
+
+20150429
+
+4 Ni 26/13 (EP)
+
+Urteil
+
+§ 83 Abs 4 PatG, § 227 ZPO, § 99 Abs 1 PatG, § 282 Abs 1 ZPO
+
+Titel
+
+Patentnichtigkeitsklageverfahren – "apparatus (europäisches Patent)" – zur Berücksichtigung einer beschränkenden Änderung der Anspruchsfassung – zum Verlangen einer Vertagung zur Nachrecherche
+
+Leitsätze
+
+apparatus
+
+1. Ob die Berücksichtigung einer beschränkenden Änderung der Anspruchsfassung des Streitpatents im Nichtigkeitsverfahren, welche zwar im Hinblick auf § 83 Abs. 4 PatG verspätet erfolgt, aber entschuldigt ist, einen von der Klägerin gestellten Antrag auf Vertagung der mündlichen Verhandlung nach § 227 ZPO rechtfertigt, bedarf einer Prüfung des geltenden gemachten Sachgrundes im Einzelfall unter Berücksichtigung der Kriterien der auch im Nichtigkeitsverfahren für die Parteien geltenden allgemeinen Prozessförderungspflicht (Fortführung zu BGH GRUR 2004, 254 – Crimpwerkzeug I).
+
+2. Das Verlangen einer Vertagung kann jedenfalls von der Klägerin dann nicht mit einer gewünschten Nachrecherche zur Patentfähigkeit eines in der mündlichen Verhandlung geänderten Anspruchs begründet werden, wenn dessen Fassung lediglich einer von der Klägerin selbst bereits schriftsätzlich geforderten Beseiti-gung einer unzulässigen Verallgemeinerung des Inhalts der Anmeldung durch Aufnahme der geforderten beschränkenden Merkmale aus der Beschreibung Rechnung trägt und wenn die Klägerin keine konkreten Gesichtspunkte geltend macht, weshalb im Rahmen der durchgeführten Recherche keine vorsorgliche Einbeziehung der geforderten Änderung zumutbar war (Abgrenzung zu BGH GRUR 2004, 254 – Crimpwerkzeug I; Urt. des Senats v. 4 Ni 13/11 Urt. v. 15.1.2013 – Dichtungsring)
+
+Tenor
+
+In der Patentnichtigkeitssache
+
+…
+
+…
+
+betreffend das europäische Patent 0 899 016
+
+(DE 698 16 199)
+
+hat der 4. Senat (Nichtigkeitssenat) des Bundespatentgerichts auf die mündliche Verhandlung vom 24. Februar 2015 durch den Vorsitzenden Richter Engels sowie den Richter Dipl.- Ing. Univ. Rippel, die Richterin Kopacek und die Richter Dr.- Ing. Dorfschmidt und Dipl.- Ing. Brunn für Recht erkannt:
+
+I. Das europäische Patent EP 0 899 016 wird mit Wirkung für das Hoheitsgebiet der Bundesrepublik Deutschland für nichtig erklärt, soweit es über die nachfolgende Fassung hinausgeht:
+
+1. An apparatus (20) for use in applying powder coating material to an object comprising a spray gun (24) having a handle portion (26), an extension portion (28) which is connected with the handle portion (26), a nozzle (42) connected with the extension portion (28), an electrode (46) disposed adjacent to the nozzle (42) and away from which electrostatically charged coating material flows toward the object, a coating material flow control member (74) connected with the handle portion (26) and manually operable to an actuated condition to initiate a flow of coating material from a coating material passage (62) in said extension portion (28) through the nozzle (42) toward the object, and a coating material passage (62) in said extension portion (28),
+
+characterised in that the apparatus has a valve (94), a conduit (98) and a controller (70) which, simultaneously with opening of a valve (54) and closing of a switch (78), operates the valve (94) to an open condition to enable electrode wash air under pressure from a source (96) of electrode wash air to flow through the conduit (98) to the handle portion (26) and from the handle portion (26) of the spray gun (24) through the extension portion (28) of the spray gun (24),
+
+the spray gun (24) also has a purge air flow control member (110) connected with the handle portion (26) and which is manually operable to initiate a flow of air from the coating material passage (62) in the extension portion (28) through the nozzle (42) to remove coating material from the spray gun (24).
+
+2. An apparatus (20) as claimed in Claim 1 further including a voltage multiplier unit (48) disposed within the spray gun (24), and an air passage (102) extending at least part way through the spray gun (24), the air passage (102) being at least partially defined by the voltage multiplier unit (48) to expose a portion of the voltage multiplier unit (48) to a flow of air through the air passage (102).
+
+3. An apparatus (20) as claimed in Claim 1 or Claim 2 wherein the coating material flow control member (74) is pivotally connected with the handle portion (26) and is pivotal relative to the handle portion (26) about a first axis, the purgeair flow control member (110) is pivotally connected with the handle portion (26) and is pivotal relative to the handle portion (26) about the first axis.
+
+4. An apparatus (20) as claimed in any preceding claim further including a membrane switch unit (124) connected with the handle portion (26), the membrane switch unit (124) including a first membrane switch (220) which is actuated by operation of the coating material flow control member (74) from the unactuated condition to the actuated condition and a second membrane switch (224) which is actuated by operation of the purge air flow control membrane (110) from the unactuated condition to the actuated condition.
+
+5. An apparatus (20) as claimed in any preceding claim wherein the handle portion (26) includes a base (30) formed of an electrically insulating material and means (322) for engaging anyone of a plurality of hand grips (106) of different sizes to enable the spray gun (24) to be adapted for manual engagement by operators having hands of different sizes, each of the hand grips (106) of the plurality of hand grips (106) being formed of an electrically conductive material and being connected with an electrical ground (109) when connected with the base (30) of the handle portion (26) of the spray gun (24).
+
+6. An apparatus (20) according to anyone of the preceding claims wherein the nozzle (42) is to direct a flow of coating material toward the object, and the apparatus (20) comprises a switch assembly (124) disposed on the handle portion (26) to control the flow of coating material, the switch assembly (124) including first (228) and second (248) layers of electrically insulating material, a first switch element (234) disposed between the first (228) and second (248) layers of electrically insulating material and a second switch element (260) disposed between the first (228) and second (248) layers of electrically insulating material, the first switch element (234) being resiliently deflectable relative to the second switch element (260) from an unactuated condition in which the first switch element (234) is spaced from the second switch element (260) to an actuated condition in which at least a portion of the first switch element (234) engages the second switch element (260), the first layer (228) of electrically insulating material being deflectable under the influence of force transmitted from the coating material flow control member (74) upon manual movement of the coating material flow control member (74) from a first position to a second position, the first switch element (234) being resiliently deflected from the unactuated condition to the actuated condition under the influence of force transmitted from the first layer (228) of electrically insulating material to the first switch element (234) upon deflection of the first layer (228) of electrically insulating material.
+
+7. An apparatus (20) according to anyone of Claims 1 to 4 wherein the handle portion (26) is manually engageable, the extension portion (28) extends outward from the handle portion (26) and the nozzle (42) is to direct the flow of coating material toward the object, the handle portion (26) including a base (30) and means (332) for engaging anyone of a plurality of hand grips (106) of different sizes to enable the spray gun (24) to be adapted for manual engagement by operators having hands of different sizes.
+
+8. An apparatus (20) as claimed in either Claim 5 or Claim 7 wherein the base (30) of the handle portion (26) includes an outer side surface which is engageable with an inner side surface on anyone of the hand grips (106) of the plurality of hand grips (106) the means (332) for engaging anyone of the hand grips of a plurality of hand grips includes a clamp member (324) which is formed of an electrically conductive material and is pressed against an outer side surface of the said one hand grip (106) to clamp the said one hand grip (106) against the base (30) of the handle portion (26), the clamp member (324) being connected with an electrical ground (109).
+
+9. An apparatus (20) according to anyone of Claims 1 to 6, wherein the handle portion (26) is manually engageable, the extension portion (28) extends outward from the handle portion (26), and the nozzle (42) is to direct a flow of coating material toward the object, the handle portion (26) of the spray gun (24) including an outer wall (140) and an inner wall structure (138) which cooperates with the outer wall (140) to at least partially define a first portion of a purge air passage (130) which extends through the handle portion (26) and is connected with a source of air (114) under pressure, the inner wall structure (138) being at least partially formed as one piece with the outer wall (140) of the handle portion (26) of the spray gun (24) the extension portion (28) including an outer wall (46) and an inner wall structure (144) which cooperates with the outer wall (140) of the extension portion (28) to at least partially define a second portion of the purge air passage (130), the inner wall structure (144) of the extension portion (28) being at least partially formed as one piece with the outer wall (146) of the extension portion (28), the second portion of the purge air passage (130) extending from the handle portion (26) into the extension portion (28).
+
+10. An apparatus (20) according to Claim 1 wherein the spray gun (24) has a housing (34), the nozzle being to direct a flow of coating material toward the object, the spray gun (24) further comprising a voltage multiplier unit (48) disposed in the housing (34) of said spray gun (24) and connected with the electrode (46), and an air passage (102) in the housing (34) of the spray gun (24) to conduct a flow of air, the voltage multiplier unit (48) having an outer surface area which is exposed to the flow of air through the air passage (102) in the housing (34) of the spray gun (24) to) promote heat transfer from the voltage multiplier unit (48).
+
+II. Im Übrigen wird die Klage abgewiesen.
+
+II. Die Kosten des Verfahrens werden gegeneinander aufgehoben.
+
+III. Das Urteil ist im Kostenpunkt gegen Sicherheitsleistung in Höhe von 120 % des zu vollstreckenden Betrages vorläufig vollstreckbar.
+
+Tatbestand
+
+1
+
+Gegenstand des Nichtigkeitsverfahrens ist das unter Inanspruchnahme der US-amerikanischen Priorität vom 29. August 1997 am 20. August 1998 angemeldete, auch mit Wirkung für Deutschland erteilte europäische Patent EP 0 899 016, deutsches Aktenzeichen DE 698 16 199.8 (Streitpatent), mit der Bezeichnung „Spray gun“. Das in englischer Sprache abgefasste Streitpatent umfasst 10 Patentansprüche, welche sämtlich angegriffen sind.
+
+2
+
+Der erteilte Patentanspruch 1 lautet in der Verfahrenssprache Englisch:
+
+3
+
+„1. An apparatus (20) for use in applying coating material to an object comprising a spray gun (24) having a handle portion (26), an extension portion (28) which is connected with the handle portion (26), a nozzle (42) connected with the extension portion (28), an electrode (46) disposed adjacent to the nozzle (42) and away from which electrostatically charged coating material flows toward the object, a coating material flow control member (74) connected with the handle portion (26) and manually operable to an actuated condition to initiate a flow of coating material from a coating material passage (62) in said extension portion (28) through the nozzle (42) toward the object, and a coating material passage (62) in said extension portion (28),
+
+4
+
+characterised in that the spray gun (24) also has a purge air flow control member (110) connected with the handle portion (26) and which is manually operable to initiate a flow of air from the coating material passage (62) in the extension portion (28) through the nozzle (42) to remove coating material from the spray gun (24).”
+
+5
+
+Wegen des Wortlauts der weiteren angegriffenen Ansprüche 2 bis 10, die direkt oder indirekt auf Patentanspruch 1 rückbezogen sind, wird auf die Streitpatentschrift Bezug genommen.
+
+6
+
+Die Klägerin macht geltend, dass der Gegenstand des Streitpatents sowohl in der erteilten als auch in den gemäß Hilfsanträgen 2, 3 und 4 verteidigten Fassungen nach Art. 52 EPÜ i. V. m. Art. II § 6 Abs. 1 Nr. 1 IntPatÜG wegen fehlender Patentfähigkeit, insbesondere wegen fehlender Neuheit und fehlender erfinderischer Tätigkeit für nichtig zu erklären sei. Sie beruft sich hierbei auf folgende Dokumente und Schriften:
+
+7
+
+Anlage MBP01 Europäische Patentschrift 0 899 016 B1
+
+8
+
+Anlage MBP02 deutschsprachige Übersetzung DE 698 16 199 T2 des Streitpatents
+
+9
+
+Anlage MBP03 Registerauszug des DPMA zur EP 0 899 016.8
+
+10
+
+Anlage MBP05 Produktbroschüre der Pulverbeschichtungspistole OptiFlex®2
+
+11
+
+Anlage MBP06 Merkmalsgliederung des Anspruchs 1
+
+12
+
+Anlage MBP07 JOT Nr. 7, 2009, S. 20-22
+
+13
+
+Anlage MBP08 ELECTROSTATIC POWDER COATING, S. 1-28
+
+14
+
+Anlage MBP09 IEEE, Volume IGA-4, Nr. 5, October 1969, S. 1089
+
+15
+
+Anlage MBP10 ELECTROSTATIC POWDER COATING, S. 47-50
+
+16
+
+Anlage MBP11 Betriebsanleitung „SURE COAT“ (1997)
+
+17
+
+Anlage MBP12 METAL FINISHING, August 1988, S. 33-36
+
+18
+
+Anlage MBP13 DE 2 346 630 A
+
+19
+
+Anlage MBP14 US 3 169 882 A
+
+20
+
+Anlage MBP15 Lehrbuch der Lacke und Beschichtungen, S. 86-89
+
+21
+
+Anlage MBP16 Prüfungsbescheid zur DE 198 38 275 A1
+
+22
+
+Anlage MBP17 Recherchebericht zur EP 1 980 330 A2
+
+23
+
+Anlage MBP18 Recherchebericht zur EP 0 899 016 B1
+
+24
+
+Anlage MBP19 Deckblatt der US 6 375 094 B1
+
+25
+
+Anlage MBP20 Auszug aus Produktkatalog GRACO, 1995
+
+26
+
+D1 EP 0 611 603 A1
+
+27
+
+D2 US 3 740 612 A
+
+28
+
+D3 US 5 381 962 A
+
+29
+
+D4 US 3 606 170 A
+
+30
+
+D5 US 3 837 575 A
+
+31
+
+D6 US 4 193 546 A
+
+32
+
+D7 US 4 176 793 A
+
+33
+
+D8 DE 25 55 137 C3
+
+34
+
+D9 DE 296 08 899 U1
+
+35
+
+D10 DE 1 652 276 A
+
+36
+
+D11 EP 0 089 817 A2
+
+37
+
+D12 US 5 056 720 A
+
+38
+
+D13 WO 2012/052255 A1
+
+39
+
+D14 EP 1 980 330 A2
+
+40
+
+D15 US 3 801 009 A
+
+41
+
+D16 EP 0 718 042 A1
+
+42
+
+D17 EP 0 572 236 A2
+
+43
+
+D18 US 3 941 964 A
+
+44
+
+D19 US 5 829 681 A
+
+45
+
+D20 DE 198 38 275 A1
+
+46
+
+D21 EP 0 599 498 A1
+
+47
+
+D22 US 4 598 871 A
+
+48
+
+D23 WO 03/031075 A1
+
+49
+
+D24 US 4 437 614 A
+
+50
+
+D25 US 3 873 023 A
+
+51
+
+D26 DE 690 25 073 T2
+
+52
+
+D27 DE 34 23 874 A1
+
+53
+
+D28 US 4 219 865 A
+
+54
+
+D29 US 2 657 098 A
+
+55
+
+D30 Auszug aus I-Lack 11/96, S. 668, 669
+
+56
+
+D31 EP 0 547 397 A1
+
+57
+
+D32 US 5 320 283 A
+
+58
+
+D33 EP 0 227 992 A2
+
+59
+
+D34 EP 0 620 045 A1 (mit Betriebsanleitung und Ersatzteilliste).
+
+60
+
+Die Klägerin vertritt die Auffassung, dass die erteilten und hilfsweise verteidigten Patentansprüche, insbesondere im Hinblick auf die D1 und D2, nicht neu seien. Zudem sei der Gegenstand des Streitpatents in der erteilten Fassung sowie in den hilfsweise verteidigten Fassungen dem Fachmann nahegelegt im Hinblick auf D1, D3, D30, D31 und MBP14.
+
+61
+
+Hinsichtlich des von der Beklagten mit Schriftsatz vom 4. August 2014 bzw. 18. Februar/19. Februar 2015 eingereichten Hilfsantrags 2 hat die Klägerin geltend gemacht, dass dieser unzulässig sei. Der insoweit beanspruchte Gegenstand stelle eine unzulässige Erweiterung gegenüber der ursprünglichen Offenbarung (Art. II § 6 Abs. 1 Nr. 3 IntPatÜG i. V. m. Art. 138 Abs. 1 lit. c EPÜ) dar, da zum einen nach der Lehre des Streitpatents der Kanal mit der Bezugsziffer (62) nur in Verbindung mit dem Einlasskanal (60) gemeinsam offenbart sei. Zum anderen stünden die beiden Ventile (94) und (54) nicht mehr – wie ursprünglich offenbart – im Zusammenhang, die Koordination zueinander bleibe vielmehr offen.
+
+62
+
+Den von der Beklagten in der mündlichen Verhandlung eingereichten Hilfsantrag 2 in korrigierter Version rügt die Klägerin nach § 81 Abs. 4 PatG als verspätet, da sie bereits im Oktober auf die Problematik der Unzulässigkeit des Hilfsantrags 2 hingewiesen habe. Die von der Beklagten korrigierte Formulierung des Hilfsantrags 2 schränke den Anspruch darüber hinaus in nicht zulässiger Weise ein, da ohne Präzisierung nur von „einem Ventil“ und „einem Schalter“ die Rede sei. Zudem sei der Gegenstand des Streitpatents nach Hilfsantrag 2 nicht erfinderisch, insbesondere habe eine weitere Optimierung der Pistole nach D1 nahegelegen und das dortige Design spreche auch nicht gegen die Integration des weiteren Spülkanals.
+
+63
+
+Die Klägerin beantragt,
+
+64
+
+das Patent EP 0 899 016 mit Wirkung für das Hoheitsgebiet der BR Deutschland in vollem Umfang für nichtig zu erklären.
+
+65
+
+Die Beklagte beantragt,
+
+66
+
+die Klage abzuweisen, hilfsweise die Klage abzuweisen, soweit das Streitpatent mit dem Hilfsantrag 2 in der mündlichen Verhandlung vom 24. Februar 2015 und hinsichtlich der Hilfsanträge 3 und 4 in der mit den Schriftsätzen vom 18. Februar 2015 und 19. Februar 2015 eingereichten Fassung (Bl. 759 ff. d. A.) verteidigt wird.
+
+67
+
+Die Beklagte tritt der Argumentation der Klägerin in allen Punkten entgegen. Sie erachtet die Nichtigkeitsklage für nicht begründet und vertritt die Ansicht, dass das Streitpatent in der erteilten Fassung, zumindest aber in einer der hilfsweise verteidigten Fassungen gegenüber dem Stand der Technik neu sei und auf erfinderischer Tätigkeit beruhe. Die hilfsweise verteidigten Fassungen seien, insbesondere die in Hilfsantrag 2 verteidigte Fassung, gegenüber der ursprünglichen Offenbarung nicht unzulässig erweitert.
+
+68
+
+Die Patentansprüche 1 bis 10 des Streitpatents nach Hilfsantrag 2 entsprechen dem Urteilsausspruch. Zum Wortlaut der übrigen Hilfsanträge 3 und 4 wird auf den Akteninhalt verwiesen.
+
+69
+
+Der Senat hat den Parteien einen frühen gerichtlichen Hinweis nach § 83 Abs. 1 PatG zugeleitet. Auf diesen Hinweis vom 22. April 2014 wird Bezug genommen (Bl. 427 ff. d. A.).
+
+70
+
+Im Übrigen wird auf die gewechselten Schriftsätze der Parteien samt Anlagen und auf das Protokoll der mündlichen Verhandlung am 24. Februar 2015 Bezug genommen.
+
+Entscheidungsgründe
+
+I.
+
+71
+
+Die auf den Nichtigkeitsgrund der fehlenden Patentfähigkeit (Art. II § 6 Abs. 1 Nr. 1 IntPatÜG i. V. m. Art. 138 Abs. 1 lit. a EPÜ) gestützte Klage ist zulässig. Sie erweist sich aber nur teilweise als begründet. Soweit das Streitpatent nach Hilfsantrag 2 in zulässiger Weise in beschränkter Fassung verteidigt wird, ist die Klage unbegründet und daher abzuweisen.
+
+II.
+
+72
+
+Hauptantrag
+
+73
+
+Der Gegenstand des Patentanspruchs 1 in der erteilten Fassung erweist sich nicht als patentfähig, da die beanspruchte Lehre zwar neu ist (Art. 54 EPÜ), jedoch für den angesprochenen Fachmann im Zeitpunkt der Anmeldung des Streitpatents durch den im Verfahren befindlichen Stand der Technik nahegelegt war (Art. 56 EPÜ) und sich deshalb der auf fehlende Patentfähigkeit gerichtete Nichtigkeitsangriff nach Art. II § 6 Abs. 1 Nr. 1 IntPatÜG i. V. m. Art. 138 Abs. 1 lit. a EPÜ als begründet erweist.
+
+74
+
+1. Der Gegenstand des Streitpatents betrifft eine Vorrichtung, die Beschichtungsmaterial auf einen Gegenstand aufträgt. Insbesondere betrifft das Streitpatent eine Spritzpistole, die einen elektrostatisch aufgeladenen Beschichtungsmaterialstrom zu einem zu beschichtenden Gegenstand führt (Absatz [0001] des Streitpatents). Gemäß den weiteren Ausführungen der Beschreibung sind aus dem Stand der Technik bereits derartige Spritzpistolen bekannt, die in ihrem Aufbau und ihrer Arbeitsweise zufriedenstellend seien. Dennoch sei es wünschenswert, den Aufbau der Spritzpistole zu vereinfachen, den Bedienungskomfort während der Anwendung der Spritzpistole zu erhöhen und die Fähigkeit der Spritzpistole zum Auftragen einer gleichmäßigen Beschichtung des Materials auf einen Gegenstand zu erhöhen [0002].
+
+75
+
+2. Zur Lösung der Aufgabe sieht der nach Hauptantrag verteidigte Patentanspruch 1 in deutscher Übersetzung folgenden Gegenstand vor (Merkmalsgliederung hinzugefügt):
+
+76
+
+1. Vorrichtung (20) zur Anwendung beim Auftrag von Beschichtungsmaterial auf einen Gegenstand, umfassend eine Spritzpistole (24) mit
+
+77
+
+2. einem Griffteil(26),
+
+78
+
+3. einem Verlängerungsteil (28),
+
+79
+
+3.1 das mit dem Griffteil (26) verbunden ist,
+
+80
+
+4. einer Düse (42),
+
+81
+
+4.1 die mit dem Verlängerungsteil (28) verbunden ist,
+
+82
+
+5. einer Elektrode (46),
+
+83
+
+5.1 die benachbart zur Düse (42) angeordnet ist und von der elektrostatisch aufgeladenes Beschichtungsmaterial weg zum Gegenstand hin strömt,
+
+84
+
+6. einem Beschichtungsmaterialstromreglungselement (74),
+
+85
+
+6.1 das mit dem Griffteil (26) verbunden ist und
+
+86
+
+6.2 manuell in einen eingestellten Zustand schaltbar ist, um einen Beschichtungsmaterialstrom aus einem Beschichtungsmaterialkanal (62) in dem Verlängerungsteil (28) durch die Düse (42) zum Gegenstand hin zu initiieren,
+
+87
+
+7. einem Spülluftstromreglungselement (110),
+
+88
+
+7.1 das mit dem Griffteil (26) verbunden ist und
+
+89
+
+7.2 das manuell schaltbar ist, um einen Luftstrom aus dem Beschichtungsmaterialkanal (62) in dem Verlängerungsteil (28) durch die Düse (42) zu initiieren, um Beschichtungsmaterial aus der Spritzpistole (24) zu entfernen.
+
+90
+
+3. Als Fachmann zur Lösung dieser Aufgabe berufen sieht der Senat einen Fachhochschul-Ingenieur der Fachrichtung Maschinenbau an, der mehrere Jahre Berufserfahrung in der Entwicklung und Konstruktion von Spritzpistolen aufweist und dabei auch spezifische Kenntnisse über das elektrostatische Spritzen besitzt.
+
+91
+
+Insoweit ist hinsichtlich der im Streitpatent genannten subjektiven Zielsetzung darauf hinzuweisen, dass diese auch unter Berücksichtigung der maßgeblichen objektivierten Aufgabenstellung als zutreffend gesehen wird, da diese unter Berücksichtigung dessen, was die Lehre des Streitpatents gegenüber dem Stand der Technik tatsächlich leistet, als grundsätzliche Aufgabenstellung gelten kann (zur Formulierung der Aufgabe BGH GRUR 2010, 602 – Gelenkanordnung; GRUR 2015, 352 – Quetiapin), eine weitere Verbesserung der Qualität durch eine noch gleichmäßigere Beschichtung zu erreichen.
+
+92
+
+Insoweit ist die vorliegend maßgebliche Problemstellung allerdings nicht auf (Weiter-) Entwicklungen spezifischer elektrotechnischer Fragestellungen gerichtet, sondern geht von dem bereits lange vor dem Prioritätstag bekannten und in die allgemeine Spritztechnik längst Eingang gefundenen elektrostatischen Spritzen aus. Der danach maßgebliche Fachmann ist nicht vor spezifisch elektrotechnische Problemlösungen gestellt und kennt dabei ebenfalls die Problematik einer erforderlichen häufigen Spülung der Spritzpistole, die ebenso von den Beschichtungsmaterialien sowie den darin verwendeten Feststoffpartikeln abhängig ist. Er verfolgt dabei auch Überlegungen, wie entsprechende Verbesserungen gegenüber dem Stand der Technik und damit insbesondere auch bezüglich der D1 erreicht werden könnten. Dieses Problem und die Lösung betreffen danach im Wesentlichen keine spezifischen elektrotechnischen Fragestellungen und damit auch nicht das Arbeitsfeld des Elektroingenieurs, wie die Beklagte gemeint hat, sondern Vereinfachungen im Arbeitsablauf bzw. in der Anwendungstechnik durch konstruktive Verbesserungen der Pistole und ihres Aufbaus, so dass der hier angesprochene Fachmann zur Problemlösung nicht einmal ein Team mit einem Elektroingenieur bilden musste.
+
+93
+
+4. Der Fachmann legt für die Vorrichtung nach Patentanspruch 1 gemäß Hauptantrag folgendes Verständnis zugrunde:
+
+Abbildung in Originalgröße in neuem Fenster öffnen
+
+94
+
+Das Streitpatent betrifft nach Patentanspruch 1 eine Spritzpistole, die gemäß der Beschreibung für einen elektrostatischen Auftrag sowohl von pulverförmigen wie auch flüssigen Beschichtungsmaterialien vorgesehen ist (u. a. [0025], [0091]). Als wesentliche, übliche Bestandteile einer Spritzpistole für elektrostatische Beschichtungen besteht der beanspruchte Gegenstand aus einem Griffteil, einer Düse, einem zwischen Griffteil und Düse positionierten Verlängerungsteil und einer benachbart zur Düse angeordneten Elektrode (Merkmalsgruppen 2 bis 5). Ferner weist die Spritzpistole ein mit dem Griffteil verbundenes, manuell zu betätigendes Regelungselement auf, um den Beschichtungsmaterialstrom durch das Verlängerungsteil und die Düse in Richtung auf den zu beschichtenden Gegenstand zu starten (Merkmalsgruppe 6). Als kennzeichnendes Merkmal besitzt die Spritzpistole ein ebenso mit dem Griffteil verbundenes "Reglungselement", um einen Spülluftstrom zur Durchströmung des Verlängerungsteils und der Düse zwischen den Beschichtungszyklen einzuschalten und damit (verbliebenes) Beschichtungsmaterial aus der Spritzpistole zu entfernen. Dabei ist auch dieses Schalt- bzw. Regelungselement manuell schaltbar (Merkmalsgruppe 7).
+
+95
+
+Figur 2 des Streitpatents, Ausführungsbeispiel einer elektrostatischen Spritzpistole
+
+96
+
+Der Begriff „control member“ für den Material- sowie für den Spülluftstrom in den Merkmalen 6. und 7. könnte anstatt mit „Reglungselement“ alternativ auch mit „Steuerungselement“, „Schaltelement“ oder „Stellglied“ übersetzt werden. Denn eine Regelung mit einem dabei zu unterstellenden Regelkreis liegt beim Gegenstand des Streitpatents nicht vor; die verbindlich formulierte manuelle Betätigung stellt tatsächlich ein Steuerelement dar. Mit diesen Steuerungselementen wird demzufolge der Massenstrom bzw. der Spülluftstrom „initiiert“ und damit in Gang gesetzt und auch wieder beendet, wobei über eine potentielle „Mengenregelung“ (Variation der Durchflussrate) dieser „Reglungselemente“ nichts gesagt ist. Der Fachmann zieht insbesondere (auch) lediglich eine Ein-Aus-Funktion in Betracht, da üblicherweise Spritzpistolen einen engen, optimalen Arbeitsbereich haben und zudem die Pulver- sowie Förderluftmenge im Falle des Ausführungsbeispiels nach Figur 1 über das Ventil (54) gesteuert wird.
+
+97
+
+Die Formulierung, wonach gemäß Merkmal 7.1 das Spülluftstromreglungselement mit dem Griffteil „verbunden“ ist, bedeutet aus fachmännischer Sicht, dass das Regelungs- bzw. Steuerelement direkt an das Griffteil angebracht (mechanisch befestigt) ist und nicht nur lediglich indirekt – über weitere Bauteile oder gar über Schlauchleitungen – mit diesem in Verbindung steht. Dies entspricht nicht nur dem allgemeinen Verständnis, sondern wird auch durch die mehrfache Verwendung entsprechender Formulierungen von verbundenen Elementen der Spritzpistole (Merkmale 3.1, 4.1, 6.1) und durch die Beschreibung bekräftigt, wonach explizit in Abschnitt [0004] ausgeführt wird, dass nach Anspruch 1 erfindungsgemäß außerdem „ein Luftstromregelungselement am Griffteil angeordnet“ ist. Damit werden sowohl der Materialstrom als auch der Spülluftstrom über ein Steuerelement (Stellglied) von dem Griffteil der Spritzpistole manuell initiiert.
+
+98
+
+Das Verlängerungsteil (28) der Spritzpistole ist gemäß der Beschreibung klar definiert und besteht nicht nur aus dem vorderen (oberen) Aufsatz vor der Düse (Spritzgehäuseabschnitt 36), sondern umfasst auch den auf dem Griffteil (26) positionierten Gehäuseabschnitt (34) und den Basisabschnitt (32) [0027].
+
+III.
+
+99
+
+1. Die Vorrichtung nach Anspruch 1 gemäß Hauptantrag ist gegenüber dem Stand der Technik neu (Art. 54 Abs. 1 EPÜ).
+
+100
+
+Die bereits im Prüfungsverfahren ermittelte und auch in der Beschreibungseinleitung des Streitpatents genannte Druckschrift D1 (EP 0 611 603 A1) ist seitens der Klägerin als neuheitsschädliches Dokument herangezogen worden. Die D1 offenbart dabei unstrittig eine elektrostatische Pulver-Spritzpistole nach den Merkmalen 1. bis 6.2 des Gegenstands des Streitpatents und damit nach dem
+
+101
+
+Abbildung in Originalgröße in neuem Fenster öffnen
+
+102
+
+Ausführungsbeispiel einer elektrostatischen Spritzpistole der D1 (EP 0 611 603 A1)
+
+103
+
+Oberbegriff des Anspruchs 1. Die Figur 1 sowie die dazugehörige Figurenbeschreibung der D1 offenbaren als Ausführungsbeispiel eine Spritzpistole (spray gun 10) zum Auftrag eines Beschichtungsmaterials auf einen Gegenstand, der ein Griffteil (handle 12), ein Verlängerungsteil (barrel 13), eine Düse (nozzle 65) und eine Elektrode (electrode assembly 24), die in entsprechender Weise miteinander verbunden sind, aufweist. Ferner besitzt die Spritzpistole der D1 einen als Abzugshahn ausgebildeten Auslöser als Beschichtungsmaterialstromreglungselement (trigger 37), der manuell zu betätigen ist und auf einen elektrischen Schalter (electrical switch 36) wirkt. Das daraus resultierende Signal wird über die elektrische Zuleitung (cable 30) dann offensichtlich zu einer nicht gezeigten und beschriebenen Steuereinheit geführt, die die Spritzpistole mit Pulver und Luft versorgt (Spalte 5, Zeilen 35 ff.).
+
+104
+
+Die Vorrichtung der D1 versorgt die Spritzpistole auch mit Spülluft, um sowohl Schlauch als auch die Pistole regelmäßig zu reinigen (insbesondere Spalte 3, Zeile 49 bis Spalte 4, Zeile 24). Der Anschluss eines Spülluftschlauches über einen Adapter für die Spülluft (hose purge adapter 76) ist in der Gesamtdarstellung (Figur 1) dargestellt und im Detail in Figur 2 sowie in der dazugehörigen Beschreibungspassage näher erläutert. Allerdings sind die angesprochene Spülluftversorgung (suitable supply of compressed air) sowie die entsprechende Armatur bzw. Ventileinrichtung (suitable valving means) nicht bildlich dargestellt und auch nicht näher beschrieben; es wird in der Beschreibung der D1 sogar darauf hingewiesen, dass die entsprechende Druckluftzuführung und geeignete Ventilmittel zwar vorgesehen, jedoch nicht gezeigt sind („The air hose (87) is connected to a suitable supply of compressed air (not shown). Suitable valving means (not shown) are provided…”, Spalte 8, Zeilen 4 ff.). Damit ist das Spülluftstromreglungselement zwar genannt, nicht jedoch der Spritzpistole (Merkmal 7.) bzw. dem Griffteil der Spritzpistole entsprechend Merkmal 7.1 zugeordnet. Bereits dadurch ist der Gegenstand des Patentanspruchs 1 neu gegenüber der Spritzpistole nach der D1.
+
+105
+
+Die manuelle Schaltbarkeit des Spülluftstromreglungselements gemäß Merkmal 7.2 ist darüber hinaus ebenfalls nicht unmittelbar und eindeutig in der D1 offenbart. Zwar ist der in Merkmal 7.2 beschriebene Zweck der Spülung bei der Pulverspritzpistole der D1 der gleiche wie beim Streitpatent, wonach mittels Druckluft (angelagertes) Beschichtungsmaterial aus der Spritzpistole entfernt werden soll („…means for introducing purging air into the hose to purge the powder flow paths of the hose and the barrel of accumulations of powder“, Spalte 4, Zeilen 43 - 45), jedoch lässt die D1 offen auf welche Art und Weise dies erfolgen soll. Insofern ist auch ein zeitlich getaktetes oder auch sensorisch gesteuertes Reinigungsintervall grundsätzlich möglich. Daher ist auch das Merkmal 7.2 des Anspruchs 1 nach Hauptantrag nicht vollständig aus der D1 bekannt.
+
+106
+
+Die ursprünglich auch in Bezug auf fehlende Neuheit genannte Druckschrift D2 (US 3 740 612 A) beschreibt und zeigt eine Vorrichtung mit einer elektrostatischen Spritzpistole, die gleichfalls aus einem Griffteil, einem darauf aufgesetzten Verlängerungsteil sowie einer in Strömungsrichtung vorgesetzten Düse besteht (Figur 1 sowie dazugehörige Beschreibung). Die Elektrode (40) ist im Zentrum der Düse und somit direkt benachbart zur Düse angeordnet; von dort strömt auch elektrostatisch aufgeladenes Beschichtungsmaterial zum zu beschichtenden Gegenstand hin (Merkmal 5.1). Die Spritzpistole weist ferner ein manuell zu bedienendes Abzugs- bzw. Betätigungselement (36) auf, das auf zwei Ventile wirkt. Das erste und in vorteilhafter Ausgestaltung auch zuerst wirkende bzw. öffnende Ventil (37; Spalte 4, Zeilen 3 ff.) führt zu einer (beginnenden) Wirbelströmung in der Düse, das zweite Ventil (38) steuert darauf folgend über das Ventil (66; Figur 4) den Einschaltvorgang der Hochspannung (switch 71) sowie das Ventil (72), das daraufhin die Materialpumpe (14) in Gang setzt. Somit weist die Spritzpistole der Vorrichtung der D2 ein Beschichtungsmaterialstromreglungselement auf, das mit dem Griffteil verbunden ist und manuell in einen eingestellten Zustand schaltbar ist (Merkmalsgruppe 6).
+
+107
+
+Die D2 weist zwar ein manuell zu betätigendes Spülluftstromreglungselement auf, das einen Luftstrom zum Reinigen sowohl der Pumpe als auch der Materialstromleitung und der Spritzpistole selbst bewirkt. Dieses Ventil befindet sich jedoch an der Pneumatiksteuerung („A manual valve 82 is provided on the pneumatic control 11 for purging…“, Spalte 5, Zeilen 34 ff.) und nicht an der Spritzpistole bzw. dem Griffteil, so dass die Merkmale 7. und 7.1 aus der D2 nicht bekannt sind.
+
+108
+
+Der mit dem Abzugshahn der Spritzpistole betätigte „Vorluftstrom“ (vortex gas), der in vorteilhafter Weise bereits vor dem Materialeintrag für eine (beständige) Wirbelbildung im sowie hinter dem Bereich der Düse sorgen soll (vortical motion), ist dabei nicht als Spülluftstrom im Sinne des Streitpatents anzusehen. Der kurzfristig vor dem Zuschalten von Hochspannung und Materialzuführung eingeschaltete Zustrom von Druckluft durch den Beschichtungsmaterialkanal in dem (vorderen) Verlängerungsteil (gun 16) der Spritzpistole der D2 kann dabei zwar gegebenenfalls durchaus einen Teil der zuvor abgelagerten Beschichtungsanteile (z. B. Pulverpartikel) aus dem Materialkanal sowie der Düse entfernen, dies entspricht jedoch nicht einer gezielten und bewusst durchgeführten Spülung der Spritzpistole, wie sie das Streitpatent vorsieht. Denn die eigentliche Spülung der durch das Beschichtungsmaterial durchströmten Schläuche und Kanäle der Spritzpistole sowie der Düse wird durch den beschriebenen separaten Spülprozess erreicht, der aus fachmännischer Sicht nicht durch den „Vortex-Strom“ ersetzt werden kann. Ansonsten wäre im Übrigen bei der D2 kein separater Spülvorgang vorgesehen.
+
+109
+
+Auch alle weiteren im Verfahren befindlichen Druckschriften nehmen sämtliche Merkmale der Vorrichtung nach Anspruch 1 gemäß Hauptantrag nicht vorweg und sind seitens der Klägerin zur Neuheit auch nicht herangezogen worden.
+
+110
+
+2. Die Vorrichtung nach Anspruch 1 gemäß Hauptantrag beruht gegenüber dem Stand der Technik jedoch nicht auf einer erfinderischen Tätigkeit (Art. 56 EPÜ).
+
+111
+
+Unter Berücksichtigung des Stands der Technik, den der angesprochene Fachmann zur Problemlösung heranzog, musste unzweifelhaft und ohne weitere Überlegungen die D1 als erfolgversprechender Ausgangspunkt erscheinen, da die D1 hinsichtlich der verfolgten Aufgabenstellung von Vereinfachungen im Arbeitsablauf bzw. in der Anwendungstechnik durch konstruktive Verbesserungen der Pistole und ihres Aufbaus bereits eine Pistole, die nicht nur die Merkmale des Oberbegriffs des Gegenstands nach Anspruch 1 offenbart, sondern die auch bereits ein Spülluftstromreglungselement aufzeigt und nur offenlässt, wo dieses platziert ist. Der Fachmann entnimmt darüber hinaus der D1, dass die vorgesehene Spülung zu einer sehr häufigen Reinigung vorgesehen ist („…purging may be carried out very frequently, such as between each part beeing coated, or every 1 or 2 minutes“, Spalte 4, Zeilen 15 - 17). Ferner ist in Spalte 3, Zeilen 51 ff. offenbart, dass einerseits Mittel bzw. Vorrichtungselemente zum leichten und einfachen sowie periodischen Reinigen durch Spülluft vorgesehen sind („…means for easily and quickly purging the hose and the gun periodically with air“) und dass andererseits diese Spülung zu jeder Zeit einfach aktiviert werden kann („…may be easily activated at any time…“).
+
+112
+
+Ein derart häufig und darüber hinaus auch noch leicht zu aktivierender Spülluftstrom vermittelt dem Fachmann jedoch, dass das Spülluftstromreglungselement in seiner unmittelbaren Nähe positioniert sein muss und demzufolge nicht entfernt von der Spritzpistole platziert sein kann, da er die Steuerung der Spülluft zudem individuell und somit manuell vornehmen wird. Da die D1 selbst keine Angaben macht, wo ein derartiges Reglungselement angebracht ist, positioniert der Fachmann dieses in unmittelbarer Nähe des Bedieners, wobei die Spritzpistole selbst als Ort der Positionierung am nächstliegenden erscheint. Die gegebenenfalls alternativen Varianten mit einer Aktivierung des Spülmittelstromes an der Spritzkabine, an einem Schalter oder Display eines potentiellen in der Nähe der Kabine angebrachten Bedienfeldes sowie durch einen Fußschalter engen den Freiraum für den Anwender zu sehr ein und erkennt der Fachmann als objektiv schlechtere Lösungen.
+
+113
+
+Darüber hinaus kannte der Fachmann auch bereits am Prioritätstag aus dem Stand der Technik das Anbringen von mehreren Steuerelementen an einen Griff der Spritzpistole, so dass er auch hierdurch zu einer Positionierung des Reglungselements an den Pistolengriff angeregt wird; hierzu wird u. a. auf die Dokumente D3 (US 5 381 962 A) und D30 (Auszug aus I-Lack 11/96, S. 668, 669) verwiesen. Beispielsweise offenbart die D30 eine pneumatische Handspritzpistole für eine überwiegend manuelle Lackapplikation (Abstract), wobei durch eine Spritzstrahlanpassung, insbesondere ein gleichmäßiger Lackfilm mit geringen Oversprayverlusten, erzielt werden soll. Hierzu wird ein Konzept vorgestellt, bei dem eine Reihe von „Zerstäuberparameter“ über eine Folientastatur, die am Pistolenhandgriff befestigt ist, abgerufen und eingestellt wird (Figur 2 sowie dazugehörige Beschreibung). Dabei wird in der D30 in Aussicht gestellt, dass von dieser Eingabevorrichtung „auch ein Farbwechsel und Spülvorgang ausgelöst werden“ könne (Seite 669, letzter Absatz). Damit offenbart die D30 explizit, dass das Auslösen eines Spülvorganges mittels eines Steuerelementes vom Handgriff einer Spritzpistole aus erfolgen kann.
+
+114
+
+Da zudem beim Gegenstand der D1 – wie übrigens auch bei der Spritzpistole im Streitpatent – das Reglungselement für den Beschichtungsmaterialstrom nicht „direkt“ auf den Materialstrom einwirkt, sondern sozusagen "indirekt" per Steuerimpuls zur (externen) Steuereinheit übertragen wird, erkannte der Fachmann, dass er eine Weiterentwicklung der D1 einfach erzielen konnte. So bedurfte es lediglich eines entsprechenden (gleichwertigen), weiteren Reglungselements, um den in der D1 bereits vorgesehenen Spülluftstrom ortsnah zu steuern. Somit sah der Fachmann sich auch vor keine besonderen Schwierigkeiten bei der Realisierung des Reglungselements für den Spülluftstrom beim Positionieren am Griff der Spritzpistole gestellt, welche er zu überwinden hatte, da er lediglich ein zweites, ihm bereits bekanntes Reglungselement nun für den Spülluftstrom noch am Handgriff vorsehen musste.
+
+115
+
+Im Ergebnis ist deshalb festzustellen, dass für den Fachmann die Realisierung der patentgemäße Lehre ausgehend von D1 durch eine Zusammenschau der Dokumente D1 mit D30 nahelag, da er lediglich ein weiteres Reglungselement entsprechend der Merkmalsgruppe 7 vorsehen musste. Der Patentanspruch 1 nach Hauptantrag hat somit keinen Bestand.
+
+IV.
+
+116
+
+Hilfsantrag 2
+
+117
+
+1. Zur Lösung der Aufgabe sieht Patentanspruch 1 in deutscher Übersetzung nach Hilfsantrag 2 folgenden Gegenstand vor (Merkmalsgliederung hinzugefügt, Änderungen/Ergänzungen in Fettdruck, geändertes Merkmal 1', neue Merkmale 3.2, 8. und 8.1):
+
+118
+
+1‘. Vorrichtung (20) zur Anwendung beim Auftrag von Pulver-Beschichtungsmaterial auf einen Gegenstand, umfassend eine Spritzpistole (24) mit
+
+119
+
+2. einem Griffteil (26),
+
+120
+
+3. einem Verlängerungsteil (28),
+
+121
+
+3.1 das mit dem Griffteil (26) verbunden ist,
+
+122
+
+3.2 einem Beschichtungsmaterialkanal (62) in dem Verlängerungsteil (28),
+
+123
+
+4. einer Düse (42),
+
+124
+
+4.1 die mit dem Verlängerungsteil (28) verbunden ist,
+
+125
+
+5. einer Elektrode (46),
+
+126
+
+5.1 die benachbart zur Düse (42) angeordnet ist und von der elektrostatisch aufgeladenes Beschichtungsmaterial weg zum Gegenstand hin strömt,
+
+127
+
+6. einem Beschichtungsmaterialstromreglungselement (74),
+
+128
+
+6.1 das mit dem Griffteil (26) verbunden ist und
+
+129
+
+6.2 manuell in einen eingestellten Zustand schaltbar ist, um einen Beschichtungsmaterialstrom aus dem Beschichtungsmaterialkanal (62) in dem Verlängerungsteil (28) durch die Düse (42) zum Gegenstand hin zu initiieren,
+
+130
+
+7. einem Spülluftstromreglungselement (110),
+
+131
+
+7.1 das mit dem Griffteil (26) verbunden ist und
+
+132
+
+7.2 das manuell schaltbar ist, um einen Luftstrom aus dem Beschichtungsmaterialkanal (62) in dem Verlängerungsteil (28) durch die Düse (42) zu initiieren, um Beschichtungsmaterial aus der Spritzpistole (24) zu entfernen.
+
+133
+
+8. einem Ventil (94), einer Leitung (98) und einer Steuerung (70),
+
+134
+
+8.1 wobei die Steuerung (70), gleichzeitig mit dem Öffnen eines Ventils (54) und Schließen eines Schalters (78), das Ventil (94) in einen offenen Zustand stellt, so dass Elektrodenspülluft unter Druck von einer Quelle von Elektrodenspülluft durch die Leitung (98) zu dem Griffteil (26) und von dem Griffteil (26) der Spritzpistole (24) durch das Verlängerungsteil (28) der Spritzpistole (24) strömen kann.
+
+135
+
+Die Spritzpistole ist nun derart ausgestaltet, dass sie für einen Auftrag von Pulver als Beschichtungsmaterial beschränkt ist (Merkmal 1'). Ferner weist sie einen Beschichtungsmaterialkanal (62) in dem Verlängerungsteil (28) auf (Merkmal 3.2), wobei dieser Beschichtungsmaterialkanal gemäß Ausführungsbeispiel nach den Figuren lediglich in einem (vorderen) Teil des Verlängerungsteils ausgebildet ist und somit auch nur einen (kleinen) Abschnitt des Verlängerungsteils umfassen kann. Das hinzugefügte Merkmal 3.2 führt jedoch zu keinerlei weiteren inhaltlichen Beschränkung des Gegenstands des Streitpatents – höchstens zu einer Präzisierung – da der geometrische Zusammenhang zwischen Beschichtungsmaterialkanal und Verlängerungsteil bereits in Merkmal 6.2 beschrieben war.
+
+136
+
+Die Merkmalsgruppe 8 definiert eine (Elektrodenspülluft-)Leitung (98), ein dazugehöriges Ventil (94) und eine Steuerung (70). Die Steuerung schaltet dabei das Ventil (94) in dem Moment in einen offenen Zustand, sofern gleichzeitig das Ventil (54) geöffnet und der Schalter (78) geschlossen wird, was gemäß dem Ausführungsbeispiel unter Einbeziehung der Figur 1 mit dazugehöriger Beschreibung den Beschichtungsbetrieb darstellt. Mit dem Öffnen des Ventils (54) wird mittels Druckluft Beschichtungspulver zum Beschichtungsobjekt gefördert, das Schließen des Schalters (78) verbindet die Gleichspannungsquelle mit der Spannungsvervielfachungseinheit der Spritzpistole, so dass die Hochspannung an der Elektrode anliegt. Mit dem Öffnen des Ventils (94) kann dann Elektrodenspülluft unter Druck von einer dafür vorgesehenen Elektrodenspülluftquelle (96) durch die Leitung (98) zu dem Griffteil und von dort durch das Verlängerungsteil (28) der Spritzpistole strömen. Die Elektrodenspülluft ist gemäß der Beschreibung des Streitpatents dafür vorgesehen, die Spannungsvervielfachungseinheit (48) zu kühlen sowie Verunreinigungen um die Elektrodenanordnung (46) herum zu entfernen (u. a. [0087] und [0102]).
+
+137
+
+2. Die insoweit einer erweiterten Prüfung auf Zulässigkeit zu unterziehende geänderte Fassung des Patentgegenstands erweist sich als zulässig, insbesondere sieht der Senat diese gegenüber dem Inhalt der Anmeldung nicht als unzulässig erweitert an (Art. 123 Abs. 2 EPÜ).
+
+138
+
+Der Einsatz von Pulver als Beschichtungsmaterial ist bereits in der allgemeinen Beschreibung in Absatz [0009] der Offenlegungsschrift – die den ursprünglich eingereichten Unterlagen entspricht – beschrieben (Merkmal 1'). Das Merkmal 3.2 ist insoweit lediglich eine Klarstellung des an sich bereits in Merkmal 6.2 enthaltenen Sachverhalts in der deutschen Übersetzung, wonach zumindest die Teile des Beschichtungsmaterialkanals, die in den Figuren mit (60) und (62) bezeichnet sind, bereits in einem Teil des Verlängerungsteils untergebracht sind und damit auch Elemente des Verlängerungsteils sind. Insofern ist die deutsche Übersetzung in der DE 698 16 199 T2 (in Patentanspruch 1 sowie Teilen der Beschreibung) nicht ganz korrekt, wonach „…from a coating material passage in said extension portion through the nozzle…“ mit „…aus einem Beschichtungsmaterialkanal (62) in das Verlängerungsteil (28) durch die Düse (42)…“ übersetzt wurde. Richtig hätte es heißen müssen „…in dem Verlängerungsteil (28)…“, somit ist dieser Sachverhalt nun lediglich klargestellt. Gemäß der maßgeblichen englischen (geltenden) Fassung hätte es dieser Klarstellung nicht bedurft. Letztlich geht damit auch der Angriff der Klägerin ins Leere, wonach gemäß Merkmal 3.2 nun lediglich der Kanal mit dem Bezugszeichen (62) losgelöst vom ursprünglich nur mit dem Einlasskanal (60) zusammenhängend offenbarten Beschichtungsmaterialkanal beansprucht sei.
+
+139
+
+Die Merkmalsgruppe 8 ist aus den ursprünglichen Unterlagen aus der Beschreibung des Ausführungsbeispiels hervorgegangen [0026]. Etwaige Abweichungen von den Begriffen der deutschen Übersetzung in dem Dokument DE 698 16 199 T2 wurden dabei seitens der Beklagten bewusst gewählt (u. a. „Leitung“ für „conduit“ anstatt „Rohrleitung“). Die Bedingung für das Schalten des Ventils (94) in die offene Stellung erfolgt nach Teilmerkmal 8.1 „gleichzeitig mit dem Öffnen eines Ventils (54) und dem Schließen eines Schalters (78)“ und stellt demzufolge eine Beschränkung der Anspruchsfassung dar. Dieser, aus dem Patentanspruch allein jedoch nicht vollständig verständliche Sachverhalt – welches Ventil und welcher Schalter ist gemeint – wird durch die Hinzuziehung der Beschreibung für die Auslegung klar verständlich, so dass sich damit für den Fachmann ergibt, dass die Elektrodenspülluft lediglich im Betriebszustand der Spritzpistole – bei Förderung des Beschichtungspulvers und Anlegen der Hochspannung an die Elektrode – gefördert wird. Der Senat sieht dieses Merkmal als ausreichend offenbart an, da der Fachmann zur Auslegung des Patentanspruchs die Beschreibung hinzuzieht und sowohl mit als auch ohne Bezugszeichen die jeweiligen Bauelemente Ventil und Schalter zuordnet und den damit verbundenen logischen Sachverhalt – Elektrodenspülluftförderung in Verbindung mit dem „Betriebszustand“ der Spritzpistole – erkennt, wie es ausdrücklich im ersten Satz in [0026] formuliert ist. Die Spritzpistole nach Anspruch 1 gemäß Hilfsantrag 2 war somit in den ursprünglichen Unterlagen offenbart.
+
+140
+
+3. Soweit die Klägerin in der mündlichen Verhandlung und mit nicht nachgelassenem Schriftsatz vom 27. Februar 2015 geltend gemacht hat, der von der Beklagten in der mündlichen Verhandlung am 24. Februar 2015 zur hilfsweisen Verteidigung des Streitpatents eingereichte, neu gefasste Hilfsantrag 2, wonach es außer im Merkmal 8. statt „Rohrleitung“ nun „Leitung“ heißt und in Merkmal 8.1. der Halbsatz „gleichzeitig mit dem Öffnen eines Ventils (54) und Schließen eines Schalters (78)“ hinzugekommen ist, sei gemäß § 83 Abs. 4 PatG als verspätet zurückzuweisen, ist dem nicht zu folgen. Die in diesem Zusammenhang von der Klägerin gestellten weiteren Anträge, nämlich die Anberaumung eines neuen Termins zur mündlichen Verhandlung bzw. der Übergang in das schriftliche Verfahren, für den Fall einer Berücksichtigung dieses Hilfsantrags 2, da aufgrund der Neufassung des Patentanspruchs 1 nach Hilfsantrag 2 eine weitere Recherche bezüglich des Stands der Technik notwendig sei, sind ebenfalls unbegründet und stehen einer Sachentscheidung nicht entgegen. Auch eine Beeinträchtigung des rechtlichen Gehörs der Klägerin (Art. 103 Abs. 1 GG) liegt insoweit nicht vor.
+
+141
+
+3.1 Die durch das 2009 in Kraft getretene Patentrechtsmodernisierungsgesetz (PatRModG) erfolgte Neufassung des § 83 PatG und die damit in das Nichtigkeitsverfahren eingeführten Präklusionsregeln sehen zwar grundsätzlich die Möglichkeit vor, verspätetes Vorbringen zurückzuweisen. Voraussetzung hierfür ist nach § 83 Abs. 4 PatG aber, dass das Vorbringen unter Versäumung der nach § 83 Abs. 2 PatG gesetzten Frist erfolgt, die betroffene Partei die Verspätung nicht genügend entschuldigt und die Berücksichtigung des neuen Vortrags eine Vertagung des Termins zur mündlichen Verhandlung erfordert hätte.
+
+142
+
+3.2 Die Beklagte hatte innerhalb der mit dem qualifizierten Hinweis vom 22. April 2014 gesetzten Frist, die durch Verfügung des Senats vom 11. Juni 2014 bis zum 4. August 2014 verlängert worden war, eine sachliche Stellungnahme abgegeben und mit Schriftsatz vom 4. August 2014, eingegangen am 6. August 2014, neue Hilfsanträge 2 bis 14 eingereicht. Auf die Bitte des Senats vom 18. Februar 2015, Übersetzungen der Fassungen dieser Hilfsanträge vorzulegen, hat die Beklagte mit Schriftsatz vom 19. Februar 2015 entsprechende deutschsprachige Fassungen von 4 Hilfsanträgen vorgelegt, auf welche die hilfsweise Verteidigung beschränkt werden sollte und erklärt, nurmehr die bisherigen Fassungen der Patentansprüche nach den Hilfsanträgen 1, 2, 3 sowie eines Hilfsantrags 4, der vormals als Hilfsantrag 10 beziffert war, weiterzuverfolgen.
+
+143
+
+Somit waren die ursprünglichen Hilfsanträge zwar fristgemäß eingereicht worden, da mit den am 19. Februar 2015 eingereichten Übersetzungen keine inhaltliche Änderung der am 4. August 2014 eingereichten Fassungen verbunden war; eine Versäumung der nach § 83 Abs. 2 PatG gesetzten Frist liegt aber insoweit vor, als eine geänderte Version des Hilfsantrags 2 erst in der mündlichen Verhandlung und damit nach der vom Senat gesetzten Frist eingereicht worden ist. Diese Verspätung ist jedoch gemäß § 83 Abs. 4 Ziff. 2 PatG genügend entschuldigt. Mit der Stellung des korrigierten Hilfsantrags 2 reagierte die Beklagte nämlich auf eine geänderte Auffassung des Senats, zu der dieser aufgrund des Vortrags der Klägerin erst in der mündlichen Verhandlung gelangt war (Seite 5, 6 der Sitzungsniederschrift; vgl. hierzu BPatG Urt. v. 29.01.2014 – 5 Ni 51/11).
+
+144
+
+3.3 Dass der Senat aufgrund des klägerischen Vortrags erst im Lauf der mündlichen Verhandlung von einer zu Beginn der Verhandlung geäußerten – vorläufigen – Einschätzung der Zulässigkeit des Hilfsantrags 2 abgewichen ist, kann nicht dazu führen, dass der daraufhin von der Beklagten in der mündlichen Verhandlung eingereichte neu gefasste Hilfsantrag 2 zu einer nicht entschuldigten Verspätung führt. Dies ändert sich auch nicht durch den von der Klägerin vorgetragenen Umstand, dass sie zur Zulässigkeit des Hilfsantrags 2 bereits in ihrem Schriftsatz vom 10. Oktober 2014 mit gleicher Argumentation wie in der mündlichen Verhandlung ausgeführt hatte. Denn der Senat hatte hierzu keine eigene Einschätzung durch einen prozessleitenden Hinweis oder einen weiteren Hinweis nach § 83 Abs. 1 PatG bis zum Beginn der mündlichen Verhandlung abgegeben. Insoweit war die Beklagte im Hinblick auf das von § 83 Abs. 4 vorausgesetzte Verschulden für ein nicht rechtzeitiges Vorbringen nicht gehalten, zur Vermeidung einer Präklusion bereits vor Beginn der mündlichen Verhandlung weiter vorzutragen oder einen Patentanspruch im Rahmen der hilfsweisen Verteidigung neu zu fassen. Denn über die aus § 81 Abs. 1 PatG begründeten Verhaltenspflichten hinaus, rechtfertigt nicht bereits jeder sonstige Verstoß gegen allgemeine Prozessförderungspflichten eine Präklusion, noch sind die Parteien gehalten, grundsätzlich alle denkbaren Gesichtspunkte über die in § 83 Abs. 1 PatG fokussierten Aspekte hinaus im Rahmen des dortigen Fristenregimes mitzuberücksichtigen (vgl. auch BGH GRUR 2013, 912 – Walzstraße; GRUR 2012, 1236 – Fahrzeugwechselstromgenerator). Es darf deshalb auch nicht zu Lasten der Beklagten gehen, dass der Senat sich nicht bereits aufgrund der schriftsätzlichen Ausführungen der Klägerin dazu veranlasst gesehen hat, deren Bedenken gegen die Zulässigkeit des Hilfsantrags 2 zu teilen, sondern zu dieser Auffassung erst aufgrund der – wiederholten und vertieften Erörterung im Verlauf der mündlichen Verhandlung gelangt ist. Bereits deswegen lagen die Voraussetzungen nach § 83 Abs. 4 PatG nicht vor.
+
+145
+
+3.4 Schließlich erforderte die Berücksichtigung des neu gefassten Hilfsantrags 2 auch keine Vertagung der mündlichen Verhandlung nach § 227 Abs. I ZPO, § 99 Abs. 1 PatG.
+
+146
+
+3.4.1 Die Notwendigkeit einer Vertagung besteht nach § 227 Abs. 1 Satz 1 ZPO bei Vorliegen erheblicher Gründe, insbesondere immer dann, wenn nach dem für das Gericht ersichtlichen oder ggf. auf Verlangen des Gerichts glaubhaft gemachten Sachstand durch die Ablehnung einer Vertagung der eine solche beantragenden Partei die Möglichkeit entzogen wäre, sich in der betreffenden Instanz sachgemäß und erschöpfend über alle Tatsachen, Beweisergebnisse oder sonstige verhandelte Fragen zu erklären. Ein solcher Fall ist beispielsweise gegeben, wenn die Vertagung beantragende Partei von dem Gericht oder der Gegenseite mit einer Tatsachen- oder einer Rechtsfrage konfrontiert wird, mit der sie sich nicht „aus dem Stand“ auseinander zu setzen vermag, zu der sie sachlich fundiert vielmehr nur dann Stellung nehmen kann, wenn sie angemessene Zeit für Überlegung und Vorbereitung hat (BGH GRUR 2004, 354, – Crimpwerkzeug I).
+
+147
+
+Dies ist hier nicht der Fall. Da die Klägerin selbst in ihrem Schriftsatz vom 10. Oktober 2014 auf eine mögliche Unzulässigkeit des Hilfsantrags 2 hingewiesen hat, nämlich dass unter Hinweis auf Abs. [0026] des Streitpatents gleichzeitig mit dem Öffnen eines Ventils (54) und gleichzeitig mit dem Schließen eines Schalters (78) die Steuerung ein Ventil (94) in einen offenen Zustand stellt, also exakt auf diejenige Beschränkung, welche inhaltlich die Änderung der in der mündlichen Verhandlung verteidigten Fassung von Patentanspruch 1 ausmacht, ist sie insoweit durch die Verteidigung der Beklagten mit einem geänderten Hilfsantrag 2 bereits nicht überrascht worden, sondern eine derartige Verteidigung war zu erwarten – insoweit unterscheidet sich die vorliegende Konstellation erheblich von dem auch von der Klägerin zitierten Entscheidung „Crimpwerkzeug I“ des BGH, weil dort die Beklagte mit neuen Patentansprüchen erstmals und unerwartet in der mündlichen Verhandlung hervorgetreten ist. Zur Vorbereitung auf die mündliche Verhandlung hatte sich die Klägerin daher im Rahmen der ihr obliegenden allgemeinen Prozessförderungspflicht neben der Beschäftigung mit der erteilten Fassung des Streitpatents nicht nur auf die fristgemäß eingereichten Hilfsanträge einzustellen, sondern auch darauf, dass sich die Beklagte möglicherweise aufgrund des klägerischen Vortrags zur Zulässigkeit dazu veranlasst sehen würde, u. a. auch den Hilfsantrag 2 entsprechend zu beschränken, und zwar in einer von der Klägerin als notwendig erachteten Weise.
+
+148
+
+Insoweit lag daher keine „Unvorhersehbarkeit“ der erfolgten Beschränkung (BGH GRUR 2004, 354, 355 – Crimpwerkzeug I) vor und es bestand daher Anlass für eine vorsorgliche Beschäftigung und Recherche durch die Klägerin im Rahmen der ihr obliegenden Prozessförderungspflicht. Denn die Klägerin musste damit rechnen, dass die Beklagte auf den Vorhalt der unzulässigen Verallgemeinerung durch eine entsprechende Beschränkung reagiert (Abgrenzung zu Urt. des Senats v. 12.03.2013, 4 Ni 13/11 – Dichtungsring). Da die in der mündlichen Verhandlung vorgenommenen Ergänzungen, nämlich dass gleichzeitig mit dem Öffnen eines Ventils (54) und mit dem Schließen eines Schalters (78) die Steuerung ein Ventil (94) in einen offenen Zustand stellt, den ursprünglich eingereichten Hilfsantrag 2 auch lediglich auf das ursprünglich Offenbarte beschränkt, war es insoweit auch für die Klägerin zu erwarten und ihr zuzumuten, sich auf die Frage der Patentfähigkeit einer so verteidigten Fassung ebenso einzulassen wie auch auf die Diskussion, ob insoweit eine zulässige Fassung vorliegt. Zu beiden Fragen hat die Klageseite auch in der mündlichen Verhandlung Stellung genommen, ohne dass insoweit im Übrigen auch ersichtlich war oder von Klägerseite geltend gemacht worden ist, inwieweit in tatsächlicher oder rechtlicher Sicht eine hinreichende Erörterung nicht möglich gewesen sein sollte (vgl. S. 6 und 7 der Sitzungsniederschrift).
+
+149
+
+3.4.2 Soweit die Klägerin geltend macht, sie hätte Gelegenheit zur Nachrecherche bezüglich der Patentfähigkeit der Patentansprüche gemäß Hilfsantrag 2 erhalten müssen (vgl. BGH a. a. O. – Crimpwerkzeug I), hätte sie eine solche Recherche mit Blick auf mögliche Neuformulierungen des Hilfsantrags 2 aus den genannten Gründen bereits im Vorfeld tätigen müssen. Umstände dafür aus welchem Grund sie glaubte, von einer weiteren Recherche absehen zu können und inwieweit diese überhaupt angesichts der nachtäglich aufgenommenen Beschränkung von Relevanz hätte sein können, hat die Klägerin auch nicht geltend gemacht. Die Klägerin hat vielmehr im Schriftsatz vom 10. Oktober 2014 – wie auch in der mündlichen Verhandlung – insoweit bereits zu der aus ihrer Sicht fehlenden Patentfähigkeit ausgeführt und anhand des schon recherchierten Stands der Technik geltend gemacht, dass aus diesem, insbesondere aus der D31, das Spülen der Elektrode einer elektrostatischen Pulversprühpistole mit Elektrodenspülluft allgemein bekannt sei. Deshalb könne „selbst wenn der Senat den Hilfsantrag 2 als zulässig erachten sollte“ – der Gegenstand des gemäß Hilfsantrag 2 neu vorgelegten Patentanspruchs 1 nicht die zur Rechtsbeständigkeit des Streitpatents erforderliche erfinderische Tätigkeit begründen (vgl. Bl. 693 d. A.).
+
+150
+
+Es ist deshalb nicht ersichtlich und auch von der Klägerin auch weder in der mündlichen Verhandlung noch in ihrem nicht nachgelassenen Schriftsatz vom 27. Februar 2015 vorgetragen, aufgrund welcher konkreten Gesichtspunkte bzw. Merkmale eine Nachrecherche im Hinblick auf den geänderten Hilfsantrag 2 noch notwendig bzw. erforderlich gewesen sein sollte.
+
+V.
+
+151
+
+1. Der Gegenstand des Patentanspruchs 1 nach Hilfsantrag 2 ist auch patentfähig, da die insoweit beanspruchte Lehre gegenüber dem im Verfahren befindlichen Stand der Technik neu (Art. 54 EPÜ) und auch nicht nahegelegt (Art. 56 EPÜ) ist.
+
+152
+
+1.1 Gemäß den Ausführungen unter III. 1. sind die Merkmale 1. bis 6.2 der Spritzpistole nach Anspruch 1 gemäß Hauptantrag aus der Druckschrift D1 bekannt, die auch Ausgangspunkt der fachmännischen Betrachtungen im Hinblick auf den Gegenstand nach Anspruch 1 gemäß Hilfsantrag 2 ist. Darüber hinaus offenbart die D1 bereits grundsätzlich eine Pulverspritzpistole (Patentanspruch 1; Merkmal 1‘.) und weist einen Beschichtungsmaterialkanal in dem Verlängerungsteil der Spritzpistole auf (intake chute 23 sowie Bereich zwischen forward barrel section 17 und deflector stem 62; Merkmal 3.2). Hingegen ist, neben der Merkmalsgruppe 7 (s. III. 1.), darüber hinaus auch die Merkmalsgruppe 8 in der D1 nicht offenbart, wonach die Steuerung eine Elektrodenspülluftquelle steuert, die Druckluft durch eine Rohrleitung über das Griffteil und durch das Verlängerungsteil strömen lassen kann.
+
+153
+
+Eine derartige Umströmung der Elektrode der Pulverspritzpistole ist aus der D1 heraus auch nicht nahegelegt. Für die Kühlung und Reinigung des vorderen Teils der Elektrode sorgt der mit dem Materialstrom einhergehende Druckluft-Förderstrom bzw. der in kurzen, regelmäßigen Abständen zwischengeschaltete Spülluftstrom. Für die Kühlung der Spannungsvervielfachungseinheit (49) der D1 ist ein Wärmeleitband (50) vorgesehen, das offensichtlich für die Kühlung des Spannungsverstärkers ausreicht. Es gibt somit keine Veranlassung des Fachmanns ausgehend von der Spritzpistole der D1, eine Elektrodenspülluft zur Kühlung des Spannungsverstärkers und Reinigung der Elektrode vorzusehen, was zudem eine vollständige Umkonstruktion der Spritzpistole nach sich ziehen würde. Sowohl Griffteil wie auch hinteres und vorderes Verlängerungsteil müssten neu gestaltet werden, wozu der angesprochene Fachmann jedoch keine Veranlassung hat. Somit ist bereits die Merkmalsgruppe 8 aus der D1 heraus nicht nahegelegt.
+
+154
+
+1.2 Auch der seitens der Klägerin geäußerten Auffassung, wonach die bereits im Stand der Technik bekannte Elektrodenspülung keinerlei Wechselwirkung oder gar einen synergistischen Effekt zur patentgemäßen Lehre beitragen würde und somit die Merkmalsgruppe 8 als rein kumulative Hinzufügung in Bezug zum erteilten Gegenstand des Streitpatents anzusehen sei, es sich mithin um eine bloße Aggregation handele und nicht um eine Kombinationserfindung, kann der Senat nicht beitreten (vgl. auch Senat Urt. v.1.12.2010 – 4 Ni 60/09 unter Hinweis auf BGH BlPMZ 1979, 151 – Etikettiergerät II). Der zusätzliche Luftstrom zur Kühlung des „hinteren“ Elektrodenbereichs, des Verbindungsteils (connector member 412) und auch der Spannungsvervielfachungseinheit verhindert und beseitigt Anlagerungen von gegebenenfalls in diesen Spülluftkanal zurückgespülten Pulverteilchen. Der hierzu benötigte Volumenstrom addiert sich ferner mit dem eingespeisten Beschichtungsmaterialstrom und muss somit bezüglich des Luftstroms zur Pulverförderung angepasst bzw. optimiert werden (Optimierung Feststoff-Luft-Verhältnis).
+
+155
+
+1.3 Auch die Heranziehung des Fachwissens kann den Gegenstand nach Anspruch 1 gemäß Hilfsantrag ausgehend von der D1 nicht nahelegen. Die Klägerin zieht zum allgemeinen Fachwissen des Fachmanns, wonach es bereits seit langem bekannt gewesen sei, Elektrodenspülungen in elektrostatischen Spritzpistolen anzuwenden, beispielsweise die Dokumente MBP 08, MBP 12, MBP 14 und D31 heran. Die Beklagte bestreitet indes nicht, dass ein Spülen von Elektroden in Spritzpistolen bereits vor dem Prioritätszeitpunkt des Streitpatents bekannt war. Sie weist jedoch zutreffend darauf hin, dass es zu diesem Zeitpunkt nicht bekannt und auch nicht naheliegend gewesen sei, die Kombination von Spülen bzw. Reinigen dieser elektrostatischen Spritzpistolen mit einer Elektrodenspülung zu kombinieren.
+
+156
+
+Die elektrostatische Pulverspritzpistole der D1 wird im vorderen und mittleren Bereich der Elektrode und damit über Wärmeleitung auch gegebenenfalls der vordere Teil des Spannungsverstärkers durch den Luft- und Pulverstrom des Beschichtungsmaterialstromes – im sogenannten Betriebszustand – sowie in den häufig zwischengeschalteten Spülzyklen und damit durch die hierzu verwendete Spülluft gekühlt. Der hintere Bereich des Spannungsverstärkers wird hingegen durch das Wärmeleitband (heat conductive band 50) in Verbindung mit der sich daran anknüpfenden Lasche (tab 51) über Wärmeleitung gekühlt, gegebenenfalls wird die Wärme auch durch nicht erkennbar dargestellte Schlitze im entsprechenden Gehäuseteil durch Konvektion abgeführt. Der Fachmann, der insbesondere durch die von ihm selbst zur Qualitätsverbesserung geforderte häufige Einschaltung eines Spülluftstromes zur Beseitigung von Pulveragglomerationen eine positionsgünstige Platzierung des dazu notwendigen Steuerungselementes (Schalters) vorsehen will, ändert hierfür nicht die grundlegende Konstruktion der Spritzpistole. Er hat auch keine Veranlassung, einen weiteren Spülluftstrom für die Elektrode vorzusehen. Sofern der Fachmann in der Praxis Probleme mit dem Wärmehaushalt (Überhitzung) der Spritzpistole haben sollte, so würde er gegebenenfalls das bestehende System verbessern, indem er beispielsweise den Materialeintrittskanal (intake chute 23) weiter nach hinten verlegen würde und darüber hinaus das Wärmeleitband (heat conductive band 50) entsprechend vergrößern sowie die konvektive Wärmeabführung erhöhen würde.
+
+157
+
+Ein Elektrodenspülluftstrom zur Kühlung auch der Spannungsvervielfachungseinheit würde zudem bedeuten, dass die Zuführung dieser Elektrodenspülluft über den Griffteil der Spritzpistole führen müsste. In dem Griffteil der D1 gemäß Figur 1 sind allerdings die Zuleitung des Stromkabels (cable 30), ein elektrischer Schalter (electrical switch 36) nebst verschiedenen Steckern (plug 32, 33, 35) und die Verschraubungsösen (nicht explizit bezeichnet) bereits „untergebracht“. Zusätzlich will der Fachmann zur „einfachen und schnellen“ Inbetriebnahme der Spülzyklen das hierzu notwendige Reglungselement am Griffteil der Spritzpistole anbringen, indem er – äquivalent zum bereits bestehenden Reglungselement des Beschichtungsmaterialstroms – ein entsprechend zweites Element am Griffteil hinzufügt, das den Spülluftstrom steuert. Insofern wird der Fachmann auch konstruktiv davon abgehalten, durch das Griffteil hindurch eine Luftleitung zu führen. Auch wenn er das Prinzip der Elektrodenspülung mittels Druckluft kennt, so führt er eine solche bei der Pulverspritzpistole der D1 nicht aus, da er einerseits keine Anregung zu deren Durchführung erhält und darüber hinaus auch Hinderungsgründe konstruktiver Art sieht.
+
+158
+
+1.4 Auch die weiteren im Verfahren befindlichen Dokumente konnten dem Fachmann keine Anregungen geben, ausgehend von der D1 zum Gegenstand des Anspruchs 1 nach Hilfsantrag 2 zu gelangen. Auch kommt der Fachmann mit dem Ausgangspunkt der D2 nicht zum Ziel, da diese weder die Merkmale 7. und 7.1 noch die Merkmalsgruppe 8 offenbart und bekannte Lösungen zur Elektrodenspülung nicht zur erfindungsgemäßen Lösung führen. Dort ist die Elektrode im Bereich der Düse inmitten des Beschichtungsmaterialstroms positioniert, weshalb die D2 und auch der bekannte Stand der Technik ausgehend von der D2 eine Elektrodenspülluftquelle in Verbindung mit der dazugehörigen Steuerung dem Fachmann nicht nahelegen kann. Insbesondere auch in der Kombination mit den aus der D1 nicht bekannten, jedoch in Verbindung mit der D30 nahegelegten Merkmalen der Merkmalsgruppe 7 beruht der Gegenstand des Anspruchs 1 gemäß Hilfsantrag 2 auf einer erfinderischen Tätigkeit.
+
+159
+
+Der Patentanspruch 1 nach Hilfsantrag ist somit bestandsfähig.
+
+160
+
+2. Die ebenfalls angegriffenen Unteransprüche 2 bis 10, die Ausgestaltungen der Erfindung nach Patentanspruch 1 beinhalten, werden vom bestandsfähigen Hauptanspruch getragen, ohne dass es hierzu weiterer Feststellungen bedurfte.
+
+VI.
+
+161
+
+Die Kostenentscheidung beruht auf § 84 Abs. 2 PatG i. V. m. § 92 Abs. 1 Satz 1 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit auf § 99 Abs. 1 PatG i. V. m. § 709 Satz 1 und Satz 2 ZPO.
+

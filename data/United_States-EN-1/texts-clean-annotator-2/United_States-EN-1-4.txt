@@ -1,0 +1,116 @@
+
+Before the Court is Plaintiffs’ motion pursuant to Fed. R. Civ. P. 23 for class action 
+
+certification of their third and fourth claims submitted in their Collective Action and Class 
+
+Action Complaint.  (Doc. 189.) Their third claim is a state law claim for failure to pay timely 
+
+wages and their fourth claim is a common law unjust enrichment claim. (Doc. 1.) The 
+
+motion for class action certification is fully briefed (Docs. 189, 196, 200), and the Court 
+
+heard oral argument on the motion (Doc. 206).1 
+
+The Court finds that Claim 4–Plaintiffs’ common law unjust enrichment claim–is 
+
+subject to sua sponte summary judgment.  The Court will provide notice to Plaintiffs and 
+
+allow them to respond to the Court’s sua sponte determination.  The Court will not resolve 
+
+Plaintiffs’ motion for class certification at this time (Doc. 189); in a subsequent Order the 
+
+1Following oral argument, both parties submitted supplemental authority citing non-reported cases in other jurisdictions regarding class certification. (Docs. 209, 210.) 
+
+Court will determine whether Claim 3 is appropriate for class action treatment. 
+
+
+
+
+Defendant Roadrunner Communications (“Roadrunner”) is an Arizona limited 
+
+liability company that provides satellite television installation and repair services for 
+
+DirectTV®. (Doc. 30 at 3.) As additional Defendants Plaintiffs individually name Brian 
+
+Rambo and wife, Hobie Dufort and wife, and Lonnie Densberger and wife, who are alleged 
+
+toy be member-managers of Roadrunner.  (Doc. 1 at 4-6.) Defendants operate five locations 
+
+in Arizona, along with providing services in California and New Mexico. (Id.) 
+
+Plaintiffs, which the parties refer to as “Technicians” or “Contractor” signed 
+
+Independent Contractor Agreements (“ICAs”) to work for Roadrunner providing installation 
+
+and repair services for DirecTV. (Doc. 196 at 2, referencing the ICA contract, Doc. 196-3.) 
+
+The ICA expressly provides: 
+
+Contractor is an independent contractor of the Company. Nothing in this[Independent Contractor] Agreement shall be construed as creating anemployer-employee relationship, as a guarantee of future employment orengagement, or as a limitation upon the Company’s sole discretion to terminatethis Agreement at any time without cause.  Contractor further agrees to beresponsible for all of Contractor’s federal and state taxes, withholding, socialsecurity, insurance, and other benefits; At the Company’s request, theContractor shall provide the Company with satisfactory proof of independentcontractor status . . . 
+
+(Id. at 5.) Compensation for the Plaintiffs under the ICA provided: 
+
+Contractor’s pay will be determined by the job as reflected on each completedwork order. The Company will provide a price sheet outlining the Contractor’spay for each piece of work completed. The Contractor understands that he isresponsible to provide all tools and equipment necessary for completion of theinstallation work with the exception of the DirecTV equipment provided byDTV Home Services II, LLC. Contractor further understands that he will notbe reimbursed for any business expenses nor will be receiving any benefitsfrom the Company including, but not limited to, income tax withholding,social security, or Medicare contributions. The Company will provide a1099-MISC as an informational report to the IRS reflecting what theContractor has been paid by the Company at the end of the tax year. 
+
+(Id. at 3.) 
+
+Plaintiffs allege that Technicians typically began their workdays by arriving at 
+
+Defendants’ office, completing paperwork, returning equipment related to the previous day’s 
+
+- 2 ­
+
+work, and receiving their daily work schedules from one of Defendant’s lead supervisors. (Doc. 1 at 6.) After obtaining their schedules Plaintiffs were allegedly sent off to the locations of the assigned installation or repair, after which they proceeded in a proscribed order to the next assignment.  (Id.) 
+
+Plaintiffs further alleged that Roadrunner routinely required Technicians to purchase, at their own expense, various materials that were necessary to complete the DirecTV installations and repairs, e.g., bushings, wall plates, cable clips, phone wire, etc.  (Doc. 1 at 6.) Such installation materials became the property of Roadrunner’s customers after the Technicians completed the installation or repair. (Id.) 
+
+
+Plaintiffs’, Ray Baughman, Cecil McDole, Tyler Stimbert, Johnny Gonzalez, Richard Axford and Dennis Baldwin brought a Collective Action and Class Action Complaint alleging four claims: failure to pay overtime wage compensation in violation of the Fair Labor Standards Act (“FLSA”); violations of Arizona’s minimum wage act; failure to timely pay wages in violation of Arizona wage statutes; and unjust enrichment.  (Doc. 1 at 13-15.) The Court previously granted Plaintiffs’ request to conditionally certify Claim 1 for collective action pursuant to Section 216(b) of the FLSA alleging failure to pay overtime wages. (Doc. 64.) Regarding Claim 2, violations of Arizona’s state law minimum wage act, Plaintiffs elected not to pursue certification of this claim as part of their motion for class action certification. (Doc. 189 at 1.) Plaintiffs’ motion for Rule 23 class action certification requested certification on Claim 3, their Arizona state law claim for failure to pay timely wages and Claim 4, their common law unjust enrichment claim. (Id.) Plaintiffs define the class as follows: 
+
+All persons who worked as satellite television installation and repairtechnicians for Defendant Roadrunner Communications, LLC, at any facilityin Arizona at any time between March 16, 2011, and the date on which theCourt grants Rule 23 class certification, who were classified as independentcontractors and who claim that they were (i) assessed charge backs againsttheir compensation and (ii) were required to purchase, at their own expense,materials that were necessary to complete satellite television installations andrepairs. 
+
+(Id. at 7.) As stated earlier, the Court will find that Claim 4–Plaintiffs’ common law unjust enrichment claim–is subject to sua sponte summary judgment.  
+
+
+
+
+A court must grant summary judgment if the pleadings and supporting documents, viewed in the light most favorable to the nonmoving party, show “that there is no genuine issue as to any material fact and the movant is entitled to judgment as a matter of law.”  Fed. 
+
+R. Civ. P. 56(a); see Celotex Corp. v. Catrett, 477 U.S. 317, 322-23 (1986); Jesinger v. Nevada Fed. Credit Union, 24 F.3d 1127, 1130 (9th Cir. 1994). Substantive law determines which facts are material.  See Anderson v. Liberty Lobby, 477 U.S. 242, 248 (1986); see also Jesinger, 24 F.3d at 1130. “Only disputes over facts that might affect the outcome of the suit under the governing law will properly preclude the entry of summary judgment.”  Anderson, 477 U.S. at 248. The dispute must also be genuine, that is, the evidence must be “such that a reasonable jury could return a verdict for the nonmoving party.”  Id.; see Jesinger, 24 F.3d at 1130. 
+
+A principal purpose of summary judgment is “to isolate and dispose of factually unsupported claims.”  Celotex, 477 U.S. at 323-24. Summary judgment is appropriate against a party who “fails to make a showing sufficient to establish the existence of an element essential to that party’s case, and on which that party will bear the burden of proof at trial.” Id. at 322; see also Citadel Holding Corp. v. Roven, 26 F.3d 960, 964 (9th Cir. 1994). The moving party need not disprove matters on which the opponent has the burden of proof at trial. See Celotex, 477 U.S. at 323. The party opposing summary judgment may not rest upon the mere allegations or denials of the party’s pleadings, but must set forth “specific facts showing that there is a genuine issue for trial.” See Matsushita Elec. Indus. Co. v. Zenith Radio, 475 U.S. 574, 586-87 (1986) (quoting Fed. R. Civ. P. 56(e) (1963) (amended 2010)) ; Brinson v. Linda Rose Joint Venture, 53 F.3d 1044, 1049 (9th Cir. 1995). The non-movant’s bare assertions, standing alone, are insufficient to create a material issue of fact and defeat a motion for summary judgment.  Anderson, 477 U.S. at 247–48. /// 
+
+
+
+
+In Claim 4, Plaintiffs allege that Defendants were unjustly enriched by requiring the putative class member employees to purchase at their own expense the materials necessary for customer installation and repair of DirecTV components.  Since a decision on the merits may render all class certification issues moot, the Court may properly refuse to entertain motions for class certification until a dispositive motion has been resolved.  See Wade v. Kirkland, 118 F.3d 667, 670 (9th Cir. 1997) (holding that in some cases, it may be appropriate in the interest of judicial economy to resolve a motion for summary judgment prior to ruling on class certification). This Court has discretion to enter sua sponte summary judgment so long as the affected party has “reasonable notice that the sufficiency of their claim will be in issue. See Buckingham v. United States, 998 F.2d 735, 742 (9th Cir. 1993). “Reasonable notice implies adequate time to develop the facts on which the litigant will depend to oppose summary judgment.”  Id. (citations omitted); see also Celotex Corp. v. Catrett, 477 U.S. 317, 326 (1986) (sua sponte summary judgment appropriate only where losing party is on notice that they have to come forward with all of their evidence). The Court will provide Plaintiffs with the necessary opportunity to be heard. 
+
+In Claim 4, unjust enrichment, both parties acknowledge that this equitable remedy is only available if the Court determines that Plaintiffs are in actuality employees of Roadrunner, not independent contractors. (Doc. 189 at 11, Doc. 196 at 8.)  The parties thus request that the Court first resolve their status as a threshold issue, whether the putative class members are Roadrunner employees or independent contractors.  (Id.) 
+
+Under the FLSA, as a matter of federal law, the Court will resolve in subsequent proceedings whether Plaintiffs–and those who opted into the collective action–are Roadrunner employees or independent contractors.  However, the legal standard for determining misclassification is different when applying Arizona law as compared to federal law under the FLSA. Cf. Real v. Driscoll Strawberry Assoc., Inc., 603 F.2d 748, 754 (9th Cir. 1979) with Santiago v. Phoenix Newspapers, Inc., 164 Ariz. 505, 509, 794 P.2d 138, 142 (1990). However, the Court need not resolve the consequences resulting from varying state and federal standards because even when the Court legally assumes that the putative class members are employees, Claim 4 is subject to sua sponte summary judgment.  
+
+A claim for unjust enrichment may exist where a person confers a benefit to his detriment on another and allowing the other to retain that benefit would be unjust. USLife Title Co. of Ariz. v. Gutkin, 152 Ariz. 349, 354, 732 P.2d 579, 584 (App. 1986). To prevail on an unjust enrichment claim, a plaintiff “must show: (1) an enrichment; (2) an impoverishment; (3) a connection between the enrichment and the impoverishment; (4) the absence of justification for the enrichment and the impoverishment; and (5) the absence of a legal remedy.”  Trustmark Ins. Co. v. Bank One, Ariz. NA, 202 Ariz. 535, 541, 48 P.3d 485, 491 (App. 2002). Where a specific contract exists between the parties, the doctrine of unjust enrichment is unavailable. Id. at 542, 48 P.3d at 492; see also Brooks v. Valley Nat. Bank, 113 Ariz. 169, 174, 548 P.2d 1166, 1171 (1976). This is because the essence of an unjust enrichment claim is that there is no direct relationship between the parties under which the plaintiff may recover. 
+
+“In the absence of law to the contrary, Arizona generally follows the Restatement.” Hunnicutt Constr., Inc. v. Stewart Title and Trust of Tucson Trust No. 3496, 187 Ariz. 301, 306 n.6, 928 P.2d 725, 730 n.6 (App. 1996). Thus, the Court will rely on the Restatement in its examination of Plaintiffs’ unjust enrichment claim. 
+
+Here, the facts are undisputed. The parties have a contractual relationship with one another. Plaintiffs and Defendants entered into and executed ICAs which governed their employment relationship.  (See, e.g., Doc. 196-3.) The ICAs specify how Plaintiffs have been compensated for their work installing and repairing components for DirecTV.  The contractual relationship between the parties remains in full force and effect unless and until it is found inapplicable for some reason such as being a contract of adhesion, as void against public policy, or some other unenforceable reason. Under Arizona law, Plaintiffs unjust enrichment claim is not available so long as a specific contract between the parties governs compensation for work performed.  See Trustmark Ins. Co., 202 Ariz. at 542, 48 P.3d at 492. 
+
+
+
+However, even when the Court assumes that the ICAs are unenforceable and that Plaintiffs are employees rather than independent contractors, the Restatement (Third) of Restitution and Unjust Enrichment § 32 holds that “[t]here is no unjust enrichment if the claimant receives the counterperformance specified by the parties’ unenforceable agreement.”  Id., § 32(2). There is no allegation that Defendants have failed to perform under the ICAs. Thus, even when the Court finds that the ICAs are void, under the Restatement, as a matter of law Plaintiffs cannot succeed on their unjust enrichment claim. 
+
+The Court finds persuasive Scovil v. FedEx Pkg. System, Inc., No. CV 1:10-515, 2011 WL 2968350, *2 (D. Me. July 21, 2011), where FedEx delivery drivers alleged that they had been misclassified as independent contractors rather than employees.  Construing and applying Restatement (Third) of Restitution and Unjust Enrichment § 32(2), the court held that even if the drivers’ independent contract agreements were void due to public policy, the drivers could not succeed on an unjust enrichment claim because FedEx had already performed under the agreement.  Id. 
+
+In this case, the Court determines that it is appropriate to rule sua sponte that Claim 4 is subject to summary judgment.  The facts are undisputed and as a matter of law, Plaintiffs cannot succeed on their unjust enrichment claim. The Court will allow Plaintiffs to respond to the Court’s sua sponte determination. 
+
+
+
+ 
+
+On the basis of the foregoing, 
+
+IT IS HEREBY ORDERED finding sua sponte that Claim 4 is subject to summary judgment.  By Friday, August 29, 2014, Plaintiffs shall respond to the Court’s sua sponte summary judgment determination regarding Claim 4.  By Friday, September 12, 2014, Defendants are permitted to respond to Plaintiffs’ arguments against summary judgment for Claim 4. 
+
+
+
+

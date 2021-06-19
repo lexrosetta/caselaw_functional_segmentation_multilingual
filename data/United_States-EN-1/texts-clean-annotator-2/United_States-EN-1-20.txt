@@ -1,0 +1,575 @@
+
+
+
+Plaintiff Alicia Harris has filed suit against Defendant Vector Marketing Corporation for violation of, inter alia, certain provisions of the Fair Labor Standards Act (“FLSA”) and California Labor Code. Ms. Harris has brought the action on behalf of herself and asks that the Court certify her FLSA claim as a collective action and her state law claims as a class action pursuant to Federal Rule of Civil Procedure 23. Currently pending before the Court are Ms. Harris’s motions to certify the FLSA collective action and Rule 23 class action and Vector’s cross-motions to decertify or deny certification. 
+
+Having considered the parties’ briefs and accompanying submissions, the oral argument of counsel, and all other evidence of record, the Court hereby GRANTS Ms. Harris’s motion to certify the FLSA collective action and DENIES Vector’s cross-motion to decertify.  The Court further GRANTS in part and DENIES in part Ms. Harris’s motion to certify the Rule 23 class action and GRANTS in part and DENIES in part Vector’s cross- motion to deny certification. 
+
+
+“Vector is a direct sales company that markets a line of high quality kitchen cutlery, accessories, and sporting knives manufactured by Cutco Cutlery Corporation.”  Docket No. 49 (Matheson Decl. ¶ 2). “Vector sells and markets Cutco products . . . through the use of Sales Representatives.” Id. (Matheson Decl. ¶ 4). The parties agree that, at one point, Vector hired Ms. Harris to be a Sales Representative to sell Cutco knives. See Docket No. 37 (Arlie Decl., Ex. E) (Sales Representative Agreement for Ms. Harris); Docket No. 52 (Harris Decl., Ex. C) (same). 
+
+As a general matter, before Sales Representatives begin selling the Cutco knives, they attend an initial training, which typically lasts three days. Trainees are not paid for their time spent in the training. According to Ms. Harris, trainees should have been paid for this time, and Vector’s failure to pay constitutes a failure to pay minimum wages under the FLSA, see 29 U.S.C. § 206, and the California Labor Code, see Cal. Lab. Code § 1197, and further constitutes a violation of California Business & Professions Code § 17200, which prohibits unfair competition.  Ms. Harris also asserts that, during the training, trainees were improperly coerced into buying sample knife sets (to be used for sales presentations) in violation of (1) California Labor Code § 2802 (which requires an employer to reimburse its employees for necessary expenses), (2) the California Labor Code Private Attorney General Act (“PAGA”), see id. § 2698 et seq., and (3) California Business & Professions Code § 17200. Finally, Ms. Harris argues that Vector violated California Labor Code § 2802 by failing to reimburse Sales Representatives for expenses incurred once they actually started selling knives. 
+
+In June 2009, Vector moved for summary judgment on each of the above claims (as well as other claims), noting that such claims may be asserted only by an employee and arguing that trainees/Sales Representatives are not employees as defined by federal and state law.  With respect to the above claims, the Court denied the motion, concluding that there was a genuine dispute of material fact as to whether trainees/Sales Representatives are employees.1 See Docket No. 71 (order). 
+
+Subsequently, in April 2010, Ms. Harris moved for conditional collective action certification for her FLSA claim.  The Court granted the motion, finding that Ms. Harris had made a sufficient showing to warrant conditional certification. See Docket No. 176 (order). After the Court issued its order granting Ms. Harris’s motion for conditional certification, a third-party administrator sent out almost 48,000 notices and consent-to-join forms, of which about 5,000 were not deliverable.  See Docket No. 230 (Wnorowski Decl. ¶¶ 6-7).  The deadline to opt-in was July 26, 2010. See id. (Wnorowski Decl. ¶ 14).  As of July 28, 2010, the third-party administrator had received and processed 5,569 forms.  See id. (Wnorowski Decl. ¶ 15).  “Of this total forms filed, 86 were deemed incomplete as they were not signed by the individual potential Class Member, 5,244 were deemed complete, 203 were deemed duplicates of previously filed Consent to Join Forms, and 36 Consent to Join Forms were submitted with a postmark after the deadline, or received via fax after the deadline.” Id. (Wnorwoski Decl. ¶ 15).  
+
+Subsequently, the Court permitted Vector to take the depositions of fifty of the “opt-ins.” Vector did so. See Docket No. 339 (Saad Decl. ¶ 5); id. (Wilson Decl. ¶ 2(g)).  In addition, Vector, on its own accord, obtained declarations from approximately fifty other Sales Representatives operating in California. Finally, Vector, on its own accord, conducted a survey of its Sales Representatives operating in California. See id. (Saad Decl. ¶ 12). The survey was sent via e-mail to approximately 40,000 people, of which about 25,000 were not deliverable.  See id. (Saad Decl. ¶ 12). At the close of the survey administration, 551 completed responses had been received.  See id. (Saad Decl. ¶ 12). 
+
+
+
+ 
+
+In support of its motions (and oppositions to Ms. Harris’s motions), Vector has submitted (1) declarations from approximately fifty Sales Representatives who state, inter alia, that they do not 
+
+1 The Court did grant Vector’s motion for summary judgment with respect to other claims. 
+
+wish to participate in the pending lawsuit and (2) a declaration from an expert, Mr. Saad, who, inter alia, prepared and conducted the above-referenced survey. Ms. Harris has objected to each of the Sales Representative declarations as well as the Saad declaration.2 
+
+
+With respect to the Sales Representative declarations, Ms. Harris has made various objections such as lack of personal knowledge, speculation, best evidence rule, improper lay opinion, legal conclusion, and hearsay. The majority of these objections have no merit.  
+
+For example, the Sales Representatives do have personal knowledge about their own experiences. Also, whether a Sales Representative has an interest in participating in the lawsuit and/or wants Ms. Harris to represent him or her is not an improper lay opinion or a legal conclusion.  
+
+The only objection that is a closer call is the hearsay objection. If, however, Vector is not offering the evidence for the truth of the matter asserted – e.g., for the effect on the Sales Representatives as listeners – then the evidence is not hearsay at all, and therefore the objection should be overruled. Moreover, the objection arguably should be overruled because the reported communications between Vector and the Sales Representative declarants are analogous to verbal acts or are part of the res gestae; i.e., they comprise the alleged policies and practices of Vector at issue. See generally 5-801 Weinstein’s Fed. Evid. § 801.11[3], [4] (discussing verbal acts and the verbal part of acts). Finally, the evidence would be admissible under the residual hearsay exception provided by Federal Rule of Evidence 807. The Court notes that the declarations of the Sales Representatives have circumstantial guarantees of trustworthiness as required by Rule 807 – i.e., each declaration is analogous to a statement against interest. 
+
+
+With respect to the Saad declaration, Ms. Harris’s argument is, in essence, that the declaration is so unreliable that it should be excluded. In particular, Ms. Harris criticizes the content 
+
+2 The Court notes that the Sales Representative declarations are essentially irrelevant to theparties’ FLSA motions.  This is because the FLSA motions address whether the opt-ins are similarlysituated, and therefore what the non-opt-ins have to say is largely immaterial.  Similarly, to theextent the Saad declaration discusses the survey and its results, that information is essentiallyirrelevant to the parties’ FLSA motions.  Again, the issue for the FLSA motions is whether the opt-ins – and not other trainees/Sales Representatives – are similarly situated. 
+
+of the survey conducted and prepared by Mr. Saad as well as the response rate to the survey. The problem for Ms. Harris is that, as she herself admits in her brief, even challenges to defects in methodology normally affect the weight to be accorded the survey and not its admissibility.  See Pl.’s Obj. at 9; see also In re Scrap Metal Antitrust Litig., 527 F.3d 517, 529-30 (6th Cir. 2008) (indicating that an expert’s error in application of methodology would ordinarily go to weight of expert’s testimony, although a significant error might go to admissibility); SR Int’l Bus. Ins. Co. v. World Trade Ctr. Props., LLC, 467 F.3d 107, 134 (2d Cir. 2006) (stating that, “[t]o the extent that there are gaps or inconsistencies in [the expert’s] testimony, those issues ‘go to the weight of the evidence, not to its admissibility’”); Kudabeck v. Kroger Co., 338 F.3d 856, 861-62 (8th Cir. 2003) (noting that “attacks regarding the completeness of [a doctor’s] methodology go to the weight and not admissibility of his testimony”); Levi Strauss & Co. v. Abercrombie & Fitch Trading Co., No. C 07-03752 JSW, 2008 U.S. Dist. LEXIS 87625, at *21-22 (N.D. Cal. Oct. 16, 2008) (stating that, “[i]n general, a court may admit a survey if it is conducted according to generally accepted principles and if it is relevant” and that “[c]hallenges to defects in methodology normally affect the weight to be accorded the survey, rather than its admissibility” – that is, unless “ the methods used are so deficient”). In the instant case, the Court is not persuaded that the survey and the results are so deficient that they should be excluded, and therefore overrules the objection to the Saad declaration. Ms. Harris does not explain, for instance, why the weighting of the survey responses (to account for the potential non-representativeness of the sample of respondents) was faulty. 
+
+
+In support of her motions (and oppositions to Vector’s motions), Ms. Harris has submitted a declaration from an expert, Mr. Gorman, who largely provides criticisms of the declaration of Mr. Saad. Vector has objected to the declaration on various grounds.  Vector’s objections are essentially moot because the Court need not rely on Mr. Gorman’s declaration in evaluating the pending motions.  In fact, most of the criticisms made by Mr. Gorman in his declaration are common sense-type criticisms that the Court may consider on its own, and thus do not warrant exclusion.  In any event, the Gorman declaration as well as the Saad both pass muster under Daubert v. Merrell Dow 
+
+Pharmaceuticals., Inc., 509 U.S. 579 (1993), and Kumho Tire Co. v. Carmichael, 526 U.S. 137 (1999). 
+
+
+
+
+In her FLSA motion, Ms. Harris asks the Court to grant final collective action certification for a class consisting of all individuals who worked for Vector in the state of California as Sales Representatives from April 15, 2006, through May 12, 2010.3  As noted above, more than 5,000 individuals responded to the class notice and asked to be included in the collective action. In its FLSA motion, Vector asks the Court to decertify the class. 
+
+
+Under the FLSA, employers must pay their employees a minimum wage.  See 29 U.S.C. § 206(a). If an employer fails to do so, then an aggrieved employee may bring a collective action on behalf of himself and others “similarly situated.”  Id. § 216(b). Determining whether a collective action is appropriate is within the discretion of the district court. See Adams v. Inter-Com Sec. Sys., 242 F.R.D. 530, 535 (N.D. Cal. 2007) (Patel, J.). 
+
+“To maintain a collective action under the FLSA a plaintiff must demonstrate that the putative collective action members are similarly situated.”  Murillo v. Pacific Gas & Elec. Co., No. 
+
+CIV. 2:08-1974 WBS GGH, 2010 U.S. Dist. LEXIS 20240, at *4 (E.D. Cal. Mar. 5, 2010); see also Vasquez v. Coast Valley Roofing, Inc., 670 F. Supp. 2d 1114, 1123-24 (E.D. Cal. 2009) (noting that a plaintiff has the burden of proving the similarly situated requirement).  Courts have generally held that the “similarly situated” standard under the FLSA is not as stringent a standard as the “common questions predominate” standard under Federal Rule of Civil Procedure 23(b)(3).  See O’Brien v. Ed Donnelly Enters., 575 F.3d 567, 584-85 (6th Cir. 2009); Grayson v. K Mart Corp., 79 F.3d 1086, 1096 (11th Cir. 1996). 
+
+3 In her opening brief, Ms. Harris identified the class period as April 15, 2006, through theresolution of this case. See Pl.’s Mot. at 1. However, the Court indicated in a previous order thatthe appropriate period is likely April 15, 2006, through May 12, 2010, as that was the periodspecified in the class noticed that was issued. See Docket No. 304 (Order at 5-6); see also Docket No. 230 (Wnorowski Decl., Ex. 1) (class notice).  As reflected in her reply brief, Ms. Harris nowappears to have accepted this preliminary ruling of the Court.  See Pl.’s Reply at 1 (clarifying that norequest for a second class notice – to cover individuals working for Vector after May 12, 2010 – isbeing requested). 
+
+Unfortunately, 
+
+[n]either the FLSA nor the Ninth Circuit have [expressly]defined “similarly situated.”  [But a] majority of courts have adopted atwo-step approach for determining whether a class is “similarlysituated.” Under this approach, a district court first determines, basedon the submitted pleadings and affidavits, whether the proposed classshould be notified of the action. At the first stage, the determinationof whether the putative class members will be similarly situated “ismade using a fairly lenient standard, and typically results in‘conditional certification’ of a representative class.” District courts have held that conditional certification requires only that “‘plaintiffsmake substantial allegations that the putative class members weresubject to a single illegal policy, plan or decision.’” 
+
+The second-step usually occurs after discovery is complete, atwhich time the defendants may move to decertify the class.  In this step, the court makes a factual determination about whether theplaintiffs are similarly situated by weighing such factors as “(1) thedisparate factual and employment settings of the individual plaintiffs,
+
+(2) the various defenses available to the defendant which appeared tobe individual to each plaintiff, and (3) fairness and proceduralconsiderations.” If the district court determines that the plaintiffs arenot similarly situated, the court may decertify the class and dismiss theopt-in plaintiffs’ action without prejudice. Even when the partiessettle, the court “must make some final class certification findingbefore approving a collective action settlement.” 
+
+Murillo, 2010 U.S. Dist. LEXIS 20240, at *4-6. 
+
+In the instant case, the Court has already determined that Ms. Harris made an adequate 
+
+showing at step one, see Docket No. 176 (order), and therefore notices were sent to the putative 
+
+collective action members.  See generally Docket No. 230 (Wnorowski Decl.).  The Court now must 
+
+decide whether Ms. Harris has made a sufficient showing at step two to obtain final certification for 
+
+her FLSA collective action. 
+
+
+As noted above, under the FLSA, employers must pay their employees a minimum wage. 
+
+See 29 U.S.C. § 206(a). If, however, Ms. Harris and the putative collective action members were not 
+
+employees of Vector, then they have no FLSA claim at all.  Thus, at the outset of this case, the 
+
+parties have disputed whether Ms. Harris and the putative collective actions members were 
+
+employees or something else, be it independent contractors or trainees. 
+
+In its order granting conditional collective action certification, this Court explicitly endorsed 
+
+use of the DOL/Portland Terminal trainee test in determining whether Ms. Harris and the putative collective action members were employees for purposes of the FLSA claim because they were asking to be compensated for their time spent in initial training only.  The Court declined to apply the Donovan independent contractor test which considers factors such as the alleged employer’s right to control the manner in which the work is to be performed.  See Docket No. 332 (Order at 7) (“find[ing] that the Portland Terminal/DOL analysis of trainees rather than the Donovan test applies”). The Court also indicated that, at the end of the day, under either test, the economic realities were what was most important.  See id. (Order at 6, 10). 
+
+In spite of this ruling by the Court, Vector now seeks to resuscitate application of the Donovan test, arguing that the test must be applied because Ms. Harris and the putative collective action members were sent into training as independent contractors, and not employees.  See Def.’s Mot. at 3 (arguing that “[t]here is no precedent or other authority that requires payment for the training of people preparing to become independent contractors under the FLSA”).  In essence, Vector argues that the trainees must establish they were employees under the Donovan test before applying the DOL/Portland Terminal test. The Court rejects Vector’s argument for several reasons. 
+
+First, the Court’s prior ruling that the DOL/Portland Terminal test is applicable is the law of the case. Vector has not filed a motion to reconsider. 
+
+Second, Vector has cited no authority supporting its contention that the Donovan test must be applied before getting into the DOL/Portland Terminal test when analyzing whether a trainee is an employee for purposes of the FLSA.  Applying an additional layer would conflict with the stated purpose of the DOL/Portland Terminal test which is to determine “whether trainees are employees within the meaning of FLSA.”  Reich v. Parker Fire Prot. Dist., 992 F.2d 1023, 1026 (10th Cir. 1993). Moreover, as noted above, both tests ultimately are targeted at examining the economic realities of the parties’ relationship. Placed in its proper context, the DOL/Portland Terminal is nothing more than an application of the economic realities test in the context of trainees.  
+
+Third, even if the Donovan test were independently applicable, the Court would look at the economic realities of the relationship between Vector and trainees, and not the relationship between Vector and the Sales Representatives who had already completed the training.  In other words, in evaluating a Donovan factor such as control, the Court would not examine the control Vector exercised over Sales Representatives who had already completed the training; rather, the Court would be examining the control Vector exercised over the trainees during the initial training. Hence, Vector’s analysis is inapposite. 
+
+Finally, even assuming that Sales Representatives were, once they completed the initial training, independent contractors under Donovan, that does not necessarily bar them from getting paid for their time spent in initial training – i.e., they could still be considered employees for purposes of FLSA for the limited purpose of the time spent in initial training.  Vector cites no case to the contrary. 
+
+
+As noted above, at step two, 
+
+the court makes a factual determination about whether the plaintiffsare similarly situated by weighing such factors as “(1) the disparatefactual and employment settings of the individual plaintiffs, (2) thevarious defenses available to the defendant which appeared to beindividual to each plaintiff, and (3) fairness and proceduralconsiderations.” 
+
+Murillo, 2010 U.S. Dist. LEXIS 20240, at *4-6. 
+
+In her papers, Ms. Harris focuses on the uniform way in which trainees are interviewed and hired and the uniform way in which the initial training sessions are conducted in arguing that she has satisfied the step two inquiry. In turn, Vector spends much of its time arguing that even the DOL/Portland Terminal test weighs strongly in its favor. Both of the parties’ positions have flaws. 
+
+For example, with respect to Ms. Harris’s argument, the way in which trainees are interviewed and hired is largely irrelevant. Ms. Harris suggests that, if the trainees were in fact hired prior to the training (instead of at the time of signing the Sales Representative Agreements), then the Court could sidestep the DOL/Portland Terminal test altogether. But even if the trainees were hired prior to training, that does not establish that they were employees for purposes of the FLSA at the time of hiring. 
+
+As for Vector’s argument, the ultimate merits of the case are not being determined at this stage. What the Court is being called upon to evaluate at this juncture is whether there is enough similarity between Ms. Harris and other putative collective action members such that the case should proceed as a collective action. 
+
+Ultimately, the question for the Court is whether or not the DOL/Portland Terminal test is capable of being evaluated on a collective basis. As Judge Conti of this District has noted, “a proper collective action [under the FLSA] encourages judicial efficiency by addressing in a single proceeding claims of multiple plaintiffs who share ‘common issues of law and fact arising from the same alleged [prohibited] activity.’”  Velasquez v. HSBC Fin. Corp., 266 F.R.D. 424, 427 (N.D. Cal. 2010) (Conti, J.); see also Smith v. T-Mobile USA, Inc., CV 05-5274 ABC (SSx), 2007 U.S. Dist. LEXIS 60729, at *9 (C.D. Cal. Aug. 15, 2007) (noting that, “[w]hile a unified policy, plan, or scheme of discrimination may not be required to satisfy the liberal ‘similarly situated’ requirement, some identifiable facts or legal nexus must bind the claims so that hearing the cases together promotes judicial efficiency”).  As discussed below, for the most part, the factors making up the test can be evaluated on a collective basis – i.e., there is sufficient uniformity.  
+
+
+Based on Walling v. Portland Terminal Co., 330 U.S. 148 (1947), 
+
+the Department of Labor’s Wage and Hour Division has developed atest listing six criteria for determining whether trainees are employeeswithin the meaning of FLSA. . . . It provides: 
+
+Whether trainees are employees under the Act, according to theWH Administrator, will depend upon all the circumstancessurrounding their activities on the premises of the employer. If all sixof the following criteria apply, the trainees are not employees withinthe meaning of the Act: 
+
+*
+
+ The training, even though it includes actual operation of the facilitiesof the employer, is similar to that which would be given in avocational school[.] 
+
+
+
+*
+
+ The training is for the benefit of the trainee[.] 
+
+
+
+*
+
+ The trainees do not displace regular employees, but work underclose observation[.] 
+
+
+
+*
+
+ The employer that provides the training derives no immediateadvantage from the activities of the trainees and on occasion hisoperations may actually be impeded[.] 
+
+
+
+*
+
+ The trainees are not necessarily entitled to a job at the completion ofthe training period[.] 
+
+
+
+*
+
+ The employer and the trainees understand that the trainees are notentitled to wages for the time spent in training. 
+
+
+
+
+
+Reich v. Parker Fire Prot. Dist., supra, 992 F.2d at 1025-26. 
+
+As the Court noted in its order granting conditional collective action certification, some courts have adopted the DOL test. See, e.g., Atkins v. General Motors Corp., 701 F.2d 1124, 1127­28 (5th Cir. 1983) (giving substantial deference to Wage and Hour Administrator’s approach). Others have not. See, e.g., McLaughlin v. Ensley, 877 F.2d 1207, 1209-10 & n.2 (4th Cir. 1989) (declining to rely on DOL test and instead applying “the general test [of] whether the employee or the employer is the primary beneficiary of the trainees’ labor”).  Still others have taken a somewhat middle position, stating that the DOL test need not be strictly or rigidly applied and that the totality of the circumstances instead controls whether a trainee should be deemed an employee for purposes of the FLSA. See Reich, 992 F.2d at 1026-27 (noting that “there is nothing in Portland Terminal to support an ‘all or nothing approach’” and concluding that the six criteria of the DOL test “are relevant but not conclusive”). 
+
+As noted above, the Court has adopted the DOL test but has not stated explicitly whether it favors a strict application of the test or a more flexible application.  Ms. Harris argues for a strict application of the DOL/Portland Terminal test instead of a looser application of the test which focuses on the economic realities. For the benefit of the parties, the Court clarifies that it adopts the second approach precisely because its flexibility permits the Court to take into account all the economic realities of the relationship between the alleged employer and the trainees.  Also, as noted by the Tenth Circuit in Reich, there is nothing in Portland Terminal itself to support an all or nothing approach. 
+
+Below the Court discusses each of the DOL factors in assessing whether the FLSA claim is capable of being resolved on a collective basis. As the Court noted at the hearing, each of these factors, except for the last, is evaluated on an objective basis. In other words, the subjective perceptions of the trainees are basically irrelevant; the focus of the test is on whether the policies and practices of the employer are sufficiently consistent to warrant collective treatment for certification purposes. 
+
+
+Vector argues first that this factor has no application to the instant case because the factor is applicable only where the training includes actual operation of the facilities of the alleged employer. The Court rejects this argument.  It is true that the factor formally states: “The training, even though it includes actual operation of the facilities of the employer, is similar to that which would be given in a vocational school.” However, as noted above, the factors of the test should not be rigidly applied; rather, the question is what are the economic realities of the relationship between the alleged employer and the trainees.  In any event, there is no evidence that Vector’s practice in this regard lacks uniformity. 
+
+Vector further argues that, although its training may appear Vector/Cutco specific, the skills learned by the trainees are actually fungible, as demonstrated by the fact that “a number of college professors . . . use the Vector training materials as the backbone of college-level courses they teach in general sales and marketing.”4 Def.’s Mot. at 20. 
+
+The problem for Vector is, as discussed above, this is a merits argument.  Vector does not argue that its training in California dramatically differs from site to site.  Indeed, Vector’s use of a training manual establishes that there is enough uniformity for this factor to be evaluated on a collective basis. See Docket No. 49 (Matheson Decl. ¶ 10) (stating that the training manual is “distributed to prospective Sales Representatives before and during the Training Programs at independent office locations throughout California”). 
+
+
+This factor essentially bleeds into the first factor – i.e., the more fungible the skills taught at the training, the more of a benefit there is for the trainee.  Thus, again, there is enough uniformity for this factor to be evaluated on a collective basis. 
+
+In its papers, Vector argues that the trainees expressed different opinions as to what benefits they obtained from training, but, as noted above, this factor turns on an objective analysis of the 
+
+4 Vector also notes that at least some of the opt-ins indicated that they learned general skills. See id. at 21. But as indicated above, the question of whether the training is similar to that offered ina vocational school is an objective question, not a subjective one. 
+
+degree of consistency in Vector’s policy and practice. That is, the issue is not what the trainees’ subjective impressions of the training were, but rather what was the objective content of the training, i.e., whether it is the type of training that would benefit trainees. See also note 4, supra. 
+
+There is no dispute between the parties that the trainees do not actually displace regular employees, and therefore this factor is capable of resolution on a collective basis. 
+
+In her papers, Ms. Harris does make the contention that this factor ultimately weighs in her favor because trainees are being trained to replace the soon-to-be gone Sales Representatives, whose tenures with Vector tend to be very short. That, however, is ultimately a merits argument.  
+
+
+In her papers, Ms. Harris contends that Vector’s advantage comes from the following acts that take place during training: (1) trainees buy sample knife sets; (2) trainees create potential customer lists and set up appointments; and (3) trainees create potential recruit lists which are turned over to their managers. 
+
+Although Ms. Harris has not provided evidence that Vector had any formal policy requiring trainees, during training, to buy sample knife sets, create potential customer lists and set up appointments, or create potential recruit lists, she has provided evidence that it was a common enough practice for trainees to do so. More specifically, she has cited to the deposition testimony of the opt-ins. That testimony reflects that the opt-ins with a fair amount of consistency purchased sample knife sets,5 see Docket No. 340 (Humphrey Decl., Ex. 19) (deposition testimony); that most opt-ins created potential customer lists and set up appointments,6 see id. (Humphrey Decl., Ex. 18) 
+
+5 That the opt-ins purchased sample knife sets was only reasonable given that a qualifiedsales presentation could not be completed by a Sales Representative without having a sample knife set. See Docket No. 49 (Matheson Decl., Ex F) (Sales Representative Agreement ¶ 6) (providingthat “Sales Reps shall obtain and utilize a sample kit for demonstration purposes”).  Many, althoughnot all, opt-ins specified that the purchase was made during training. 
+
+6 Notably, many of the non-opt-ins did the same.  See, e.g., Docket No. 335 (Ex. 1) (AdcockDecl. ¶ 12) (stating that he “made phone calls to some of the people on my list of potentialcustomers the third day of the Training Program to begin scheduling appointments to make salespresentations”; adding that the appointments were scheduled for a time after he had finished the 
+
+(deposition testimony); and that most opt-ins created potential recruit lists. See id. (Humphrey Decl., Ex. 20) (deposition testimony).  Accordingly, the Court concludes that there is sufficient, albeit not complete, uniformity to suggest a common practice by Vector to ask trainees for these items.  Hence, this factor may be evaluated on a collective basis. 
+
+The Court emphasizes that, in so concluding, it is not make any ruling on the merits – i.e., Vector is not precluded from arguing that none of the above acts constituted an immediate advantage to Vector such that this factor ultimately weighs in its favor.  See Def.’s Mot. at 25 (arguing that “[t]he only benefit occurs when the appointment is actually fulfilled, which is invariably after training, and if a sale is made, which again is invariably after training”) (emphasis in original); Docket No. 295 (Mot. at 6-9) (arguing that there is no immediate benefit where, e.g., a trainee is not productive until after the training is over, or a trainee’s work is supervised on the job and does not obviate the need for regular employees’ work, or a trainee’s work is a de minimis benefit).  But again, that is a merits argument, and the issue at this juncture is simply whether there is sufficient uniformity such that the factor may be evaluated on a collective basis. 
+
+
+In her papers, Ms. Harris contends that this factor is conductive to consideration on a collective basis because all fifty opt-ins deposed by Vector testified that they were presented with a 
+
+training); id. (Ex. 9) (Burkhardt Decl. ¶ 11) (stating that, “[d]uring the second day of the TrainingProgram, I wrote down a list of potential customers” and, “[o]n the following day of the TrainingProgram, I made phone calls to some of these people on my list to introduce myself and to beginscheduling appointments to make sales presentations”); id. (Ex. 24) (Golding Decl. ¶¶ 11-12)(stating that, “[d]uring the second day of the Training Program, I wrote down a list of potentialcustomers” and that “I made phone calls to the people on my list of potential customers after thesecond day of training at home to practice calling up potential customers, to further refine the skillof building rapport that I learned in training, and to set up my initial sales appointment with people Iknew well”); id. (Ex. 35) (Lambros Decl. ¶¶ 12-13) (stating that, “[d]uring the second day of theTraining Program, I created a list of prospective and potential customers” and that “I made phonecalls to the people . . . after the end of the second day of the training session to begin schedulingappointments to make sales presentations”). 
+
+In its papers, Vector emphasizes that, with respect to the opt-ins, the potential customer listswere not always turned over to the managers.  Vector thus argues that there is not sufficientuniformity.  However, even if there were a lack of uniformity as to this particular fact, there wouldstill be a benefit to Vector even if customer lists were not turned over to the managers if the traineesmade appointments off these lists during training.  As discussed below, the Court does not make anydetermination as to whether this benefit constitutes an immediate advantage for purposes of theDOL/Portland Terminal test, but there is evidence of some degree of consistency in this regard. 
+
+Sales Representative Agreement.  Vector does not dispute this. It argues, however, that there is “direct evidence that those who complete training do not necessarily become sales representatives[;] [o]ver 10% of those who complete training do not become Vector Sales Reps.”  Def.’s Mot. at 26 (emphasis in original) (citing Docket No. 151) (Matheson Decl. ¶ 5).  Vector also notes that there are other indications that trainees are not necessarily entitled to a job – e.g., 55% of the people invited to training do not show up, and 45% of the people who start training do not finish it.  See id. (citing Docket No. 151) (Matheson Decl. ¶ 5). 
+
+The Court concludes that there is sufficient evidence that Vector had a common practice of presenting trainees who completed the training to be presented with a Sales Representative Agreement.  Vector’s evidence does not negate this. Even if more than 10% of the trainees who finished the training did not go on to become Sales Representatives, that does not mean that Vector did not offer those trainees jobs as Sales Representatives; they may have left on their own volition. Vector has not provided any evidence that it rejected trainees who completed the training.  Even if trainees could be rejected, e.g., for drug use or dishonesty as contended at the hearing, this would not disprove there was a consistent practice capable of collective evaluation. 
+
+6. Whether Alleged Employer and Trainees Understand that Trainees Are Not Entitled to Wages for Training Time 
+
+As noted above, this is the only DOL factor that turns on subjective, rather than objective evidence. Nevertheless, at least part of this factor may be evaluated on a collective basis because there is no dispute that Vector itself understood that trainees would not be entitled to wages for their training time.  Vector contends, however, that ultimately this factor cannot be evaluated on a collective basis because, as reflected by the deposition testimony of the opt-ins, there was no common understanding on the part of the trainees: 34% of the opt-ins testified that they thought they would be compensated, 30% of the opt-ins testified that they would not be, and 36% testified that they were not sure. See Docket No. 339 (Saad Decl., Ex. A2-a). In her papers, Ms. Harris concedes that the testimony of the opt-ins is “inconsistent.”  Pl.’s Opp’n at 18. 
+
+While Vector has demonstrated a lack of uniformity with respect to the understanding of the trainees, the Court does not find this problem to be so overwhelming that the FLSA claim, as a whole, cannot be evaluated on a collective basis. As Ms. Harris points out, this is but one factor in the six-factor DOL test. Moreover, the Court notes that, even the understanding of the trainees may be subject to some collective analysis because there is evidence that all trainees were given Vector’s “Skills for Life” brochure, which expressly states that there is no compensation for time spent in training. 
+
+
+As reflected by the above, the DOL/Portland Terminal factors are largely susceptible to collective treatment.  Moreover, even if the Donovan test applied, the degree of control exerted by Vector over trainees during the training period – a key factor under the Donovan test – appears to be a matter of consistent practice and policy and thus would also susceptible to collective treatment. The Court therefore grants final certification with respect to the claim that Vector failed to pay trainees minimum wages for the time spent in initial training in violation of the FLSA.  The Court notes that final certification is appropriate even taking into account that, assuming trainees are employees, an inquiry must still be made under 29 C.F.R. § 785.27 as to whether the training time should be counted as working time.7 This is because, under the regulation, four specific criteria must be met in order for training time not to be counted as working time, and at least three of the four criteria ((a), (c), and (d)) may be evaluated on a collective basis.  Notably, in its papers, Vector 
+
+7 The regulation provides: 
+
+Attendance at lectures, meetings, training programs and similaractivities need not be counted as working time if the following four criteria are met: 
+
+(a)  Attendance is outside of the employee’s regular working hours;  
+
+(b)  Attendance is in fact voluntary;  
+
+(c)  The course, lecture, or meeting is not directly related to theemployee’s job; and  
+
+(d)  The employee does not perform any productive work during 
+
+
+
+such attendance.[] 
+
+29 C.F.R. § 785.27 (emphasis added). 
+
+did not make any specific argument that the § 785.27 criteria may not be evaluated on a collective basis. 
+
+To the extent Vector argues that fairness and procedural concerns weigh against final certification, its argument is not persuasive.  For example, Vector’s argument that the Court should take into account that Vector’s entire business model would be nullified if Vector were found liable is not convincing, especially since the case that Vector relies on, Bateman v. American Multi-Cinema, Inc., 252 F.R.D. 647 (C.D. Cal. 2008), was recently overruled by the Ninth Circuit. See Bateman v. American Multi-Cinema, Inc., No. 09-55108, 2010 U.S. App. LEXIS 19934 (9th Cir. Sept. 27, 2010). The financial burden upon the defendant should the plaintiff prove a collective FLSA violation is not a valid reason to deny certification. 
+
+
+As a final point, the Court takes note that a new issue has been raised by Vector in its opposition to Ms. Harris’s motion for final collective action certification – i.e., that the class period should start from August 2, 2008, rather than from April 15, 2006, as Ms. Harris desires.  Vector argues that August 2, 2008, is the proper beginning date for the class period because, in a FLSA collective action, there is a two-year statute of limitations, and while the statute of limitations for a named plaintiff runs from the date that the plaintiff files the complaint, the limitations period for an opt-in plaintiff runs from the opt-in date, which here was August 2, 2010.  See 29 U.S.C. §§ 255(a), 256(b). Vector concedes that a longer statute of limitations – three years – is available where there is a willful violation, see id. § 255(a), but here, Vector asserts, there is no evidence of a willful violation. 
+
+The Court rejects Vector’s position. As Vector admits in a footnote in its opposition brief, see Def.’s Opp’n at 20 n.10, it entered into a stipulation (in April 2009), which was later formalized as an order, providing that, 
+
+[f]or purposes of the statute of limitation, to the extent that Plaintiffmoves for conditional class certification under the Federal Fair Labor Standards Act on behalf of the FLSA Class, any class conditionallycertified as a result of said motion shall be certified with a class periodstart date of April 15, 2006. 
+
+Docket No. 32 (stipulation and order). Given the strict language of the stipulation, the Court holds Vector to the April 15, 2006, start date. 
+
+Vector argues still that the stipulation should not be given any effect given the particular circumstances – i.e., the stipulation was entered into only so that Ms. Harris and the potential collective action members would not be prejudiced as a result of any delay associated with Vector’s filing of an early summary judgment motion.  Vector notes that the stipulation states that “Plaintiff desires to timely seek conditional certification under the Federal Fair Labor Standards Act on behalf of the FLSA Class,” id. (emphasis added), and here Ms. Harris did not timely move for conditional certification after the resolution of the summary judgment motion.  Therefore, according to Vector, the stipulation should have no force. While Vector’s position is not without some merit, Vector could have asked for relief from the stipulation based on Ms. Harris’s delay but it never did so. Furthermore, Vector has not shown sufficient cause to be relieved of its stipulation with Ms. Harris. 
+
+
+Accordingly, the Court grants Ms. Harris’s motion for final certification and denies Vector’s cross-motion to certify.  The Court certifies as a collective action Ms. Harris’s FLSA claim. The FLSA class is defined as all individuals who worked for Vector in the state of California as Sales Representatives from April 15, 2006, through May 12, 2010. 
+
+
+
+
+In her Rule 23 motion, Ms. Harris seeks class certification for the following state claims only: (1) failure to pay for initial training (California Labor Code § 1197); (2) failure to reimburse expenses (California Labor Code § 2802); (3) violation of PAGA, based on the failure to reimburse and the coerced purchase of the sample knife set; and (4) unfair competition based on the coerced purchase of the sample knife set (California Business & Professions Code § 17200).8 Vector, in its own Rule 23 motion, asks the Court to deny class certification. 
+
+8 Ms. Harris is not moving for class certification with respect to the California Labor Code§§ 226 and 201/203 claims, see Pl.’s Mot. at 1 n.2 – apparently, not even to the extent she may havea claim for injunctive relief (as opposed to damages which the Court dismissed at the summaryjudgment phase).  
+
+
+
+Rule 23 governs class actions. Under this rule, a class action may be maintained only if: (1) each of the requirements of Rule 23(a) is satisfied, and (2) one of the requirements of Rule 23(b) is satisfied. Under Rule 23(a), 
+
+[o]ne or more members of a class may sue or be sued as representativeparties on behalf of all members only if: 
+
+(1)  the class is so numerous that joinder of all members is impracticable;  
+
+(2)  there are questions of law or fact common to the class;  
+
+(3)  the claims or defenses of the representative parties are typicalof the claims or defenses of the class; and  
+
+(4)  the representative parties will fairly and adequately protect theinterests of the class.  
+
+
+
+Fed. R. Civ. P. 23(a) (emphasis added).  
+
+As for Rule 23(b), Ms. Harris is asking for certification pursuant to subdivision (3), 
+
+presumably because the primary relief being sought on behalf of the class is damages.  Under Rule 
+
+23(b)(3), a class action may be maintained if 
+
+the court finds that the questions of law or fact common to class
+
+members predominate over any questions affecting only individual
+
+members, and that a class action is superior to other available methods 
+
+for fairly and efficiently adjudicating the controversy. The matters 
+
+pertinent to these findings include: 
+
+(A) 
+
+the class members’ interests in individually controlling theprosecution or defense of separate actions; 
+
+
+
+(B) 
+
+the extent and nature of any litigation concerning thecontroversy already begun by or against class members; 
+
+
+
+(C) 
+
+the desirability or undesirability of concentrating the litigationof the claims in the particular forum; and 
+
+
+
+(D) 
+
+the likely difficulties in managing a class action. 
+
+
+
+
+
+Fed. R. Civ. P. 23(b)(3) (emphasis added). 
+
+
+Before embarking on a Rule 23(a) and (b) analysis, the Court notes, as a preliminary matter, that a distinction should be made between (1) claims related to the initial training and (2) the post-training claim. 
+
+The claims related to the initial training are as follows: the claim for failure to pay minimum wages for the initial training, see Cal. Lab. Code § 1197; the claim for unfair competition based on the failure to pay minimum wages for the initial training and for the coerced purchase of the sample knife set,9 see id.; the claim for violation of PAGA based on the coerced purchase of the sample knife set, see Cal. Lab. Code § 2698 et seq.; and the claim for failure to reimburse to the extent based on the coerced purchase of the sample knife set.  See Cal. Lab. Code § 2802. There is only one post-training claim remaining in this action – the claim for failure to reimburse expenses incurred once Sales Representatives actually started selling knives. See id. 
+
+The Court draws a distinction between the above claims because, even though certification generally should be approached on a claim-by-claim basis, see Bertulli v. Independent Ass’n of Cont’l Pilots, 242 F.3d 290, 296 (5th Cir. 2001) (stating that “[a] class should be certified on a claim-by-claim basis”), as a practical matter, the claims related to the training may be evaluated together as each involves the predicate question of whether trainees should be deemed employees for purposes of California law. The post-training claim is different because, there, the issue is not whether trainees should be deemed employees but rather whether Sales Representatives should be deemed employees – a predicate to its substantive claim for reimbursement for expenses incurred under California Labor Code § 2802. 
+
+With respect to the issue of whether Sales Representatives (as opposed to trainees) should be deemed employees, the parties agree that the appropriate test to use under California law is the Borello test, where the principal question is “‘whether the person to whom service is rendered has the right to control the manner and means of accomplishing the result desired.’” S.G. Borello & 
+
+9 According to Ms. Harris, the coerced purchase of the sample knife set took place during training. Therefore, claims based on the coerced purchase relate to the initial training. 
+
+Sons, Inc. v. Department of Indus. Relations, 48 Cal. 3d 341, 350 (1989). In addition to the factor of the right to control, other factors that are considered include 
+
+(1)
+
+ whether the worker is engaged in a distinct occupation or business,
+
+
+
+(2)
+
+ whether, considering the kind of occupation and locality, the workis usually done under the principal’s direction or by a specialistwithout supervision, (3) the skill required, (4) whether the principal orworker supplies the instrumentalities, tools, and place of work, (5) thelength of time for which the services are to be performed, (6) themethod of payment, whether by time or by job, (7) whether the workis part of the principal’s regular business, and (8) whether the partiesbelieve they are creating an employer-employee relationship. 
+
+
+
+
+
+Estrada v. FedEx Ground Package System, Inc., 154 Cal. App. 4th 1, 10 (2007) (noting that “there 
+
+are a number of additional factors in the modern equation”). 
+
+The parties dispute, however, what the appropriate test is for the issue of whether trainees 
+
+should be deemed employees.  According to Vector, the Borello test is still applicable. According to 
+
+Ms. Harris, an eleven-factor test adopted by the California Division of Labor Standards Enforcement 
+
+(“DLSE”) – six of which are the same as the factors used in the DOL/Portland Terminal test – is the 
+
+proper test.10 See DLSE Op. 1998.11.12, at 1-2. 
+
+10 The five additional factors are as follow. 
+
+(6) 
+
+The employer and the trainees or students understand that thetrainees or students are not entitled to wages for the time spentin training. 
+
+
+
+(7) 
+
+Any clinical training is part of an educational curriculum. 
+
+
+
+(8) 
+
+The trainees or students do not receive employee benefits. 
+
+
+
+(9) 
+
+The training is general, so as to qualify the trainees or studentsfor work in any similar business, rather than designedspecifically for a job with the employer offering the program. In other words, on completion of the program, the trainees orstudents must not be fully trained to work specifically for onlythe employer offering the program. 
+
+
+
+(10) 
+
+The screening process for the program is not the same as foremployment, and does not appear to be for that purpose, butinvolves only criteria relevant for admission to an independenteducational program. 
+
+
+
+
+
+The Court does not agree with either Vector or Ms. Harris. Vector’s position is problematic because many of the factors in the Borello test are largely inapplicable in a training situation. Cf. Docket No. 176 (Order at 5) (rejecting application of Donovan test for FLSA claim because “some of the factors make little sense in a training situation – e.g., the worker’s opportunity for profit or loss”). Moreover, at least one state court has characterized Borello as an economic realities test. See JKH Enters., Inc. v. Department of Industrial Relations, 142 Cal. App. 4th 1046, 1054 (2006). Under an economic realities approach as applied to trainees, the issue is not what are the economic realities of the relationship between Vector and its Sales Representatives, but rather what are the economic realities of the relationship between Vector and its trainees.  As previously noted, the DOL/Portland Terminal test uses factors geared toward the latter. For reasons similar to why the Court applies the DOL/Portland Terminal test rather than the Donovan test to trainees, it refuses to apply the Borello test to this context. 
+
+On the other hand, Ms. Harris’s position is not entirely correct either. Notably, in a DLSE opinion letter issued approximately six months ago, the DLSE rejected the previously used eleven-factor test and concluded that the DOL/Portland Terminal six-factor test should be used. See DLSE Op. 2010.04.07, at 4. This Court adopts the approach of the DLSE in that recent opinion letter – i.e., it shall apply the DOL/Portland Terminal test in determining whether Vector’s trainees should be deemed employees. 
+
+To the extent Vector argues that the DLSE’s opinion should not be given any deference, the Court agrees that the opinion is not controlling. However, DLSE opinions “do constitute a body of experience and informed judgment to which courts and litigants may properly resort for guidance.” Bell v. Farmers Ins. Exchange, 87 Cal. App. 4th 805, 815 (2001) (internal quotation marks omitted); see also Gattuso v. Harte-Hanks Shoppers, Inc., 42 Cal. 4th 554, 563 (2007) (noting that DLSE 
+
+(11) Advertisements for the program are couched clearly in terms ofeducation or training, rather than employment, although theemployer may indicate that qualified graduates will beconsidered for employment. 
+
+DLSE Op. 1998.11.12, at 2. 
+
+advice and opinion letters are “entitled to no deference” but adding that “this court may adopt the DLSE’s interpretation if we independently determine that it is correct”).  Here, the DLSE reasonably adopted the DOL/Portland Terminal test because “the similar definitions for ‘employee’ and ‘employ’ under the FLSA and State law manifest a consistency which warrants similar interpretation.” DLSE Op. 2010.04.07, at 4. 
+
+ For the claims related to the initial training, the Court concludes that certification is 
+
+appropriate. Both the Rule 23(a) and 23(b) requirements have been met. 
+
+
+As noted above, the Rule 23(a) requirements are (1) numerosity, (2) adequacy, (3) typicality, 
+
+and (4) commonality. 
+
+
+In the instant case, Vector has not contested numerosity.  See Def.’s Mot. at 2 (stating that “[t]he only [Rule 23(a) requirement Ms. Harris] can meet is numerosity”).  Moreover, there is sufficient evidence supporting numerosity – i.e., the number of FLSA class notices that were issued, not to mention the number of FLSA opt-ins.  See James v. City of Dallas, 254 F.3d 551, 570 (5th Cir. 2001) (stating that, “[t]o satisfy the numerosity prong, a plaintiff must ordinarily demonstrate some evidence or reasonable estimate of the number of purported class members”) (internal quotation marks omitted).  Although the Rule 23 motion is for the state claims only, and not the FLSA claim, the FLSA claim provides a good benchmark for numerosity, particularly because the state claim for unpaid training time is based on the same set of facts as the FLSA claim for unpaid training time. 
+
+ 
+
+Here, Vector contests both the adequacy of Ms. Harris and her counsel. Vector’s challenge to Ms. Harris is based on her alleged lack of credibility. Vector’s challenge to Ms. Harris’s counsel is based on “their blatant failure to verify the veracity of [Ms.] Harris’[s] statements and/or their implicit condoning of her false statements.”  Def.’s Mot. at 11. Vector also makes an argument that, even if Ms. Harris’s credibility is not a problem, she is still an inadequate representative with respect to Sales Representatives who were younger than eighteen years old during the relevant period. 
+
+
+The Court agrees with Vector that Ms. Harris’s credibility may be a relevant consideration with respect to the adequacy analysis. As noted by one court, “[t]he honesty and credibility of a class representative is a relevant consideration when performing the adequacy inquiry ‘because an untrustworthy plaintiff could reduce the likelihood of prevailing on the class claims.’”  Searcy v. eFunds Corp., No. 08 C 985, 2010 U.S. Dist. LEXIS 31627, at *15 (N.D. Ill. Mar. 31, 2010); see also In re Computer Memories Secs. Litig., 111 F.R.D. 675, 682 (N.D. Cal. 1986) (Lynch, J.) (stating that “it is self-evident that a Court must be concerned with the integrity of individuals it designates as representatives for a large class of plaintiffs”).  Furthermore, “‘[a] class is not fairly and adequately represented if class members have antagonistic or conflicting claims,’ and a plaintiff with credibility problems may be considered to have interests antagonistic to the class.”  Ross v. RBS Citizens, N.A., No. 09 CV 5695, 2010 U.S. Dist. LEXIS 107779, at *13 (N.D. Ill. Oct. 8, 2010). 
+
+That being said, “[c]redibility problems do not automatically render a proposed class representative inadequate.” Ross, 2010 U.S. Dist. LEXIS 107779, at *14; see also In re Computer Memories, 111 F.R.D. at 682 (stating that “questions of personal integrity are but one factor the Court must consider in making the adequacy determination.”). “Only when attacks on the credibility of the representative party are so sharp as to jeopardize the interests of absent class members should such attacks render a putative class representative inadequate.” Lapin v. Goldman Sachs & Co., 254 
+
+F.R.D. 168, 177 (S.D.N.Y. 2008) (internal quotation marks omitted).  There is “inadequacy only where the representative’s credibility is questioned on issues directly relevant to the litigation or there are confirmed examples of dishonesty, such as a criminal conviction for fraud.”  Ross, 2010 
+
+U.S. Dist. LEXIS 107779, at *14; see also Gooch v. Life Investors Ins. Co. of Am., 264 F.R.D. 340, 349 (M.D. Tenn. 2009) (stating that “[a]ny issues of the Plaintiff’s credibility should be tied to his claims in this action”; adding that the inquiry “‘into the representatives’ personal qualities is not an examination into their moral righteousness, but rather an inquiry directed at improper or questionable conduct arising out of or touching upon the very prosecution of the lawsuit’”); Del Campo v. American Corrective Counseling Servs., Inc., No.: C 01-21151 JW (PVT), 2008 U.S. Dist. LEXIS 106837 (N.D. Cal. May 12, 2008) (stating that, “‘[g]enerally, unsavory character or credibility problems will not justify a finding of inadequacy unless related to the issues in the litigation’”). 
+
+In the instant case, Vector argues that there are credibility issues with Ms. Harris that are directly relevant to the litigation. According to Vector, Ms. Harris has lied about, in particular, (1) Vector’s level of control over her (no telephone calls with her managers, no reading from the manual, and not calling her managers during the presentations) and (2) the people to whom she made presentations (never made several presentations).  Notwithstanding Ms. Harris’s arguments to the contrary, there are credibility problems here, as discussed below.  But these credibility problems are not directly relevant to the claims related to the training. As discussed above, the Court is not applying the Borello test – where the right to control is a key factor – to the claims related to the training. Both (1) and (2) above are not directly relevant to the claims related to the training because they concern Ms. Harris’s conduct post-training. Therefore, credibility problems regarding Vector’s level of control does not render Ms. Harris an inadequate representative. 
+
+For the claims related to training, therefore, the Court does not find there to be a credibility problem that should bar Ms. Harris from being a fair and adequate representative.  Moreover, the Court concludes that Ms. Harris has made an adequate showing that she will be a fair and adequate representative as to these claims.  She has participated in this litigation, and there do not appear to be any conflicts between Ms. Harris and the putative class. 
+
+To the extent Vector argues that Ms. Harris cannot be a fair and adequate representative for Sales Representatives who were younger than eighteen during the relevant period, the Court disagrees. Ms. Harris would be an inadequate representative only if there were a conflict between her interests and those of Sales Representatives younger than eighteen. See Corley v. Entergy Corp., 220 F.R.D. 478, 483 (E.D. Tex. 2004) (noting that “‘[d]ifferences between named plaintiffs and class members render the named plaintiffs inadequate representatives only if those differences create conflicts of interest between the named plaintiffs’ interests and the class members’ interests’”); Cobell v. Norton, 213 F.R.D. 43, 45 (D.D.C. 2003) (indicating that inadequate representation issues arise where there is a potential or actual conflict between the representative and the class members). 
+
+Here, there is no evidence that there would be any conflict. For example, for the claims for failure to reimburse, violation of PAGA, and unfair competition (all based on the coerced purchase of the sample knife set), there is absolutely no difference between Ms. Harris’s interests and the interests of Sales Representatives younger than eighteen. 
+
+As for the claim for failure to pay for initial training, there is no conflict either.  It is true that California “state minimum wage laws specifically exclude outside salesmen from coverage,” Grubb & Ellis Co. v. Spengler, 143 Cal. App. 3d 890, 897 (1983), and outside salesperson has been defined as “‘any person, 18 years of age or over, who customarily and regularly works more than half the working time away from the employer’s place of business selling tangible or intangible items or obtaining orders or contracts for products, services or use of facilities.’” Ramirez v. Yosemite Water Co., 20 Cal. 4th 785, 795 (1999) (quoting Wage Order No. 7-80, 2(I)).  But as Ms. Harris points out, she is not asking for compensation for time spent working as a Sales Representative; rather, she is seeking only compensation for time spent in training and therefore the outside salesperson exemption is irrelevant. 
+
+
+
+Because Ms. Harris’s credibility problems do not render her inadequate for the claims related to the training, the Court reject Vector’s argument that her counsel is also inadequate.  The Court also deems counsel adequate based on the information provided by Ms. Harris regarding counsel’s experience. For example, the Marlin & Saltzman law firm has represented plaintiffs in class actions and complex litigation for some fifteen years.  Many of these cases were employment-related actions and involved a significant settlement in favor of the class.  See Docket No. 329 (Saltzman Decl. ¶¶ 3-4, 7). 
+
+
+The commonality and typicality requirements of Rule 23(a) tend to merge.  Both serve as guideposts for determining whether under theparticular circumstances maintenance of a class action is economicaland whether the named plaintiff’s claim and the class claims are so interrelated that the interests of the class members will be fairly andadequately protected in their absence. 
+
+General Tel. Co. of the Southwest v. Falcon, 457 U.S. 147, 158 n.13 (1982). 
+
+For the claims related to the initial training, the commonality/typicality requirements are easily met.  These claims all share a common question of law -- i.e., whether the trainees should be deemed employees under California law.  Moreover, the facts to be analyzed with respect to this legal question are largely the same, as discussed above with respect to the FLSA motions. 
+
+
+For Rule 23(b)(3), Ms. Harris must make a sufficient showing of (1) predominance and (2) superiority. 
+
+a. Predominance 
+
+“‘The Rule 23(b)(3) predominance inquiry tests whether proposed classes are sufficiently cohesive to warrant adjudication by representation.’” Hanlon v. Chrysler Corp., 150 F.3d 1011, 1022 (9th Cir. 1998). “Implicit in the satisfaction of the predominance test is the notion that the adjudication of common issues will help achieve judicial economy.”  Valentino v. Carter-Wallace, Inc., 97 F.3d 1227, 1234 (9th Cir. 1996). “When common questions present a significant aspect of the case and they can be resolved for all members of the class in a single adjudication, there is clear justification for handling the dispute on a representative rather than on an individual basis.” Hanlon, 150 F.3d at 1022. 
+
+In the instant case, common questions predominate for the claims related to the initial training. As noted above, for all of these claims there is a common question of law – i.e., whether the trainees should be deemed employees under California law – and the facts to be analyzed with respect to this legal question are largely the same.  As to nearly all the six DOL/Portland Terminal factors, common questions predominate.  Even though the predominance requirement of Rule 23(b)(3) is more rigorous than the “similarly situated” test of the FLSA, based on the above analysis of the DOL/Portland Terminal factors, the Court concludes the Rule 23(b)(3) requirement is met. 
+
+
+Finally, given the predominance of a common question of law and facts, the Court concludes that a class action is superior to other available methods for fairly and efficiently adjudicating the claims related to the initial training.  
+
+In its papers, Vector argues that a superior way of proceeding would be to deny Rule 23 certification and to have the state law claims (including the claims related to the initial training) prosecuted as part of the FLSA collective action – in effect, there would be no Rule 23 certification with its opt-out procedure under Rule 23(b)(3). The main opinion relied upon by Vector is Judge Walker’s opinion in Leuthold v. Destination Am., 224 F.R.D. 462 (N.D. Cal. 2004). 
+
+While some courts have followed Judge Walker’s approach in Leuthold, see, e.g., Campanelli v. Hershey Co., No. C 08-1862 BZ, 2010 U.S. Dist. LEXIS 92364, at *15 (N.D. Cal. Aug. 13, 2010), a number of courts have allowed both a FLSA collective action and a Rule 23 class action for any state law claims.  See Lindsay v. Government Emples. Ins. Co., 251 F.R.D. 51, 57 
+
+(D.D.C. 2008) (citing cases). 
+
+Having considered the various decisions, this Court declines to follow Leuthold in this case. First, the parties do not dispute that the FLSA claim here does not preempt the state law claims.  Yet if the Court were to require this case to be prosecuted solely under the FLSA, it would in practical terms have a preemptive effect on the state law claims.  See Cortez v. Nebraska Beef, Ltd., 266 
+
+F.R.D. 275, 294 (D. Neb. 2010). To the extent Vector disputes this effect on the ground that the state law claims are still substantively preserved, only procedurally altered, it ignores the fact that the procedural difference between the FLSA and Rule 23 is significant.  Given the likely difference in class sizes between an opt-in FLSA class and an opt-out Rule 23 class, the rights of the class as a whole to prosecute the state claims would be substantially diminished were Rule 23 class certification denied as a result of FLSA certification. The likely practical effect of denial of Rule 23 certification is that the state wage claims, which are substantively different and broader than the FLSA claim, will be dropped. 
+
+Second, were FLSA certification to bar Rule 23 certification of state claims, claimants with rights under both the FLSA and state law would be faced with a trilemma.  They must either:  (1) forego their FLSA claims altogether in contravention of the remedial purposes of the FLSA; (2) forego their state wage claims in violation of the spirit of the savings claims of the FLSA, see 29 
+
+U.S.C. § 218(a) (permitting states and municipalities to enact stricter wage and hour laws); or (3) split their claims and prosecute their state claims via class action in state courts while maintaining their FLSA claims in federal court, resulting in a multiplicity of actions.  It is highly doubtful that Congress in establishing the FLSA certification procedure would have intended such perverse consequences. 
+
+Third, a paradoxical result would obtain if the Court were to deny Rule 23 certification simply because of the existing FLSA claim. Plaintiffs bringing only state claims under Rule 23 would be afforded greater rights than those who bring both state claims and FLSA claims.  That paradox cannot be fully rationalized by the contention that those employees who fail to opt-in under FLSA have indicated their conscious refusal to participate in a Rule 23 class action. As the court in Cortez noted, “there may be a number of reasons the employees failed to opt-in to the action that had nothing to do with a belief they were not actually aggrieved.” Id. Here, the state law claims are substantively more expansive than the FLSA claim – i.e., they go beyond the failure to pay wages for the initial training. Therefore, a Sales Representative’s decision not to opt-in to the FLSA claim is not necessarily an indication that he or she does not want to participate in a lawsuit involving different substantive claims.  Furthermore, inadvertence, as opposed to a conscious decision not to participate, is a likely factor in opt-in situations.  Fear of retaliation is another possibility. 
+
+Fourth, Leuthold notably rests in part on Judge Walker’s determination that there was significant hostility to the lawsuit amongst the potential class members.  But, in the instant case, there is at most hostility exhibited by the Sales Representatives whose declarations Vector submitted.  It is hard to say that, based on these fifty plus declarations, there is significant hostility with respect to the class as a whole, which numbers over 40,000 people. 
+
+Fifth, with more than 5,000 opt-ins to the FLSA class, it is hard to argue that the state law claims so predominate that supplemental jurisdiction should be rejected – another part of the reasoning underpinning Judge Walker’s decision in Leuthold. The number of opt-ins here is substantial. Moreover, the question of whether state law claims predominate for purposes of supplemental jurisdiction ultimately turns on “the type of claim, not the number of claimants.” 
+
+Damassia v. Duane Reade, Inc., 250 F.R.D. 152, 162 (S.D.N.Y. 2008); see also Lindsay, 448 F.3d at 
+
+425 n.12 (stating that, “[i]f ‘state issues substantially predominate, whether in terms of proof, of the 
+
+scope of the issues raised, or of the comprehensiveness of the remedy sought, the state claims may 
+
+be dismissed without prejudice and left for resolution to state tribunals’”). 
+
+Finally, the Court notes that at least some courts have rested their decisions on whether to 
+
+certify on whether the state law claims were originally brought in state court.  If the state law claims 
+
+were originally brought in state court, then that would favor certification of a Rule 23 class.  As 
+
+explained by one court: 
+
+Origination of the suit is an important factor because of the differencebetween Rule 23’s “opt-out” requirement and Section 216(b)’s“opt-in” requirement.  In Riddle, the Court was concerned that such adifference would create a scenario in which “the Rule 23 class would likely dwarf the FLSA class, making the state law claims dominate thefederal suit.” This result would undermine Congress’ intent inenacting the FLSA’s opt-in requirement by letting plaintiffs intofederal court through the state law wage claims, even when plaintiffsdid not take action to get there. Here, the plaintiffs brought theirIMWL and IWPCA claims in federal court rather than state court, thereby creating the potential for the scenario we were concernedabout in Riddle. 
+
+Ervin v. OS Rest. Servs., No. 08 C 1091, 2009 U.S. Dist. LEXIS 56062, at *5-6 (N.D. Ill. Mar. 2, 2009). In the instant case, Ms. Harris initially filed in state court.  In view of this fact and the number and breadth of the state claims asserted herein, to deny Rule 23 certification because of FLSA certification would allow the FLSA tail to wag the state claim dog. 
+
+Vector has raised an objection based on manageability.  While manageability is a concern where there is both an opt-in and an opt-out procedure and an attendant risk that class notices might be perceived as contradictory, the confusion can be dealt with by a carefully worded Rule 23 class notice. The fact that the FLSA class notice has already issued in the instant case will substantially lessen the confusion. 
+
+
+
+For the foregoing reasons, the Court concludes that, for all claims related to the initial training, Ms. Harris has made an adequate showing that the requirements of Rule 23(a) and 23(b)(3) have been satisfied. Accordingly, the Court grants the request for certification of a Rule 23(b)(3) class with respect to the claims related to the training period.  The class is defined as all individuals who worked for Vector in the state of California as “Sales Representatives” from October 15, 2004 through the date of the class notice. Cf. Docket No. 304 (Order at 5-6) (agreeing with approach of Judge Armstrong to end the class period on the date of the class notice). 
+
+
+While, for the reasons stated above, the Court certifies for class action treatment the claims related to the initial training, the Court denies certification with respect to the post-training claim, i.e., that part of the § 2802 claim based on expenses incurred as a Sales Representative.  For the post-training claim, the Court concludes that there are problems with adequacy, commonality, predominance, and superiority. 
+
+
+With respect to the post-training claim, there are significant credibility problems with Ms. Harris. As noted above, for the post-training claim, the Borello test is applicable, and, under the Borello test, the principal question is “‘whether the person to whom service is rendered has the right to control the manner and means of accomplishing the result desired.’”  Borello, 48 Cal. 3d at 350. During her deposition, Ms. Harris testified about Vector’s level of control over her, stating, e.g., that every day either she would call her manager or her manager would call her, with each conversation lasting five to ten minutes.  See Docket No. 339 (Wilson Decl., Ex. M-2) (Harris Depo. at 87).  But Ms. Harris was never able to provide any telephone records supporting this testimony.  As Vector points out, her T-Mobile phone records show no calls being made to or received from her managers. See id. (Wilson Decl. ¶ 3).  Ms. Harris’s suggestion that she could have used a Boost Mobile phone to communicate with her managers is not substantiated.  See id. (Sprint Custodian of Records Decl. ¶¶ 5-6) (stating that no account existed for Ms. Harris). While there is evidence that Ms. Harris exchanged text messages with her managers via her T-Mobile phone, she did not testify about the text messages, which are a far different matter from a five- to ten-minute phone calls.  Moreover, there was no text messaging on a daily basis.  See Docket No. 343 (Humphrey Decl., Ex. 34) (text messaging records).  Furthermore, there were credibility issues raised about her testimony regarding her sales presentations. For example, Vector obtained testimony from persons to whom Ms. Harris allegedly made presentations.  Several of these persons testified that Ms. Harris never made presentations to them; others testified that she never, during the presentations, read word-for-word from the training manual or called her managers, as she claimed during her deposition. 
+
+
+Another issue is whether there is sufficient commonality with respect to the Borello test, in particular, the right-to-control factor. The Court agrees with Ms. Harris that “it is the right to control, not the exercise of the right, which bears on the status of the work arrangement.”  Borello, 48 Cal. 3d at 357 n.9. However, the Court does not agree with Ms. Harris that there is sufficient commonality simply because the Sales Representative Agreement gives Vector the authority to terminate the Agreement for good cause.  See Docket No. 37 (Arlie Decl., Ex. D) (Sales Representative Agreement ¶ 8).  The analysis is more complex.  
+
+First, in Borello, the California Supreme Court looked at an employer’s right to discharge as one indicia of whether or not there was an employment relationship – i.e., criteria separate and apart from the right to control.  See Borello, 48 Cal. 3d at 350 (stating that “the right to control work details is the ‘most important’ or ‘most significant’ consideration” but that there are “‘secondary’ indicia of the nature of a service relationship,” such as the right to discharge at will).  But see Isenberg v. California Employment Stabilization Comm’n, 30 Cal. 2d 34, 39 (1947) (in case predating Borello by several decades, stating that “[s]trong evidence of this right [to control] is shown by the right of the principal to discharge the worker”). 
+
+Second, Vector’s theoretical right to terminate, as part of its right to control, it is not necessarily dispositive. Under California law, “[o]ne of the means of ascertaining whether or not this right to control exists is the determination of whether or not, if instructions were given, they would have to be obeyed.” Toyota Motor Sales U.S.A. v. Superior Court, 220 Cal. App. 3d 864, 875 (1990) (internal quotation marks omitted).  Thus, even if “it is not the control actually exercised, but that which may be exercised which is determinative,” id., the control that is actually exercised may be informative of the control that may be exercised.  The right to terminate alone does not establish control over the details of the mode and manner of work where the documentation is ambiguous as to the mandatory nature of the employer’s directives and whether and how they would be enforced. See Dahl-Beck Elec. Co. v. Rogge, 275 Cal. App. 2d 893, 900-01 (1969) (stating that, “where no express agreement is shown as to the right of the claimed employer to control the mode and manner of doing the work, the existence or nonexistence of the right must be determined by reasonable inferences drawn from the circumstances shown”) (internal quotation marks omitted).  In this respect, the Court notes that there is evidence of significant variation regarding the actual level of control exercised over Sales Representatives. The evidence presented by the parties indicates that, at the outset, Sales Representatives were more likely to communicate with their managers on a frequent basis but that, over time, as the Sales Representatives became more experienced, that communication – and therefore control – decreased.11  Thus, while the law appears somewhat nebulous, the actual exercise of control may have some bearing in the analysis here.12 
+
+Ms. Harris points out that most Sales Representatives worked for Vector for only short periods of time and thus argues that there is sufficient commonality of experience.  But even if most Sales Representatives worked for Vector for limited periods of time, the fact remains that the class that Ms. Harris seeks to have certified extends to all Sales Representatives working for Vector and the longer-working Sales Representatives do not appear to be an insignificant number.  At the hearing, Ms. Harris suggested that there could be subclasses depending on how long a Sales Representative worked for Vector, but this poses substantial manageability problems.  Ms. Harris has not suggested a clear, administrable, and principled way to divide the Sales Representatives into subclasses, particularly in a way that would align with a variety of control levels. 
+
+11 For example, the opt-ins generally testified about frequent communication with themanagers but the survey respondents and the Sales Representatives who submitted declarations insupport of Vector indicated that communications with their managers was much more variable.  See, e.g., Docket No. 339 (Saad Decl., Ex. A14). 
+
+12 While the court in Toyota Motor noted that “[p]erhaps no single circumstance is moreconclusive to show the relationship of an employee than the right of the employer to end the servicewhenever he sees fit to do so,” Toyota Motor, 220 Cal. App. 3d at 875 (internal quotation marksomitted), the Sales Representative Agreement allowed Vector to terminate for good cause only, notat will. 
+
+
+Even assuming commonality were not a problem because the right to control is a dominant factor in the Borello analysis, Rule 23(b)(3) requires that common questions predominate. Regarding predominance, Vector correctly points out that, for the post-training claim, there may be substantial variance as to what kind of expenses were even incurred by Sales Representatives in the first place. Some Sales Representatives may have used a personal car; others may not have (e.g., they may have taken a bus or walked).  Some Sales Representatives may have used a cell phone; others may not have (e.g., used a phone at the Vector local office). And even if all Sales Representatives used cell phones, the plans likely differed (e.g., some may have had a flat rate, while others may have incurred extra charges).  Furthermore, some Sales Representatives may have incurred expenses the necessity of which is likely to be challenged (e.g., purchasing clothing). California Labor Code § 2802 provides that “[a]n employer shall indemnify his or her employee for all necessary expenditures or losses incurred.” Cal. Lab. Code § 2802 (emphasis added).  Ms. Harris has not demonstrated that there were common types of expenses incurred by Sales Representatives, see generally Docket No. 333 et seq. (Humphrey Decl.) (not including deposition testimony about common expenses).  More important, she has not demonstrated that evaluation under § 2802 of the “necessity” of various expenses incurred in a variety of contexts may be done on a relatively uniform basis.  
+
+The Court acknowledges that, arguably, Vector had a uniform policy or practice of not reimbursing for any expenses and that the different expenses incurred would simply be an issue of individualized damages, which, under Ninth Circuit law, should not alone defeat certification.  See Yokoyama v. Midland Nat’l Life Ins. Co., 594 F.3d 1087, 1094 (9th Cir. 2010) (stating that “damage calculations alone cannot defeat certification”; “‘[t]he amount of damages is invariably an individual question and does not defeat class action treatment’”).  But the Ninth Circuit has suggested that a relevant factor in the predominance analysis is whether damages calculations would be straightforward. For example, in Local Joint Executive Board of Culinary/Bartender Trust Fund v. Las Vegas Sands, Inc., 244 F.3d 1152 (9th Cir. 2001), the Ninth Circuit commented: 
+
+Individualized issues are few, and most of them are likely to berelatively easy. For example, the damages for individual classmembers will entail a straightforward calculation of which days andhow many hours they would have worked, and how much they wouldhave earned in tips. Because dealers’ tips were counted and divided inthe casino cashier’s cage, Sands has detailed written records of the tipsemployees earned in the past.  Because Sands required its dealers topool tips, there is no variation in tip earnings based on individualperformance.  We recognize that there may be some variation amongthe individual employees, as well as some potential difficulty in proof,in demonstrating that they would have worked on July 4th.  But giventhe number and importance of the common issues, we do not believethat this variation is enough to defeat predominance under Rule23(b)(3). 
+
+Id. at 1163. See also Kamar v. Radio Shack Corp., 254 F.R.D. 387, 402 (C.D. Cal. 2008) (noting that “[d]ifferences in wages and hours often do not prevent class certification, if there are ways to avoid testimony by every class member”; adding that “the Ninth Circuit has suggested that variation in actual wages is a relatively easy issue, where the employer has payroll records that would indicate the actual compensation that each employee received”).  Determining the necessity of the variety of expenses incurred by Vector Sales Representatives appears to involve qualitative as well as quantitative analysis, not a “straightforward calculation.” 
+
+Even if the individualized damages would not defeat the predominance requirement, at the very least, they should be considered on the issue of superiority – more specifically, manageability. As the court in Ortega v. J.B. Hunt Transp., Inc., 258 F.R.D. 361 (C.D. Cal. 2009) acknowledged, “‘[t]he amount of damages is invariably an individual question and does not defeat class action treatment’” but “the Court should consider whether and how such individual determinations would need to be made in evaluating ‘the difficulties likely to be encountered in the management of a class action.’” Id. at 370-71.  See also Six Mexican Workers v. Arizona Citrus Growers, 904 F.2d 1301, 1304 (9th Cir. 1990) (stating that the “‘manageability’ requirement includes consideration of the potential difficulties in notifying class members of the suit, calculation of individual damages, and distribution of damages”).  Based on the difficulty of calculating individual damages, the Court has serious concerns about the manageability of the post-training claim under § 2802 under the facts of this case. 
+
+
+For the foregoing reasons, the Court denies class certification for the post-training claim, i.e., that part of the § 2802 claim that seeks reimbursement of expenses incurred while Sales Representatives were actually selling knives. 
+
+
+
+V. CONCLUSION 
+
+For the reasons discussed above, the Court grants final certification for the FLSA collective action. The Court also grants class certification under Rule 23(a) and (b)(3)with respect to Ms. Harris’s state law claims related to the initial training, but denies such certification for claims arising out of post-training activities. 
+
+In conclusion, the FLSA class certified is defined as all individuals who worked for Vector in the state of California as Sales Representatives from April 15, 2006, through May 12, 2010.  The Rule 23 class (for claims related to the training period only) is defined as all individuals who worked for Vector in the state of California as “Sales Representatives” from October 15, 2004 through the date of the class notice. 
+
+The Rule 23 class notice shall be mailed no later than November 12, 2010. The deadline for the Rule 23 class members to opt out is December 27, 2010. These are the only modifications to the Court’s case management scheduling order.  All other deadlines remain the same. 
+
+The parties shall immediately meet and confer to reach agreement on the wording of the Rule 23 class notice. If there is any dispute about the wording, the parties must file a joint letter no later than November 10, 2010, stating what the dispute is and the parties’ respective positions. The letter shall be no longer than three single-spaced pages. The parties should fax a courtesy copy of the letter to the Court at (415) 522-4200. 
+
+This order disposes of Docket Nos. 330, 332, 336, and 337. 
+
+IT IS SO ORDERED. 
+
+
+
+

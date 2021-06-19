@@ -1,0 +1,188 @@
+ 
+
+Before the Court is Defendant’s, Home Depot, Inc., motion for summary judgement 
+
+and accompanying statement of facts, which is fully briefed.1  (Docs. 89-90, 98-104.) 
+
+Plaintiff Dennis Montoya (“Montoya”) is a delivery driver who claims that Defendants 3PD, 
+
+Inc. (“3PD”) and Home Depot, Inc. (“Home Depot”) misclassified him as an independent 
+
+contractor and violated both the Fair Labor Standards Act (“FLSA”) and Arizona law. 
+
+Montoya, who has a contract with 3PD through his limited liability company Big Dog 
+
+Trucking & Material Handling, LLC (“Big Dog”), claims that Home Depot was his joint 
+
+employer and is also liable.  Home Depot contests the joint employer designation, and moves 
+
+for summary judgment.  The Court will grant summary judgment in favor of Home Depot 
+
+as there is no genuine dispute to material fact; Home Depot is not Montoya’s joint employer 
+
+1 Both parties have requested oral argument.  The Court will not set oral argument on the motion because both parties have submitted legal memoranda and oral argument would not aid the Court’s decisional process. See e.g., Partridge v. Reich, 141 F.3d 920, 926 (9th Cir. 1998). 
+
+as a matter of law.2 
+
+
+
+
+
+Home Depot has a contract with 3PD for 3PD to provide truck drivers for delivery service of its goods; this delivery service is also known as “last-mile transportation services.” (Doc. 90 at 2; Doc. 99 at 2.)  3PD in turn negotiates and contracts with drivers to make deliveries for Home Depot.  (Doc. 90 at 2-3.) Montoya, through Big Dog, began working for 3PD in March 2005 (Doc. 90-7 at 52) and continued to do so until January 2012 (Id. at 49). During this time Montoya performed delivery services for Home Depot through Big Dog and made deliveries for other companies and people as well.  (Id. at 125.) 
+
+Montoya was trained by 3PD employees in a Home Depot parking lot. (Id. at 67.) In addition, Home Depot employees spent, in Montoya’s estimation, thirty minutes or less explaining to him their procedures for delivery.  (Id. at 76.) Information conveyed included how to obtain delivery paperwork, where to park the delivery truck, and where to pick up the merchandise Montoya was to deliver.  (Id. at 75.) 
+
+Home Depot maintained its own in-house “delivery coordinator” at its stores.  (Doc. 99-5 at 9.) The delivery coordinator was tasked with ensuring that deliveries were made when customers expected them.  (Id.) Part of this job included staying in contact with drivers throughout the day as they made deliveries.  (Id. at 12.) 
+
+Montoya’s delivery truck was leased from 3PD (Doc. 90-7 at 177) but carried Home Depot decals on its doors (Doc. 99-2 at 68). In addition, Montoya wore a uniform provided by 3PD that included both 3PD and Home Depot’s logos on his shirt.  (Doc. 90-7 at 177.) 
+
+Montoya stopped making deliveries for Home Depot in January 2012.  (Doc. 90-7 at 8, 13.) 
+
+2Home Depot contends that Arizona law uses the same definition of “employ” as the FLSA for the purposes of resolving Montoya’s second, third, fourth, and fifth claims in its amended complaint.  (Docs. 33 at 18-22; 89 at 8, 15.)  Montoya does not contest Home Depot’s determination that if the Court find that it is not a joint employer under the FLSA, it is likewise not a joint employer under Arizona law. 
+
+
+
+
+
+ 
+
+In a summary judgment motion, the court construes all disputed facts in the light most favorable to the non-moving party. Ellison v. Robertson, 357 F.3d 1072, 1075 (9th Cir. 2004). A court must grant summary judgment if the pleadings and supporting documents, viewed in the light most favorable to the non-moving party, show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law. See Fed. R. Civ. P. 56(a); Celotex Corp. v. Catrett, 477 U.S. 317, 322-23 (1986); Jesinger v. Nevada Fed. Credit Union, 24 F.3d 1127, 1130 (9th Cir. 1994). A dispute about a fact is “genuine” if the evidence is “such that a reasonable jury could return a verdict for the non-moving party.” Anderson v. Liberty Lobby, 477 U.S. 242, 248 (1986); see Jesinger, 24 F.3d at 1130. “Only disputes over facts that might affect the outcome of the suit under the governing law will properly preclude the entry of summary judgment.” Anderson, 477 U.S. at 248. 
+
+The principal purpose of summary judgment is “to isolate and dispose of factually unsupported claims.” Celotex, 477 U.S. at 323-24. Summary judgment is appropriate against a party who “fails to make a showing sufficient to establish the existence of an element essential to that party’s case, and on which that party will bear the burden of proof at trial.” Id. at 322; see also Citadel Holding Corp. v. Roven, 26 F.3d 960, 964 (9th Cir. 1994). The moving party need not disprove matters on which the opponent has the burden of proof at trial. See Celotex, 477 U.S. at 323-24. The party opposing summary judgment need not produce evidence “in a form that would be admissible at trial in order to avoid summary judgment.” Id. at 324. However, the non-movant may not rest upon the mere allegations or denials of the party’s pleadings, but must set forth specific facts showing that there is a genuine issue for trial. See Matsushita Elec. Indus. Co., Ltd. v. Zenith Radio Corp., 475 U.S. 574, 585-88 (1986); Brinson v. Linda Rose Joint Venture, 53 F.3d 1044, 1049 (9th Cir. 1995). 
+
+
+
+
+
+The Fair Labor Standards Act (“FLSA”) was passed by Congress in 1938 to promote the well-being of workers. Torres-Lopez v. May, 111 F.3d 633, 638 (9th Cir. 1997) (citing 29 U.S.C. § 202(a)). The FLSA employed a variety of means to do so, including setting minimum wage and maximum hour requirements.  Id. (citing 29 U.S.C. §§ 201-219). 
+
+The FLSA broadly defines employer-employee relationships that are subject to its provisions. Torres-Lopez, 111 F.3d at 638 (citing Rutherford Food Corp. v.McComb, 331 
+
+U.S.
+
+ 722, 728 (1947)). The FLSA provides that an employer “includes any person acting directly or indirectly in the interest of an employer in relation to an employee . . .”  Bonnette 
+
+
+
+v.
+
+ California Health & Welfare Agency, 704 F.2d 1465, 1469 (9th Cir. 1983) (quoting 29 
+
+
+
+
+
+U.S.C. § 203(d)), overruled on other grounds, Garcia v. San Antonio Metro. Transit. Auth., 469 U.S. 528, 538 (1985). Joint employment under the FLSA is not precluded, as “a single individual may stand in the relation of an employee to two or more employers at the same time . . .”  Torres-Lopez, 111 F.3d at 638 (citing and quoting 29 C.F.R. § 791.2(a)). All joint employers are individually responsible for compliance with the FLSA.  Bonnette, 704 F.2d at 1469 (citing 29 C.F.R. § 791.2(a) (1981)). 
+
+
+
+
+
+ 
+
+Home Depot’s status as a joint employer of Montoya is a question of law that can be answered by the Court at this time. See Bonnette, 704 F.2d at 1469 (“although the underlying facts are reviewed under the clearly erroneous standard the legal effect of those facts ­whether appellants are employers within the meaning of the FLSA - is a question of law”). Home Depot’s motion for summary judgment hinges on the Court’s application of the Bonnette “economic reality test” to determine if it was Montoya’s joint employer.  704 F.2d at 1470. The test is comprised of factors that ask “whether the alleged employer: (1) had the power to hire and fire the employees; (2) supervised and controlled employee work schedules or conditions of employment; (3) determined the rate and method of pay; and (4) maintained employment records.”  Id. (citing Real v. Driscoll Strawberry Assoc., Inc., 603 F.2d 748, 756 (9th Cir. 1979); Hodgson v. Griffin and Brand of McAllen, Inc., 471 F.2d 235, 237-38 (5th Cir. 1973)). The factors are issues of law that the Court will answer by applying the facts. 
+
+Torres-Lopez adds additional “non-regulatory” factors for determining joint employment. 111 F.3d at 640.  These factors are: 
+
+(1) whether the work was a specialty job on the production line; (2) whetherresponsibility under the contracts between a labor contractor and an employerpass from one labor contractor to another without material changes; (3)whether the premises and equipment of the employer are used for the work; (4)whether the employees had a business organization that could or did shift asa unit from one worksite to another; (5) whether the work was “piecework”and not work that required initiative, judgment or foresight; (6) whether theemployee had an opportunity for profit or loss depending upon the allegedemployee’s managerial skill; (7) whether there was permanence in the workingrelationship; and (8) whether the service rendered is an integral part of thealleged employer’s business. 
+
+Id. (internal citations and quotation omitted).  The Torres-Lopez factors have been used to 
+
+supplement the Bonnette factors when determining joint employment.  See e.g., Moreau v. 
+
+Air France, 356 F.3d 942, 947-48 (9th Cir. 2004); Adams v. US Airways, Inc., No. CV 10­
+
+1088, 2013 WL 1345509 (D. Ariz. March 29, 2013). 
+
+1. Did Home Depot have the power to hire or fire Montoya? 
+
+Home Depot asserts that it does not interview, evaluate, or hire any 3PD applicants. (Doc. 90-1 at 2.) Additionally, Home Depot denies that it has the authority to fire Montoya or any other 3PD drivers, and that the power to hire and fire is 3PD’s alone. (Doc. 90 at 2-3, 5; Doc.90-1 at 3-4.) Montoya responds that Home Depot did in fact have the power to hire him as a driver and additionally that Home Depot retained the power to fire him after he declined to make a delivery.  (Doc. 98 at 10-11.) Montoya argues that the power to hire and fire drivers can be established through direct or indirect control. (Id., citing Torres-Lopez, 111 F.3d at 642-43.) In addition to arguing that Home Depot controlled his hiring, Montoya contends that Home Depot fired him as well, speculating that his decision not to make an allegedly dangerous delivery led Home Depot to do so.  (Doc. 90-7 at 48-50.) 
+
+Montoya’s claim that he was interviewed by Home Depot before hiring is contradicted by his deposition, during which he testified that he did not meet a Home Depot employee until after 3PD hired him. (Doc. 90-7 at 60.) Additionally, the Court finds that Home Depot requiring Montoya to pass a criminal background check and to meet DOT requirements does not establish that it had the power to hire him.  These are rational steps for Home Depot to take to ensure the safety of its products and its consumers. See Moreau 356 F.3d at 951 (stating that the airline’s “indirect” supervision over ground handling employees was related to safety and security concerns, and the airline would be remiss to not protect passengers’ safety). Additionally, Montoya never sent Home Depot an application packet nor a resume. (Doc. 90-7 at 59.)3 Montoya’s claim that Home Depot controlled the hiring process, including his position that he was interviewed by Home Depot, is merely a conclusory allegation that is not supported by fact.  Thus, it was 3PD not Home Depot who hired Montoya. 
+
+Montoya’s contract with 3PD was terminated after Home Depot told 3PD that Home Depot “would be better served with a new Contractor (sic).”  (Doc. 99-2 at 94.) However, there is no evidence to suggest that Home Depot cared if 3PD continued its relationship with Montoya for other companies’ deliveries.  Home Depot had no interest in Montoya’s employment relationship with 3PD outside of his delivery of Home Depot goods relating to the Home Depot and 3PD contract. Yet, if 3PD had no other business in the Kingman area, Home Depot’s request for his reassignment from delivering Home Depot goods may have been an indirect firing.. See  Valdez v. Cox Communications Las Vegas, Inc., No. 2:09-CV­01797, 2012 WL 1203726 at *2 (D. Nev. Apr. 11, 2012) (finding that if Cox Communications decided that an installer could not work on Cox projects, that meant termination for installers at VIP which obtained 100% of its work from Cox). However, here there is evidence that 3PD had Montoya make deliveries for other companies, including Golden Valley nursery, Sears, and a JC Penny while he was a driver with 3PD. (Doc. 90-7 at 125-128.) Additionally, Montoya knew of other 3PD clients in Arizona, but did not ask 3PD if he could make deliveries for these stores instead. (Doc. 90-7 at 128-29.) 
+
+3Montoya speculates that an application packet submitted to 3PD was shared with Home Depot, but does not provide any evidence to corroborate this claim. (Doc. 90-7 at 59.) 
+
+Although Home Depot may have requested that 3PD remove Montoya as a delivery driver of Home Depot goods, it remained 3PD’s decision whether to continue its relationship with Montoya. Even if Home Depot indirectly contributed to the termination of 3PD’s relationship with Montoya, it is not enough to suggest that as a matter of law Home Depot had the power to hire and fire Montoya. This factor weighs against finding joint employment. 
+
+2. Did Home Depot supervise and control Montoya’s work schedules or conditions of employment? 
+
+The Bonnette court held that a joint employer supervised and controlled the employee’s work schedule or condition of employment when the employer makes the final decision regarding the hours of employment and tasks the employee would complete.  704 F.2d at 1470. However, specifying work to be performed and following up to ensure adequate performance is not necessarily a indication of joint employment.  Moreau, 356 F.3d at 951. 
+
+Home Depot argues that it interacted with Montoya only when necessary, such as when it would provide Montoya with delivery information and paperwork relating to the delivery, but that it did not supervise, train, evaluate or discipline Montoya. (Doc. 89 at 9.) 
+
+Montoya alleges that Home Depot trained him, controlled his work schedule and supervised him during the hours he was working.  (Doc. 98 at 12-13.) Montoya claims that Home Depot trained him regarding their equipment and completing paperwork.  (Doc. 99 at 3.) Montoya claims he was told that Home Depot “owned” him six days a week, ten hours a day, absent a replacement driver.  (Doc. 98 at 12.) Montoya argues that Home Depot controlled when he would make deliveries and that Home Depot’s Delivery Coordinator would instruct him when and where to make the deliveries.  (Id.) The alleged supervision by Home Depot took the form of monitoring Montoya’s movements with GPS, phone calls, driver logs, delivery confirmations, and the use of Home Depot’s in-house Delivery Coordinator. (Doc. 98 at 12-13.) In addition, Montoya contends that he was compelled to attend Home Depot’s staff meetings.  (Doc. 98 at 13.) 
+
+Contrary to Montoya’s allegations, it is clear that Montoya’s training was conducted by 3PD employees.  A 3PD employee trained Montoya how to use a rear-mounted forklift in a Home Depot parking lot. (Doc. 90-7 at 67.) While Montoya did meet employees of Home Depot during this training, none of them were involved in his training.  (Id. at 71.) 3PD conducted all additional delivery training, with the exception of Home Depot’s instructions of where to pick up paperwork, where to park the truck, where to meet in the morning, and where to pick up the merchandise, all of which was limited to somewhere between 15 to 30 minutes of total instruction time.  (Id. at 73, 76.) Although Montoya claims that on one occasion he was trained by Home Depot to install washers and dryers, he acknowledged that there was never any intent for him to be an installer.  (Id. at 144-45.) Thus, it was 3PD who controlled and conducted Montoya’s job training. 
+
+The facts also show that Home Depot did not determine the hours that Montoya would work as a driver for 3PD. (Doc. 90-1 at 4.)  Home Depot required a certain number of delivery hours from 3PD, who in turn assigned hours to drivers to make those deliveries for Home Depot.4 (Id.) Home Depot’s scheduling requirements are favorably compared to those of Air France in Moreau, which were found to not constitute joint employment.  356 F.3d at 950 n.5. Just as Home Depot had deliveries that 3PD drivers needed to make within a certain time frame, Air France had flights landing within a window of time that needed service by the employees of the separate companies it contracted with to provide ground services.  Id. This practice was not enough to find that Air France controlled the workers’ schedule for finding the airline to be a joint employer.  Id. 
+
+Regarding alleged supervision, the facts show Home Depot’s primary concern was ensuring the completion of deliveries by the drivers.  Drivers, including Montoya, were given information about what deliveries that had to be made that day, along with a general time 
+
+4Although Montoya claims that Home Depot retained and utilized its right to approve substitute drivers (Doc. 90-7 at 114, 132-136, Doc. 99 at 7), the evidence shows that Home Depot required that replacement drivers be able to meet the same requirements as its original drivers. (Doc. 99-2 at 90.) 
+
+frame for delivery, but were not told the order in which to make the deliveries, or provided a mandated route to drive.  (Doc. 99-5 at 19.) Communications during the day consisted of making sure that Montoya was kept up to date with changing information.  (Id. at 21.) Home Depot’s knowledge of Montoya’s daily activities was limited to what deliveries had been completed and which were still pending.  (Id. at 31.) Thus, Home Depot’s measures to ensure the delivery of products is not the same as supervising Montoya.  Montoya was able to exercise his discretion as to the time and method of delivery, within broad requirements that the product be delivered during a certain part of the day. 
+
+Regarding staff meetings, there is no evidence that Montoya was compelled to attend them.  Rather, the evidence shows that he was invited to morale building events, and that he sporadically attended them between 2005 and 2006.  (Doc. 90-7 at 148.) Montoya concedes that he was not contractually obligated to attend, and that he did so at his discretion.  (Id. at 149-150.) 
+
+Based on these facts, the Court finds that this factor favors the position of Home Depot that it was not a joint employer of Montoya as it did not supervise or control Montoya’s schedule or conditions of his work. 
+
+3. Did Home Depot decide rate or method of Montoya’s pay? 
+
+The Bonnette court found that there was a joint employer relationship when wages were directly paid to the employee or were indirectly paid to an additional party with “the understanding that the wages would be paid over to the chore worker.” 704 F.2d at 1470. 
+
+Home Depot contends that it did not pay Montoya, did not determine or pay bonuses or benefits, did not have any role in determining Montoya’s compensation or benefits, nor did it pay payroll taxes or issue tax forms for him. (Doc. 89 at 13.) According to Home Depot, Montoya’s pay was controlled by 3PD’s payments to Big Dog Trucking, Montoya’s limited liability company. (Id.) Home Depot made its payments to 3PD according to its contract with 3PD, not the hours worked by 3PD’s drivers. (Doc. 90-1 at 4.) //// 
+
+Although acknowledging that Home Depot never directly paid him wages,5 Montoya contends that Home Depot indirectly exercised its control over his pay because the terms of Home Depot’s contract with 3PD controlled what he was paid.  (Doc. 99 at 13.) Montoya points to two alleged instances Home Depot directly influenced the amount and rate that 3PD paid Montoya. (Id. at 13-14.) On one instance Montoya discussed extra payment for hazardous delivery with the Home Depot store manager.  (Doc. 90-7 at 97-99; Doc. 99-6 at 6-7; Doc. 99-2 at 95-96.) Montoya also contends that a local Home Depot store manager lobbied on Montoya’s behalf for additional reimbursement for Montoya’s fuel expenditures. (Doc. 90-7 at 100-103.) 
+
+First, the Court finds that Montoya’s indirect control of wages argument fails to allege any genuine dispute of material fact; it is uncontested that Home Depot and 3PD had a contractual relationship to provide delivery drivers for Home Depot.  (Docs. 90 at 2; 99 at 2.) The payments that Home Depot made to 3PD for the contract were not like those in Bonnette, where the understanding was that the money was to be paid to the employee.  704 F.2d at 1470. Here, Home Depot’s payments to 3PD were paid for 3PD’s “last mile” transportation services, and were not designated for Montoya specifically. (Doc. 90 at 2.) 
+
+Regarding his contentions that Home Depot directly influenced his pay, there is no evidence that the Home Depot store manager had the authority to negotiate Montoya’s wages. (Doc. 99-2 at 95-96; Doc. 103 at 4.) When Montoya emailed 3PD regarding the proposed $100 hazardous delivery fee, which was to be paid by 3PD (Doc. 90-7 at 99), 3PD indicated that the preferred method of negotiation was between 3PD and Home Depot corporate, not amongst Montoya and the local Home Depot branch (Doc. 99-2 at 95). Regarding reimbursement for extra fuel expenditures, Montoya offers no corroborating evidence for the store manager’s hearsay statement.  Montoya cannot establish who the store manager spoke to about fuel reimbursement, beyond identifying the other party as a 3PD 
+
+5On two occasions, Montoya states that he received compensation directly from Home Depot, once in the form of approximately $100 worth of plumbing supplies and a second time when Home Depot waived a charge-back for damaged goods.  (Doc. 90-7 at 96-97.) 
+
+employee.  (Doc. 90-7 at 101.) Even taking the allegation as true without supporting evidence, it does not suggest that Home Depot controlled Montoya’s wages.  Rather, the fuel reimbursement and hazardous delivery fee talks with Home Depot suggest that Montoya used Home Depot employees to support his negotiations with 3PD, who actually controlled his wages. 
+
+Based on the undisputed facts, the Court finds that as a matter of law that Home Depot did not control Montoya’s method or rate of pay.  
+
+4. Did Home Depot maintain personnel records for Montoya? 
+
+Bonnette does not clearly specify what constitutes employment records, only finding that the employers in question “maintained employment records.”  704 F.2d at 1470. 
+
+Montoya contends that Home Depot controls “at least some of its Drivers’ employment records” and points to drivers’ daily time sheets and daily driver logs as his only examples.  (Doc. 98 at 14; Doc. 99 at 8.) 
+
+There is persuasive authority suggesting that daily time sheets and daily driver logs do not constitute employment records as typically considered.  See Adams, 2013 WL 1345509 at *4 (stating that records kept to determine how much work has been accomplished for the sake of determining pay to a subcontractor are not seen as employment records). Here, the records served to keep track of the work accomplished, and do not indicate employment.  There is no evidence to support Montoya’s contention that Home Depot kept records that would indicate its role as a joint employer. 
+
+The Court finds that this factor also favors the position of Home Depot, that it was not a joint employer of Montoya as Home Depot did not maintain personnel records for Montoya. 
+
+5. Do additional non-regulatory Torres-Lopez factors apply? 
+
+Torres-Lopez defined eight additional “non-regulatory” factors to consider when determining joint employment.  See 111 F.3d at 640. However, the application of the non-regulatory Torres-Lopez factors, which were originally applied to the employment relationship between farm workers and growers, may not always be appropriate for all “economic reality tests.”  See Moreau 356 F.3d at 952 (finding that not all of the Torres-Lopez factors translated well when defining the employment relationship between the airline and ground support). The Torres-Lopez factors guide a determination as to whether one party was “economically dependent” on the other.  Moreau, 356 F.3d at 948 (citing Torres-Lopez, 111 F.3d at 644). 
+
+It is conceded by Montoya that Home Depot had no ownership stake in the trucks used for deliveries, as they were owned by 3PD and leased to Montoya.  (Doc. 90-7 at 177.) In addition, Montoya’s uniform, which consisted of a shirt and khaki shorts, was provided by himself and 3PD.  (Doc. 90-7 at 177).  However, both the trucks and uniform contained Home Depot labeling.  (Doc. 90-7 at 176; Doc. 99-2 at 68.) Additional equipment used for the work, such as the moffet used for the trailer, was provided by Home Depot to 3PD who was then responsible for maintenance and distribution of the tools to the delivery drivers. (Doc. 99-2 at 67). This does not suggest that Home Depot provided Montoya with equipment individually, but rather that Home Depot provided 3PD necessary equipment for the fulfillment of their delivery contract. 
+
+Montoya’s profits were determined based on his own managerial skill.  For instance, in the Driscoll case, the court evaluated whether the farm workers’ opportunity for profit or loss depended on their managerial skill.  See 603 F.2d at 755. The Driscoll court found that because the farm workers’ profits were reliant upon the actions of the landowner, particularly with regards to “developing fruitful varieties of strawberries, in analyzing soil and pest conditions, and in marketing,” rather than the farm workers’ duties spent weeding, pruning, and picking, the factor weighed in favor of employment.  Id. Here, unlike Driscoll, Montoya’s profits were not based solely on the managerial decisions of others.  Id.  The evidence shows that Montoya had more influence than the Driscoll farm workers, as Montoya was able to increase Big Dog Trucking’s profits by hiring other drivers to help with deliveries. (Doc. 90-7 at 114.) In addition, there is no evidence that Montoya was entitled to any greater profits based upon the contract between Home Depot and 3PD. 
+
+The Moreau court found that the final Torres-Lopez factor, how integral the work was to the alleged employer’s business, may not be applicable outside of the production line.  356 F.3d at 952 (citing Torres-Lopez, 111 F.3d at 643-644). Montoya and Home Depot both offer evidence as to the role that 3PD’s “last mile” deliveries serve in the Home Depot business model.  Montoya’s contention, unsupported by anything beyond allegations, that 3PD’s delivery services are “integral” to Home Depot’s business model is not enough to find joint employment.  Even adopting Montoya’s contention that his deliveries were necessary for 3PD and thus for Home Depot, does not outweigh the numerous significant factors discussed above that evidence Home Depot not being a joint employer of Montoya.  See Moreau, 356 F.3d at 952. 
+
+The Court finds that there is no genuine dispute to the material facts which would establish that Home Depot was a joint employer.  There is no evidence that Home Depot retained the power to hire and fire Montoya, that it exercised control over the time and nature of Montoya’s daily work, that it was able to determine Montoya’s pay, nor that it maintained Montoya’s personnel records. Additionally, there is no evidence that the applicable Torres-Lopez factors weigh in favor of finding joint employer status.  For these reasons, the Court is able to find as a matter of law that Home Depot is not a joint employer of Montoya. Because Montoya cannot show that Home Depot was his employer, absent an employment relationship, his FLSA and his Arizona state law wage against Home Depot will be dismissed.  
+
+B. Ruiz v. Affinity Logistics Corp. does not apply 
+
+The Ninth Circuit’s recent decision in Ruiz v. Affinity Logistics Corp does not affect this Court’s analysis. See No. 12-56589, 2014 WL 2695534 at * 1 (9th Cir. June 16, 2014). In Ruiz, under California law, the court evaluated whether truck drivers were wrongly classified as independent contractors rather than employees.  Id.  Ruiz is similar in that the court evaluated the employment status of a delivery truck driver.  Id. However, Ruiz was decided by looking at the driver’s relationship with the logistics company, Affinity, and not the company whose products the driver was delivering, Sears.  Id.  Ruiz did not concern whether there was a joint employer relationship between the parties for the purposes of the FLSA, but instead addressed “the independent contractor versus employee question under California law.” Id. at *5. 
+
+
+
+ 
+
+Accordingly, on the basis of the foregoing, 
+
+IT IS HEREBY ORDERED granting Home Depot’s motion for summary judgment. (Doc. 89.) The Clerk of Court shall dismiss Defendants Home Depot Incorporated and Home Depot USA Incorporated from this case. 
+
+
+
+
+
+
+

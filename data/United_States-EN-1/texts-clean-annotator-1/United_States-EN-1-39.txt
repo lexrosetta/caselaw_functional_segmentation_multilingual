@@ -1,0 +1,228 @@
+ 
+
+ 
+
+
+
+ This class action under the Fair Labor Standards Act of 1938 (“FLSA”), 29 U.S.C. §§ 201–219, involves claims by plaintiffs who work as Trainers and First-Level Supervisors (“Supervisors”) for defendant Maximus Inc.  This Order addresses (1) the parties’ cross-motions for summary judgment pursuant to Federal Rule of Civil Procedure 56 on the Supervisors’ claim that 
+
+defendant misclassified them as exempt employees in violation of the FLSA, (Docket Nos. 146, 147); (2) the Supervisors’ motion in limine to exclude the report and testimony of defendant’s expert Christina Banks for purposes of the pending summary judgment motions and trial, (Docket No. 162); and (3) defendant’s motion for clarification of the court’s November 19, 2015 Order granting the Trainers’ motion for summary judgment on their request for liquidated damages under the FLSA, (Docket No. 140). 
+
+The Centers for Medicare and Medicaid Services, a federal agency within the United States Department of Health and Human Services, granted a government service contract to General Dynamics Information Technology (“GDIT”) to provide call centers for the implementation of the Affordable Care Act.  GDIT then entered into a subcontract with defendant for defendant to operate two such call centers in Boise, Idaho and Brownsville, Texas. 
+
+ Defendant classified its employees at the two call centers as follows: (1) non-exempt customer service representatives (“CSRs”), who took calls from consumers to assist them with health insurance enrollment; (2) exempt Trainers, who provided training to CSRs; (3) exempt Supervisors, who each oversaw call center operations and the work of twelve to sixteen CSRs; (4) exempt Operations Managers, who each oversaw the work of six to twelve Supervisors; and (5) an exempt Senior Operations Manager at each call center, who oversaw the overall performance of that call center. 
+
+ On January 24, 2014, plaintiffs brought this action, 
+
+individually and on behalf of the Trainers and Supervisors at the two call centers, alleging claims under the FLSA for misclassification of employment status, 29 U.S.C. § 213(a)(1), failure to pay required overtime, id. § 207(a)(2)(C), and failure to keep accurate records, id. § 211(c).  The Trainers also alleged a claim under the FLSA for retaliation, id. § 215(a)(3).  (First Am. Compl. (Docket No. 34).) 
+
+ Defendant reclassified the Trainers as non-exempt employees shortly before plaintiffs filed this action.  The parties then settled all of the Trainers’ claims except their request for liquidated damages under the FLSA.  (Docket No. 139.)  On November 19, 2015, the court granted the Trainers’ motion for summary judgment on their request for liquidated damages.  (Docket No. 138.)  Defendant now seeks “clarification” of the court’s award of liquidated damages.  (Docket No. 140.) 
+
+ Only the Supervisors’ FLSA claims remain.  In August 2014, the court conditionally certified the Supervisor class as: “All First-Level Supervisors employed by Maximus from on or around August of 2013 and thereafter who were assigned to supervise a team of approximately 14 call center employees responsible for handling telephone calls on behalf of Maximus, and who were classified by the company as exempt employees under the FLSA.”  (Docket No. 59.) 
+
+ The parties now cross-move for partial summary judgment on the Supervisors’ claim that defendant misclassified them as exempt employees in violation of the FLSA.  (Docket Nos. 146, 147.)  The Supervisors also seek an in limine ruling excluding the report and testimony of defendant’s expert Christina Banks 
+
+for purposes of the pending motions for summary judgment and trial pursuant to Federal Rule of Civil Procedure 26(a)(2) and Federal Rule of Evidence 702.  (Docket No. 162.) 
+
+ 
+
+
+
+ A party may move for summary judgment on a “claim or defense.”  Fed. R. Civ. P. 56(a).  Summary judgment is proper if there is no genuine issue of material fact and the moving party is entitled to judgment as a matter of law.  Id.; Summers v. Teichert & Son, Inc., 127 F.3d 1150, 1152 (9th Cir. 1997).  A material fact is one that could affect the outcome of the case.  Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986).  A genuine issue exists if there is evidence produced that would allow a reasonable trier of fact to reach a verdict in favor of the non-moving party.  Id. 
+
+ The moving party bears the initial burden of establishing that no genuine issue of material fact exists as to the particular claim or defense.  Id. at 256.  Where the moving party seeks summary judgment on a claim or defense for which it bears the burden of proof at trial, it must affirmatively demonstrate that no reasonable trier of fact could find for the non-moving party on that claim or defense.  Soremekun v. Thrifty Payless Inc., 509 F.3d 978, 994 (9th Cir. 2007).  If summary judgment is sought on a claim or defense for which the non-moving party bears the burden of proof at trial, the moving party must either (1) produce evidence negating an essential element of the non-moving party’s claim or defense, or (2) show that the non-moving party cannot produce evidence to support an essential 
+
+element of its claim or defense.  Celotex Corp. v. Catrett, 477 U.S. 317, 322-23 (1986). 
+
+ Once the moving party has met its initial burden, the burden shifts to the non-moving party to produce concrete, specific evidence establishing a genuine issue of material fact.  Id. at 324; Anderson, 477 U.S. at 256.  To carry this burden, the non-moving may not rely “solely on conclusory allegations unsupported by factual data.”  Taylor v. List, 880 F.2d 1040, 1045 (9th Cir. 1989).  Rather, it must produce sufficient evidence beyond the pleadings that would allow a reasonable trier of fact to find in its favor.  Anderson, 477 U.S. at 256.  If it does so, then “there is a genuine issue of fact that requires a trial.”  Id. at 257. 
+
+ In ruling on a motion for summary judgment, the court must believe the evidence of the non-moving party, and it must view all inferences drawn from the factual record in the light most favorable to the non-moving party.  Id. at 255; Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 587 (1986).  “Thus, although the court should review the record as a whole, it must disregard all evidence favorable to the moving party” unless that evidence is “uncontradicted and unimpeached . . . [and] comes from disinterested witnesses.”  Reeves v. Sanderson Plumbing Products, Inc., 530 U.S. 133, 151 (2000) (citation omitted). 
+
+ The court may not weigh the evidence, make credibility determinations, or determine the truth of the matters asserted.  Id. at 150; Anderson, 477 U.S. at 249.  The court’s sole function is to determine whether there are any genuine factual issues that 
+
+can be resolved “only by a finder of fact because they may reasonably be resolved in favor of either party.”  Anderson, 477 U.S. at 250.  Where parties submit cross-motions for summary judgment, the court must consider each motion separately to determine whether either party has met its burden, “giving the nonmoving party in each instance the benefit of all reasonable inferences.”  ACLU of Nev. v. City of Las Vegas, 333 F.3d 1092, 1097 (9th Cir. 2003); see also Fair Hous. Council v. Riverside Two, 249 F.3d 1132, 1136 (9th Cir. 2001) (stating that “each motion must be considered on its own merits” and “the court must review the evidence submitted in support of each cross-motion”). 
+
+
+
+ The FLSA requires that employees be paid overtime pay at time and one-half the regular rate of pay for all hours worked over forty hours in a workweek.  29 U.S.C. § 207(a)(1).  The statute authorizes civil suits by employees to recover unpaid overtime wages and an equal amount as liquidated damages against employers who violate the FLSA’s overtime provisions.  Id. § 216(b).  Section 213(a)(1) provides an exemption from the FLSA’s overtime requirements for employees who work “in a bona fide executive, administrative, or professional capacity.”  Id. § 213(a)(1).  The FLSA grants the Secretary of Labor broad authority to promulgate regulations that define and delimit the scope of the exemptions for executive, administrative, and professional employees.  Id.; Auer v. Robbins, 519 U.S. 452, 456 (1997) (citing 29 U.S.C. § 213(a)(1)).   
+
+ To treat an employee as an exempt executive, administrative, or professional employee, the employer must prove 
+
+that three tests are satisfied regarding the employee’s job duties, salary level, and salary basis.  Klem v. County of Santa Clara, 208 F.3d 1085, 1089-90 (9th Cir. 2000).  The duties test requires that an exempt employee perform the primary duties of an executive, professional, or administrative employee.  29 C.F.R. § 541.700(a).  The salary level test prior to recent amendment set to take effect December 1, 2016 required that an exempt employee receive a minimum weekly salary of $455.00, which can be translated into a semimonthly salary of $985.83.1  Id. § 541.600(a)-(b).  The salary basis test requires that an exempt employee receive a predetermined salary every pay period that cannot be reduced because of changes in the quality or quantity of the employee’s work, except in several specified circumstances.  Id. § 541.602(a); see also id. § 541.602(a) (“[A]n exempt employee must receive the full salary for any week in which the employee performs any work without regard to the number of days or hours worked.”).  
+
+ 1  Plaintiffs do not dispute that the Supervisors met the salary level test under 29 C.F.R. § 541.600 as it existed at the relevant time.  (Pl.’s Mem. at 5 n.4 (Docket No. 146-1).)   
+
+ The employer bears the burden of proving its employees are properly classified as exempt.  See Corning Glass Works v. Brennan, 417 U.S. 188, 196-97 (1974).  “[T]o meet its burden, an employer must establish that [an] employee satisfies each of the criteria set forth in the Secretary of Labor’s regulations.”  Christopher v. SmithKline Beecham Corp., 635 F.3d 383, 391 (9th Cir. 2011), aff’d, 132 S. Ct. 2156 (2012); see also Bothell v. Phase Metrics, Inc., 299 F.3d 1120, 1125 (9th Cir. 2002) (“The 
+
+criteria provided by regulations are absolute and the employer must prove that any particular employee meets every requirement before the employee will be deprived of the protection of the [FLSA].” (citation omitted)). 
+
+ In accordance with the FLSA’s remedial purpose, the court must construe the FLSA liberally in favor of employees and any exemptions narrowly against the employer seeking to assert them.  Cleveland v. City of Los Angeles, 420 F.3d 981, 988 (9th Cir. 2005) (citing Arnold v. Ben Kanowsky, Inc., 361 U.S. 388, 392 (1960)).  FLSA exemption may only be found in contexts that are plainly and unmistakably within the given exemption’s terms and spirit.  Auer, 519 U.S. at 462.  Determining whether FLSA exemption applies is a fact-intensive inquiry that must be made on a case-by-case basis.  Christopher, 635 F.3d at 391; Vinole v. Countrywide Home Loans, Inc., 571 F.3d 935, 945 (9th Cir. 2009). 
+
+
+
+  Plaintiffs move for partial summary judgment on the ground that defendant cannot carry its burden on the salary basis test and thus defendant improperly classified the Supervisors as exempt employees.  For an employee to be paid on a salary basis, the employee must regularly receive a predetermined amount of compensation each pay period that cannot be reduced because of variations in the quantity or quality of the employee’s work.  29 C.F.R. § 541.602(a).  Exempt employees must receive their full predetermined salaries for any week in which they perform any work, regardless of the number of days or hours worked.  Id.   
+
+If an employer “makes improper deductions” from the  
+
+salary of an exempt employee, the employer “lose[s] the exemption 
+
+if the facts demonstrate that the employer did not intend to pay employees on a salary basis.”  Id. § 541.603(a).  “An actual practice of making improper deductions demonstrates that the employer did not intend to pay employees on a salary basis.”  Id.   
+
+“The question is not whether an employer has the  
+
+subjective intention that its employees be exempt from the FLSA’s overtime provisions.  Rather, it is whether the employer has evinced the objective intention to pay its employees on a salaried basis as defined in the Secretary’s regulations.”  Klem, 208 F.3d at 1091.  “When an employer has a practice and policy of noncompliance with those regulations, . . . it cannot demonstrate an intention to comply with the regulations and to pay its employees on a salaried basis” and, “[u]nder those circumstances, the employer cannot treat its employees as exempt.”  Id.; see also id. at 1093 (concluding that this interpretation of the Secretary is entitled to deference).  Subsection (b)(6) permits an employer to pay an exempt employee only for time actually worked during the first and final weeks of employment and allows for partial day deductions during the first and final weeks of employment.  Id. § 541.602(b)(6).   
+
+The regulations provide seven limited exceptions under  
+
+which an employer can reduce an exempt employee’s salary without losing the exemption.  29 C.F.R. § 541.602(b)(1)-(7).  Subsection (b)(1) permits a deduction when an employee is absent from work for one or more full days for personal reasons, other than sickness or disability.  Id. § 541.602(b)(1).  Subsection (b)(2) permits a deduction if the employer has adopted a paid leave plan that provides for sick leave, the employee has exhausted the 
+
+leave allowance, and the employee is absent from work for one or more full days because of sickness.  Id. § 541.602(b)(2).  Subsections (b)(1) and (b)(2) thus permit salary deductions only for “one or more full days” of absence and only if they are made in full-day increments.   
+
+To calculate the amount of a permissible deduction, an  
+
+employer may use either (1) “the hourly or daily equivalent of the employee’s full weekly salary”; or (2) “any other amount proportional to the time actually missed by the employee.”  29 C.F.R. § 541.602(c).  It is undisputed that defendant does not calculate the Supervisors’ permissible deductions using the hourly or daily equivalent of their full weekly salary. (McCormick Decl. ¶ 80 (Docket Nos. 160 to 160-24); Stuckwisch Decl. ¶¶ 33-35 (Docket No. 159-7).)  Defendant thus satisfies the salary basis test only if it calculated deductions for the Supervisors’ unpaid time off by an amount “proportional to the time actually missed by the employee.”  29 U.S.C. § 514.602(c). 
+
+  Under the regulations, “[a]n exempt employee’s earnings may be computed on an hourly, a daily or a shift basis, without losing the exemption or violating the salary basis requirement, if the employment arrangement also includes a guarantee of at least the minimum weekly required amount paid on a salary basis regardless of the number of hours, days or shifts worked . . . .”  Id. § 541.604(b).  It is undisputed that defendant pays the Supervisors semi-monthly, dividing their annual salaries into 24 payments paid twice a month.  (Hudson Decl. Ex. 5 (employee Manual (“EM”) §§ 4.4.5, 7.1.4 (Docket Nos. 146-2 to 146-20); see also EM § 7.1.6 (“[The Supervisors] receive one twenty-fourth of 
+
+their base annual salary each [semi-monthly] payday, less any time taken as leave without pay.”).)   
+
+Defendant has a paid time off (“PTO”) plan that  
+
+provides every Supervisor a limited amount of paid leave per year for vacation, personal time, personal illness or injury, medical care and travel for such care, or to care for a sick family member.  (EM §§ 4.4.5, 7.1.4, 7.1.6; McCormick Decl. ¶¶ 11-14, Feb. 8, 2016 (Docket Nos. 160 to 160-24).)  Defendant reduces a Supervisor’s PTO balance any time the Supervisor is absent on a scheduled workday, even if the absence is for less than a full day.  See Webster v. Pub. Sch. emps. of Wash., Inc., 247 F.3d 910, 917 (9th Cir. 2001) (deducting paid leave does not constitute deducting salary); see also U.S. Dep’t of Labor, Wage & Hour Div., Opinion Letter FLSA 2009-18 (Jan. 16, 2009) (“[A]n employer can substitute or reduce an exempt employee’s accrued leave for the time an employee is absent from work, even if it is less than a full day . . . without affecting the salary basis of payment.”). 
+
+Defendant requires the Supervisors to account for their  
+
+work time using a software system called Deltek Time Collection (“Deltek”).  (EM at 154-55; McCormick Decl. ¶ 21); see also U.S. Dep’t of Labor, Wage & Hour Div., Opinion Letter FLSA 2006-6 (Mar. 10, 2006) (an employer may require an exempt employee to record and track hours without affecting the employee’s exempt status).  The Supervisors must submit their completed Deltek timesheets to defendant by the end of each pay period to get paid.  (See EM §§ 7.1.5, 7.2.10.)  The Supervisors are required to account for 40 hours of work per week regardless of the number 
+
+of hours they work.  (EM § 4.4.7; Stuckwisch Decl. ¶ 28; Hudson Decl. Ex. 1 (“McCormick Dep.”) at 176-81, 264-68).2  Through the Deltek system, the Supervisors indicate any time they took off work and whether that time off was unpaid or was eligible for paid time off.  (See McCormick Decl. ¶¶ 21-24, 47-50; Iracheta Decl. ¶ 12 (Docket No. 159-2); Paiz Decl. ¶¶ 7-11 (Docket No. 159-4); Samms Decl. ¶ 11 (Docket No. 159-5).)  
+
+ 2  The Supervisors are required to work 40 hours each workweek under either a “standard” or “flexible” schedule.  “An employee’s workweek is a fixed and regularly recurring period of 168 hours--seven consecutive 24–hour periods.  It need not coincide with the calendar week but may begin on any day and at any hour of the day.”  29 C.F.R. § 778.105; see also U.S. Dep’t of Labor, Wage & Hour Div., Opinion Letter FLSA 2005-17 (May 27, 2015) (stating that the “workweek is established by the employer” and that “different workweeks may be established for different employees or groups of employees”). 
+
+  Supervisors under the standard schedule must work Monday to Friday for 8 hours a day, exclusive of meal periods.  (EM § 4.1.4.)  Certain approved Supervisors can work non-standard “flexible” workweek schedules that deviate from the regular Monday to Friday workweek, provided that they work 40 hours each workweek.  (EM § 4.1.8; McCormick Decl. ¶¶ 53-54.)  For instance, a Supervisor under a flexible workweek schedule might work Monday to Thursday for 10 hours a day, or Wednesday to Sunday for 8 hours a day.  (See Paiz Decl. ¶¶ 7-8 (Docket No. 159-4).) 
+
+ 3  Defendant concedes that there were seven instances where it made improper deductions for partial-day absences, (McCormick Decl. ¶¶ 65-72, Exs. 7-12), and the court need not address those deductions for purposes of this motion.  Defendant indicates that the seven improper deductions were inadvertent and due to human error and that it will reimburse the Supervisors for the amounts improperly deducted.  See 29 C.F.R. § 541.603(c) (“Improper deductions that are either isolated or inadvertent will not result in loss of the exemption for any employees subject to such improper deductions, if the employer reimburses the employees for such improper deductions.”). 
+
+  To calculate deductions for a full day3 of unpaid time off, defendant uses the following formula:   
+
+Deduction = semi-monthly salary - [(hourly rate X pay period hours) - (hourly rate X hours missed)]  
+
+(Opp’n at 25 n.12 (Docket No. 159); Stuckwisch Decl. ¶ 35.)  To calculate the semi-monthly salary, defendant divides the Supervisor’s annual salary by 24, since there are 24 semi-monthly pay periods per year.  To calculate the hourly rate for hours worked, PTO, and holiday hours, defendant divides the Supervisor’s annual salary by the 2,080 annual work hours that the salary is intended to compensate.  (See EM § 6.2.12; McCormick Dep. at 60-92; Stuckwisch Decl. ¶ 28.)   
+
+  Because defendant pays the Supervisors on a semi-monthly basis, the number of work hours in each pay period varies from month to month.  There are either 72 hours (9 workdays), 80 hours (10 workdays), 88 hours (11 workdays), or 96 hours (12 workdays) in a semi-monthly pay period.  Defendant acknowledges that, as a result, “the amount of the deduction varie[s] relative to the length of the pay period.”  (Opp’n at 25.)  Defendant states that, in “a shorter pay period, the deduction relative to the [Supervisor’s] expected [hourly] pay would be larger.”  (Id. at 29.) 
+
+  Plaintiffs argue that, because the amount of the Supervisors’ deductions depend upon the varying number of work hours in a given semi-monthly pay period, their predetermined salaries each pay period are “subject to reduction because of variations in the . . . quantity of the work performed.”  See 29 C.F.R. § 541.602(a).  Plaintiffs also contend that defendant’s method results in an hourly rate of deduction that is disproportionate to the hourly rate of pay for time worked, PTO, 
+
+and holiday hours.  (Reply at 19 (Docket No. 169).) 
+
+  It is undisputed that, under defendant’s method, numerous Supervisors were subject to hourly rates of deduction that were much higher in proportion to their hourly rates of pay for regular work, PTO, and holiday hours.  For instance, during the pay period ending September 15, 2013 (the first semi-monthly pay period in September 2013), Leticia Huerta worked an 80-hour semi-monthly period that consisted of 78 paid hours--64 work hours, 6 hours of PTO, and 8 holiday hours--and 2 hours of leave without pay.  (Hudson Decl. Ex. 42 at 2.)  Defendant calculated Huerta’s hourly rate of pay for the year as $18.03, whether it was in a pay period with 80 hours, 88 hours, or 96 hours.  (Stuckwisch Decl. Ex. C at 25.)  Defendant, however, deducted $156.26 for Huerta’s 2 hours of leave without pay, equivalent to an hourly rate of $78.13.  (See id.) 
+
+  During the pay period ending November 30, 2013 (the second semi-monthly pay period in November 2013), Amanda Hembree worked an 80-hour semi-monthly period that consisted of 75 paid hours--56 work hours, 11 hours of PTO, and 8 holiday hours--and 5 hours of leave without pay.  (McCormick Dep. at 48-49; Hudson Decl. Ex. 24.)  Defendant calculated Hembree’s hourly rate of pay for the year as $17.15, but it applied a deduction for her 5 hours of leave without pay at a rate of $40.03 per hour.  (McCormick Dep. at 87-90; see Stuckwisch Decl. Ex. C at 1.) 
+
+In addition, there were 80 work hours during the pay  
+
+period ending September 15, 2013 and 88 work hours during the pay period ending August 15, 2013.  (Stuckwisch Decl. Ex. C at 18.)  In the 80-hour pay period, Jason Hiibel took 8 hours of leave 
+
+without pay and entered the remaining 72 hours as paid time; his hourly rate was $17.55 and his semi-monthly salary was $1,521.00.  In the 88-hour period, Janette Hyde took 16 hours of leave without pay and entered the remaining 72 hours as paid time; she had a similar hourly rate at $17.79 and a semi-monthly salary at $1,542.00.   
+
+  Hiibel’s deduction for the 8 hours missed from work during the 80-hour pay period was $257.00.  Hyde’s deduction for the 16 hours that she missed from work, however, was only $261.00.  Because Hyde’s deduction for missing 16 hours was substantially similar to Hiibel’s deduction for missing only 8 hours, these Supervisors’ deductions were not proportional to the time that they actually missed from work.  See 29 C.F.R. § 541.602(c). 
+
+  Put another way, Jason Hiibel had an annual salary of $36,504, thus his semi-monthly salary was $1,521.00 and his hourly rate was calculated at $17.55.  (See Stuckwisch Decl. Ex. C at 18.)  If his deduction was “proportional to the time actually missed,” one would expect that his deduction for missing 8 hours of work would be consistent, or at least relatively consistent, regardless of when he missed the 8 hours of work.  Under defendant’s method, however, Hiibel’s deduction would have varied greatly based exclusively on which pay period he missed 8 hours of work: 
+
+ 72-hour pay period:  $397.80 deducted  
+
+ 80-hour pay period:  $257.40 deducted  
+
+ 88-hour pay period:  $117.00 deducted  
+
+ 96-hour pay period:  $-23.40 “deducted,” or no deduction 
+
+When the pay period in which the 8 hours is missed affects the deduction so drastically, it cannot be said that the deductions are proportional to the 8 hours actually missed.  In contrast, under plaintiffs’ proposed calculation, the same deduction of $140.40 ($17.55 hourly rate X 8 hours) would be taken for 8 hours of missed work regardless of the number of hours worked in the pay period.   
+
+  While defendant utilizes a constant hourly rate, the deductions fluctuate substantially for each Supervisor from month to month depending on whether there are 72, 80, 88, or 92 work hours in a given pay period.  Unlike a Supervisor’s hourly rate of pay, which remains constant in every pay period, a Supervisor’s hourly deduction rate is relative to the varying number of hours in a given semi-monthly pay period.  This effectively subjects each Supervisor’s salary to a reduction in certain pay periods based on “variations in the . . . quantity of the work performed” in violation of § 541.602(a). 
+
+  Neither the FLSA nor its implementing regulations define the term “proportional” as used in § 541.602(c).  The FLSA “puts upon the courts the independent responsibility of applying ad hoc the general terms of the statute to an infinite variety of complicated industrial situations.”  Kirschbaum v. Walling, 316 U.S. 517, 523 (1942); see also 29 C.F.R. § 531.25(a) (“The ultimate decisions on interpretations of the Act are made by the courts.”).  “To determine the meaning of a term in a federal regulation,” the court must look “to the common meaning of the word.”  Cleveland, 420 F.3d at 989.  Where the regulatory language is plain, the sole function of the court is to enforce 
+
+it according to its terms because the court must presume that an agency says in a regulation what it means and means in a regulation what it says there.  Id.  “To determine the ‘plain meaning’ of a term undefined by a statute [or regulation], resort to a dictionary is permissible.”  San Jose Christian Coll. v. City of Morgan Hill, 360 F.3d 1024, 1034 (9th Cir. 2004). 
+
+  Pursuant to the ordinary, common meaning of the word “proportional,” a thing is proportional if it “correspond[s] in size, degree, or intensity” to another thing or has “the same or a constant ratio.”  Merriam-Webster Online Dictionary, http://www.merriam-webster.com/dictionary/proportional (last visited May 10, 2016).  Other dictionaries are to the same effect.  E.g., Oxford English Dictionary (3d ed. 2016) (“Corresponding in size or amount to something else.”); American Heritage Dictionary of the English Language (Houghton Mifflin 5th ed. 2015) (“Having the same or a constant ratio.”). 
+
+  Applying the ordinary, common-sense meaning of “proportional” to the examples above, for defendant to apply a deduction “proportional to the time actually missed” by the Supervisors, Hiibel and Hyde--who made approximately the same annual salaries--should have had deductions that corresponded in size and amount to the length of time they missed from work.  Defendant, however, applied a $261.00 deduction to Hyde’s salary for missing 16 hours of work and a $257.00 deduction to Hiibel’s salary for missing only 8 hours of work.  The deductions do not correspond in size or amount to the time each employee missed from work and are thus not “proportional to the time actually missed by the employee[s].”  29 C.F.R. § 541.602(c).  These 
+
+deductions were instead based on the quantity of the work to be performed during the pay periods.  (See Opp’n at 29 (“In a shorter pay period, the deduction relative to the [Supervisor’s] expected [hourly] pay would be larger.”).)  Hyde and Hiibel’s predetermined semi-monthly salaries were therefore subject to reduction based on variations in the number of hours they worked each pay period in violation of the salary basis requirement.  See 29 C.F.R. § 541.602(a). 
+
+  Defendant argues that its calculation method is proper because the resulting deductions were more favorable to the Supervisors than either plaintiffs’ proposed method or the deduction method approved in Kirchoff v. Wipro, Inc., 894 F. Supp. 2d 1346 (W.D. Wash. 2012).  (Stuckwisch Decl. ¶¶ 31, 39-44.)  In Kirchoff, the employer paid the plaintiff a salary on a semi-monthly basis and applied the Pay Period method to calculate the plaintiff’s prorated salary for time worked during the plaintiff’s first and last weeks of employment pursuant to § 541.602(b)(6).  Kirchoff, 894 F. Supp. 2d at 1347.  Under the Pay Period method, the employer divides the employee’s annual salary into 24 semi-monthly pay periods to arrive at the employee’s semi-monthly salary.  In contrast to defendant’s method, the Pay Period method divides the employee’s semi-monthly salary by the number of work hours in each semi-monthly pay period to arrive at the employee’s hourly rate for the pay period.  To determine the employee’s salary for the time worked during the first and final weeks of employment, the employer multiplied the employee’s daily salary with the number of days the employee worked during those weeks.  See id. at 1347 n.1. 
+
+  The Kirchoff court approved the use of the Pay Period method to calculate the plaintiff’s prorated salary under § 541.602(b)(6) because the method was proportional to the employee’s full predetermined salary in the first and last weeks of employment.  Id. at 1350.  The court held that “the plain language of 29 C.F.R. § 541.602(c) allows for more than one method of calculating an employee’s pay for the first and final week [of employment].”  Id. at 1349-50.  On those grounds, the court rejected the plaintiff’s argument that the regulations required the employer to use a different “Work Week” method to calculate his salary deductions during the first and last weeks of employment.  Id. at 1350 (“If the only authorized or mandated method is the Work Week method, then there can only be one amount proportional to the time missed.”).4 
+
+ 4  Under the Work Week method, the employer divides the employee’s annual salary by 52 weeks to arrive at the employee’s weekly salary.  It then divides the weekly salary by 5 workdays to find the employee’s daily salary.  To calculate the employee’s salary for the time worked during the first and last weeks of employment, the employer multiplies the employee’s daily salary by the number of days the employee actually worked.  Id. at 1348 n.2. 
+
+  Defendant argues that Kirchoff “confirms that deduction fluctuations between pay periods do not violate the proportionality requirement in 29 C.F.R. § 541.602(c).”  (Opp’n at 28.)  The Pay Period method approved in Kirchoff, however, is distinguishable because both the employee’s hourly rate of pay and hourly rate of deduction fluctuated every pay period depending on the number of work hours in that pay period.  See Kirchoff, 894 F. Supp. 2d at 1348 n.3 (“The number of working 
+
+days in a semi-monthly pay period varies from month to month. . . . . Thus, under the Pay Period method, an employee’s daily rate will vary because the denominator (number of working days in a semi-monthly pay period) fluctuates from month to month.”).  Since the employee’s pay rate and deduction rate both corresponded to the number of work hours in a given pay period, the resulting salary deduction was proportional to the time actually missed by the employee.  See id. at 1350. 
+
+  Taking the previous example of Hiibel having missed 8 hours of work in the different pay periods, the effect of using defendant’s method to compute Hiibel’s deduction as compared to the Pay Period method approved in Kirchoff is apparent:  
+
+Pay Period Defendant’s Method   Pay Period Method 
+
+72 hours   $397.80     $169.00 
+
+ 80 hours     $257.40      $152.10 
+
+ 88 hours   $117.00     $138.27 
+
+ 96 hours  $-23.40     $126.75 
+
+While the deductions under the Pay Period method fluctuate each pay period based on the varying number of hours in the pay period, it takes into account a varying hourly rate for each pay period and the deductions therefore stay proportional to the number of hours missed.  By contrast, defendant’s method applies a fixed hourly pay rate for each pay period, but the deductions for the same number of hours missed fluctuate substantially depending on the number of work hours in the pay period.   
+
+  Defendant also submits evidence showing that, out of 399 instances, its deduction method resulted in a lower deduction 290 times compared to plaintiffs’ proposed method and 283 times 
+
+compared to the Pay Period method in Kirchoff.  (See Stuckwisch Decl. ¶¶ 39-44, Exs. D, E, H.)  But that evidence also indicates that defendant’s method results in higher salary deductions approximately 25% of the time.  The DOL has made clear that, “because of the structure and wording of the exemption tests, they must be applied employee-by-employee.  Determining the exempt status of any particular employee requires considering the specific conditions of the actual employment experience of each individual employee who must be evaluated under all the applicable tests.”  U.S. Dep’t of Labor, Wage & Hour Div., Opinion Letter FLSA 2003-5 (July 9, 2003); see also 29 C.F.R. § 776.2(a) (stating that whether an employee is covered by the FLSA is “primarily an individual matter”).  “Because the salary-basis test is a creature of the [DOL’s] own regulations, [its] interpretation of it is . . . controlling unless plainly erroneous or inconsistent with the regulation.”  Auer, 519 U.S. at 461 (internal quotation marks omitted).  Whether defendant’s deductions are more favorable to the Supervisors overall is thus immaterial to the analysis here. 
+
+  Because the Supervisors’ salaries were subject to reduction based on variations in the number of hours worked in a given pay period and were not proportional to the hours missed, the Supervisors cannot meet the salary basis test as a matter of law.  See 29 C.F.R. § 541.602(a).  The court must therefore find that defendant misclassified the Supervisors as exempt employees as a matter of law and grant plaintiffs’ motion for partial summary judgment on their FLSA misclassification claim.  Accord Mehmedi v. La Dolce Vita Bistro, LLC, Civ. No. 1:10-1591, 2014 WL 
+
+3810640, at *4 (N.D. Ohio Aug. 1, 2014) (finding that the plaintiff was not exempt as a matter of law because the undisputed facts demonstrated that his weekly paycheck was subject to reduction based on the number of hours worked).   
+
+D. Defendant’s Motion for Summary Judgment 
+
+ Defendant cross-moves for partial summary judgment on the Supervisors’ FLSA misclassification claim, arguing that it properly classified the Supervisors as exempt employees under the executive and administrative exemptions.  Because defendant cannot satisfy the salary basis test required to qualify the Supervisors for exemption, the court must deny defendant’s motion for partial summary judgment on plaintiffs’ misclassification claim.  See Klem, 208 F.3d at 1089-90 (providing that exempt status under the FLSA requires that the salary basis test be met); Prakash v. Savi Techs., Inc., Civ. No. C-10-1845 RSL, 2011 WL 2414349, at *4 (W.D. Wash. June 10, 2011) (“Since defendants cannot demonstrate that [plaintiff] met the salary basis test, the Court need not analyze whether [plaintiff] would be deemed exempt under the executive, administrative or professional exemption.”). 
+
+Plaintiffs seek an in limine ruling to exclude the expert report and testimony of defendant’s witness Christina Banks for purposes of defendant’s motion for summary judgment and trial pursuant to Federal Rule of Civil Procedure 26(a)(2) and Federal Rule of Evidence 702.  (Docket No. 162.)  Because the court did not rely on the expert’s report or opinions in this Order, the court denies plaintiffs’ motion in limine as moot for 
+
+purposes of summary judgment. 
+
+ As to trial, it is the court’s practice to provide a schedule for all matters relating to the trial in the Final Pretrial Order.  With regard to the propriety of motions in limine, counsel are advised that such motions are to be reserved only for those matters that cannot be resolved during the course of trial and for which the bell truly cannot be “unwrung.”  All other legal points can be sufficiently addressed in the trial briefs, and the court generally hears Daubert motions during the trial while the expert is on the stand and can be questioned about considerations relevant to the court’s ruling.  See, e.g., Betts v. City of Chicago, 784 F. Supp. 2d 1020, 1023 (N.D. Ill. 2011) (“[E]videntiary rulings should [ordinarily] be deferred until trial so that questions of foundation, relevancy and potential prejudice may be resolved in proper context.”).  The court will therefore deny plaintiffs’ motion in limine to exclude the trial testimony of Christina Banks without prejudice.  Plaintiffs may inform the court of any intended challenges under Daubert in their trial brief. 
+
+
+
+ Unlike the Supervisors, defendant concedes it had misclassified the Trainers as exempt salaried employees and reclassified them as non-exempt shortly before plaintiffs initiated this action.  (Nov. 19, 2015 Order at 2:3-3:3 (Docket No. 138).)  The Trainers and defendant settled all of the Trainers’ claims with the exception of the Trainers’ request for liquidated damages under the FLSA.  (Id. at 3:4-14.)  On cross-
+
+motions for summary judgment, the court found that the FLSA mandated an award of liquated damages and that Order is incorporated herein by reference.  (Id.) 
+
+ Defendant now seeks “clarification” of the court’s award of liquidated damages.  (Docket No. 140.)  Specifically, while the Trainers and defendant reached a settlement of uncompensated overtime wages in the amount of $375,799.16, defendant contends the award of liquidated damages should be limited to only twenty-five percent of that settlement fund.  According to defendant, this significant reduction in liquidated damages is merited because the court found only that defendant’s delay in reclassifying the Trainers after receiving complaints was in bad faith and objectively unreasonable.  Under defendant’s calculations, twenty-five percent of the settlement fund is approximately equal to the uncompensated overtime the Trainers worked from about thirty days after defendant received complaints from the Trainers until they were re-classified as non-exempt.    
+
+ The court’s decision awarding liquidated damages, however, found that defendant “failed to establish that it subjectively acted in good faith in deciding whether to reclassify the Trainers after their actual duties were materially different than their anticipated duties.”  (Id. at 14:13-16 (emphasis added).)  When “[i]t is undisputed that the Trainers did not handle the anticipated administrative tasks and defendant has not argued that the Trainers actually performed any tasks consistent with exempt classification,” defendant did not need complaints from its employees to determine that its initial classification was erroneous.  (Id. at 13:17-20.)  Because the 
+
+FLSA requires the employer to take “affirmative ‘steps’ to ensure compliance,” Alvarez v. IBP, Inc., 339 F.3d 894, 910 (9th Cir. 2003), defendant was legally responsible for not questioning its initial classification decision when the anticipated duties varied greatly from the duties assigned to the Trainers upon opening the call centers.  Even assuming the FLSA gives this court discretion to award liquidated damages for a finite period of time, the reasonableness of defendant’s initial classification decision was undermined before any Trainers complained.    
+
+ Moreover, the FLSA mandates that the court award liquated damages “in an additional equal amount” to the employees’ unpaid overtime compensation.  29 U.S.C. § 216(b).  It vests the court with discretion to award a lesser amount only “if the employer shows to the satisfaction of the court that the act or omission giving rise to such action was in good faith and that [the employer] had reasonable grounds for believing that his act or omission was not a violation of the [FLSA].”  Id. § 260.  The court found only that defendant’s initial classification decision made prior to when the call centers began operating appeared to have been made in good faith and on an objectively reasonable ground, not that it was.  (See Nov. 19, 2015 Order at 8:18-23, 10:15-18.)  For the foregoing reasons, and those previously discussed, the court declines to exercise its discretion to award a lesser amount.    
+
+ Accordingly, as the court found in its prior Order, the FLSA entitles the Trainers to an award of liquidated damages in an “equal amount” to their unpaid overtime compensation, which the parties have determined to be $375,799.16. 
+
+  IT IS THEREFORE ORDERED that: 
+
+  (1) the Supervisor plaintiffs’ motion for partial summary judgment on their misclassification claim (Docket No. 146) be, and the same hereby is, GRANTED; 
+
+  (2) defendant’s motion for partial summary judgment on the Supervisors’ misclassification claim (Docket No. 147) be, and the same hereby is, DENIED; 
+
+  (3) the Supervisor plaintiffs’ motion in limine to exclude defendant’s expert witness Christina Banks (Docket No. 162) be, and the same hereby is, DENIED as moot as to summary judgment and DENIED without prejudice as to trial; and 
+
+  (4) defendant’s motion for clarification of the court’s November 19, 2015 Order granting liquidated damages be, and the same hereby is, DENIED. 
+
+ 
+
+ 
+
+ 
+
+
+

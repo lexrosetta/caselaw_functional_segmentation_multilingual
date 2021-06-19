@@ -1,0 +1,134 @@
+In the Matter of:
+
+MICHAEL GARRETT, ARB CASE NO. 16-057
+
+COMPLAINANT, ALJ CASE NO. 2015-STA-047 v. DATE:   May 14, 2018BIGFOOT ENERGY SERVICES, LLC,
+
+RESPONDENT.
+
+BEFORE: THE ADMINISTRATIVE REVIEW BOARD
+
+Appearances:
+
+For the Complainant:
+
+Paul O. Taylor, Esq.; Truckers Justice Center, Burnsville, MinnesotaFor the Respondent:
+
+Robert A. Sherman, Esq.; Bigfoot Energy Services, Carthage, TexasBefore:  Joanne Royce, Administrative Appeals Judge, and Leonard J. Howie III,Administrative Appeals JudgeDECISION AND ORDER
+
+This case arises under the employee protection provisions of the Surface TransportationAssistance Act of 1982 (STAA) as amended.  49 U.S.C.A. § 31105(a) (Thomson Reuters 2016); see also 29 C.F.R. Part 1978 (2017) (STAA’s implementing regulations).  Complainant MichaelGarrett filed a complaint alleging that Respondent Bigfoot Energy Services (Bigfoot) retaliated against him in violation of STAA’s whistleblower protection provisions when it fired him after he sent an email complaining of Bigfoot’s failure to adhere to vehicle safety and maintenance standards.  On April 4, 2016, a Department of Labor Administrative Law Judge (ALJ) concluded that Garrett was not credible and that Bigfoot did not violate the STAA.  Garrett appealed theALJ’s decision to the Administrative Review Board (ARB or Board).  We affirm the ALJ’s opinion.
+
+Michael Garrett drove trucks for Bigfoot Energy, owned by Robert Sherman.  Doug Gile,Bigfoot’s general manager, supervised Garrett.  Garrett shared a truck and trailer with another driver in a split schedule of evening and day shifts.  The parties dispute how maintenance items were to be reported at Bigfoot.  Department of Transportation (DOT) regulations require the driver to inspect the vehicle and log the condition of the truck on a Driver Vehicle Inspection Record (DVIR).  DOT requires the DVIR to be filled out before a trip and a report to be generated after the trip.  Decision and Order (D. & O.) at 13.  If there is a problem on the DVIR before the trip, the company must evaluate whether to use that truck.  Transcript (Tr.) at 103.  A copy of the DVIR is to be kept with the driver/truck in case there is a DOT inspection.  Bigfoot claims that it is mandatory to fill out DVIR for “DOT items,” but for “non-DOT” items, employees can fill out a different form.  D. & O. at 12.  Garrett claims that he was told to put the repair defects on a notice on a wall, not on a work order or on the DVIR.  Tr. at 133-34.
+
+Garrett claims that he complained about defective turn signals and a strained steering system to Gile in person on or about July 15, 2014.  Tr. at 136, 138.  On July 23, the truck thatGarrett drove was taken in for repairs.  RX-3.  The July 23rd repair invoice did not clearly mention turn signal repair but did mention inspection of lights.  When Gile learned that the signal lights had not been fixed, he told the driver to take it back and have it fixed that same day.  D. & O. at 22; Tr. at 111-15.  On July 26th, another driver reported on a DVIR that the pig tail on the truckGarrett drove was out of service.  RX-2.  The pig tail is a connection wire from the truck to the trailer to operate the trailer’s lights.
+
+On August 3, 2014, Garrett was on an overnight trip to Louisiana to pick up 10-pound brine, a liquid used in the oil industry.  While traveling back to the Carthage, Texas facility, Garrett was involved in an accident in Shreveport, Louisiana.  Garrett thought that he had a flat tire, and after a period of 20-45 seconds, attempted to pull off onto an exit ramp.  Garrett testified that he manually toggled the turn signal lever with his left hand while turning the wheel with his right hand.  Tr. at 163.  When he exited the truck, he noticed a Cadillac perpendicularly under his truck.
+
+Garrett helped the driver out of the vehicle.  The driver had minor injuries and was taken to the hospital.  The police arrived at the accident scene shortly thereafter.  Garrett testified that he later called Bigfoot and spoke with Dustin, who called Gile.  D. & O. at 6.
+
+Learning of the accident, Sherman asked a central office for the DVIRs for dates near the time of the accident.  The office sent records for the several days before August 3rd and the two days after.  Tr. at 67.  Garrett had filed a pre-trip DVIR on July 27, 28, 30, 31, and August 1, 2 but did not mention any problems with the signals.  RX-2.  Garrett claims that he had verbally reported defective signals on August 1, but Garrett’s DVIR lists no repair.  Another driver also listed no problem with the turn signal lights on July 27, 28, 29, 30, 31, and August 1, 2, 3, 4, 5.  RX-2.  If a driver does not turn in a DVIR or the driver was off, the company will not have a record of the report.  Gile testified that they did not have a DVIR from Garrett on August 3rd because he did not turn one in.  Tr. at 90-91.
+
+Sherman held a safety meeting on September 4, 2014, to discuss several recent accidents.
+
+He complained of the number of accidents and said that there was a new zero-tolerance policy concerning accidents.  During the meeting, Sherman informed the drivers that the other driver inGarrett’s accident had filed a lawsuit against Bigfoot.
+
+After the meeting, Garrett emailed Sherman on September 5th with an account of theAugust 3rd accident that differed from the account that Gile and the police had provided Sherman.
+
+D. & O. at 25.  Neither the August 3rd police report nor Gile’s account to Sherman contained any mention that Garrett had a problem with the truck’s turn signal prior to the accident.  D. & O. at 13, 23, 25.  September 5th email:
+
+-----Original Message-----
+
+From: [Michael Garrett]
+
+To: [Robert Sherman]
+
+Sent: Fri, Sep 5, 2014 12:52 PM PDT
+
+Subject: Michael Garrett Accident
+
+The purpose of the letter is to clear up any speculation or assumptions to what happened on the night of the accident.  The letter will also reflect what could have and what should have been done before the accident.  First of all, I take full responsibility for operating a truck that was clearly a DOT violation.  The signal lights didn’t work, which Management had been informed about it several times.  I knew operating a BigRig without signal lights was asking for trouble, thats [sic] why I continued to bring it to management[’]s attention every chance I got.  It wasn’t until two weeks after the accident that the lights got repaired.  It took two months, three trips to the shop and an accident for a fuse to be found to be the issue for the signal lights.  So again, I take full responsibility for driving an illegal truck.  Now on the night of the accident, I was traveling on I- 55mph in a light rain.  I heard what [I] thought was a flat, so I started looking for an exit.  Once I spotted an exit coming up, I started my signal manually with my left hand.  While at the same time trying to exit with right hand and make sure [I] was clear to move over.  I was able to move over and exit, but the result was traumatizing.  In my opinion, we all have a responsibility!  Management has a responsibility to make sure they do everything within their power to maintain the fleet and the drivers has [sic] an equal responsibility to operate the rigs and be safe while doing so.
+
+Thanks Michael Garrett
+
+JX-2.
+
+For a week after the email, Bigfoot did not assign Garrett any work.  Sherman and Gile terminated Garrett’s employment by phone on September 12, 2014.  Sherman claims that they fired Garrett for his inconsistent statements concerning the August 3rd accident during whichGarrett’s truck ran over a car and trapped the car under the truck.  D. & O. at 25.  Sherman observed that Garrett’s September 5th email was the first time that the turn signals were mentioned as a cause or a factor in the accident.  Sherman perceived Garrett’s about-face as setting up the company for liability so that Garrett could protect himself.  The email indicated a set of facts different from the account of the accident in the police report.  There was no mention of faulty signals on August 3rd before or after Garrett’s accident (excluding what had already been addressed).
+
+On November 12, 2014, Garrett filed a complaint with the Occupational Safety and HealthAdministration (OSHA).  Garrett claims that Bigfoot terminated his employment because he complained about turn signals.  OSHA denied the claim, and Garrett requested a hearing with theOffice of Administrative Law Judges.
+
+After a hearing, the ALJ found on April 4, 2016, that Garrett was not credible and that his account conflicted with the testimony of others, whom the ALJ found credible.  The ALJ specified that Garrett was not able to indicate clearly what lane he was traveling in or the exact location of the accident.  D. & O. at 18.  The ALJ found that Garrett’s testimony conflicted with Gile’s testimony and Bigfoot’s repair history.  The ALJ noted that Garrett’s misrepresentations on his employment application and other lies corroborated the “incredible” holding.  Id. at 19.  The ALJ highlighted that Garrett never said that he could not use the signals manually while driving.  TheALJ held that the September 5th email was not a protected complaint but was a clarification advising Sherman about the incident.  The September 5th email also constituted old protected activity because the complaint had already been made and addressed.  The ALJ concluded thatBigfoot’s termination reason was not pretext for retaliation in violation of STAA.  Garrett appealed the ALJ’s holding to the ARB.
+
+JURISDICTION AND STANDARD OF REVIEW
+
+The Secretary of Labor has delegated to the ARB the authority to issue final agency decisions under the STAA.  29 C.F.R. § 1978.109(a); Secretary’s Order No. 2-2012 (Delegation of Authority and Assignment of Responsibility to the Administrative Review Board), 77 Fed. Reg.
+
+69,378 (Nov. 16, 2012).  The ARB reviews questions of law presented on appeal de novo, and is bound by the ALJ’s factual determinations if the findings of fact are supported by substantial evidence on the record considered as a whole.  29 C.F.R. § 1978.110; Hood v. R&M Pro Transp.,ARB No. 15-010, ALJ No. 2012-STA-036, slip op. at 4 (ARB Dec. 4, 2015); Myers v.
+
+AMS/Breckenridge/Equity Grp. Leasing 1, ARB No. 10-144, ALJ Nos. 2010-STA-007, -008 (ARB Aug. 3, 2012).  The ARB will uphold an ALJ’s factual finding “even if we would justifiably have made a different choice had the matter been before us de novo.”  Henrich v. Ecolab, Inc.,ARB No. 05-030, ALJ No. 2004-SOX-051, slip op. at 8 (ARB June 29, 2006) (citing UniversalCamera Corp. v. NLRB, 340 U.S. 474, 488 (1951)).
+
+DISCUSSION
+
+STAA is governed by the legal burdens of proof set forth under the Wendell H. FordAviation Investment and Reform Act for the 21st Century, at 49 U.S.C.A. § 42121(b) (ThomsonReuters 2016).  See 49 U.S.C.A. § 31105(b)(1); Tocci v. Miky Transp., ARB No. 15-029, ALJ No.
+
+2013-STA-071 (ARB May 18, 2017).  To prevail, a successful STAA complainant must establish by a preponderance of the evidence that:  (1) he engaged in a protected activity, as statutorily defined; (2) he suffered an unfavorable personnel action; and (3) the protected activity was a contributing factor, in whole or in part, in the unfavorable personnel action.  49 U.S.C.A. § 42121(b)(2)(B)(iii); cf. Luder v. Continental Airlines, Inc., ARB No. 10-026, ALJ No. 2008-AIR- 009, slip op. at 6-7 (ARB Jan. 31, 2012).  If a complainant meets his burden of proof, the employer may avoid liability only if it proves by clear and convincing evidence that it would have taken the same unfavorable personnel action in the absence of a complainant’s protected behavior.  49U.S.C.A. § 42121(b)(2)(B)(iii), (iv).
+
+1. The ALJ’s credibility determination
+
+Credibility determinations permeate all the elements of this claim.  The ALJ held thatGarrett was not credible in several respects and that other witnesses for Bigfoot were credible.  TheARB typically gives high deference to an ALJ’s credibility determinations.  Admin., Wage & HourDiv. v. Groberg Trucking, Inc., ARB No. 03-137, ALJ No. 2001-SCA-022 (ARB Nov. 30, 2004);Sundex, Ltd., ARB No. 98-130, ALJ No. 1994-DBA-058 (ARB Dec. 30, 1999).  The ALJ found that Garrett was incredible in part due to the fact that his story was equivocal or unclear as to whether he was driving straight or entering the right lane when the accident occurred.  D. & O. at 18, 26.  The ALJ concluded that Garrett’s lies on his employment application and to an insurance adjuster, Thomas Moore, corroborate his finding that Garrett was not credible.  D. & O. at 19, 25.
+
+There is ample evidence to support the ALJ’s holdings.  In the complaint, Garrett said that he was merging right into an exit lane when the accident occurred.  Tr. at 200-01.  In the stipulated facts and testimony, Garrett claimed that he was driving straight ahead when the accident occurred.
+
+D. & O. at 4; Tr. at 142-44, 146, 203-04.  Garrett testified that he was in the right lane and that he was unsure whether the accident happened in that lane or when he was exiting.  Garrett thought that he had a flat tire and drove for 20-45 seconds before exiting on a right lane exit and discovering the car under his trailer.  Tr. at 202-10.  The insurance adjuster Moore believed that Garrett was in the left lane and that the accident either occurred by the driver driving into the truck or Garrett making a turn into the right lane and running over the car.  JX-7.
+
+Garrett is on both sides of a claim that turn signals caused the accident.  At one point, he emphasized that he manually used the signals when they were not working and as such he was not overly concerned about driving the truck safely on August 3rd.  But in the September 5th email, the turn signals appear to be a cause of the accident, even though he testified that he manually used the signals when making the turn into the right lane or into the exit lane.  Garrett claims that he told Gile on August 3rd that the blinkers may have caused the accident.  Gile denies that blinkers were ever mentioned on August 3rd.
+
+On the one hand, Garrett exonerates himself of DVIR responsibility, stating that he was told not to use the DVIR.  Tr. at 245-50.  On the other hand, Garrett, after the accident, submits the “optional” DVIR with a turn-signal repair on August 14, 2014.  D. & O. at 22.  Bigfoot challenges the authenticity of the August 14th DVIR, suggesting that Garrett manufactured theAugust 14th DVIR after the date or after termination to bolster his claim.
+
+On appeal, Garrett has not pointed us to any facts or arguments to overturn the ALJ’s holdings.  We find that the ALJ’s credibility holding is supported by substantial evidence.
+
+2. The ALJ’s protected activity holding
+
+Relevant text of STAA: (a)Prohibitions.— (1) A person may not discharge an employee, or discipline or discriminate against an employee regarding pay, terms, or privileges of employment, because— (A)(i) the employee, or another person at the employee’s request, has filed a complaint or begun a proceeding related to a violation of a commercial motor vehicle safety or security regulation, standard, or order, or has testified or will testify in such a proceeding; or (ii) the person perceives that the employee has filed or is about to file a complaint or has begun or is about to begin a proceeding related to a violation of a commercial motor vehicle safety or security regulation, standard, or order[.] working condition.  49 C.F.R. § 392.7 (2016).
+
+A. Garrett’s alleged July and August complaints about turn signalsGarrett claimed that he told Bigfoot before August 3rd that the blinkers were not fixed and that Gile, in a profanity-laced response, refused to fix them.  The ALJ held that Garrett’s allegations that he made oral complaints to Gile prior to the July 26th repairs were unsupported by the record and that his testimony was incredible.  D. & O. at 22.
+
+The ALJ also disbelieved Garrett’s testimony that he told Gile on August 3rd after the accident that the accident would not have happened if the turn signals had been repaired.  D. & O. at 23; Tr. at 150.  Garrett’s DVIR lists no problems or repairs on the days leading up to August 3rd.  RX-2; Tr. at 138, 140.  Garrett did not turn in an August 3rd DVIR.  RX-2.  The other driver’sDVIR does not report turn signals leading up to August 3rd or on August 3rd.
+
+Garrett allegedly filled out an August 14th DVIR listing turn signals as defective.  Garrett claims that the turn signals were not repaired after he turned in the August 14th DVIR.  While theAugust 14th DVIR would likely constitute protected activity, the ALJ did not credit Garrett’sAugust 14th DVIR as significant or credible given its “origin is unknown, and it conflicts with his testimony that he did not list the blinker problem on the vehicle inspection report.”  D. & O. at 22.
+
+Bigfoot notes that the DVIR booklet is kept in the truck and the originals are turned into the company.  But yet, Garrett “somehow managed to make a copy of the August 14 DVIR and produce it in this proceeding.”  Bigfoot Br. at 12-13.
+
+B. Garrett’s September 5th email
+
+On appeal, Garrett focuses on the September 5th email as protected activity for the email’s prominence in the termination decision.  Garrett’s appeal asserts that his September 5th email statements were “related to STAA” and that his motive in making the complaint is irrelevant.
+
+Garrett’s September 5th email contains many statements.  The September 5th email was an accusation and an admission of liability for driving with defective turn signals (“illegal truck” and “DOT violation”).  The email also charges Bigfoot to be better about safety in the future in terms of what should have been done before the accident.
+
+The STAA protects complaints “related to a violation of a commercial motor vehicle safety or security regulation, standard, or order.”  The reasonableness of a complainant’s belief is assessed both subjectively and objectively, with the “subjective” component satisfied by showing that the complainant actually believed that the conduct he complained of constituted a violation of relevant law.1  The “objective” component “is evaluated based on the knowledge available to a reasonable person in the same factual circumstances with the same training and experience as the aggrieved employee.”2Taken on its face, we would find the September 5th email protected under STAA’s complaint clause (a)(1)(A).  But the ALJ found that Garrett failed to show he reasonably believed that his complaints in the September 5th email constituted safety violations, when viewed in context of Garrett’s other actions and his complete lack of credibility.  D. & O. at 22-23.  The ALJ credited Gile’s testimony that Garrett never mentioned turn signals in connection with the accident until the September 5th email.  D. & O. at 23.  The ALJ concluded that Garrett did not make any oral complaints of turn signals prior to August 3rd, did not make a complaint on August 3rd, and found dubious the August 14th DVIR.  For similar reasons, the ALJ denied protected status to theSeptember 5th email.  The ALJ credited Bigfoot’s position that Garrett made up the turn signal complaints after the accident to shift liability.  The ALJ cited Bigfoot’s repair history and Garrett’s lack of credibility for the absence of evidence that Garrett possessed a reasonable belief thatBigfoot violated commercial motor safety and standards.  The repair slip dated July 23, 2014, demonstrates that there were problems with the truck and Bigfoot took that problem seriously.
+
+RX-3; Tr. at 104; D. & O. at 22.  On July 23rd, a driver reported that some work was not completed, and the truck was sent back for repairs for the turn signal that very day.  D. & O. at 22.  Finally, the ALJ noted Garrett’s own testimony that he did not think manual operation of the turn signals constituted a safety violation.  D. & O. at 22; Tr. at 255.  We find no reversible error in the ALJ’s protected activity finding.
+
+061, slip op. at 5 (ARB Sept. 30, 2011).
+
+28, 2012); see also Sylvester v. Parexel Int’l, LLC, ARB No. 07-123, ALJ Nos. 2007-SOX-039, -042; slip op. at 14 (ARB May 25, 2011).
+
+3. The ALJ’s contributing factor holding
+
+Assuming for the sake of argument that Garrett proved he engaged in protected activity as alleged in July, August, and in the September 5th email, the ALJ also analyzed the causation element of Garrett’s complaint, ultimately finding that Garrett failed to show that his activities, if protected, “were a factor Respondent weighed in making the decision to terminate” Garrett’s employment.  D. & O. at 24.  While recognizing that the temporal proximity between Garrett’s protected activity and his firing could raise an inference of causation, the ALJ nevertheless explained that intervening events vitiated the strength of the inference.  Id. at 24-26.
+
+Specifically, the ALJ found that the repair invoice dated July 23, 2014, and the inspection report dated July 26, 2014, supported Gile’s testimony that Bigfoot promptly addressed necessary repairs and, further, that the turn signals on Garrett’s truck were repaired by that time.  So that, even assuming Garrett’s complaints about the turn signals were protected, Bigfoot’s record of prompt truck repair following identification of problems undermined Garrett’s claim of retaliatory animus.  Id. at 24.  The ALJ also considered Garrett’s August 3rd accident as an intervening event and found that Garrett’s changing account of the circumstances surrounding the accident both undermined his credibility and supported Bigfoot’s justification for his firing.  Id. at 26.  The ALJ found that Sherman fired Garrett because his email conflicted with the earlier accounts of the events of August 3rd and the police report.  At a safety meeting on September 4th, Garrett learned for the first time that the driver of the other vehicle involved in his August 3rd accident was making an insurance claim against Bigfoot.  Sherman believed that Garrett changed his story shortly after that meeting in an attempt to deflect blame from himself and either keep his job or file his own injury claim against Bigfoot.  D. & O. at 10; Tr. at 54-64, 75; JX-2.  The fact that Garrett admitted a DOT violation “[d]idn’t help his cause.”  Tr. at 69.  The ALJ concluded that Bigfoot’s termination reason was not pretext for retaliation and that Sherman’s consideration of the September 5th email was based on inconsistent statements and not on protected conduct.  D. & O. at 25.  According toGarrett’s first story, turn signals had nothing to do with the accident.  He was driving straight ahead, heard a flat tire, exited the interstate, and a car was under the truck.  Even if the turn signals were not working by switch, he used them manually and testified that he did not think manual operation of the turn signals constituted a safety violation.  D. & O. at 8, 22; Tr. at 210; JX-2.  But, as the ALJ found, “[Garrett’s] account of the accident soon changed.”  D. & O. at 25.  In theSeptember 5th email Garrett claimed the turn signals did not work, that Bigfoot repeatedly failed to repair them and that, therefore, Bigfoot shared responsibility for the accident.  The ALJ’s holding that Bigfoot terminated Garrett’s employment solely for switching his story and his role in the accident on August 3rd is supported by substantial evidence.
+
+CONCLUSION
+
+Accordingly, we AFFIRM the ALJ’s Order.
+
+SO ORDERED.
+
+_________________________________
+
+LEONARD J. HOWIE III
+
+Administrative Appeals Judge _________________________________JOANNE ROYCE
+
+Administrative Appeals Judge
+

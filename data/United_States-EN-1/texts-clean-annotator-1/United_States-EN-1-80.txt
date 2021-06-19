@@ -1,0 +1,310 @@
+
+
+On this day came on to be considered the following motions: Plaintiffs' Motion to Certify Class and for Limited Discovery (docket no. 47); Plaintiffs’ Motion for Conditional Class Certification (docket no. 59); Time Warner Defendants’ Motion for Partial Summary Judgment (docket no. 79); Defendant COI’s Motion to Compel (docket no. 99); and Time Warner Defendants’ Motion to Compel Arbitration (docket no. 111). 
+
+
+
+Plaintiffs filed their Original Complaint on April 20, 2010. In that Complaint they alleged that “Time Warner” contracted with“COI” to complete installations and provide technicalservice to Time Warner residential and business customers. Plaintiffs further allege that they were required to sign documents that improperly categorized them as “independent contractors.” They are current Field Service Technicians (FST) or former FSTs of the Defendants. Plaintiffs allege that Defendants violated the Fair Labor Standards Act (FLSA) by failing to pay overtime wages and that Defendants violated the Employee Retirement Income Security Act (ERISA) by denying them pension, health, disability and other benefits. They further bring claims of unjust enrichment, deceptive trade practices under the Texas DTPA, negligent misrepresentation, promissory estoppel and fraud. 
+
+On July 26, 2010, Plaintiffs filed their First Amended Complaint, wherein in paragraphs 29 through 65 they alleged that despite the independent contractor designation, the Defendants controlled the manner and means by which they performed their job duties. 
+
+On November 18, 2010, Plaintiffs filed their Second Amended Complaint, wherein Jeff Duncan was added as a plaintiff. The following causes of action are raised: a violation of the FLSA, unjust enrichment1, and a violation of ERISA. Alternatively, the named Plaintiffs bring the following individual causes of action: DTPA (against COI only), negligent misrepresentation, promissory estoppel and fraud. The Plaintiffs also seek punitive damages. 
+
+
+
+
+
+COI began business sometime in 2001. “COI Telecom provides turnkey facility engineering, telecommunicationsand fiber opticssystems integrationand technicalmissionoperations support....”2 It currently has “220 contractors working in Austin, San Antonio and Corpus Christi, Texas.”3 Sometime in late 2003 or early 2004, it re-characterized its relationship with FSTs from employees to independent contractors.  No explanation has been offered as to why that change occurred. One ofCOI’scustomers isTime Warner. Despite the “independentcontractor” designationofFSTs,COI “interviews and hires” individuals to be contractors and invites individuals to complete an application 
+
+1The Court has previously granted Defendants' motion to dismiss Plaintiffs' unjust enrichment claim as it relates to any claim of failure to pay minimum wages or overtime under the FLSA. The Court has also previously ruled that ERISA preemption applies to all of Plaintiffs' state law theories to the extent they seek damages premised upon ERISA plans. 
+
+2http://www.coitelecom.com/index.cfm 
+
+3http://www.coitelecom.com/capabilities.cfm 
+
+for employment.4 
+
+Effective November 1, 2007, “Time Warner Entertainment-Advance/Newhouse Partnership through its Southwest Division, doing business as Time Warner Cable (“TWC)” entered into an Installation Services Agreement with COI Telecommunications. 
+
+Sometime inApril2008,COI revised its “Standard FormAgreementbetweenContractor and Subcontractor” and included a paragraph requiring that any disputes be submitted to binding arbitration. Plaintiff Jeff Duncan signed one of these agreements. The other named Plaintiffs terminated their relationship with COI prior to April 2008 and are not bound by any arbitration requirement.5 
+
+In addition to engaging outside contractors to perform installation services, TWC employs some individuals as FSTs. These Time Warner Cable installation employees are eligible to participate in the TWC Benefits Plan, the TWC Savings Plan, the TWC Pension Plan, the TWC Flexible Spending Account Plan, and the TWC Severance Pay Plan. TWC installation employees are not eligible to participate in any ERISA plans for Time Warner, Inc. (a former parent company of Time Warner Cable).6 
+
+The Time Warner Cable entity that operates the Austin and Corpus Christi cable systems is Time Warner Entertainment-Advance/Newhouse Partnership (“TWEAN”). The Time Warner Cable entity that operates the San Antonio cable system is Time Warner Cable San Antonio L.P. 
+
+4http://www.coitelecom.com/opportunities.cfm 
+
+5Robert Dominguez II ended his relationship on August 19, 2006; Michael Peet on February 25, 2007; Robert Dominguez, Sr. on April 11, 2007; Neil Lindeen on April 14, 2007; Eric Botello on April 20, 2008; and Kevin Phillips on April 20, 2008. 
+
+6Declaration of Sandra Swaney. 
+
+
+
+
+
+On December 17, 2010, the Court held a hearing on all pending motions. The Court also heard the testimony of two plaintiffs (Kevin Phillips and Jeff Duncan).7 In summary, these plaintiffs testified to the following: 
+
+In March of 2006, Phillips completed an application for employment and was interviewed by COI manager Anthony Garcia. At the time of his interview he completed various forms, including some document regarding worker’s compensation coverage. He was then assigned a “tech” number8 that was associated with “Time Warner.” Upon engaging the plaintiffs, COI had to “clear” the plaintiffs with “Time Warner.” When FSTs began their relationship with COI they were required to attend training at COI and were paid $50 per day for that training. Other FSTs have been “fired” at the request of Time Warner. FSTs were required to attend mandatory meetings set by COI. Time Warner would check the personal residences of FSTs to ensure that they did not illegally install cable services at their homes. If FSTs were late in paying their Time Warner cable bills, they were not assigned any work. FSTs were required to wear a uniform that was the same blue color as Time Warner. The shirt had a COI logo. FSTs could only wear headgear that had Time Warner or COI on the cap. FSTs were required to wear a name badge that had their name and designated them as a contractor for Time Warner. If FSTs wear not wearing a proper uniform they were sent home and their assignments for the day withdrawn. Alternatively, they were subject to a fine or “charge back.” FSTs’ equipment and uniforms were subject to inspections by COI personnel. FSTs in Corpus Christi 
+
+7In addition, various Plaintiffs provided affidavits in support of their motion for conditional class certification. See docket no. 59. 
+
+8The “tech” number was used to account for all daily activities “from the time you began work until the time you end work.” 
+
+were required to purchase certain equipment from COI. FSTs in Austin were not required to purchase their equipment directly from COI. If their equipment was deemed not to standard they were subject to charge backs. FSTs were required by COI to wear a hard hat when climbing polls and were fined or imposed a charge back of $500 by COI if they were caught not wearing a hard hat. Time Warner would review the charge backs imposed by COI. FSTs’ pay were subject to a deduction for a laundry fee (whether the service was used or not). FSTs were required to use a vehicle that was no older than five years. The vehicle was required to display two magnetic signs that contained a COI logo and the local Time Warner telephone number. If FSTs did not display the magnetic signs they were subject to a charge back. FSTS were required to report to either a COI or Time Warner facility by 7:30 a.m. FSTS were required to attend various mandatory meetings set by COI. FSTs were instructed to identify themselves to residential customers by stating their name and that they were working for Time Warner Cable. At cable customers’ residences the FSTs signed Time Warner invoices as the Time Warner representative. In November of 2007, FSTs in Corpus Christi were provided CSGs (a portable device that allowed FSTs to transmit information regarding jobs and invoices directly to Time Warner). Time Warner personnel trained the FSTs on the use of the CSG device. Time Warner established which jobs and routes FSTs would undertake for the day. If FSTs missed the “service window” (the estimated time frame they were to arrive to a customer’s residence) they were assessed a charge back. Time Warner would daily change their assignments and add customers to a FST’s route. If a FST wanted another FST to handle his daily assignment, the FST needed authorization from COI or Time Warner. During the peak season FSTs would work approximately 80 to 90 hours per week. During the off season they would work approximately 45 to 60 hours per week. Time Warner set the prices the FSTs would charge customers for the work performed. The prices to be paid to FSTs for the various services they performed was set by COI. The “tech price” was not negotiable.  FSTs were not supposed to do work for cable customers “on the side.” COI withheld ten percent of an FSTs pay (until a total of $3,000 had been set aside) as “retainage” in the event certain equipment was not returned.  COI utilized a “Last Man Out” policy wherein the last FST servicing a residence was charged back for any mistakes made by a FST or Time Warner technician that earlier serviced the residence. FSTs were prohibited from working for any other company. FSTs were prohibited from engaging in idle conversation or gossip with residential customers. On a few occasions FSTs worked side-by-side with Time Warner technicians at a customer’s residence. Plaintiff Duncan worked in COI’s Austin area, but was assigned on limited occasions to do work in Waco, Harlingen and Corpus Christi. He testified that the same practices applied in all these locations. When performing work in Waco, Duncan worked out of Time Warner’s Waco offices. Duncan never worked in COI’s San Antonio area. 
+
+
+
+
+
+In this motion, Plaintiffs request that the Court certify a class on their ERISA and unjust 
+
+enrichment claims pursuant to Fed. R. Civ. P. 23. They seek certification of an ERISA class defined 
+
+as follows: 
+
+All persons who: 1) entered or will enter into a written agreement with COI Telecom in which such persons were referred to as “contractors,” “subcontractors” or “independent contractors”; 2) performed installation and technical services for Time Warner customers on a full time basis (meaning exclusive of time off for commonly excused employment absences) within the class period; and 3) were eligible for ERISA plan benefits absent their mischaracterization as independent contractors and defendants' failure to compensate themfrompayrollfunds and issue theman IRS form W-2 annually. 
+
+Plaintiffs ask the Court to certify a class on their Unjust Enrichment claim defined as follows: 
+
+All persons who: 1) entered or will enter into a written agreement with COI Telecom in which such persons were referred to as “contractors,” “subcontractors” or “independent contractors”; and 2) performed installation and technical services for Time Warner customers on a full time basis (meaning exclusive of time off for commonly excused employment absences) since 4/20/2008. 
+
+Plaintiffs argue that the Rule 23 elements are satisfied in this case. Namely, the class members are so numerous that joinder is impractical, questions of law and fact are common to the class, the individual plaintiffs' claims are typical of those of absent class members and that the named Plaintiffs are fair and adequate representatives. 
+
+The Time Warner Defendants argue that class certification is inappropriate because: (1) with regard to the unjust enrichment claims, TWC was not involved in any required purchase of equipment, (2) the named plaintiffs’ unjust enrichment claims are time barred9 and accordingly the named plaintiffs are not members of the class that they seek to represent; (3) ERISA class certification is improper because even if they were common law employees of Time Warner, they still would not be eligible for benefits because the Time Warner ERISA plans exclude independent 
+
+10 11 
+
+contractors ; (4) COI’s relationship with Time Warner Cable’s operations have changed since the named Plaintiffs ended their relationships with COI and accordingly they are not suitable class representatives; and (5) the named plaintiffs are not typical representatives of the class because they 
+
+9The Time Warner Defendants argue that Plaintiffs’ limitations period expired April 20, 2008. 
+
+10The Time Warner Defendants rely upon MacLachlan v. Exxonmobil Corp., 350 F. 3d 472 (5th Cir. 2003) and Abraham v. Exxon Corp., 85 F. 3d 1126 (5th Cir. 1996). 
+
+11Anthony Garcia states in his Affidavit that the Last Man Policy is no longer in effect, FSTs no longer pick up equipment or supplies from a Time Warner facility, and Time Warner no longer directly contacts FSTs to dispatch work. 
+
+are not bound by any arbitration agreement, but all FSTs since April 2008 are bound by arbitration agreements.12 
+
+COI argues that class certification is improper because: (1) Plaintiffs'unjust enrichment claims are time barred and accordingly they are not members of the class that they seek to represent; (2) the practices of each COI system varied;13 and (3) the named plaintiffs are not typical representatives of the class because they are not bound by any arbitration agreement, but all FSTs since April 2008 are bound by arbitration agreements. 
+
+With regard to the arbitration agreements, Plaintiffs respond that the arbitration agreements are silent as to the issue of any class claims. Accordingly, they argue that pursuant to Stolt-Nielsen, 
+
+S.A. v. AnimalFeeds Int’l Corp, 559 U.S. ___, 130 S. Ct. 1758 (2010) and Fensterstock v. Education Finance Partners, 611 F. 3d 124 (2d Cir. 2010) that the class members cannot be compelled to arbitrate the class claims and this issue is no obstacle to class certification. Otherwise, they respond that COI’s operations did not vary by location and that the unjust enrichment claims are not barred because COI continued to withhold the “retainage” funds of Phillips and Botello until well after their relationship ended and their claims are not barred by limitations. 
+
+This Court first turns to the issue of whether the arbitration agreements signed by Plaintiff Duncan and others after April 2008 bar certification of any class. In Stolt-Nielsen S.A. v. 
+
+12The TWC Defendants, relying upon Grigson v. Creative Artists Agency, L.L.C., 210 F.3d 524 (5th Cir. 2000), argue that they are entitled to invoke COI’s arbitration agreement (which they are not signatories to) because Plaintiffs raise allegations of substantially interdependent and concerted misconduct against both the TWC defendants and COI. 
+
+13For example, COI contends that the San Antonio office only briefly applied the Last Man Out policy in 2008 and never applied chargebacks. In addition, the San Antonio office allowed FSTs to earn 100% of any “up sale” [selling of additional services to a customer than were not included in the original work order]. 
+
+AnimalFeeds International Corp., the Supreme Court stated: a party may not be compelled under the FAA to submit to class arbitration unless there is a contractual basis for concluding that the party agreed to do so. In this case, however, the arbitration panel imposed class arbitration even though the parties concurred that they had reached ‘no agreement’ on that issue, see App. 77a. The critical point, in the view of the arbitration panel, was that petitioners did not ‘establish that the parties to the charter agreements intended to preclude class arbitration.’ App. to Pet. for Cert. 51a. Even though the parties are sophisticated business entities, even though there is no tradition of class arbitration under maritime law, and even though AnimalFeeds does not dispute that it is customary for the shipper to choose the charter party that is used for a particular shipment, the panel regarded the agreement's silence on the question of class arbitration as dispositive. The panel's conclusion is fundamentally at war with the foundational FAA principle that arbitration is a matter of consent. Id., 130 S. Ct. at 1775. 
+
+The Court further stated: “An implicit agreement to authorize class-action arbitration, however, is not a term that the arbitrator may infer solely from the fact of the parties' agreement to arbitrate. This is so because class-action arbitration changes the nature of arbitration to such a degree that it cannot be presumed the parties consented to it by simply agreeing to submit their disputes to an arbitrator.”  Id. Accordingly, the Court concluded by stating: “ that we see the question as being whether the parties agreed to authorize class arbitration. Here, where the parties stipulated that there was ‘no agreement’ on this question, it follows that the parties cannot be compelled to submit their dispute to class arbitration.”  Id., 130 S. Ct. at 1776. 
+
+The arbitration agreement signed by Plaintiff Duncan and other FSTs is silent as to whether the parties agreed to class arbitration. The arbitration agreement is also silent as to whether it intended to preclude an individual from asserting a class action in court. This Court concludes that pursuant to Stolt-Nielsen S.A. v. AnimalFeeds International Corp., Duncan’s arbitration agreement and the arbitration agreements signed by other FSTs after April 2008 do not in and of themselves preclude seeking that a court certify a class and adjudicate a class claim. See Quinonez v. Empire Today, LLC, 2010 WL 4569873 (N.D. Cal. 2010)(“If the company had wanted a class arbitration, it should have written a provision that explicitly contemplated class proceedings and laid out the appropriate protections”). 
+
+The Court next turns to the question as to whether an unjust enrichment class should be certified. In their second amended complaint, the Plaintiffs allege that the Defendants have failed to pay them for the excess hours they worked. As previously stated this claim is preempted by the FLSA. Plaintiffs also claim that Defendants have failed to indemnify or reimburse them for various expenditures they incurred such as the purchase of insurance coverage, worker’s compensation insurance, vehicle maintenance and repair, fuel, logos, uniforms, laundry fees, and phones. Although not specifically pled in the amended complaint under the unjust enrichment cause of action, in the DTPA claim the Plaintiffs allege that they were forced to purchase numerous items from COI at above normalretailprices. The partieshave briefed thisissue acknowledging thatthe forced purchase of equipment and tools is also included in the unjust enrichment claim. 
+
+“To qualify for class-wide injunctive relief, class members must have been harmed in essentially the same way....” Maldonado v. Ochsner, 493 F.3d 521, 524 (5th Cir. 2007). In this case it is likely that some FSTs purchased health insurance from some provider and some FSTs went bare or uninsured. With regard to the procurement and costs of various tools and equipment, the named Plaintiffs are in disagreement on this issue. Plaintiffs Botello and Phillips (working in the Corpus Christi area) allege that COI forced them to purchase equipment directly from COI. Plaintiff Duncan (working in the Austin area and other locations), testified that purchase of equipment from COI was optional. If an FST chose to purchase equipment from COI, then COI would assist in financing the purchases. With regard to the unjust enrichment proposed class, the Court concludes that the proposed class members have not been harmed in substantially the same manner and therefore a class on this claim is inappropriate. 
+
+With regard to the ERISA claim, the named Plaintiffs allege that pursuant to 29 U.S.C. §1132(a)(1)(b) they are entitled to bring their claim because the Time Warner Defendants were “joint employers” of the FSTs, but the Time Warner Defendants nevertheless denied the FSTs pension, health, disability and other benefits that they provided to the individuals they employed “in-house” as FSTs. As stated above, the Time Warner Defendants deny the allegation that they were “joint employers”, but otherwise argue that even if the FSTs were common law employees, the Plaintiffs were excluded from participation in their ERISA plans and thus class action certification is futile and should be denied. 
+
+Inasmuch as the Court has granted the Time Warner Defendants’ motion for summary judgment on this issue (see below), class action certification on this claim is denied. 
+
+Plaintiffs' Motion to Certify Class and for Limited Discovery (docket no. 47) is DENIED. 
+
+
+
+
+
+Plaintiffs have filed this Motion for Conditional Class Certification and for Notice of Putative Class Members requesting that this Court allow the FLSA claim to proceed as a collective suit, and allow them to receive the names, addresses, and telephone numbers of the potential class members of the past three years in order to efficiently distribute the suggested notice. 
+
+This Court applies the two-step approach of Lusardi v. Lechner, 855 F.2d 1062 (3d Cir. 1988), in regard to giving notice to putative class members. Bernal v. Vankar Enterps., Inc., No. SA-07-CA-695-XR, 2008 WL 791963, at *3 (W.D. Tex. Mar. 24, 2008); Neagley v. Atascosa County EMS, No. SA-04-CA-893-XR, 2005 WL 354085, at *3 (W.D. Tex. Jan.7, 2005). At the first stage, the Court determines whether or not to send notice of the action to potential class members. Mooney v. Aramco Servs. Co., 54 F.3d 1207, 1213-14 (5th Cir. 1995). To make this determination, the Court should look only to the pleadings and affidavits. Id. at 1214. The “decision to create an opt-in class under §126(b), like the decision on class certification under Rule 23, remains soundly within the discretion of the District Court.” Wajcman v. Hartman &Tyner, Inc., No. 07-61472-CIV, 2008 WL 203579, at *1 (S.D. Fla. Jan.23, 2008). If the conditional certification is granted, the case continues through discovery as a representative action, and after discovery is completed, the defendant typically files a motion for decertification. Mooney, 54 F.3d at 1214. At the second stage, the Court determines whether the putative class members are similarly situated, and if they are, then the representative action can continue. Id. If they are not similarly situated, then the class should be decertified, the opt-in plaintiffs dismissed, and the class representatives should be allowed to proceed on their individual claims. Id. 
+
+The Time Warner Defendants object to Plaintiffs' motion arguing that four of the six named Plaintiffs’ FLSA claims are barred by the two year FLSA limitations period. They further argue that COI’s operations with Time Warner have changed markedly since these Plaintiffs’ departure from COI.14 
+
+COI argues that certification is improper because: (1) most of the named Plaintiffs’ FLSA claims are barred by the two year FLSA limitations period; and (2) a state-wide “class” is 
+
+14COI now handles its own warehousing and equipment distribution facilities, thus there is no longer any need for FSTs to stop at a Time Warner Cable facility. COI also now handles its own dispatch functions and there is no longer any need to communicate with Time Warner dispatchers. 
+
+inappropriate because the practices of each COI system varied.15 
+
+Plaintiffs argue that they have met the lenient and “modest factual showing” that is required. 
+
+The Court concludes that Plaintiffs have met the “modest factual showing” with regards to 
+
+COI and the Time Warner Defendants. The affidavits of the Plaintiffs declare that their work 
+
+assignments were controlled by COI and Time Warner, the Plaintiffs were not permitted to negotiate 
+
+any of the terms of service they would perform, the Plaintiffs were not permitted to perform any 
+
+services other than those directed by Time Warner, nor could the Plaintiffs negotiate any charges for 
+
+their services. 
+
+Plaintiffs therefore make a plausible argument that they were improperly characterized as 
+
+independent contractors, that both COI and the Time Warner Defendants were “joint employers” and 
+
+the FSTs should have been classified as employees.16 
+
+15For example, COI contends that the San Antonio office only briefly applied the Last Man Out policy in 2008 and never applied chargebacks. In addition, the San Antonio office allowed FSTs to earn 100% of any “up sale” [selling of additional services to a customer than were not included in the original work order]. 
+
+16See Cromwell v. Driftwood Elec. Contractors, Inc., 348 Fed. Appx. 57 (5th Cir. 2009) ("To determine if a worker qualifies as an employee under the FLSA, we focus on whether, as a matter of economic reality, the worker is economically dependent upon the alleged employer or is instead in business for himself. Hopkins v. Cornerstone Am., 545 F.3d 338, 343 (5th Cir. 2008). To aid in that inquiry, we consider five non-exhaustive factors: (1) the degree of control exercised by the alleged employer; (2) the extent of the relative investments of the worker and the alleged employer; (3) the degree to which the worker's opportunity for profit or loss is determined by the alleged employer; (4) the skill and initiative required in performing the job; and (5) the permanency of the relationship. Id. No single factor is determinative. Id." ). 
+
+Courts have considered several factors in determining whether a defendant entity qualifies as an "employer" within the meaning of the FLSA and no single factor is dispositive of an entity's "employer" status under the FLSA; rather, such status depends "upon the circumstances of the whole [employment] activity." Itzep v. Target Corp., 543 F.Supp.2d 646 (W.D.Tex. 2008) (citing Rutherford Food Corp. v. McComb, 331 U.S. 722, 730, 67 S.Ct. 1473, 91 L.Ed. 1772 (1947)). The Fifth Circuit has long recognized that when determining whether a defendant corporation is However, some additional issues must be taken into consideration. First, it appears that the 
+
+FSTs working in San Antonio were treated substantiallydifferent fromthose FSTs working in Corpus 
+
+Christi (no charge backs, allowed to make profits from selling additional services). In addition, the 
+
+FSTs working in Austin were treated slightly different from those working in Corpus Christi (no 
+
+mandatory purchase of equipment). Finally, many of the proposed members of the “class” will have 
+
+their claims subject to their arbitration agreements. See Carter v. Countrywide Credit Industries, 
+
+Inc., 362 F.3d 294, 298 (5th Cir. 2004) (“we reject the Carter Appellants' claim that their inability 
+
+to proceed collectively deprives them of substantive rights available under the FLSA”). 
+
+The FLSAcollective actionprovisionstates,inrelevant part, "Anaction...maybe maintained 
+
+against any employer ... by any one or more employees for and in behalf of himself or themselves and 
+
+other employees similarly situated." 29 U.S.C. § 216(b). This Court concludes that the named 
+
+Plaintiffs in this case are not similarly situated to the proposed class members. Accordingly, Plaintiffs' 
+
+Motion for Conditional Class Certification (docket no. 59) is DENIED. 
+
+
+
+Time Warner Defendants' Motion for Partial Summary Judgment (docket no. 79) 
+
+an "employer" or "joint employer" under the FLSA, the totality of the employment situation must be examined with particular regard to the following five questions: (1) Whether or not the employment takes place on the premises of the company?; (2) How much control does the company exert over the employees?; (3) Does the company have the power to fire, hire, or modify the employment conditions of the employees?; (4) Do the employees perform a ‘specialty job' within the production line?; and (5) May the employee refuse to work for the company or work for others? Wirtz v. Lone Star Steel Co., 405 F.2d 668, 669-70 (5th Cir. 1968); see also Itzep, 543 F.Supp.2d at 653. Because the determination of an employee's status for purposes of the FLSA tends to focus on the economic dependence and reality of the working relationship, the Fifth Circuit has also adopted the "economic reality" test which encompasses inquires into whether the purported employer: "(1) ha[d] the power to hire and fire the employees, (2) supervised and controlled employee work schedules or conditions of employment, (3) determined the rate and method of payment, and (4) maintained employment records.' " Watson v. Graves, 909 F.2d 1549, 1553 (5th Cir. 1990) (internal citations omitted); see also Itzep, 543 F.Supp.2d at 653. 
+
+The Time Warner Defendants seek partial summary judgment arguing the following: (1) Plaintiffs’ ERISA claims fail as a matter of law because even if they are deemed common law employees, their ERISA plans expressly exclude individuals who are designated as independent contractors and/or on a third party’s payroll: (2) Plaintiffs’ unjust enrichment and negligent misrepresentation claims are barred by limitations; and (3) all of Plaintiffs’ claims against Time Warner, Inc. fail because TWI never entered into any contractual arrangement with COI. 
+
+
+
+ 
+
+In MacLachlan v. ExxonMobil Corp., 350 F.3d 472 (5th Cir. 2003), the Fifth Circuit 
+
+addressed an ERISA question very similar to this case. In Maclachlan, six named plaintiffs were all 
+
+workers who formerly performed services for Mobil Corporation while on the payroll of third-party 
+
+companies. They filed a class action complaint seeking retroactive employment benefits from 
+
+ExxonMobil Corporation. The Court stated the issue as follows: 
+
+Like many companies, Mobil seeks to attract and reward capable employees by offering a variety of health, vacation, and other benefits. These benefits are expensive, however, and in an effort to reduce costs, Mobil began, in the early 1980's, to hire some of its employees through third-party payroll companies. 
+
+Employees hired in that fashion performed services similar or identical to those of other Mobil employees while on Mobil's premises and under its supervision. They oftenworked side-by-side withother Mobilemployees, and the servicestheyprovided were not highly specialized or individualized. They were not, however, on Mobil's payroll. This appeal presents the question whether such employees-specifically, the six named plaintiffs and the putative class on behalf of which they are suing-are eligible to collect benefits under the governing Mobil benefit plans. 
+
+Id. at 475. “ERISA does not require Mobil to define its benefits plans in such a way as to provide coverage for all employees, irrespective of whether they are protected by the ADEA. To the contrary, it is well established that an employee may be a common law employee for some purposes, yet not entitled to benefits under a benefit plan.” Id. at 482 (citing Abraham v. Exxon Corp., 85 F.3d 1126, 1131 (5th Cir. 1996)).17 
+
+Inasmuch as binding Fifth Circuit precedent allows for the exclusion of common law employees from plan eligibility, Defendants’ motion on this issue is GRANTED. 
+
+
+
+ 
+
+The statute of limitations for unjust enrichment and negligent misrepresentation claims is two years. Mayo v. Hartford Life Ins. Co., 354 F.3d 400, 410 (5th Cir. 2004) (two-year limitations period applies to unjust enrichment claims); TIG Ins. Co. v. Aon Re, Inc., 521 F.3d 351, 355 (5th Cir. 2008) (Negligence and negligent misrepresentation claims must be brought no later than two years after the day the cause of action accrues). 
+
+Plaintiffs filed this lawsuit on April 20, 2010. Accordingly, their claims must have accrued on or after April 20, 2008. It is uncontested that Plaintiffs Peet, Dominguez Sr. and Dominguez II all stopped working for COI prior to April 20, 2007. The statute of limitations bars their claims for unjust enrichment and negligent misrepresentation. 
+
+Plaintiffs Botello and Phillips ended their relationship with COI on April 20, 2008. Plaintiff Lindeen argues that his “retainage” funds were withheld until January 2010. With regard to their claims the question is when did their causes of action accrue. 
+
+In their amended complaint the Plaintiffs allege that prior to entering into their agreements 
+
+17See also Scruggs v. ExxonMobil Pension Plan, 585 F.3d 1356 (10th Cir. 2009)(Scruggs worked in the ExxonMobil office for 22 years as a secretary but was never on the company’s payroll. Rather she was paid by a third-party contractor. Exxonmobil’s ERISA plans excluded such individuals from being a covered employee). 
+
+with COI, COI made various representations to them that they would be independent contractors, be their own boss and do what they wanted.18 Plaintiffs further allege that they relied upon these statements to their detriment. With regard to the unjust enrichment claim, the Plaintiffs allege that Defendants have failed to reimburse them or indemnify them for various expenditures they incurred (insurance, worker’s compensation insurance, vehicle maintenance, fuel, logos, laundry fees, uniforms, tools, phones). Defendants argue that under Texas’s legal injury test, the plaintiffs’ claims accrued at the beginning of the working relationship with COI, not the end. Plaintiffs argue that their claims arose when COI ultimately refused to pay them their disputed amounts. 
+
+“Causes of action accrue and statutes of limitations begin to run when facts come into existence that authorize a claimant to seek a judicial remedy.” Exxon Corp. v. Emerald Oil & Gas Co., L.C., --- S.W.3d ----, 2010 WL 5133461 (Tex. 2010). “When a cause of action accrues is normally a question of law.” Id. “The applicable legal standard is the statute of limitations begins to run when a party has actual knowledge of a wrongful injury. Once a claimant learns of a wrongful injury, the statute of limitations begins to run even if the claimant does not yet know ‘the specific cause of the injury; the party responsible for it; the full extent of it; or the chances of avoiding it.’” Id. 
+
+With regard to the negligent misrepresentation claims, all plaintiffs had actual knowledge within weeks of their working relationship with COI that they were “not their own boss and could not do what they wanted.” Accordingly, limitations bars all Plaintiffs’ claims for negligent misrepresentation. 
+
+With regard to the unjust enrichment claims, the Fifth Circuit law in this area isn unclear. In 
+
+18See Count V of Plaintiffs' Second Amended Complaint. 
+
+Mayo v. Hartford Life Ins. Co., 354 F.3d 400 (5th Cir. 2004), the Fifth Circuit reasserted Texas’s legal injury test, under which “[a] cause of action generally accrues, and the statute of limitations begins to run, when facts come into existence that authorize a claimant to seek a judicial remedy”, but nevertheless held in that case that the legal injury arose when Wal-Mart received the proceeds of the illegal insurance policy. Citing this case, the Plaintiffs argue that summary judgment is improper because their retainage accounts were not settled until after their relationship with COI ended and within the two year limitations period. 
+
+The Texas Supreme Court, however, has stated that when applicable, “the discovery rule defers accrual of a cause of action until a plaintiff discovers or, through the exercise of reasonable care and diligence, should discover the nature of his injury. Discovering the nature of the injury ‘requires knowledge of the wrongful act and the resulting injury.’ Thus, when the discovery rule applies, accrual is tolled until a claimant discovers or in the exercise of reasonable diligence should have discovered the injury and that it was likely caused by the wrongful acts of another.” Wagner & Brown, Ltd. v. Horwood, 58 S.W.3d 732, 735 (Tex. 2001). 
+
+In this case the crux of Plaintiffs’ complaints is that they were improperly characterized as independent contractors (rather than employees) and were forced to purchase equipment from COI at inflated prices. The Plaintiffs “discovered” their injury while working for COI, the injury was not hidden. Further, the fact that the amount of damages was not certain until such time as COI closed Plaintiffs’ retainage accounts does not toll the limitations period. Exxon Corp. v. Emerald Oil & Gas Co., L.C., --- S.W.3d ----, 2010 WL 5133461 (Tex. 2010). 
+
+Defendants' motion on these issues is GRANTED. 
+
+
+
+
+
+TWI was,untilMarch12,2009,the ultimate parentcompanyofTWC. Itpresentscompetent summary judgment evidence, however, that prior to that time the Time Warner Cable Defendants were responsible for managing their own day-to-day operations, including the hiring, contracting and/or management of individuals and companies to provide cable installation services. TWI has never contracted with COI to provide cable installation services. TWI also proffers competent summary judgment evidence that from 2006 to the present no Time Warner Cable company is a participating company in any TWI ERISA Plans. From April 20, 2006 until March 12, 2009, TWC companies had their own ERISA benefit plans separate and apart from the TWI ERISA plans. TWC’s eligible employees were covered by the TWC ERISA plans.19 
+
+Given TWI’s lack of any role in the retention of COI and the retention of the FSTs and the separate ERISA plans of TWI, TWI argues that it is entitled to summary judgment as a matter of law on all of Plaintiffs’ claims. 
+
+Plaintiffs respond that further discovery is required to determine whether TWI may be a common-law employer, what level of control TWI exerted over the TWC Defendants, and whether any of the FSTs may be entitled to coverage as leased employees under TWI’s ERISA plans. Plaintiffs argue that certain Tax Code provisions and Treasury Regulations need further research.20 
+
+The Court agrees with TWI that additional discovery would fail to reveal any disputed issue or material fact. The summary plan descriptions for various TWI plans exclude independent 
+
+19See Affidavit of Norma Mero and Supplemental Declaration of Norma Mero. 
+
+20The Court notes that Plaintiffs make no specific allegations against TWI in their latest complaint. TWI is “lumped” together with various other Time Warner Cable Defendants. No allegation is made in the complaint that TWI controlled the TWC subsidiaries. 
+
+contractors and persons not on TWI’s payroll. If Plaintiffs were successful in arguing they were employees of COI and jointly employed by Time Warner, those Time Warner entities would be Time Warner Cable entities, not TWI. 
+
+Defendants' motion on this issue is GRANTED. 
+
+
+
+
+
+In this motion COI seeks to compel Jeff Duncan to submit all of his claims to binding arbitration pursuant to the Standard Form Agreement he signed effective September 23, 2008. Plaintiff Duncan responds that he agrees to submit his “individual” claims to arbitration and agrees to the abatement of all his “individual” claims. 
+
+In the Second Amended Complaint, Plaintiffs sought to bring the following as class actions: their FLSA claim, unjust enrichment claim and ERISA claim. The Court has declined to certify any class as to the unjust enrichment and ERISA claims. This Court has also declined to allow the FLSA claim to proceed as a collective action. The question remaining here is whether Duncan’s FLSA claim is subject to arbitration. 
+
+The Fair Labor Standards Act gives employees the right to bring their FLSA claims through a "collective action" on behalf of themselves and other "similarly situated" employees. 29 U.S.C. § 216(b) (2006). “A collective action is similar to, but distinct from, the typical class action brought pursuant to Fed.R.Civ.P. 23. The principle [sic] difference is that plaintiffs who wish to be included in a collective action must affirmatively opt-in to the suit by filing a written consent with the court, while the typical class action includes all potential plaintiffs that meet the class definition and do not opt-out.”  Alvarez v. City of Chicago, 605 F.3d 445, 448 (7th Cir. 2010). 
+
+The Fifth Circuit has held that FLSA claims are subject to arbitration. See Carter v. 
+
+Countrywide Credit Industries, Inc., 362 F.3d 294, 298 (5th Cir. 2004). In Carter it was recognized that subjecting the employees’s claims to arbitration would deprive them of the opportunity to proceed collectively. Id. (“we reject the Carter Appellants' claim that their inability to proceed collectively deprives them of substantive rights available under the FLSA. The Supreme Court rejected similar arguments concerning the ADEA in Gilmer, despite the fact that the ADEA, like the FLSA, explicitly provides for class action suits. 500 U.S. at 32, 111 S.Ct. 1647. What is more, the provision for class actions in the ADEA is the FLSA class action provision, which the ADEA expressly adopts.”). 
+
+In Stolt-Nielsen S.A., the Supreme Court expressed concerns about allowing an arbitrator to adjudicate the rights of absent parties by proceeding in a class-action arbitration. 130 S. Ct. at 1776. With regard to a FLSA collective action, however, no such concerns are present because presumably only FSTs subject to an arbitration agreement would opt-in. It would turn Fifth Circuit FAA case law on its head to allow an individual to proceed in court under a FLSA collective action theory when the individual FLSA claim would surely be subject to arbitration. 
+
+Defendant COI's Motion to Compel (docket no. 99) is GRANTED. All remaining claims asserted by Plaintiff Duncan shall be submitted to binding arbitration and all discovery and proceedings in this lawsuit with regard to Plaintiff Duncan are stayed. 
+
+
+
+
+
+The Time Warner Defendants also seek to compel Plaintiff Duncan to arbitrate all of his claims against them. Although the Time Warner Defendants are not signatories to the arbitration agreement, they argue that pursuant to Grigson v. Creative Artists Agency, L.L.C., 210 F.3d 524 (5th Cir. 2000) the allegations raised against COI and them are substantially interdependent. 
+
+As a result of the rulings in this Order, Plaintiffs’ FLSA claim remains pending against the Time Warner Cable Defendants. It is uncertain whether Plaintiffs are asserting their promissory estoppel and fraud claims against the TWC Defendants. In the second amended complaint these claims are asserted against both the TWC Defendants and COI. During the December 17, 2010 hearing, counsel for Plaintiffs stated that the promissory estoppel claim was being asserted against both COI and the TWC Defendants, but that the fraud claims were only being asserted against COI. 
+
+Under Grigson, the theory of equitable estoppel can be invoked "when the signatory to the contract containing an arbitration clause raises allegations of a substantially interdependent and concerted misconduct by both the nonsignatory and one or more of the signatories to the contract." Id. at 527. 
+
+In this case although some ofthe same facts underlie the allegations against COI and the TWC Defendants, the facts and allegations are not substantially interdependent. For example, whether COI is in fact the employer of the FSTs is not dispositive of the issue whether the TWC Defendants are a “joint employer.” Likewise, whether COI made certain misrepresentations to the FSTs is not dispositive of the issue whether the TWC Defendants made any such misrepresentations. 
+
+In Grigson, the “scope of [a] distribution [agreement], the ‘discretion’, both ‘absolute’ and ‘sole’, vested in TriStar, and its ‘good faith judgment [were] at the center of [the] dispute. Among other things, TriStar is charged with, as a result of the claimed interference (‘pressure’), not using its ‘good faith judgment’. Although not sued (an obvious attempt to make an end-run around the arbitration clause, as discussed infra ), TriStar nevertheless will be involved extensively-and, no doubt, quite expensively-in this dispute, including whether it performed properly under the distribution agreement.” Id. at 529-30. In this case although both COI and the TWC Defendants may refer to the COI Standard Form Agreement with FSTs and the Installation Services Agreement between COI and TWEAN, neither of those documents are dispositive as to the issue of whether COI was an employer and the TWC Defendants were joint employers. Further, neither of those documents are dispositive as to whether misrepresentations were made. 
+
+Time Warner Defendants' Motion to Compel Arbitration (docket no. 111) is DENIED. 
+
+
+
+ 
+
+Plaintiffs' Motion to Certify Class and for Limited Discovery (docket no. 47) is DENIED. Plaintiffs' Motion for Conditional Class Certification (docket no. 59) is DENIED. Time Warner Defendants' Motion for Partial Summary Judgment (docket no. 79) is GRANTED. Defendant COI's Motion to Compel (docket no. 99) is GRANTED. All remaining claims asserted by Plaintiff Duncan shall be submitted to binding arbitration and all discovery and proceedings in this lawsuit with regard to Plaintiff Duncan are stayed. Time Warner Defendants' Motion to Compel Arbitration (docket no. 
+
+111) is DENIED. 
+
+The remaining claims in this case include: FLSA claims against COI and the TWC Defendants, an ERISA claim against COI, a DTPA claim against COI, and promissory estoppel and fraud claims against both COI and the TWC Defendants. All claims against TWI are dismissed. 
+
+If Plaintiffs do not intend to assert an ERISA claim against COI, they should amend their complaint accordingly. Further, if Plaintiffs do not intend to assert promissory estoppel and fraud claimsagainstthe TWC Defendants,theyshould amend their complaintaccordingly. Inthe eventthat the parties reconsider their decision to arbitrate Plaintiff Duncan’s claims, they should notify the Court of this fact. 
+
+
+

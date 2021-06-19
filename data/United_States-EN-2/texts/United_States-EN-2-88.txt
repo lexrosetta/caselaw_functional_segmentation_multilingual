@@ -1,0 +1,60 @@
+U.S. Department of Labor Administrative Review Board Washington, DC 20210-0001In the Matter of:
+
+NIKHIL JAIN, ARB CASE NO. 2019-0038
+
+PROSECUTING PARTY, ALJ CASE NO. 2018-LCA-00024 v. DATE:  October 29, 2020ACI INFOTECH, INC.,RESPONDENT.
+
+Appearances:
+
+For the Prosecuting Party:
+
+Nikhil Jain; pro se; Sunnyvale, California
+
+For the Respondent:
+
+Diya A. Mathews, Esq.; Chugh LLP; Edison, New Jersey
+
+BEFORE:  James D. McGinley, Chief Administrative Appeals Judge,Heather C. Leslie and Randel K. Johnson, Administrative Appeals JudgesDECISION AND ORDER
+
+This case arises under the H-1B visa program of the Immigration andNationality Act, as amended (INA), 8 U.S.C. § 1101(a)(15)(H)(i)(b) (2014) and 8U.S.C. § 1182(n) (2013). The statute has implementing regulations at 20 C.F.R. Part 655, subparts H and I (2019). The Administrator, Wage and Hour Division (WHD) of the U.S. Department of Labor (DOL) investigated ACI Infotech, Inc. (Respondent) and issued an Administrator’s Determination Letter which concluded thatRespondent owed $15,852.22 in back wages to Nikhil Jain (“employee,” “ProsecutingParty,” or Mr. Jain). Mr. Jain considered the award insufficient, and appealed theAdministrator’s Determination. He requested a hearing with the Office ofAdministrative Law Judges (OALJ).
+
+On November 13, 2018, a formal hearing was held before a DOLAdministrative Law Judge (ALJ), and Mr. Jain provided exhibits which were received into evidence: Prosecuting Party’s (PP) Exhibits 1-19.1 After considering the evidence, the ALJ issued a Decision and Order Awarding Relief (D. & O.). TheALJ modified the Administrator’s Determination and awarded $22,801.22 in back wages, with interest, on wages that were not timely paid from the date the wages were due until they were paid.
+
+Respondent appealed to the Administrative Review Board (ARB or Board) and contested the amount of back wages awarded by the ALJ. As we explain below, we affirm the ALJ’s finding and calculation of wages earned by Mr. Jain during his employment with Respondent.
+
+BACKGROUND
+
+In November of 2015, Respondent submitted a Labor Condition Application (LCA) to the Department of Labor’s Employment and Training Administration (ETA). The LCA was to cover the period of November 3, 2015, to November 3, 2018, for a job entitled “Computer Occupations, All other” in Piscataway, New Jersey. TheLCA listed a prevailing wage of $51,792 per year, and listed the actual wage rate of previously scheduled hearing. On November 8, 2018, Respondent filed a motion for continuance that was denied by the ALJ on November 9, 2018. At the hearing,Respondent’s counsel presented arguments for the sole purpose of renewing his client’s motion for continuance. The ALJ again denied the motion and allowed Mr. Jain to present his case. Respondent was not present and did not provide testimony or exhibits. On the day of the hearing, the ALJ issued an Order to Show Cause, directing that the Respondent show cause regarding its failure to appear at the hearing, and if it failed to do so, that an ALJ decision and order would issue without further proceedings per 29 C.F.R. § 18.21(c). TheALJ found that the Respondent failed to show good cause, and entered a decision without briefing from the Respondent. Respondent does not appeal the ALJ’s conclusions andRuling on Order to Show Cause.
+
+$65,000 per year. An addendum to the application listed a prevailing wage of $53,518.
+
+Mr. Jain reported to work in December of 2015. In the first three months of his employment he was not assigned to a client. On February 29, 2016, Respondent placed Mr. Jain in a contract position for ITC InfoTech in San Jose, California.
+
+Respondent filed an amended LCA for an employment period of July 21, 2016, toNovember 3, 2018, because the employee’s work location had changed. The place of employment was amended, and the prevailing wage was amended to $66,518, at wage level I. Respondent indicated it would pay an actual wage rate of $66,700 per year.
+
+On July 6, 2016, Mr. Jain traveled to India for a two-week vacation.
+
+In September of 2016, Mr. Jain was hired directly by ITC InfoTech. ITCInfoTech filed a new LCA for Mr. Jain on the basis of a change in employer. The application listed a period extending from September 1, 2016, to August 31, 2019.
+
+JURISDICTION AND STANDARD OF REVIEW
+
+The ARB has jurisdiction to review the ALJ’s decision pursuant to 20 C.F.R. § 655.845.2 Under the Administrative Procedure Act, the ARB has plenary power to review an ALJ’s factual and legal conclusions de novo.3DISCUSSION
+
+The sole issue on appeal is whether the record supports the ALJ’s finding of the amount of back wages owed to Mr. Jain. Respondent urges the Board to reduceResponsibility to the Administrative Review Board (Secretary’s discretionary review of ARB decisions)), 85 Fed. Reg. 13186-01 (Mar. 6, 2020). see 5 U.S.C. § 557(b) (1976) (on appeal, the agency “has all the powers which it would have in making the initial decision.”). the back wages awarded from $22,801.22 to $11,666.165.4 Conversely, Complainant requests that the Board increase his ALJ award for back wages.5The Board has held that when calculating back wages owed, it isRespondent’s burden to demonstrate that it was not obligated to pay the amounts required by the approved LCA.6 In this case, Respondent agrees that it was obligated to pay the approved LCA wage rate. It contends that the ALJ incorrectly calculated the back wages owed to Mr. Jain.7First, Respondent contends that the ALJ erred in finding that Mr. Jain was employed with Respondent starting on December 1, 2015, and therefore, erred in finding that Respondent owed Mr. Jain back wages for the entire month ofDecember 2015.8 Respondent argues that because Mr. Jain was not available to work until December 10, 2015, it is not responsible for payment of wages fromDecember 1 to December 9, 2015.
+
+Second, Respondent contends that the ALJ erred in finding that its salaried employees are entitled to ten days of paid vacation per calendar year. As a result,Respondent challenged the ALJ’s determination that Mr. Jain was entitled to payment of wages to cover a two-week vacation period in July of 2016. Respondent claims that the ALJ ignored its Employee Benefits Summary document that op. at 10 (ARB July 16, 2014) (citing Gupta v. Compunnel Software Grp., Inc., ARB N. 2012- 0049, ALJ No. 2011-LCA-00045 (ARB May 29, 2014)). between Mr. Jain and another employee. However, we may not consider new evidence because it was not before the ALJ. See 29 C.F.R. § 18.54(c) (stating that once the ALJ closes the record, “no additional evidence shall be accepted into the record except upon a showing that new and material evidence has become available which was not readily available prior to the closing of the record”). We find that the email exchange was available to both parties and could easily have been submitted before the ALJ. indicates employees are only entitled to ten days of vacation per calendar year only after their first year of employment, and that Mr. Jain had not completed one year of employment as of July 2016.
+
+Third, Respondent contends that the ALJ erred in finding that Mr. Jain worked for Respondent until September 15, 2016. Respondent asserts that it is not responsible for payment of Mr. Jain’s non-productive period from July 6, 2016, toSeptember 15, 2016. Respondent argues Mr. Jain did not confirm his continued employment after his July 2016 vacation by submitting timesheets for the months of July, August, and September. Respondent’s clear policy states payroll would only run upon submission of timesheets. Respondent contends it did not receive any payments from clients in respect to Mr. Jain’s services during this period.
+
+Respondent also argues that ITC Infotech hired Mr. Jain in September of 2016 and it is not liable to pay wages after that date because he commenced employment with a new employer.
+
+Finally, Respondent contends that the ALJ erred in finding that it was required to cover 50% of Mr. Jain’s health insurance costs. Respondent asserts thatMr. Jain submitted only one document that was ambiguous because it specified that the employer’s contribution to an employee’s health insurance costs would vary depending on the employee’s salary package and the role within in the business.
+
+Conversely, Mr. Jain makes several arguments that he is entitled to more in back wages than the ALJ awarded.9 However, Mr. Jain did not file a cross-appeal of the ALJ’s D. & O. Under our well-established precedent, “[w]e adhere to the principle that [a] party who neglects to file a cross-appeal may not use his opponent’s appeal as a vehicle for attacking a final judgement.”10 Therefore, we decline to consider arguments that the Respondent cannot raise. We will limit the scope of our review to Mr. Jain’s arguments opposing Respondent’s reduction request. op. at 8 (ARB July 16, 2014) (citing Sueiro Vazquez v. Torregrosa de la Rosa, 494 F.3d 227,The party who requests the hearing before an ALJ bears the burden of proof at hearing.11 However, the ARB has held that where an employer fails to provide adequate records, a prosecuting party may still meet its initial burden merely because of the absence of evidence from the employer. The Board has decided that an employee’s testimony, and other evidence that he or she performed work without fair compensation, may be accepted by the finder of fact as a matter of just and reasonable inference.12In the present case, Respondent failed to provide adequate records.13 Indeed,Respondent did not provide any records at the hearing. The ALJ determined thatMr. Jain had met his initial burden to demonstrate that he did not receive proper compensation based on witness testimony, earning statements, banking statements, copies of documents detailing Respondent’s employee benefits, and email exchanges.
+
+We agree with the ALJ. We find that the evidence clearly shows thatRespondent underpaid him in December of 2015, and from July of 2016 toSeptember 15, 2016. The record also supports the ALJ’s finding that Respondent provides benefits to full-time employees, including ten days of paid vacation per calendar year and a 50% contribution towards a $300.00 health insurance premium.14 The determination that Mr. Jain worked full-time from December 1, 2015, to September 15, 2016, is supported by testimony. In addition, Mr. Jain’s earnings statement shows that Respondent paid him for work in August discrediting Respondent’s assertion that payroll would not run without theNo. 2005-DBA-00014, slip op. at 5 (ARB Feb. 10, 2011) (reissued Mar. 1, 2011) (citingAnderson v. Mt. Clemens Pottery Co., 328 U.S. 680, 687-88 (1946)).
+
+Apr. 15, 2020). towards the health insurance premium was 50%; and PP 17, Mr. Jain’s earning statements indicating $300.00 was removed from his gross pay for a “Medical pre-tax 1” from March submission of a timesheet.15 Lastly, Mr. Jain submitted documentation from ITCInfotech confirming a start date of September 19, 2016.16Accordingly, we AFFIRM the ALJ’s findings and calculations for wages earned during Mr. Jain’s tenure with Respondent.
+
+SO ORDERED.
+

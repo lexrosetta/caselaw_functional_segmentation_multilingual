@@ -1,0 +1,76 @@
+U.S. Department of Labor Administrative Review BoardWashington, DC 20210-0001In the Matter of:
+
+SIU-CHUN K. WONG, ARB CASE NO. 2018-0073
+
+COMPLAINANT, ALJ CASE NO. 2016-SOX-00005 v. DATE:  October 26, 2020SUMITOMO MITSUI BANKING CORP.,
+
+RESPONDENT.
+
+Appearances:
+
+For the Complainant:
+
+Siu-Chun K. Wong; pro se; Flushing, New York
+
+For the Respondent:
+
+John F Fullerton, III, Esq. and Jason F Kaufman, Esq.; EpsteinBecker Green; New York, New YorkBEFORE:  James D. McGinley, Chief Administrative Appeals Judge,Heather C. Leslie and Randel K. Johnson, Administrative Appeals JudgesDECISION AND ORDER
+
+PER CURIAM. The Complainant, Siu-Shun Wong, filed a retaliation complaint under Section 806 of the Corporate and Criminal Fraud Accountability Act of 2002,Title VIII of the Sarbanes-Oxley Act, 18 U.S.C. § 1514A (2010) (SOX), as amended, and its implementing regulations, 29 C.F.R. Part 1980 (2020). Complainant alleged that his former employer, Sumitomo Mitsui Banking Corporation (Respondent), violated whistleblower protection provisions by retaliating against him because he engaged in protected activity.
+
+On August 23, 2018, the Administrative Law Judge (ALJ) issued a Decision and Order Denying Claim concluding that Complainant failed to establish that he engaged in protected activity. Complainant filed a petition requesting that theAdministrative Review Board (ARB or the Board) review the ALJ’s order. We affirm the ALJ’s decision.
+
+BACKGROUND
+
+Respondent is a multi-national banking company. Complainant worked inRespondent’s New Jersey office as Support Staff B, supporting Respondent’s financial record keeping. His job included reviewing bank ledgers and other documents, doing quality checks for consistency and accuracy, completing reports and a variety of other financial tasks supporting the bank’s United States andCayman Island operations. He worked for the Respondent from 2007 until the company terminated his employment on December 6, 2013.1 Respondent filed a complaint with the Occupational Safety and Health Administration (OSHA) onOctober 8, 2014, alleging that Respondent retaliated against him when he was placed on a Performance Enhancement Plan (PEP), gave him a negative progress report, and eventually fired from him job.2 OSHA dismissed the complaint and he appealed to the Office of Administrative Law Judges (OALJ). The AdministrativeLaw Judge (ALJ) held a hearing from June 20-21, 2016.3The ALJ held that the five instances Complainant cited were not protected activity under SOX because Complainant did not have a subjective or objectively reasonable belief that the Respondent was engaging in unlawful activity covered bySOX. The ALJ further held that, even if Complainant made protected disclosures, the Respondent would have terminated the Complainant’s employment.
+
+Complainant appealed to the Board.
+
+On appeal, Complainant argues that there were several inconsistencies in the record. He further argues that Respondent committed fraud covered by SOX, but he did not know that until he consulted with an attorney after he lost his job. He also argues that the transactions at issue in each disclosure are substantial enough to rise to fraud or to deceive shareholders.
+
+Respondent argues that it placed Complainant on a PEP and eventually terminated his employment due to poor performance, and that Complainant did not make any protected disclosures.
+
+JURISDICTION AND STANDARD OF REVIEW
+
+The Secretary of Labor has delegated authority to the Administrative ReviewBoard to issue agency decisions in this matter.4 The ARB reviews questions of law presented on appeal de novo, but is bound by the ALJ’s factual determinations as long as they are supported by substantial evidence.5 Substantial evidence means “such relevant evidence as a reasonable mind might accept as adequate to support a conclusion.”6 The Board will uphold ALJ credibility determinations unless they are “inherently incredible or patently unreasonable.”7DISCUSSION
+
+In order to prevail on his SOX claim, Complainant must prove by a preponderance of the evidence that: (1) he engaged in activity or conduct that SOX protects; (2) the respondent took unfavorable personnel action against him; and (3) the protected activity was a contributing factor in the adverse personnel action.8Protected activity under SOX is limited to six enumerated categories. It prohibits an employer from retaliating against an employee who complains about conduct that the employee reasonably believes constitutes a violation of 18 U.S.C.
+
+§§ 1341 (mail fraud), 1343 (wire, radio, TV fraud), 1344 (bank fraud), or 1348 (securities fraud), any rule or regulation of the Securities and ExchangeCommission, or any provision of Federal law relating to fraud againstResponsibility to the Administrative Review Board (Secretary’s discretionary review of ARB decisions)), 85 Fed. Reg. 13186 (Mar. 6, 2020).
+
+No. 2016-STA-00007, slip op. at 2 (ARB Apr. 30, 2019) (reissued May 9, 2019) (citation omitted).
+
+2007-SOX-00042, slip op. at 10 (ARB May 25, 2011). shareholders.9 Violations of company policy, without more, are not protected disclosures under SOX.10 A complainant need not establish the various elements of securities fraud to prevail.11The Board has articulated the concept of “reasonable belief” in a SOX violation as a two prong test. First, a complainant must have a subjective belief that the complained of conduct constitutes a violation of relevant law, and, second, that belief must be objectively reasonable.12 Thus, to engage in activity or conduct thatSOX protects, a complainant must actually believe that the employer was in violation of a covered statute, and that belief must be reasonable for an individual in his circumstances with his training and experience.13Complainant alleged five separate instances of protected activity as set forth below.
+
+1. March 2013 – Adjustments for Letter of Credit
+
+Here, Complainant did not follow his supervisor’s instructions when he declined to reverse an adjustment related to a past due fee. Complainant testified that he relied on a company procedure manual, and he was reluctant to call his supervisor’s instruction unlawful.14 The ALJ found that the complainant in this instance lacked a subjective belief that the Respondent engaged in unlawful conduct covered by SOX.15 The ALJ’s conclusion is supported by substantial evidence and is affirmed.
+
+2. April 2013 – Request to Reopen Book 880101 and Refusal to Post in BookNo. 2019-0045, ALJ No. 2019-SOX-00008 (ARB June 29, 2020).
+
+2011-SOX-00033 (ARB May 31, 2013). slip op. at 8-9 (ARB Mar. 28, 2012).
+
+Complainant testified that he discovered a discrepancy of about $22,000 in one of the ledgers his department was responsible for maintaining, and requested that the relevant book be re-opened so he could correct it.16 His supervisor told him to record the discrepancy in a different book because the book containing the error had been closed for the fiscal year, and could not be re-opened for an adjustment.
+
+Both Complainant’s supervisor and his department head met with the Complainant to explain why recording the discrepancy in a different book was appropriate.
+
+Complainant continued to refuse to record the discrepancy in the directed book.
+
+Complainant testified that he believed the overstatement would affect theRespondent’s financial statements, and he was concerned about showing inaccurate income. He also testified that he was not thinking about bank or securities fraud or the company’s stock price at the time he made the disclosure.17The ALJ concluded that Complainant did not subjectively or objectively reasonably believe that the Respondent was violating any of the statutes covered bySOX. The ALJ’s finding that this was not a protected disclosure is supported by substantial evidence and is affirmed.
+
+3. July 2013 – Memos Regarding American Express ReimbursementsComplainant refused to make an adjustment when there were inconsistent dates on paperwork accompanying reimbursement checks from employees who charged personal expenses on company issued American Express cards. Each check was less than $1,000. Complainant testified that he thought this delay would affect the company’s financial statements, and that he thought it was unlawful after he spoke with an attorney after he was fired from his job.18The ALJ held that this was not protected activity because the Complainant testified that he did not know whether the delay was a violation of law, and it was not objectively reasonable for the Complainant to think this amounted to fraud. TheALJ’s finding is supported by substantial evidence and is affirmed.
+
+4. November 2013 – Portfolio Transfer Transaction and LIQ-GL BreakComplainant discovered a balance discrepancy, known as a break, between two of the Respondent’s software systems. This break was caused by a change in the transaction code on a loan. Complainant testified that the loan was intentionally held longer than necessary in the initial expense code in order to earn multiple commissions for the same deal. During discussions with another department, he said the department was trying to “trick” his department about the deal. An internal review of the transactions revealed the cause of the discrepancy, and the record shows that Respondent planned to initiate a new report to check for future errors of this kind.19The ALJ concluded that this was not a protected disclosure becauseComplainant was engaged in quality control, rather than identifying fraud covered under SOX. The ALJ held that this was not an objectively reasonable belief becauseComplainant came to the conclusion that the other department engaged in trickery based on one break between ledgers. She further held that Complainant failed to show how this break was covered by SOX, as he testified that it was “wrong, not unlawful.”20 While an employee’s regular duties can be protected activity, the ALJ’s conclusion that this was not protected activity is supported by substantial evidence.
+
+The ALJ further concluded that the Complainant’s disclosure was also not protected because he failed to pass the materiality test by showing that the break was material.21 The ALJ erred here by failing to adhere to the Board’s precedent, which has expressly rejected that complainants must show the actual elements of fraud, including materiality, to prevail on a SOX whistleblower claim.22 However, we conclude such error is harmless, because the ALJ articulated several other reasons why Complainant failed to establish that he had a reasonable belief of a violation of protected activity under SOX. These reasons included Complainant’s inability to articulate an actual belief of unlawful or fraudulent misconduct, and “reliance on the speculative thoughts of others.”23 The ALJ’s finding is supported by substantial evidence and is affirmed 5. November 2013 – Removal of Cognos ReportComplainant alleged that a colleague moved a report called the CognosReport that he used on a daily basis to a new folder in order to harass theComplainant. Upon asking his colleague where it was, he was directed to the report.24 He also detailed other incidents with colleagues. Complainant never argued that the report or the other incidents related to the company’s financial condition.25The ALJ held that this was not protected activity because Complainant failed to allege that there was any negative financial effect on the Respondent. She further held that he lacked a subjective belief that he had engaged in protected activity.26 The ALJ’s holding is consistent with ARB precedent and supported by substantial evidence.
+
+Because we affirm the ALJ’s conclusions that Complainant failed to establish that he had engaged in protected activity, we do not reach the issues of adverse action and contributing factor.
+
+Upon review of the ALJ’s decision and order, we conclude it is a well- reasoned decision based on the record and applicable law. The ALJ properly concluded that Complainant failed to show that he engaged in protected activity under SOX.
+
+CONCLUSION
+
+We AFFIRM the ALJ’s Decision and Order.
+
+SO ORDERED.
+

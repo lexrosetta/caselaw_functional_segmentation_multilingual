@@ -1,0 +1,58 @@
+U.S. Department of LaborIn the Matter of:
+
+Administrative Review Board Washington, D.C. 2021 0
+
+ARB CASE NO. 2019-0035
+
+,.·•"' "• ' . i ~ - - 6,. i ' 'l.;r,, r,\
+
+KIMBERLY K. NEFF,
+
+COMPLAINANT, ALJ CASE NO. 2018-SOX-00013 v.
+
+KEYBANK NATIONAL ASSOCIATION, COLLABERA, INCORPORATED DCR WORKFORCE, INCORPORATED
+
+RESPONDENTS.
+
+Appearances:
+
+For the Complainant:
+
+DATE:
+
+Kimberly K. Neff;pro se; North Royalton, Ohio
+
+For the Respondents: John Gerak, Esq. and Corey N. Thrush, Esq.; Ogletree, Deakins, Nash, Smoak & Stewart, P.C.; Cleveland, Ohio for Respondent KeyBank National AssociationBonnie L. Kristan, Esq. and Shannon M. Byrne, Esq.; Littler Mendelson, PC; Cleveland, Ohio for Respondent Collabera IncorporatedDavid A. Carter, Esq. and Robert A. Gusrae, Esq.; David A. Carter, P.A.; Boca Raton, Florida for Respondent DCR Workforce, IncorporatedBefore: Thomas H. Burrell, Acting Chief Administrative Appeals Judge, James A. Haynes and Heather C. Leslie, Administrative Appeals Judges.
+
+FINAL DECISION AND ORDER
+
+PER CURIAM. The Complainant, Kimberly Neff, filed a retaliation complaint under Section 806 of the Corporate and Criminal Fraud Accountability Act of 2002, Title VIII of the Sarbanes-Oxley Act, 18 U.S.C. § 1514A (2010) (SOX) and its implementing regulations, 29 C.F.R. Part 1980 (2018). Her allegations of misconduct also included a violation of the Consumer Financial Protection Act of 2010, Section 1057 of the Dodd-Frank Wall Street Reform and Consumer Financial Protection Act of 2010 (CFPA). Complainant filed her complaint against KeyBank National Association (KeyBank), DCR Workforce, Incorporated (DCR) and Collabera, Incorporated (collectively, "Respondents") with the U.S. Department of Labor's Occupational Safety and Health Administration (OSHA) on July 20, 2017. OSHA dismissed her claim on January 5, 2018. Neff objected to OSHA's determination and requested a hearing with the Office of Administrative Law Judges (OALJ).
+
+A Department of Labor Administrative Law Judge (ALJ) granted the Respondents' Motions for Summary Decision under 29 C.F.R. § 18. 72 (2016) and cancelled the hearing. Order Granting Summary Decision And Cancelling Hearing (Feb. 13, 2019) (Order). The ALJ noted that Complainant had been told that, (1) when a respondent moves for summary decision asserting there is a lack of evidence regarding an essential element of the complainant's case, the complainant is required under Fed. R. Civ. P. 56 and 29 C.F.R. § 18.72 to respond by presenting evidence of a genuine issue of material fact, and (2) if the complainant fails to present such evidence, summary decision may be entered dismissing the claims dismissed. Id. at 5; Order Regarding Motions for Summary Decision (Oct. 3, 2018); Order On Telephone Conference Of October 26, 2018 (Oct. 29, 2018).
+
+In opposition to the Respondents' motions, Complainant submitted a statement, titled a "Brief in Opposition to Respondents' Motions," but presented, as the ALJ found, no evidence establishing the existence of a genuine dispute of material fact tending to show that before her discharge she had held a reasonable belief that any Respondent had committed wire fraud, mail fraud, bank fraud, securities fraud or had violated any law or regulation designed to protect shareholders or the investing public. The ALJ also found that Complainant had never reported misconduct covered by SOX to any person. Order at 9-10. The ALJ concluded that the Respondents were entitled to summary decision as a matter of law and granted the Respondents' motion. Complainant appealed. We agree with the ALJ and affirm.
+
+JURISDICTION AND STANDARD OF REVIEW
+
+The Secretary of Labor has delegated to the Board his authority to issue final agency decisions under the SOX. 1 The ARB reviews an ALJ's grant of summary decision de nova under the same standard the ALJ applies. 2 Summary decision is permitted where "there is no genuine dispute as to any material fact and the movant is entitled to decision as a matter oflaw." 29 C.F.R. § 18.72(a) (2018). The ARB views the record on the whole in the light most favorable to the non-moving party. Micallefv. Harrah's Rican Casino & Resort, ARB No. 16-095, ALJ No. 2015- SOX-025, slip op. at 3 (ARB July 5, 2018).
+
+DISCUSSION
+
+Section 806 prohibits certain covered employers from discharging, demoting, suspending, threatening, harassing, or in any other manner discriminating against employees who provide information to a covered employer or a federal agency or Congress regarding conduct that the employee reasonably believes constitutes a violation of 18 U.S.C. §§ 1341 (mail fraud), 1343 (wire, radio, TV fraud), 1344 (bank fraud), or 1348 (securities fraud), or any rule or regulation of the Securities and Exchange Commission, or any provision of Federal law relating to fraud against shareholders. 18 U.S.C. § 1514A(a)(l).
+
+Neff was hired tlu:ough a staffing agency, Collabera, as a "Loan Documentation Specialist," and began working on January 8, 2017. She worked at a facility operated by KeyBank and her job was to verify signatures on various instruments securing the assets acquired by the bank. She contends that during her tenure, Key Bank "dishonored operating policies and procedures" and practiced "corporate codes of employee silencing." 3 She also contends that Key Bank "failed critical internal external operational risk, accounting, audit and workforce standards expectant [sic] of a public company." 4 However, Neff does not allege that she expressed any concerns about potential mail fraud, wire fraud, bank fraud orSecretary's Order No. 01-2019 (Delegation of Authority and Assignment of Responsibility to the Administrative Review Board), 84 Fed. Reg. 13,072 (April 3, 2019).
+
+Admitted as Evidence and Established As the Record. In order to consider whether an ALJ properly dismisses a claim pursuant to a motion for summary decision, we review the pleadings, deposition and other items of record considered by the ALJ. The ARB does not receive or consider evidence submitted for the first time on appeal. Complainant's motion is denied.
+
+Complainant's Request for Appeal, and Submission of Objections.
+
+Id. securities fraud to another employee or regulator, nor did she say she reported any fraud against shareholders. 5The ALJ noted in his Order that Neff was not represented by counsel at any stage of the proceedings before him. For this reason, he provided heightened supervision of the case and conducted numerous telephone status conferences, as well as a telephone motion hearing on December 31, 2018. The ALJ informed Neff of her obligation to oppose any Motion for Summary Decision with evidence sufficient to create a genuine dispute as to a material fact, and that failure to do so would result in dismissal of her claim. After receiving Complainant's Brief in Opposition to Respondents' Motions on January 14, 2019, the ALJ concluded that Neff failed to develop or present evidence that Respondents violated any accounting, audit or workforce standard applicable to a publicly-traded company. In addition he found that nothing submitted by Neff demonstrates or alleges that the Respondents actually committed6 wire fraud, mail fraud, bank fraud, securities fraud or that Respondents actually violated any other law or regulation designed to protect Keycorp's shareholders. Moreover, there is no evidence or allegation that Neff held a good faith belief that Respondents took these actions or that she had ever reported such actions to any person. The ALJ also found that Neff failed to establish that she· engaged in protected activity under the SOX and dismissed her claim. On appeal, Complainant does not identify errors of law or fact in the record before us that would show that the ALJ's findings were wrong. 7 Thus, upon de novo review of the ALJ's conclusion that the Respondents were entitled to summary decision as a matter oflaw, we hold that it is in accordance with law and consistent with the record before us. 29 C.F.R. § 18.72. understand. Our summary represents our best understanding of what Complainant is trying to argue on appeal.
+
+" The ALJ committed error by describing SOX's protected-activity standard in terms of "actually committed" a violation of one of the enumerated categories or "actually affected" the price of KeyCorp stock. Order at 8. However, the ALJ correctly referred to the "reasonable belief' standard on page 8 of his Order. We conclude that the ALJ's error is harmless because he applied the correct standard and correctly found that Neff failed to meet that standard. covered by the CFP A. He concluded that there is no evidence that she was and that there is no evidence that she reported any improper conduct related to consumer financial services to anyone. Complainant does not identify any error of law or fact with this finding and thus we affirm the ALJ's dismissal ofNeffs CFPA claim.
+
+CONCLUSION
+
+The ALJ properly concluded that the Respondents were entitled to summary decision as a matter oflaw. Accordingly, the ALJ's decision to GRANT the Respondents' motions for summary decision is AFFIRMED and the complaint is hereby DENIED.
+
+SO ORDERED.
+

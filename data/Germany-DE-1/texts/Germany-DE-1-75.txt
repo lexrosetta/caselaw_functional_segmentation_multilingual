@@ -1,0 +1,128 @@
+
+
+KVRE416581601
+
+ECLI:DE:BVerfG:2016:rk20160906.1bvr130513
+
+BVerfG
+
+1. Senat 2. Kammer
+
+20160906
+
+1 BvR 1305/13
+
+Nichtannahmebeschluss
+
+Art 19 Abs 3 GG, Art 19 Abs 4 S 1 GG, Art 101 Abs 1 S 2 GG, § 23 Abs 1 S 2 BVerfGG, § 90 Abs 1 BVerfGG, § 92 BVerfGG, Art 107 Abs 1 AEUV, Art 108 Abs 3 S 3 AEUV, Art 267 Abs 3 AEUV, § 4 Abs 3 ZuG 2012, § 20 ZuG 2012
+
+Titel
+
+Nichtannahmebeschluss: Zu den Voraussetzungen einer ggf gegen Art 101 Abs 1 S 2 GG verstoßenden bewussten Abweichung des nationalen Gerichts von der Rspr des EuGH ohne Vorlagebereitschaft - hier: Kürzung von Emissionsberechtigungen und europäisches Beihilfenrecht - keine Verletzung des Anspruchs auf den gesetzlichen Richter durch Unterlassen einer EuGH-Vorlage - mangelnde Darlegung der Beschwerdebefugnis - Substantiierungsmängel
+
+Tenor
+
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen.
+
+Gründe
+
+I.
+
+1
+
+Die Verfassungsbeschwerde betrifft die anteilige Kürzung von Emissionsberechtigungen bei der Zuteilung für die Handelsperiode 2008 bis 2012.
+
+2
+
+1. Die Beschwerdeführerin, ein Energieversorgungsunternehmen, betreibt ein Steinkohlekraftwerk zur Erzeugung von Strom und Fernwärme. Mit Bescheid vom 12. Februar 2008 teilte ihr die Deutsche Emissionshandelsstelle für die Anlage 5.838.850 Emissionsberechtigungen zu. Dabei wurde die auf die Stromproduktion entfallende Zuteilungsmenge gemäß § 20 des Gesetzes über den nationalen Zuteilungsplan für Treibhausgas-Emissionsberechtigungen in der Zuteilungsperiode 2008 bis 2012 (Zuteilungsgesetz 2012 - ZuG 2012) vom 7. August 2007 (BGBl I S. 1788) unter Anwendung eines Faktors von 0,844001906 gekürzt. Die verbleibende Zuteilungsmenge für die Produkte Strom und Wärme unterzog die Deutsche Emissionshandelsstelle der anteiligen Kürzung gemäß § 4 Abs. 3 ZuG 2012 um einen Faktor von gerundet 0,8756. Die nach erfolgloser Durchführung des Widerspruchsverfahrens erhobene Klage der Beschwerdeführerin wies das Verwaltungsgericht durch Urteil ab. Hiergegen legte die Beschwerdeführerin die vom Verwaltungsgericht zugelassene Sprungrevision ein, die das Bundesverwaltungsgericht zurückwies.
+
+3
+
+2. Mit ihrer Verfassungsbeschwerde rügt die Beschwerdeführerin im Wesentlichen eine Verletzung von Art. 101 Abs. 1 Satz 2 GG und von Art. 19 Abs. 4 GG. "Höchst vorsorglich" macht sie auch einen Verstoß gegen Art. 12 Abs. 1 in Verbindung mit Art. 104a ff. GG geltend.
+
+II.
+
+4
+
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, da die Voraussetzungen des § 93a Abs. 2 BVerfGG nicht vorliegen. Ihr kommt keine grundsätzliche Bedeutung zu. Ihre Annahme ist auch nicht zur Durchsetzung von Grundrechten oder grundrechtsgleichen Rechten der Beschwerdeführerin angezeigt. Die Möglichkeit einer Verletzung von Grundrechten oder grundrechtsgleichen Rechten ist nicht ersichtlich.
+
+5
+
+a) Soweit die Beschwerdeführerin eine Verletzung ihres grundrechtsgleichen Rechts auf den gesetzlichen Richter aus Art. 101 Abs. 1 Satz 2 GG unter dem Gesichtspunkt einer unterbliebenen Vorlage an den Gerichtshof der Europäischen Union rügt, genügt das Beschwerdevorbringen den in der Rechtsprechung des Bundesverfassungsgerichts entwickelten Anforderungen nicht.
+
+6
+
+aa) Der Gerichtshof der Europäischen Union ist gesetzlicher Richter im Sinne des Art. 101 Abs. 1 Satz 2 GG (vgl. BVerfGE 73, 339 <366>; 128, 157 <186 f.>; 129, 78 <105>; stRspr). Unter den Voraussetzungen des Art. 267 Abs. 3 AEUV sind die nationalen Gerichte von Amts wegen gehalten, den Gerichtshof anzurufen (vgl. BVerfGE 82, 159 <192 f.>; 128, 157 <187>; 129, 78 <105>; stRspr). Kommt ein deutsches Gericht seiner Pflicht zur Anrufung des Gerichtshofs im Wege des Vorabentscheidungsverfahrens nicht nach, kann dem Rechtsschutzsuchenden des Ausgangsrechtsstreits der gesetzliche Richter entzogen sein (vgl. BVerfGE 73, 339 <366 ff.>; 126, 286 <315>).
+
+7
+
+Nach der Rechtsprechung des Europäischen Gerichtshofs muss ein nationales letztinstanzliches Gericht seiner Vorlagepflicht nachkommen, wenn sich in einem bei ihm schwebenden Verfahren eine Frage des Gemeinschaftsrechts stellt, es sei denn, das Gericht hat festgestellt, "dass die gestellte Frage nicht entscheidungserheblich ist, dass die betreffende gemeinschaftsrechtliche Bestimmung bereits Gegenstand einer Auslegung durch den Gerichtshof war oder dass die richtige Anwendung des Gemeinschaftsrechts derart offenkundig ist, dass für einen vernünftigen Zweifel keinerlei Raum bleibt" (EuGH, Urteil vom 6. Oktober 1982, C.I.L.F.I.T., C-283/81, EU:C:1982:335, Rn. 21). Die Entscheidungserheblichkeit der europarechtlichen Frage für den Ausgangsrechtsstreit hingegen beurteilt allein das nationale Gericht (vgl. EuGH, Urteil vom 6. Oktober 1982, a.a.O., Rn. 10; Urteil vom 27. Juni 1991, Mecanarte, C-348/89, EU:C:1991:278, Rn. 47; BVerfGE 82, 159 <194>; 128, 157 <187>; 129, 78 <106>).
+
+8
+
+Die Nichtvorlage an den Gerichtshof entgegen einer gemäß Art. 267 Abs. 3 AEUV bestehenden Vorlagepflicht hat allerdings nur dann eine Verletzung des Rechts auf den gesetzlichen Richter zur Folge, wenn die Auslegung und Anwendung der Zuständigkeitsregel des Art. 267 Abs. 3 AEUV bei verständiger Würdigung der das Grundgesetz bestimmenden Gedanken nicht mehr verständlich erscheint und offensichtlich unhaltbar ist (BVerfGE 129, 78 <106> m.w.N.). Die Vorlagepflicht nach Art. 267 Abs. 3 AEUV wird insbesondere in den Fällen offensichtlich unhaltbar gehandhabt, in denen ein letztinstanzliches Hauptsachegericht eine Vorlage trotz der - seiner Auffassung nach bestehenden - Entscheidungserheblichkeit der unionsrechtlichen Frage überhaupt nicht in Erwägung zieht, obwohl es selbst Zweifel hinsichtlich der richtigen Beantwortung der Frage hegt (grundsätzliche Verkennung der Vorlagepflicht), oder in denen das letztinstanzliche Hauptsachegericht in seiner Entscheidung bewusst von der Rechtsprechung des Europäischen Gerichtshofs zu entscheidungserheblichen Fragen abweicht und gleichwohl nicht oder nicht neuerlich vorlegt (bewusstes Abweichen ohne Vorlagebereitschaft). Liegt zu einer entscheidungserheblichen Frage des Gemeinschaftsrechts einschlägige Rechtsprechung des Gerichtshofs noch nicht vor oder hat eine vorliegende Rechtsprechung die entscheidungserhebliche Frage möglicherweise noch nicht erschöpfend beantwortet oder erscheint eine Fortentwicklung der Rechtsprechung des Gerichtshofs nicht nur als entfernte Möglichkeit, so wird Art. 101 Abs. 1 Satz 2 GG nur dann verletzt, wenn das letztinstanzliche Hauptsachegericht den ihm in solchen Fällen notwendig zukommenden Beurteilungsrahmen in unvertretbarer Weise überschritten hat (Unvollständigkeit der Rechtsprechung; BVerfGE 82, 159 <195 f.>; 128, 157 <187 ff.>; 129, 78 <106 f.>). Dabei kommt es für die Prüfung einer Verletzung von Art. 101 Abs. 1 Satz 2 GG nicht in erster Linie auf die Vertretbarkeit der fachgerichtlichen Auslegung des für den Streitfall maßgeblichen materiellen Unionsrechts an, sondern auf die Vertretbarkeit der Handhabung der Vorlagepflicht nach Art. 267 Abs. 3 AEUV (BVerfGE 128, 157 <188>; 129, 78 <107>).
+
+9
+
+bb) Nach diesen Maßstäben ist ein Verstoß der angegriffenen Entscheidung gegen Art. 101 Abs. 1 Satz 2 GG nicht erkennbar.
+
+10
+
+(1) Die Beschwerdeführerin rügt in erster Linie, das Bundesverwaltungsgericht weiche in zweifacher Hinsicht bewusst von der Rechtsprechung des Gerichtshofs der Europäischen Union ab. Hierfür ist jedoch weder im Hinblick auf die Auslegung und Anwendung des Beihilfebegriffs in Art. 107 Abs. 1 AEUV (a) noch hinsichtlich der Auslegung und Anwendung der in Art. 108 Abs. 3 Satz 3 AEUV normierten Rechtsfolgen (b) etwas ersichtlich.
+
+11
+
+(a) Konkrete Anhaltspunkte dafür, dass das Bundesverwaltungsgericht bewusst von der Rechtsprechung des Gerichtshofs der Europäischen Union abgewichen ist, indem es eine Begünstigung bestimmter Unternehmen oder Produktionszweige im Sinne des Art. 107 Abs. 1 AEUV durch die Zuteilungskürzungen nach § 4 Abs. 3, § 20 ZuG 2012 verneint hat, sind dem Beschwerdevorbringen nicht zu entnehmen.
+
+12
+
+Dazu musste sich aus den Entscheidungsgründen selbst oder aufgrund anderer Anhaltspunkte ergeben, dass sich das Gericht bewusst über die ihm bekannte Rechtsprechung des Gerichtshofs der Europäischen Union hinwegsetzt (vgl. BVerfGE 75, 223 <245>; BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 7. Januar 2014 - 1 BvR 2571/12 -, juris, Rn. 10). Die Beschwerdeführerin legt insoweit dar, sie habe im Revisionsverfahren mehrfach auf die einschlägige Rechtsprechung und den Unterschied zwischen den vom Bundesverwaltungsgericht als Maßstab herangezogenen "Zielen" einerseits und "Natur oder Aufbau" einer Regelung - dem Maßstab des Gerichtshofs der Europäischen Union - andererseits hingewiesen, weshalb davon auszugehen sei, dass das Bundesverwaltungsgericht die "offenkundigen Abweichungen in Kauf" genommen habe. Dies vermag ein bewusstes Abweichen von der Rechtsprechung des Gerichtshofs der Europäischen Union indes nicht zu begründen. Anhaltspunkte dafür, dass sich das Bundesverwaltungsgericht mit der angegriffenen Entscheidung bewusst über ihm bekannte Urteile des Gerichtshofs hinweggesetzt hat, sind dem bloßen Umstand, dass es der im Revisionsverfahren dargelegten unionsrechtlichen Rechtsauffassung der Beschwerdeführerin nicht gefolgt ist, nicht zu entnehmen. Auch das angegriffene Urteil gibt für eine solche Annahme nichts her. Vielmehr nimmt das Bundesverwaltungsgericht ausdrücklich auf die Rechtsprechung des Gerichtshofs Bezug, die auch die Beschwerdeführerin für einschlägig hält (unter anderem EuGH, Urteil vom 8. November 2001, Adria-Wien Pipeline GmbH und Wietersdorfer & Peggauer Zementwerke GmbH, C-143/99, EU:C:2001:598, Rn. 42; Urteil vom 22. Dezember 2008, British Aggregates Association, C-487/06 P, EU:C:2008:757, Rn. 82 f.; Urteil vom 8. September 2011, Kommission/Niederlande, C-279/08 P, EU:C:2011:551, Rn. 110 f.), sieht sich damit in Einklang und wendet dessen Maßstäbe auf den ihm vorliegenden Fall an. Eine bewusste Abkehr von der Rechtsprechung des Gerichtshofs, die eine Vorlagepflicht ausgelöst hätte, kommt hierin nicht zum Ausdruck.
+
+13
+
+(b) Auch soweit die Beschwerdeführerin geltend macht, das Bundesverwaltungsgericht weiche hinsichtlich der sich aus Art. 108 Abs. 3 Satz 3 AEUV ergebenden Rechtsfolgen bewusst von der Rechtsprechung des Gerichtshofs der Europäischen Union ab, ist hierfür nichts ersichtlich.
+
+14
+
+(aa) Die Rüge, das Bundesverwaltungsgericht habe die Entscheidung des Gerichtshofs der Europäischen Union in Sachen Laboratoires Boiron SA (Urteil vom 7. September 2006, C-526/04, EU:C:2006:528, Rn. 33 ff.) in nicht mehr nachvollziehbarer Weise für nicht einschlägig gehalten, vermag ein bewusstes Abweichen von der Rechtsprechung des Gerichtshofs nicht zu begründen. Wenn das Bundesverwaltungsgericht zu dem Ergebnis gelangt, die in der genannten Entscheidung des Gerichtshofs entwickelten Maßstäbe seien auf den ihm zur Entscheidung vorliegenden Fall nicht anwendbar, weil die Betreiber von Energieanlagen - anders als die Pharmahersteller im Fall Laboratoires Boiron SA - keine Abgaben geleistet hätten, deren Erstattung sie beanspruchen könnten, kann von einem bewussten Sichhinwegsetzen über Rechtsprechung des Gerichtshofs der Europäischen Union keine Rede sein. Anhaltspunkte hierfür ergeben sich auch nicht aus dem Umstand, dass das Bundesverwaltungsgericht in Parallelentscheidungen vom selben Tage (Bezugnahme unter anderem auf BVerwGE 144, 248 <259 ff.>) entschieden hat, dass die Regelung über die Veräußerung von Emissionsberechtigungen in finanzverfassungsrechtlicher Hinsicht wie eine nichtsteuerliche Abgabe zu behandeln ist. Gegen die unterschiedliche Auslegung und Anwendung abstrakter Rechtsbegriffe ist in diesem Zusammenhang jedenfalls dann nichts zu erinnern, wenn sie zwei völlig unterschiedlichen Rechtsregimen - hier: dem Beihilfenrecht der Europäischen Union einerseits und dem nationalen Verfassungsrecht andererseits - entstammen.
+
+15
+
+(bb) Schließlich lässt auch der Vortrag, die angegriffene Entscheidung sei mit dem unionsrechtlichen Grundsatz effektiven Rechtsschutzes unvereinbar, ein bewusstes Abweichen von der Rechtsprechung des Gerichtshofs der Europäischen Union nicht erkennen. Die Beschwerdeführerin verkennt auch insoweit, dass es kein bewusstes Sichhinwegsetzen über Entscheidungen des Gerichtshofs darstellt, wenn sich ein Gericht - wie hier - mit der maßgeblichen Rechtsprechung des Gerichtshofs auseinandersetzt und der Auffassung ist, seine Anwendung der darin entwickelten Maßstäbe auf den ihm zur Entscheidung vorliegenden Fall stehe hiermit in Einklang. Der Vortrag, das Bundesverwaltungsgericht habe eine eigene Auslegung des unionsrechtlichen Grundsatzes effektiven Rechtsschutzes zur Anwendung gebracht, geht über diese bloße Behauptung nicht hinaus und ist bereits aus diesem Grunde unsubstantiiert. Hierfür ist auch sonst nichts ersichtlich.
+
+16
+
+(2) Soweit die Beschwerdeführerin sowohl im Hinblick auf die Auslegung und Anwendung des Beihilfenbegriffs in Art. 107 Abs. 1 AEUV als auch hinsichtlich der Auslegung und Anwendung der in Art. 108 Abs. 3 Satz 3 AEUV normierten Rechtsfolgen geltend macht, es liege "jedenfalls" ein Fall unvollständiger Rechtsprechung des Gerichtshofs der Europäischen Union vor, und das Bundesverwaltungsgericht habe den ihm zukommenden Beurteilungsrahmen jeweils in unvertretbarer Weise überschritten, vermag das ebenfalls nicht zu überzeugen.
+
+17
+
+Die Beschwerdeführerin setzt sich damit in Widerspruch zu ihren eigenen Ausführungen zu den Urteilen des Gerichtshofs in Sachen Kommission/Niederlande (Urteil vom 8. September 2011, C-279/08 P, EU:C:2011:551) und Laboratoires Boiron SA (Urteil vom 7. September 2006, C-526/04, EU:C:2006:528). Demzufolge läge eine Unvollständigkeit der Rechtsprechung des Gerichtshofs gerade nicht vor, sondern die einschlägigen Auslegungsfragen wären gerade geklärt.
+
+18
+
+b) Die Rüge einer Verletzung des Grundrechts auf effektiven Rechtsschutz bleibt ebenfalls ohne Erfolg. Die Beschwerdeführerin hat nicht dargelegt, dass sie im Sinne des Art. 19 Abs. 3 GG grundrechtsfähig und damit gemäß § 90 Abs. 1 BVerfGG beschwerdefähig ist.
+
+19
+
+aa) Nach § 90 Abs. 1 BVerfGG kann "jedermann" mit der Behauptung, durch die öffentliche Gewalt in einem seiner Grundrechte oder grundrechtsgleichen Rechte verletzt zu sein, Verfassungsbeschwerde erheben. Beschwerdefähig ist demnach, wer Träger eines als verletzt gerügten Grundrechts oder grundrechts-gleichen Rechts sein kann (vgl. BVerfGE 28, 314 <323>; 129, 78 <91>). Nach ihrer Geschichte und ihrem heutigen Inhalt sind die Grundrechte in erster Linie individuelle Rechte, die den Schutz konkreter, besonders gefährdeter Bereiche menschlicher Freiheit zum Gegenstand haben (vgl. BVerfGE 50, 290 <337>; 61, 82 <100>). Nach Art. 19 Abs. 3 GG gelten Grundrechte auch für inländische juristische Personen, soweit sie ihrem Wesen nach auf diese anwendbar sind. Das hier als verletzt gerügte Grundrecht aus Art. 19 Abs. 4 GG ist seinem Wesen nach zwar grundsätzlich auf juristische Personen des Privatrechts anwendbar (vgl. BVerfGE 80, 244 <250>). Dies gilt allerdings nicht für im Alleineigentum des Staates stehende öffentliche Unternehmen beziehungsweise von der öffentlichen Hand beherrschte gemischtwirtschaftliche Unternehmen in Privatrechtsform. Insbesondere kommt es dabei nicht darauf an, ob das Unternehmen öffentliche Aufgaben wahrnimmt. Sobald der Staat eine Aufgabe an sich zieht, ist er bei deren Wahrnehmung auch an die Grundrechte gebunden, unabhängig davon, in welcher Rechtsform er handelt. Dies gilt auch, wenn er für seine Aufgabenwahrnehmung auf das Zivilrecht zurückgreift. Eine Flucht aus der Grundrechtsbindung in das Privatrecht mit der Folge, dass der Staat unter Freistellung von Art. 1 Abs. 3 GG als Privatrechtssubjekt zu begreifen - und folglich grundrechtsfähig - wäre, ist ihm verstellt (vgl. BVerfGE 128, 226 <244 f.>).
+
+20
+
+Allerdings hat das Bundesverfassungsgericht entschieden, dass juristischen Personen des öffentlichen Rechts der Schutz des Art. 19 Abs. 4 GG jedenfalls insoweit zusteht, als sie sich auf materielle Grundrechte berufen können (vgl. BVerfGE 107, 299 <310 f.>). Dies gilt für - hier nicht gegebene - Sonderfälle wie Universitäten, Rundfunkanstalten und Kirchen, soweit diese juristischen Personen des öffentlichen Rechts Bürgern (auch) zur Verwirklichung ihrer individuellen Grundrechte dienen, und die als eigenständige, vom Staat unabhängige oder jedenfalls distanzierte Einrichtungen bestehen (vgl. BVerfGE 45, 63 <79>). Gebietskörperschaften und deren Organe können sich grundsätzlich nicht auf die Rechtsschutzgarantie des Art. 19 Abs. 4 GG berufen (vgl. BVerfGE 129, 108 <118>).
+
+21
+
+bb) Die Frage ihrer Grundrechts- und Beschwerdefähigkeit lässt die Beschwerdeführerin offen. Es hätte deshalb Anlass bestanden, darauf einzugehen, weil sie dem Bundesverwaltungsgericht noch im laufenden Revisionsverfahren mitgeteilt hat, die Mehrheitsanteile an der Beschwerdeführerin lägen inzwischen bei einem Stadtwerkekonsortium. Damit bestehen Anhaltspunkte dafür, dass die Beschwerdeführerin zum Zeitpunkt der angegriffenen Entscheidung von öffentlichen Anteilseignern beherrscht wurde (vgl. hierzu BVerfGE 128, 226 <246 f.>).
+
+22
+
+c) Soweit die Beschwerdeführerin eine Verletzung von Art. 12 Abs. 1 in Verbindung mit Art. 104a ff. GG geltend macht, genügt die pauschale Bezugnahme auf die Beschwerdebegründung in einem anderen Verfassungsbeschwerdeverfahren nicht den Substantiierungsanforderungen der §§ 92, 23 Abs. 1 Satz 2 Halbsatz 1 BVerfGG.
+
+23
+
+Von einer weiteren Begründung wird nach § 93d Abs. 1 Satz 3 BVerfGG abgesehen.
+
+24
+
+Diese Entscheidung ist unanfechtbar.
+

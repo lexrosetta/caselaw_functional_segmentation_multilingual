@@ -1,0 +1,820 @@
+Type,Document,Start,End
+L0 Out of Scope,Poland-PL-1-1.txt,0,208
+L0 Out of Scope,Poland-PL-1-1.txt,211,848
+L0 Heading,Poland-PL-1-1.txt,851,860
+L0 Heading,Poland-PL-1-1.txt,1704,1716
+L0 Heading,Poland-PL-1-1.txt,4395,4430
+L0 Out of Scope,Poland-PL-1-2.txt,0,1572
+L0 Heading,Poland-PL-1-2.txt,1575,1587
+L0 Heading,Poland-PL-1-2.txt,3337,3372
+L0 Heading,Poland-PL-1-2.txt,1078,1087
+L0 Out of Scope,Poland-PL-1-3.txt,0,976
+L0 Heading,Poland-PL-1-3.txt,979,988
+L0 Heading,Poland-PL-1-3.txt,1146,1158
+L0 Heading,Poland-PL-1-3.txt,8958,8993
+L0 Out of Scope,Poland-PL-1-6.txt,0,1012
+L0 Heading,Poland-PL-1-6.txt,1015,1024
+L2 Outcome,Poland-PL-1-6.txt,1025,1368
+L0 Heading,Poland-PL-1-6.txt,1371,1383
+L1 Background,Poland-PL-1-6.txt,1384,3463
+L0 Heading,Poland-PL-1-6.txt,3464,3500
+L1 Analysis,Poland-PL-1-6.txt,3502,6248
+L0 Out of Scope,Poland-PL-1-9.txt,0,1460
+L0 Heading,Poland-PL-1-9.txt,1463,1472
+L2 Outcome,Poland-PL-1-9.txt,1473,2048
+L0 Heading,Poland-PL-1-9.txt,2051,2063
+L1 Background,Poland-PL-1-9.txt,2064,8479
+L0 Heading,Poland-PL-1-9.txt,8480,8515
+L1 Analysis,Poland-PL-1-9.txt,8516,12975
+L0 Out of Scope,Poland-PL-1-7.txt,0,620
+L0 Heading,Poland-PL-1-7.txt,623,632
+L1 Analysis,Poland-PL-1-2.txt,1078,1572
+L2 Outcome,Poland-PL-1-9.txt,1463,1472
+L1 Analysis,Poland-PL-1-9.txt,1463,2048
+L1 Background,Poland-PL-1-9.txt,2051,2063
+L1 Analysis,Poland-PL-1-9.txt,8480,8515
+L2 Outcome,Poland-PL-1-7.txt,633,972
+L0 Heading,Poland-PL-1-7.txt,975,987
+L1 Background,Poland-PL-1-7.txt,975,3620
+L0 Heading,Poland-PL-1-7.txt,3621,3657
+L1 Analysis,Poland-PL-1-7.txt,3622,16144
+L0 Out of Scope,Poland-PL-1-4.txt,0,292
+L0 Heading,Poland-PL-1-4.txt,295,304
+L2 Outcome,Poland-PL-1-4.txt,295,690
+L0 Heading,Poland-PL-1-4.txt,693,705
+L1 Background,Poland-PL-1-4.txt,693,2705
+L0 Heading,Poland-PL-1-4.txt,2707,2745
+L1 Analysis,Poland-PL-1-4.txt,2746,4852
+L1 Analysis,Poland-PL-1-4.txt,2707,2745
+L0 Out of Scope,Poland-PL-1-8.txt,0,320
+L0 Heading,Poland-PL-1-8.txt,323,332
+L2 Outcome,Poland-PL-1-8.txt,323,902
+L0 Heading,Poland-PL-1-8.txt,905,917
+L1 Background,Poland-PL-1-8.txt,905,5527
+L0 Heading,Poland-PL-1-8.txt,5528,5564
+L1 Analysis,Poland-PL-1-8.txt,5528,8830
+L0 Out of Scope,Poland-PL-1-5.txt,0,764
+L0 Heading,Poland-PL-1-5.txt,767,776
+L2 Outcome,Poland-PL-1-5.txt,767,1224
+L0 Heading,Poland-PL-1-5.txt,1227,1239
+L1 Background,Poland-PL-1-5.txt,1227,3775
+L0 Heading,Poland-PL-1-5.txt,3776,3812
+L1 Analysis,Poland-PL-1-5.txt,3776,7893
+L0 Out of Scope,Poland-PL-1-11.txt,0,665
+L0 Heading,Poland-PL-1-11.txt,668,677
+L2 Outcome,Poland-PL-1-11.txt,668,1300
+L0 Heading,Poland-PL-1-11.txt,1303,1315
+L1 Background,Poland-PL-1-11.txt,1303,4387
+L0 Heading,Poland-PL-1-11.txt,4389,4424
+L1 Analysis,Poland-PL-1-11.txt,4389,10657
+L0 Out of Scope,Poland-PL-1-10.txt,0,2046
+L0 Heading,Poland-PL-1-10.txt,2049,2058
+L2 Outcome,Poland-PL-1-10.txt,2049,2458
+L0 Heading,Poland-PL-1-10.txt,2461,2473
+L1 Background,Poland-PL-1-10.txt,2461,7254
+L0 Heading,Poland-PL-1-10.txt,7256,7291
+L1 Analysis,Poland-PL-1-10.txt,7255,15417
+L0 Out of Scope,Poland-PL-1-13.txt,0,699
+L0 Heading,Poland-PL-1-13.txt,702,711
+L2 Outcome,Poland-PL-1-13.txt,702,1080
+L0 Heading,Poland-PL-1-13.txt,1083,1095
+L1 Background,Poland-PL-1-13.txt,1083,4922
+L0 Heading,Poland-PL-1-13.txt,4924,4959
+L1 Analysis,Poland-PL-1-13.txt,4923,10316
+L0 Out of Scope,Poland-PL-1-15.txt,0,1441
+L0 Heading,Poland-PL-1-15.txt,1444,1453
+L2 Outcome,Poland-PL-1-15.txt,1444,2057
+L0 Heading,Poland-PL-1-15.txt,2060,2072
+L1 Background,Poland-PL-1-15.txt,2060,5698
+L0 Heading,Poland-PL-1-15.txt,5701,5736
+L1 Analysis,Poland-PL-1-15.txt,5701,12016
+L0 Out of Scope,Poland-PL-1-12.txt,0,1040
+L0 Heading,Poland-PL-1-12.txt,1043,1052
+L2 Outcome,Poland-PL-1-12.txt,1043,1544
+L0 Heading,Poland-PL-1-12.txt,1547,1559
+L1 Background,Poland-PL-1-12.txt,1547,2702
+L1 Analysis,Poland-PL-1-12.txt,2703,9691
+L0 Heading,Poland-PL-1-12.txt,2704,2741
+L0 Out of Scope,Poland-PL-1-14.txt,0,984
+L0 Heading,Poland-PL-1-14.txt,987,996
+L2 Outcome,Poland-PL-1-14.txt,987,1258
+L0 Heading,Poland-PL-1-14.txt,1261,1273
+L1 Background,Poland-PL-1-14.txt,1261,4336
+L0 Heading,Poland-PL-1-14.txt,4338,4373
+L1 Analysis,Poland-PL-1-14.txt,4337,11501
+L0 Out of Scope,Poland-PL-1-16.txt,0,559
+L0 Heading,Poland-PL-1-16.txt,562,571
+L2 Outcome,Poland-PL-1-16.txt,562,1003
+L0 Heading,Poland-PL-1-16.txt,1006,1018
+L1 Analysis,Poland-PL-1-16.txt,1395,3867
+L1 Background,Poland-PL-1-16.txt,1019,1394
+L1 Background,Poland-PL-1-16.txt,1006,1018
+L0 Out of Scope,Poland-PL-1-17.txt,0,247
+L0 Heading,Poland-PL-1-17.txt,250,259
+L2 Outcome,Poland-PL-1-17.txt,250,518
+L0 Heading,Poland-PL-1-17.txt,521,533
+L1 Analysis,Poland-PL-1-6.txt,1015,1368
+L1 Analysis,Poland-PL-1-7.txt,623,972
+L1 Analysis,Poland-PL-1-4.txt,295,690
+L1 Analysis,Poland-PL-1-8.txt,323,902
+L1 Analysis,Poland-PL-1-5.txt,767,1224
+L1 Analysis,Poland-PL-1-11.txt,668,1300
+L1 Analysis,Poland-PL-1-10.txt,2049,2458
+L1 Analysis,Poland-PL-1-13.txt,702,1080
+L1 Analysis,Poland-PL-1-15.txt,1444,2057
+L1 Analysis,Poland-PL-1-12.txt,1043,1544
+L1 Analysis,Poland-PL-1-14.txt,987,1258
+L1 Analysis,Poland-PL-1-16.txt,562,1003
+L1 Analysis,Poland-PL-1-17.txt,250,518
+L1 Background,Poland-PL-1-17.txt,534,2915
+L1 Background,Poland-PL-1-17.txt,520,533
+L0 Heading,Poland-PL-1-17.txt,2916,2951
+L1 Analysis,Poland-PL-1-17.txt,2916,5095
+L0 Out of Scope,Poland-PL-1-17.txt,5096,5160
+L0 Out of Scope,Poland-PL-1-18.txt,0,772
+L0 Heading,Poland-PL-1-18.txt,776,788
+L1 Background,Poland-PL-1-18.txt,776,4788
+L0 Heading,Poland-PL-1-18.txt,4790,4825
+L1 Analysis,Poland-PL-1-18.txt,4790,19388
+L0 Out of Scope,Poland-PL-1-19.txt,0,1753
+L0 Heading,Poland-PL-1-19.txt,1756,1765
+L2 Outcome,Poland-PL-1-19.txt,1756,1924
+L1 Analysis,Poland-PL-1-19.txt,1756,1924
+L0 Heading,Poland-PL-1-19.txt,1927,1939
+L1 Background,Poland-PL-1-19.txt,1927,7890
+L0 Heading,Poland-PL-1-19.txt,7892,7927
+L1 Analysis,Poland-PL-1-19.txt,7891,21961
+L0 Out of Scope,Poland-PL-1-20.txt,0,820
+L0 Heading,Poland-PL-1-20.txt,823,832
+L2 Outcome,Poland-PL-1-20.txt,823,1620
+L1 Analysis,Poland-PL-1-20.txt,823,1620
+L0 Heading,Poland-PL-1-20.txt,1623,1635
+L1 Background,Poland-PL-1-20.txt,1623,3073
+L0 Heading,Poland-PL-1-20.txt,3075,3112
+L1 Analysis,Poland-PL-1-20.txt,3075,7678
+L0 Out of Scope,Poland-PL-1-21.txt,0,588
+L0 Heading,Poland-PL-1-21.txt,591,600
+L2 Outcome,Poland-PL-1-21.txt,591,995
+L1 Analysis,Poland-PL-1-21.txt,591,995
+L0 Heading,Poland-PL-1-21.txt,998,1010
+L1 Background,Poland-PL-1-21.txt,998,4870
+L0 Heading,Poland-PL-1-21.txt,4872,4907
+L1 Analysis,Poland-PL-1-21.txt,4871,13458
+L0 Out of Scope,Poland-PL-1-22.txt,0,823
+L0 Heading,Poland-PL-1-22.txt,826,835
+L1 Analysis,Poland-PL-1-22.txt,826,1339
+L2 Outcome,Poland-PL-1-22.txt,826,1339
+L0 Heading,Poland-PL-1-22.txt,1342,1354
+L1 Background,Poland-PL-1-22.txt,1342,7547
+L0 Heading,Poland-PL-1-22.txt,7549,7570
+L1 Analysis,Poland-PL-1-22.txt,7548,12205
+L0 Out of Scope,Poland-PL-1-23.txt,0,865
+L0 Heading,Poland-PL-1-23.txt,868,877
+L2 Outcome,Poland-PL-1-23.txt,868,1366
+L1 Analysis,Poland-PL-1-23.txt,867,1366
+L0 Heading,Poland-PL-1-23.txt,1369,1381
+L1 Background,Poland-PL-1-23.txt,1369,6009
+L0 Heading,Poland-PL-1-23.txt,6011,6046
+L1 Analysis,Poland-PL-1-23.txt,6010,16249
+L0 Out of Scope,Poland-PL-1-24.txt,0,1120
+L0 Heading,Poland-PL-1-24.txt,1123,1132
+L2 Outcome,Poland-PL-1-24.txt,1123,1479
+L1 Analysis,Poland-PL-1-24.txt,1123,1479
+L0 Heading,Poland-PL-1-24.txt,1482,1494
+L1 Background,Poland-PL-1-24.txt,1482,8327
+L0 Heading,Poland-PL-1-24.txt,8329,8364
+L1 Analysis,Poland-PL-1-24.txt,8328,19143
+L0 Out of Scope,Poland-PL-1-25.txt,0,972
+L0 Heading,Poland-PL-1-25.txt,975,984
+L2 Outcome,Poland-PL-1-25.txt,975,1241
+L1 Analysis,Poland-PL-1-25.txt,974,1241
+L0 Heading,Poland-PL-1-25.txt,1244,1256
+L1 Background,Poland-PL-1-25.txt,1244,9342
+L0 Heading,Poland-PL-1-25.txt,9343,9379
+L1 Analysis,Poland-PL-1-25.txt,9343,23617
+L0 Out of Scope,Poland-PL-1-27.txt,0,1460
+L0 Heading,Poland-PL-1-27.txt,1463,1472
+L2 Outcome,Poland-PL-1-27.txt,1463,1936
+L1 Analysis,Poland-PL-1-27.txt,1463,1936
+L0 Heading,Poland-PL-1-27.txt,1939,1951
+L1 Background,Poland-PL-1-27.txt,1939,27717
+L0 Heading,Poland-PL-1-27.txt,27719,27772
+L1 Analysis,Poland-PL-1-27.txt,27718,41992
+L0 Out of Scope,Poland-PL-1-40.txt,0,250
+L0 Heading,Poland-PL-1-40.txt,253,262
+L2 Outcome,Poland-PL-1-40.txt,253,754
+L1 Analysis,Poland-PL-1-40.txt,253,754
+L0 Heading,Poland-PL-1-40.txt,757,769
+L1 Background,Poland-PL-1-40.txt,757,15239
+L0 Heading,Poland-PL-1-40.txt,15240,15291
+L1 Analysis,Poland-PL-1-40.txt,15240,20140
+L0 Out of Scope,Poland-PL-1-41.txt,0,250
+L0 Heading,Poland-PL-1-41.txt,253,262
+L2 Outcome,Poland-PL-1-41.txt,253,821
+L1 Analysis,Poland-PL-1-41.txt,252,821
+L0 Heading,Poland-PL-1-41.txt,824,836
+L1 Background,Poland-PL-1-41.txt,824,16290
+L0 Heading,Poland-PL-1-41.txt,16292,16342
+L1 Analysis,Poland-PL-1-41.txt,16291,21087
+L0 Out of Scope,Poland-PL-1-43.txt,0,271
+L0 Heading,Poland-PL-1-43.txt,274,283
+L2 Outcome,Poland-PL-1-43.txt,274,798
+L1 Analysis,Poland-PL-1-43.txt,273,798
+L0 Heading,Poland-PL-1-43.txt,801,813
+L1 Background,Poland-PL-1-43.txt,801,4608
+L0 Heading,Poland-PL-1-43.txt,4610,4662
+L1 Analysis,Poland-PL-1-43.txt,4609,15686
+L0 Out of Scope,Poland-PL-1-44.txt,0,271
+L0 Heading,Poland-PL-1-44.txt,274,283
+L2 Outcome,Poland-PL-1-44.txt,274,786
+L1 Analysis,Poland-PL-1-44.txt,274,786
+L0 Heading,Poland-PL-1-44.txt,789,801
+L1 Background,Poland-PL-1-44.txt,789,4645
+L0 Heading,Poland-PL-1-44.txt,4647,4699
+L1 Analysis,Poland-PL-1-44.txt,4647,15717
+L0 Out of Scope,Poland-PL-1-45.txt,0,172
+L0 Out of Scope,Poland-PL-1-45.txt,175,268
+L0 Heading,Poland-PL-1-45.txt,271,280
+L2 Outcome,Poland-PL-1-45.txt,271,880
+L1 Analysis,Poland-PL-1-45.txt,271,880
+L0 Out of Scope,Poland-PL-1-45.txt,883,910
+L0 Heading,Poland-PL-1-45.txt,912,924
+L1 Background,Poland-PL-1-45.txt,912,6452
+L0 Heading,Poland-PL-1-45.txt,6453,6518
+L1 Analysis,Poland-PL-1-45.txt,6453,19122
+L0 Out of Scope,Poland-PL-1-46.txt,0,274
+L0 Heading,Poland-PL-1-46.txt,277,286
+L2 Outcome,Poland-PL-1-46.txt,277,898
+L1 Analysis,Poland-PL-1-46.txt,277,898
+L0 Heading,Poland-PL-1-46.txt,901,913
+L1 Background,Poland-PL-1-46.txt,901,4135
+L0 Heading,Poland-PL-1-46.txt,4136,4189
+L1 Analysis,Poland-PL-1-46.txt,4136,11965
+L0 Out of Scope,Poland-PL-1-42.txt,0,277
+L0 Heading,Poland-PL-1-42.txt,280,289
+L2 Outcome,Poland-PL-1-42.txt,280,597
+L1 Analysis,Poland-PL-1-42.txt,279,597
+L0 Heading,Poland-PL-1-42.txt,600,612
+L1 Background,Poland-PL-1-42.txt,600,3856
+L0 Heading,Poland-PL-1-42.txt,3857,3910
+L1 Analysis,Poland-PL-1-42.txt,3857,13122
+L0 Out of Scope,Poland-PL-1-38.txt,0,241
+L0 Heading,Poland-PL-1-38.txt,244,253
+L2 Outcome,Poland-PL-1-38.txt,244,590
+L1 Analysis,Poland-PL-1-38.txt,243,590
+L0 Heading,Poland-PL-1-38.txt,593,605
+L1 Background,Poland-PL-1-38.txt,593,2759
+L1 Analysis,Poland-PL-1-38.txt,2760,6781
+L0 Heading,Poland-PL-1-38.txt,2761,2825
+L0 Out of Scope,Poland-PL-1-39.txt,0,241
+L0 Heading,Poland-PL-1-39.txt,244,253
+L2 Outcome,Poland-PL-1-39.txt,244,584
+L1 Analysis,Poland-PL-1-39.txt,244,584
+L0 Heading,Poland-PL-1-39.txt,587,599
+L1 Background,Poland-PL-1-39.txt,587,2205
+L0 Heading,Poland-PL-1-39.txt,2207,2271
+L1 Analysis,Poland-PL-1-39.txt,2206,6237
+L0 Out of Scope,Poland-PL-1-37.txt,0,238
+L0 Heading,Poland-PL-1-37.txt,241,250
+L2 Outcome,Poland-PL-1-37.txt,251,546
+L1 Analysis,Poland-PL-1-37.txt,240,547
+L0 Out of Scope,Poland-PL-1-37.txt,547,581
+L0 Heading,Poland-PL-1-37.txt,584,596
+L1 Background,Poland-PL-1-37.txt,584,2172
+L0 Heading,Poland-PL-1-37.txt,2173,2238
+L1 Analysis,Poland-PL-1-37.txt,2173,6204
+L0 Out of Scope,Poland-PL-1-28.txt,0,243
+L0 Heading,Poland-PL-1-28.txt,246,255
+L2 Outcome,Poland-PL-1-28.txt,246,636
+L1 Analysis,Poland-PL-1-28.txt,246,636
+L0 Heading,Poland-PL-1-28.txt,639,651
+L1 Background,Poland-PL-1-28.txt,639,1676
+L0 Heading,Poland-PL-1-28.txt,1678,1730
+L1 Analysis,Poland-PL-1-28.txt,1677,5904
+L0 Out of Scope,Poland-PL-1-30.txt,0,261
+L0 Heading,Poland-PL-1-30.txt,264,273
+L2 Outcome,Poland-PL-1-30.txt,264,789
+L1 Analysis,Poland-PL-1-30.txt,263,789
+L0 Heading,Poland-PL-1-30.txt,792,804
+L1 Background,Poland-PL-1-30.txt,792,5106
+L0 Heading,Poland-PL-1-30.txt,5108,5171
+L1 Analysis,Poland-PL-1-30.txt,5107,13383
+L0 Out of Scope,Poland-PL-1-26.txt,0,231
+L0 Heading,Poland-PL-1-26.txt,234,243
+L2 Outcome,Poland-PL-1-26.txt,234,564
+L1 Analysis,Poland-PL-1-26.txt,234,564
+L0 Heading,Poland-PL-1-26.txt,567,579
+L1 Background,Poland-PL-1-26.txt,567,1545
+L0 Heading,Poland-PL-1-26.txt,1546,1610
+L1 Analysis,Poland-PL-1-26.txt,1546,5696
+L0 Out of Scope,Poland-PL-1-29.txt,0,235
+L0 Heading,Poland-PL-1-29.txt,238,247
+L2 Outcome,Poland-PL-1-29.txt,238,625
+L1 Analysis,Poland-PL-1-29.txt,238,625
+L0 Heading,Poland-PL-1-29.txt,628,640
+L1 Background,Poland-PL-1-29.txt,628,1566
+L1 Analysis,Poland-PL-1-29.txt,1568,5729
+L0 Heading,Poland-PL-1-29.txt,1567,1625
+L0 Out of Scope,Poland-PL-1-31.txt,0,244
+L0 Heading,Poland-PL-1-31.txt,247,256
+L2 Outcome,Poland-PL-1-31.txt,246,688
+L1 Analysis,Poland-PL-1-31.txt,246,688
+L0 Heading,Poland-PL-1-31.txt,691,703
+L1 Background,Poland-PL-1-31.txt,691,1783
+L0 Heading,Poland-PL-1-31.txt,1785,1842
+L1 Analysis,Poland-PL-1-31.txt,1784,5967
+L0 Out of Scope,Poland-PL-1-32.txt,0,235
+L0 Heading,Poland-PL-1-32.txt,238,247
+L2 Outcome,Poland-PL-1-32.txt,238,628
+L1 Analysis,Poland-PL-1-32.txt,238,628
+L0 Heading,Poland-PL-1-32.txt,631,643
+L1 Background,Poland-PL-1-32.txt,631,1501
+L0 Heading,Poland-PL-1-32.txt,1502,1566
+L1 Analysis,Poland-PL-1-32.txt,1502,5676
+L0 Out of Scope,Poland-PL-1-33.txt,0,241
+L0 Heading,Poland-PL-1-33.txt,244,253
+L2 Outcome,Poland-PL-1-33.txt,244,637
+L1 Analysis,Poland-PL-1-33.txt,243,637
+L0 Heading,Poland-PL-1-33.txt,640,652
+L1 Background,Poland-PL-1-33.txt,640,1602
+L0 Heading,Poland-PL-1-33.txt,1603,1661
+L1 Analysis,Poland-PL-1-33.txt,1603,5765
+L0 Out of Scope,Poland-PL-1-34.txt,0,248
+L0 Heading,Poland-PL-1-34.txt,251,260
+L2 Outcome,Poland-PL-1-34.txt,251,696
+L1 Analysis,Poland-PL-1-34.txt,251,696
+L0 Heading,Poland-PL-1-34.txt,699,711
+L1 Background,Poland-PL-1-34.txt,699,5676
+L0 Heading,Poland-PL-1-34.txt,5677,5742
+L1 Analysis,Poland-PL-1-34.txt,5678,12538
+L0 Out of Scope,Poland-PL-1-50.txt,0,239
+L0 Heading,Poland-PL-1-50.txt,242,251
+L2 Outcome,Poland-PL-1-50.txt,242,621
+L1 Analysis,Poland-PL-1-50.txt,242,621
+L0 Heading,Poland-PL-1-50.txt,624,636
+L1 Background,Poland-PL-1-50.txt,624,1293
+L0 Heading,Poland-PL-1-50.txt,1295,1359
+L1 Analysis,Poland-PL-1-50.txt,1294,5366
+L0 Out of Scope,Poland-PL-1-35.txt,0,283
+L0 Heading,Poland-PL-1-35.txt,286,295
+L2 Outcome,Poland-PL-1-35.txt,286,635
+L1 Analysis,Poland-PL-1-35.txt,286,635
+L0 Heading,Poland-PL-1-35.txt,638,650
+L1 Background,Poland-PL-1-35.txt,638,1266
+L0 Heading,Poland-PL-1-35.txt,1268,1320
+L1 Analysis,Poland-PL-1-35.txt,1267,3842
+L0 Out of Scope,Poland-PL-1-36.txt,0,289
+L0 Heading,Poland-PL-1-36.txt,292,301
+L2 Outcome,Poland-PL-1-36.txt,292,649
+L1 Analysis,Poland-PL-1-36.txt,291,649
+L0 Heading,Poland-PL-1-36.txt,652,664
+L1 Background,Poland-PL-1-36.txt,652,1280
+L0 Heading,Poland-PL-1-36.txt,1282,1334
+L1 Analysis,Poland-PL-1-36.txt,1281,3856
+L0 Out of Scope,Poland-PL-1-47.txt,0,722
+L0 Heading,Poland-PL-1-47.txt,725,734
+L2 Outcome,Poland-PL-1-47.txt,725,1543
+L1 Analysis,Poland-PL-1-47.txt,725,1543
+L0 Heading,Poland-PL-1-47.txt,1546,1558
+L1 Background,Poland-PL-1-47.txt,1546,6614
+L0 Heading,Poland-PL-1-47.txt,6616,6668
+L1 Analysis,Poland-PL-1-47.txt,6615,15391
+L0 Out of Scope,Poland-PL-1-48.txt,0,273
+L0 Heading,Poland-PL-1-48.txt,276,285
+L2 Outcome,Poland-PL-1-48.txt,276,782
+L1 Analysis,Poland-PL-1-48.txt,276,782
+L0 Heading,Poland-PL-1-48.txt,785,797
+L1 Background,Poland-PL-1-48.txt,785,7144
+L0 Heading,Poland-PL-1-48.txt,7146,7210
+L1 Analysis,Poland-PL-1-48.txt,7146,21912
+L0 Out of Scope,Poland-PL-1-49.txt,0,1082
+L0 Out of Scope,Poland-PL-1-51.txt,0,1716
+L0 Heading,Poland-PL-1-51.txt,1719,1728
+L2 Outcome,Poland-PL-1-51.txt,1719,2789
+L1 Analysis,Poland-PL-1-51.txt,1719,2789
+L0 Heading,Poland-PL-1-51.txt,2792,2804
+L1 Background,Poland-PL-1-51.txt,2792,23495
+L1 Analysis,Poland-PL-1-51.txt,23497,35004
+L0 Heading,Poland-PL-1-51.txt,23497,23532
+L0 Out of Scope,Poland-PL-1-53.txt,0,275
+L0 Heading,Poland-PL-1-53.txt,278,287
+L2 Outcome,Poland-PL-1-53.txt,278,548
+L1 Analysis,Poland-PL-1-53.txt,277,548
+L0 Heading,Poland-PL-1-53.txt,551,563
+L1 Background,Poland-PL-1-53.txt,551,1483
+L1 Background,Poland-PL-1-53.txt,1484,2644
+L0 Heading,Poland-PL-1-53.txt,2645,2657
+L1 Analysis,Poland-PL-1-53.txt,2645,12028
+L0 Out of Scope,Poland-PL-1-84.txt,0,332
+L0 Heading,Poland-PL-1-84.txt,335,344
+L2 Outcome,Poland-PL-1-84.txt,335,619
+L1 Analysis,Poland-PL-1-84.txt,335,619
+L0 Heading,Poland-PL-1-84.txt,622,634
+L1 Background,Poland-PL-1-84.txt,622,3058
+L0 Heading,Poland-PL-1-84.txt,3060,3104
+L1 Analysis,Poland-PL-1-84.txt,3060,6212
+L0 Out of Scope,Poland-PL-1-52.txt,0,292
+L0 Heading,Poland-PL-1-52.txt,295,304
+L2 Outcome,Poland-PL-1-52.txt,295,784
+L1 Analysis,Poland-PL-1-52.txt,294,784
+L0 Heading,Poland-PL-1-52.txt,787,799
+L1 Background,Poland-PL-1-52.txt,787,2526
+L0 Heading,Poland-PL-1-52.txt,2527,2551
+L1 Analysis,Poland-PL-1-52.txt,2527,7110
+L0 Out of Scope,Poland-PL-1-52.txt,7111,7119
+L0 Out of Scope,Poland-PL-1-54.txt,0,308
+L0 Heading,Poland-PL-1-54.txt,312,321
+L2 Outcome,Poland-PL-1-54.txt,312,1177
+L1 Analysis,Poland-PL-1-54.txt,312,1177
+L0 Heading,Poland-PL-1-54.txt,1180,1192
+L1 Background,Poland-PL-1-54.txt,1180,6476
+L0 Heading,Poland-PL-1-54.txt,6477,6511
+L1 Analysis,Poland-PL-1-54.txt,6477,9005
+L0 Out of Scope,Poland-PL-1-56.txt,0,275
+L0 Heading,Poland-PL-1-56.txt,278,287
+L2 Outcome,Poland-PL-1-56.txt,278,694
+L1 Analysis,Poland-PL-1-56.txt,278,694
+L0 Out of Scope,Poland-PL-1-56.txt,695,718
+L0 Heading,Poland-PL-1-56.txt,721,733
+L1 Background,Poland-PL-1-56.txt,721,2961
+L0 Heading,Poland-PL-1-56.txt,2962,2996
+L1 Analysis,Poland-PL-1-56.txt,2962,8809
+L0 Out of Scope,Poland-PL-1-57.txt,0,290
+L0 Heading,Poland-PL-1-57.txt,293,302
+L2 Outcome,Poland-PL-1-57.txt,293,766
+L1 Analysis,Poland-PL-1-57.txt,293,766
+L0 Heading,Poland-PL-1-57.txt,769,781
+L1 Background,Poland-PL-1-57.txt,769,2643
+L0 Heading,Poland-PL-1-57.txt,2644,2678
+L1 Analysis,Poland-PL-1-57.txt,2644,9449
+L0 Out of Scope,Poland-PL-1-58.txt,0,290
+L0 Heading,Poland-PL-1-58.txt,293,302
+L2 Outcome,Poland-PL-1-58.txt,293,743
+L1 Analysis,Poland-PL-1-58.txt,293,743
+L0 Heading,Poland-PL-1-58.txt,746,758
+L1 Background,Poland-PL-1-58.txt,746,3011
+L0 Heading,Poland-PL-1-58.txt,3012,3046
+L1 Analysis,Poland-PL-1-58.txt,3012,9811
+L0 Out of Scope,Poland-PL-1-59.txt,0,290
+L0 Heading,Poland-PL-1-59.txt,293,302
+L2 Outcome,Poland-PL-1-59.txt,293,776
+L1 Analysis,Poland-PL-1-59.txt,293,776
+L0 Heading,Poland-PL-1-59.txt,779,791
+L1 Background,Poland-PL-1-59.txt,779,3015
+L0 Heading,Poland-PL-1-59.txt,3016,3050
+L1 Analysis,Poland-PL-1-59.txt,3016,10459
+L0 Out of Scope,Poland-PL-1-61.txt,0,290
+L0 Heading,Poland-PL-1-61.txt,293,302
+L2 Outcome,Poland-PL-1-61.txt,293,749
+L1 Analysis,Poland-PL-1-61.txt,293,749
+L0 Heading,Poland-PL-1-61.txt,752,764
+L1 Background,Poland-PL-1-61.txt,752,2012
+L0 Heading,Poland-PL-1-61.txt,2013,2047
+L1 Analysis,Poland-PL-1-61.txt,2013,9099
+L0 Out of Scope,Poland-PL-1-55.txt,0,259
+L0 Heading,Poland-PL-1-55.txt,263,272
+L2 Outcome,Poland-PL-1-55.txt,263,660
+L1 Analysis,Poland-PL-1-55.txt,263,660
+L0 Out of Scope,Poland-PL-1-55.txt,661,662
+L0 Heading,Poland-PL-1-55.txt,665,677
+L1 Background,Poland-PL-1-55.txt,665,3296
+L0 Heading,Poland-PL-1-55.txt,3297,3331
+L1 Analysis,Poland-PL-1-55.txt,3297,6213
+L0 Out of Scope,Poland-PL-1-55.txt,6214,6215
+L0 Out of Scope,Poland-PL-1-60.txt,0,272
+L0 Heading,Poland-PL-1-60.txt,275,284
+L2 Outcome,Poland-PL-1-60.txt,275,1004
+L1 Analysis,Poland-PL-1-60.txt,275,1004
+L0 Out of Scope,Poland-PL-1-60.txt,1005,1027
+L0 Heading,Poland-PL-1-60.txt,1030,1042
+L1 Background,Poland-PL-1-60.txt,1030,3589
+L1 Analysis,Poland-PL-1-60.txt,3590,26564
+L0 Heading,Poland-PL-1-60.txt,3590,3623
+L0 Out of Scope,Poland-PL-1-62.txt,0,363
+L0 Heading,Poland-PL-1-62.txt,366,375
+L2 Outcome,Poland-PL-1-62.txt,366,783
+L1 Analysis,Poland-PL-1-62.txt,366,783
+L0 Heading,Poland-PL-1-62.txt,786,798
+L1 Background,Poland-PL-1-62.txt,786,16379
+L0 Heading,Poland-PL-1-62.txt,16380,16414
+L1 Analysis,Poland-PL-1-62.txt,16380,21424
+L0 Out of Scope,Poland-PL-1-69.txt,0,918
+L0 Heading,Poland-PL-1-69.txt,921,930
+L2 Outcome,Poland-PL-1-69.txt,921,1403
+L1 Analysis,Poland-PL-1-69.txt,921,1403
+L0 Heading,Poland-PL-1-69.txt,1406,1418
+L1 Background,Poland-PL-1-69.txt,1406,20083
+L0 Heading,Poland-PL-1-69.txt,20084,20122
+L1 Analysis,Poland-PL-1-69.txt,20084,30256
+L0 Out of Scope,Poland-PL-1-68.txt,0,901
+L0 Out of Scope,Poland-PL-1-72.txt,0,316
+L0 Heading,Poland-PL-1-72.txt,319,328
+L2 Outcome,Poland-PL-1-72.txt,318,646
+L1 Analysis,Poland-PL-1-72.txt,318,645
+L0 Heading,Poland-PL-1-72.txt,648,660
+L1 Background,Poland-PL-1-72.txt,648,7219
+L0 Heading,Poland-PL-1-72.txt,7220,7245
+L1 Analysis,Poland-PL-1-72.txt,7220,22031
+L0 Out of Scope,Poland-PL-1-63.txt,0,271
+L0 Heading,Poland-PL-1-63.txt,274,283
+L2 Outcome,Poland-PL-1-63.txt,274,1842
+L1 Analysis,Poland-PL-1-63.txt,274,1842
+L0 Heading,Poland-PL-1-63.txt,1845,1857
+L1 Background,Poland-PL-1-63.txt,1845,2559
+L1 Analysis,Poland-PL-1-63.txt,2560,8254
+L0 Heading,Poland-PL-1-63.txt,2560,2609
+L0 Out of Scope,Poland-PL-1-70.txt,0,268
+L0 Heading,Poland-PL-1-70.txt,271,280
+L2 Outcome,Poland-PL-1-70.txt,271,2632
+L1 Analysis,Poland-PL-1-70.txt,271,2632
+L0 Heading,Poland-PL-1-70.txt,2635,2647
+L1 Background,Poland-PL-1-70.txt,2635,3120
+L0 Heading,Poland-PL-1-70.txt,3121,3170
+L1 Analysis,Poland-PL-1-70.txt,3121,9152
+L0 Out of Scope,Poland-PL-1-64.txt,0,297
+L0 Heading,Poland-PL-1-64.txt,300,309
+L2 Outcome,Poland-PL-1-64.txt,300,731
+L1 Analysis,Poland-PL-1-64.txt,300,731
+L0 Heading,Poland-PL-1-64.txt,734,746
+L1 Background,Poland-PL-1-64.txt,734,3843
+L1 Analysis,Poland-PL-1-64.txt,3844,7638
+L0 Out of Scope,Poland-PL-1-66.txt,0,296
+L0 Heading,Poland-PL-1-66.txt,299,308
+L2 Outcome,Poland-PL-1-66.txt,299,707
+L1 Analysis,Poland-PL-1-66.txt,299,707
+L1 Background,Poland-PL-1-66.txt,710,722
+L0 Heading,Poland-PL-1-66.txt,710,722
+L1 Background,Poland-PL-1-66.txt,724,4330
+L1 Analysis,Poland-PL-1-66.txt,4331,7237
+L0 Out of Scope,Poland-PL-1-65.txt,0,293
+L0 Heading,Poland-PL-1-65.txt,296,305
+L2 Outcome,Poland-PL-1-65.txt,296,730
+L1 Analysis,Poland-PL-1-65.txt,296,730
+L0 Heading,Poland-PL-1-65.txt,733,745
+L1 Background,Poland-PL-1-65.txt,733,3503
+L1 Analysis,Poland-PL-1-65.txt,3504,7315
+L0 Out of Scope,Poland-PL-1-67.txt,0,296
+L0 Heading,Poland-PL-1-67.txt,299,308
+L2 Outcome,Poland-PL-1-67.txt,299,730
+L1 Analysis,Poland-PL-1-67.txt,299,730
+L0 Heading,Poland-PL-1-67.txt,733,745
+L1 Background,Poland-PL-1-67.txt,733,5450
+L1 Analysis,Poland-PL-1-67.txt,5451,9602
+L0 Out of Scope,Poland-PL-1-71.txt,0,297
+L0 Heading,Poland-PL-1-71.txt,300,309
+L2 Outcome,Poland-PL-1-71.txt,300,726
+L1 Analysis,Poland-PL-1-71.txt,299,726
+L0 Heading,Poland-PL-1-71.txt,729,741
+L1 Background,Poland-PL-1-71.txt,729,3887
+L1 Analysis,Poland-PL-1-71.txt,3888,7142
+L0 Out of Scope,Poland-PL-1-73.txt,0,1853
+L0 Heading,Poland-PL-1-73.txt,1856,1865
+L2 Outcome,Poland-PL-1-73.txt,1856,2358
+L1 Analysis,Poland-PL-1-73.txt,1856,2358
+L0 Heading,Poland-PL-1-73.txt,2361,2373
+L1 Background,Poland-PL-1-73.txt,2361,14168
+L0 Heading,Poland-PL-1-73.txt,14170,14206
+L1 Analysis,Poland-PL-1-73.txt,14169,16301
+L0 Out of Scope,Poland-PL-1-74.txt,0,734
+L0 Heading,Poland-PL-1-74.txt,737,746
+L2 Outcome,Poland-PL-1-74.txt,737,1006
+L1 Analysis,Poland-PL-1-74.txt,737,1006
+L0 Heading,Poland-PL-1-74.txt,1009,1021
+L1 Analysis,Poland-PL-1-74.txt,1009,7323
+L0 Out of Scope,Poland-PL-1-75.txt,0,1460
+L0 Heading,Poland-PL-1-75.txt,1463,1472
+L2 Outcome,Poland-PL-1-75.txt,1463,3117
+L1 Analysis,Poland-PL-1-75.txt,1463,3117
+L0 Heading,Poland-PL-1-75.txt,3120,3132
+L0 Heading,Poland-PL-1-75.txt,3133,3134
+L0 Heading,Poland-PL-1-75.txt,32516,32518
+L0 Heading,Poland-PL-1-75.txt,32616,32619
+L1 Background,Poland-PL-1-75.txt,3120,32614
+L1 Analysis,Poland-PL-1-75.txt,32616,119204
+L0 Out of Scope,Poland-PL-1-80.txt,0,3392
+L0 Heading,Poland-PL-1-80.txt,3395,3404
+L2 Outcome,Poland-PL-1-80.txt,3395,9848
+L1 Analysis,Poland-PL-1-80.txt,3395,9848
+L0 Heading,Poland-PL-1-80.txt,9851,9865
+L1 Analysis,Poland-PL-1-80.txt,106305,254767
+L0 Heading,Poland-PL-1-80.txt,106304,106308
+L0 Heading,Poland-PL-1-80.txt,105352,105354
+L1 Background,Poland-PL-1-80.txt,9851,106303
+L0 Out of Scope,Poland-PL-1-76.txt,0,1036
+L0 Heading,Poland-PL-1-76.txt,13562,13565
+L1 Analysis,Poland-PL-1-76.txt,13561,38780
+L0 Heading,Poland-PL-1-76.txt,13206,13208
+L1 Background,Poland-PL-1-76.txt,1820,13560
+L0 Heading,Poland-PL-1-76.txt,1820,1834
+L2 Outcome,Poland-PL-1-76.txt,1039,1817
+L1 Analysis,Poland-PL-1-76.txt,1038,1817
+L0 Heading,Poland-PL-1-76.txt,1039,1048
+L0 Out of Scope,Poland-PL-1-77.txt,0,1643
+L0 Heading,Poland-PL-1-77.txt,1646,1655
+L2 Outcome,Poland-PL-1-77.txt,1646,4007
+L1 Analysis,Poland-PL-1-77.txt,1646,4007
+L0 Heading,Poland-PL-1-77.txt,32570,32574
+L1 Analysis,Poland-PL-1-77.txt,32570,118475
+L0 Out of Scope,Poland-PL-1-77.txt,14613,14616
+L0 Heading,Poland-PL-1-77.txt,4010,4022
+L1 Background,Poland-PL-1-77.txt,4009,32568
+L0 Heading,Poland-PL-1-78.txt,11870,11874
+L1 Analysis,Poland-PL-1-78.txt,11870,68778
+L0 Heading,Poland-PL-1-78.txt,11531,11534
+L1 Background,Poland-PL-1-78.txt,2710,11869
+L0 Heading,Poland-PL-1-78.txt,2710,2724
+L0 Heading,Poland-PL-1-78.txt,1496,2707
+L2 Outcome,Poland-PL-1-78.txt,1496,2708
+L1 Analysis,Poland-PL-1-78.txt,1496,2708
+L0 Out of Scope,Poland-PL-1-78.txt,0,1493
+L0 Out of Scope,Poland-PL-1-83.txt,0,3051
+L0 Out of Scope,Poland-PL-1-83.txt,205241,311263
+L0 Heading,Poland-PL-1-83.txt,43679,43684
+L1 Analysis,Poland-PL-1-83.txt,43679,205238
+L0 Heading,Poland-PL-1-83.txt,42289,42293
+L1 Background,Poland-PL-1-83.txt,8091,43678
+L0 Heading,Poland-PL-1-83.txt,8091,8105
+L2 Outcome,Poland-PL-1-83.txt,3054,8088
+L0 Heading,Poland-PL-1-83.txt,3054,3063
+L1 Analysis,Poland-PL-1-83.txt,3054,8088
+L0 Out of Scope,Poland-PL-1-79.txt,0,1778
+L0 Heading,Poland-PL-1-79.txt,53487,53491
+L1 Analysis,Poland-PL-1-79.txt,53487,88532
+L0 Heading,Poland-PL-1-79.txt,53375,53378
+L1 Background,Poland-PL-1-79.txt,4046,53486
+L0 Heading,Poland-PL-1-79.txt,4046,4060
+L0 Heading,Poland-PL-1-79.txt,50736,50740
+L0 Heading,Poland-PL-1-79.txt,48036,48041
+L0 Heading,Poland-PL-1-79.txt,47670,47674
+L2 Outcome,Poland-PL-1-79.txt,1781,4043
+L0 Heading,Poland-PL-1-79.txt,1781,1790
+L1 Analysis,Poland-PL-1-79.txt,1781,4043
+L0 Heading,Poland-PL-1-94.txt,21922,21926
+L0 Heading,Poland-PL-1-94.txt,21421,21424
+L1 Analysis,Poland-PL-1-94.txt,21922,130577
+L1 Background,Poland-PL-1-94.txt,3564,21921
+L0 Heading,Poland-PL-1-94.txt,3564,3578
+L2 Outcome,Poland-PL-1-94.txt,1730,3561
+L0 Heading,Poland-PL-1-94.txt,1730,1739
+L1 Analysis,Poland-PL-1-94.txt,1730,3561
+L0 Out of Scope,Poland-PL-1-94.txt,0,1727
+L0 Out of Scope,Poland-PL-1-98.txt,0,1264
+L2 Outcome,Poland-PL-1-98.txt,1267,2141
+L1 Analysis,Poland-PL-1-98.txt,1267,2141
+L0 Heading,Poland-PL-1-98.txt,1267,1276
+L0 Heading,Poland-PL-1-98.txt,2144,2160
+L0 Heading,Poland-PL-1-98.txt,17047,17052
+L0 Heading,Poland-PL-1-98.txt,16938,16942
+L1 Analysis,Poland-PL-1-98.txt,17047,35793
+L1 Background,Poland-PL-1-98.txt,2144,17046
+L0 Out of Scope,Poland-PL-1-97.txt,0,1963
+L0 Out of Scope,Poland-PL-1-97.txt,92994,105247
+L0 Heading,Poland-PL-1-97.txt,30544,30547
+L0 Heading,Poland-PL-1-97.txt,30324,30327
+L1 Analysis,Poland-PL-1-97.txt,30542,92992
+L1 Background,Poland-PL-1-97.txt,3904,30542
+L0 Heading,Poland-PL-1-97.txt,3904,3918
+L2 Outcome,Poland-PL-1-97.txt,1966,3901
+L1 Analysis,Poland-PL-1-97.txt,1966,3901
+L0 Heading,Poland-PL-1-97.txt,1966,1975
+L0 Heading,Poland-PL-1-99.txt,33511,33514
+L1 Analysis,Poland-PL-1-99.txt,33510,90728
+L0 Heading,Poland-PL-1-99.txt,31194,31196
+L1 Background,Poland-PL-1-99.txt,3884,33509
+L0 Heading,Poland-PL-1-99.txt,3884,3898
+L2 Outcome,Poland-PL-1-99.txt,1912,3881
+L1 Analysis,Poland-PL-1-99.txt,1912,3881
+L0 Heading,Poland-PL-1-99.txt,1912,1921
+L0 Out of Scope,Poland-PL-1-99.txt,0,1909
+L0 Out of Scope,Poland-PL-1-86.txt,0,291
+L2 Outcome,Poland-PL-1-86.txt,294,1972
+L1 Analysis,Poland-PL-1-86.txt,294,1972
+L0 Heading,Poland-PL-1-86.txt,294,303
+L0 Heading,Poland-PL-1-86.txt,1975,1987
+L1 Background,Poland-PL-1-86.txt,1975,7966
+L0 Heading,Poland-PL-1-86.txt,7967,8012
+L1 Analysis,Poland-PL-1-86.txt,7967,13742
+L0 Out of Scope,Poland-PL-1-88.txt,0,371
+L2 Outcome,Poland-PL-1-88.txt,374,630
+L1 Analysis,Poland-PL-1-88.txt,374,630
+L0 Heading,Poland-PL-1-88.txt,374,383
+L0 Heading,Poland-PL-1-88.txt,633,645
+L1 Background,Poland-PL-1-88.txt,633,5594
+L0 Heading,Poland-PL-1-88.txt,5596,5640
+L1 Analysis,Poland-PL-1-88.txt,5596,14397
+L0 Out of Scope,Poland-PL-1-90.txt,0,321
+L2 Outcome,Poland-PL-1-90.txt,324,577
+L1 Analysis,Poland-PL-1-90.txt,324,577
+L0 Heading,Poland-PL-1-90.txt,324,333
+L0 Heading,Poland-PL-1-90.txt,580,592
+L1 Background,Poland-PL-1-90.txt,580,3548
+L1 Analysis,Poland-PL-1-90.txt,3549,6949
+L0 Heading,Poland-PL-1-90.txt,3550,3594
+L0 Out of Scope,Poland-PL-1-89.txt,0,302
+L2 Outcome,Poland-PL-1-89.txt,305,676
+L1 Analysis,Poland-PL-1-89.txt,305,676
+L0 Heading,Poland-PL-1-89.txt,305,314
+L0 Heading,Poland-PL-1-89.txt,679,691
+L1 Background,Poland-PL-1-89.txt,679,3207
+L0 Heading,Poland-PL-1-89.txt,3209,3253
+L1 Analysis,Poland-PL-1-89.txt,3209,8977
+L0 Out of Scope,Poland-PL-1-91.txt,0,351
+L2 Outcome,Poland-PL-1-91.txt,354,605
+L1 Analysis,Poland-PL-1-91.txt,354,605
+L0 Heading,Poland-PL-1-91.txt,354,363
+L0 Heading,Poland-PL-1-91.txt,608,620
+L1 Background,Poland-PL-1-91.txt,608,5481
+L0 Heading,Poland-PL-1-91.txt,5483,5527
+L1 Analysis,Poland-PL-1-91.txt,5482,10423
+L0 Out of Scope,Poland-PL-1-82.txt,0,300
+L0 Heading,Poland-PL-1-82.txt,303,312
+L2 Outcome,Poland-PL-1-82.txt,303,733
+L1 Analysis,Poland-PL-1-82.txt,302,733
+L0 Heading,Poland-PL-1-82.txt,736,748
+L1 Background,Poland-PL-1-82.txt,736,2464
+L0 Heading,Poland-PL-1-82.txt,2466,2510
+L1 Analysis,Poland-PL-1-82.txt,2466,5157
+L0 Out of Scope,Poland-PL-1-93.txt,0,332
+L2 Outcome,Poland-PL-1-93.txt,335,588
+L1 Analysis,Poland-PL-1-93.txt,335,588
+L0 Heading,Poland-PL-1-93.txt,335,344
+L0 Heading,Poland-PL-1-93.txt,591,603
+L1 Background,Poland-PL-1-93.txt,591,3852
+L0 Heading,Poland-PL-1-93.txt,3854,3898
+L1 Analysis,Poland-PL-1-93.txt,3854,5237
+L0 Out of Scope,Poland-PL-1-92.txt,0,326
+L2 Outcome,Poland-PL-1-92.txt,329,694
+L1 Analysis,Poland-PL-1-92.txt,329,694
+L0 Heading,Poland-PL-1-92.txt,329,338
+L0 Heading,Poland-PL-1-92.txt,697,709
+L1 Background,Poland-PL-1-92.txt,697,3604
+L0 Heading,Poland-PL-1-92.txt,3606,3650
+L1 Analysis,Poland-PL-1-92.txt,3606,7758
+L0 Out of Scope,Poland-PL-1-96.txt,0,300
+L0 Heading,Poland-PL-1-96.txt,303,312
+L2 Outcome,Poland-PL-1-96.txt,303,760
+L1 Analysis,Poland-PL-1-96.txt,303,760
+L0 Heading,Poland-PL-1-96.txt,763,775
+L1 Background,Poland-PL-1-96.txt,763,8387
+L0 Heading,Poland-PL-1-96.txt,8389,8433
+L1 Analysis,Poland-PL-1-96.txt,8389,16579
+L0 Out of Scope,Poland-PL-1-95.txt,0,335
+L2 Outcome,Poland-PL-1-95.txt,338,592
+L0 Heading,Poland-PL-1-95.txt,338,347
+L1 Analysis,Poland-PL-1-95.txt,338,592
+L0 Heading,Poland-PL-1-95.txt,595,607
+L1 Background,Poland-PL-1-95.txt,595,4820
+L0 Heading,Poland-PL-1-95.txt,4821,4866
+L1 Analysis,Poland-PL-1-95.txt,4821,7385
+L0 Out of Scope,Poland-PL-1-81.txt,0,287
+L0 Heading,Poland-PL-1-81.txt,290,299
+L2 Outcome,Poland-PL-1-81.txt,290,755
+L1 Analysis,Poland-PL-1-81.txt,290,755
+L0 Heading,Poland-PL-1-81.txt,758,770
+L1 Background,Poland-PL-1-81.txt,758,2680
+L0 Heading,Poland-PL-1-81.txt,2682,2726
+L1 Analysis,Poland-PL-1-81.txt,2682,10683
+L0 Out of Scope,Poland-PL-1-85.txt,0,300
+L0 Heading,Poland-PL-1-85.txt,303,312
+L2 Outcome,Poland-PL-1-85.txt,303,679
+L1 Analysis,Poland-PL-1-85.txt,303,679
+L0 Heading,Poland-PL-1-85.txt,682,694
+L1 Background,Poland-PL-1-85.txt,682,4250
+L0 Heading,Poland-PL-1-85.txt,4252,4296
+L1 Analysis,Poland-PL-1-85.txt,4252,7987
+L0 Out of Scope,Poland-PL-1-87.txt,0,329
+L2 Outcome,Poland-PL-1-87.txt,332,585
+L1 Analysis,Poland-PL-1-87.txt,332,585
+L0 Heading,Poland-PL-1-87.txt,332,341
+L0 Heading,Poland-PL-1-87.txt,588,600
+L1 Background,Poland-PL-1-87.txt,588,3367
+L0 Heading,Poland-PL-1-87.txt,3369,3413
+L1 Analysis,Poland-PL-1-87.txt,3369,9649
+L0 Out of Scope,Poland-PL-1-100.txt,0,327
+L0 Heading,Poland-PL-1-100.txt,330,339
+L2 Outcome,Poland-PL-1-100.txt,330,765
+L1 Analysis,Poland-PL-1-100.txt,330,765
+L0 Heading,Poland-PL-1-100.txt,768,780
+L1 Background,Poland-PL-1-100.txt,780,5280
+L1 Background,Poland-PL-1-100.txt,768,780
+L0 Heading,Poland-PL-1-100.txt,5282,5318
+L1 Analysis,Poland-PL-1-100.txt,5281,7738
+L0 Out of Scope,Poland-PL-1-101.txt,0,835
+L0 Heading,Poland-PL-1-101.txt,838,847
+L1 Analysis,Poland-PL-1-101.txt,838,1316
+L2 Outcome,Poland-PL-1-101.txt,838,1316
+L0 Heading,Poland-PL-1-101.txt,1319,1331
+L1 Background,Poland-PL-1-101.txt,1318,7727
+L0 Heading,Poland-PL-1-101.txt,7729,7765
+L1 Analysis,Poland-PL-1-101.txt,7729,13990
+L1 Analysis,Poland-PL-1-1.txt,851,1701
+L1 Analysis,Poland-PL-1-1.txt,4394,12308
+L1 Background,Poland-PL-1-1.txt,1704,4393
+L2 Outcome,Poland-PL-1-1.txt,851,1701
+L1 Analysis,Poland-PL-1-2.txt,3336,7086
+L2 Outcome,Poland-PL-1-2.txt,1078,1572
+L1 Background,Poland-PL-1-2.txt,1575,3335
+L1 Analysis,Poland-PL-1-3.txt,979,1143
+L2 Outcome,Poland-PL-1-3.txt,979,1143
+L1 Background,Poland-PL-1-3.txt,1146,8956
+L1 Analysis,Poland-PL-1-3.txt,8958,16470

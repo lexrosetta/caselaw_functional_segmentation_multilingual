@@ -1,0 +1,164 @@
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Plaintiff Lashaun Thomas (“Thomas”) alleges that she was entitled to short-term disability (“STD”) benefits under the Employee Retirement Income Security Act (“ERISA”)-governed self-funded disability plan (the “Plan”) put in place by her employer defendant FedEx Ground (“FedEx”).  Defendant Aetna Life Insurance Company (“Aetna”), which was designated as the Plan Administrator, denied her request for STD benefits.  The case is now before this Court because ERISA permits an insured to sue “to recover benefits due to him under the terms of his plan.”  29 U.S.C. § 1132(a).  Both parties seek summary judgment in their favor.  For the reasons stated below, the Court denies both motions for summary judgment and finds that there is a genuine issue of material fact as to whether Thomas adequately demonstrated that she was entitled to STD benefits.  
+
+ 
+
+
+
+
+
+On September 19, 2012, Thomas was traveling for work with her boss when their car was rear-ended.  Defendants’ Response to Plaintiff’s Statement of Undisputed Facts (“P SUF”) (Doc. #20-1) #1.  Two days later, Thomas went to Elk Grove urgent care (“Elk Grove”) and complained of back pain caused by the accident.  Id. #2.  Thomas saw Dr. Allen Lin Do, who observed spasm and tenderness of the paraspinal muscles and prescribed pain medication.  Id.  On October 8, 2012, Thomas received an x-ray at Elk Grove that revealed no fracture and that her disc spaces appeared normal.  Plaintiff’s Response to Defendants’ Statement of Undisputed Facts (“D SUF”) (Doc. #22-1) #13.  On November 3, 2012, Thomas was reevaluated at Elk Grove and was diagnosed with a back strain that was worse with movement.  D SUF #14.  On February 4 and February 7, 2013, Thomas again went to Elk Grove and it was noted that there were no neurological deficits.  D SUF #15.  Thomas was referred to physical therapy.  Id. 
+
+On February 21, 2013, Thomas began receiving physical therapy treatment at Laguna Physical Therapy.  P SUF ## 4-5.  She received this treatment until April 10, 2013.  Id.  Thomas’ physical therapist noted that Thomas had tenderness in her right shoulder girdle and her cervical paraspinal region.  Id. #4.  Her pain was rated as between 5 and 7 out of 10 and was aggravated by driving, prolonged sitting, and various other activities.  Id.   
+
+On June 18, 2013, Thomas underwent two MRIs: a lumbar spine MRI and a cervical spine MRI.  Id. #6.  The MRIs showed she had broad based disc bulges with osteophytic spurring at C4-5, C5-6, and C6-7.  Id.  The MRIs also showed that she had a disc protrusion/herniation with right foraminal encroachment on the C5-6 level and a C6 root compression.  Id.  The MRIs also showed that on the C6-7 level there was a central protrusion or herniation with flattening of the ventral thecal sac.  Id.  In the MRI, the craniocervical junction appeared unremarkable; the spinal cord was not enlarged; no bony destructive lesion or cervical soft tissue mass was seen; and the anterior and posterior ligament groups appeared intact.  D SUF #16.  The lumbar spine MRI revealed no neural compression, unlike the cervical MRI.  Id. #17. 
+
+On August 25, 2013, Dr. Truong at Elk Grove excused Thomas from work from August 26, 2013 through August 30, 2013.  P SUF #7.  Dr. Truong again excused Thomas from work for 30 days on September 16, 2013.  Id. #8.  Dr. Truong excused Thomas from work for 45 days on September 18, 2013.  Id. #9.  On September 26, 2013, Thomas contacted Aetna to open a claim for short-term disability benefits.  Id. #10.  On October 1, 2013, Dr. Truong filled out an Attending Physician Statement (APS) stating that Thomas was disabled from work from August 24, 2013 through October 16, 2013, and that after October 16, 2013, Thomas could return to work only on modified duty with occasional sitting, driving, computer use, hand grasping and reaching, and no lifting, pushing, pulling, bending, or stooping.  Id. #11. 
+
+On October 4, 2013, Aetna informed Thomas that FedEx retained it to administer the STD Plan and that a clinical review of the appropriateness of her work absence was required.  D SUF #19.  Dr. Truong wrote another note on October 9, 2013, stating that Thomas should remain off work from October 16, 2013 through November 29, 2013.  Id. #20.   
+
+On November 6, 2013, Aetna informed Thomas that it concluded she did not meet the definition of disabled and explained why.  D SUF #21; Administrative Record (“AR”) 324-325.  The letter explained that Thomas could appeal the decision and provided a list of items she could provide that may help prove her claim.  Id. #22.  Thomas later appealed the denial.  Id. #23-24.  On December 16, 2013, the Aetna Appeals Specialist evaluating Thomas’s appeal conducted a telephone interview with Thomas in which Thomas stated that Dr. Truong had released her back to work but that her employer was unable to accommodate her because of the medications she was taking.  Id. #25.  The Appeals Specialist also explained the reason for denying the claim and the type of information Thomas could provide to assist the review.  Id. #26.  The Appeals Specialist reduced the conversation to writing and confirmed that Thomas’s current condition was displacement of lumbar invertebral disc without myelopathy.  Id. #27.   
+
+Aetna then requested a peer review from Dr. Martin Mendelssohn, who specializes in orthopedic surgery.  D SUF #28.  Dr. Mendelssohn attempted a peer-to-peer consultation with Dr. Heune and Dr. Truong but was unable to get in touch with them.  Id. ##29-30.  Dr. Mendelssohn conducted a consultation with Dr. Wilson, who said Thomas was in a car accident and could not work because of her symptoms, but admitted that he had only seen Thomas once and could not provide any evidence of any functional or neurological deficits.  Id. #31.  Dr. Mendelssohn reported that “a comprehensive history and physical examination supporting diagnostic studies that would indicate a functional impairment from her regular occupation as a field contractor REL specialist, which is sedentary from 8/26/13 through 1/6/14 cannot be substantiated.”  Id. #32.  Dr. Mendelssohn opined that Thomas was able to return to her position without restrictions from August 26, 2013 through January 6, 2014.  Id. #33. 
+
+On January 15, 2014, Aetna again tried to contact Dr. Truong and Dr. Heune, but was unable to reach them.  Id. #34.  That same day, Aetna wrote to Thomas explaining that the appeal review needed more time because Aetna could not reach the two doctors.  Id. #35.   
+
+On January 30, 2014, Thomas was seen by Dr. Thomas J. O’Laughlin, who performed an examination on Thomas.  P SUF #13.  Dr. O’Laughlin’s initial evaluation is presented in AR pages 513-517.  Dr. O’Laughlin noted that the June 18, 2013 MRI of the cervical spine disclosed a broad-based disc bulge at C5 with osteophytic spurring and right paracentral disc osteophyte with mild neuroforaminal narrowing and that the lumbar spine MRI was unremarkable.  D SUF #36.  Dr. O’Laughlin also reported that Thomas had evidence of some underlying cervical degenerative disc disease of varying degrees at C5-C6, C4-C5, and C5-C6.  Id. #37.  He stated that Thomas “seems to have aggravated her underlying degenerative cervical changes and appears to have some superimposed disc protrusion that is continuing to promote intractable cervicscapular myofascial pain and chronic cervicogenic headache.”  Id.  He agreed with keeping Thomas off work because the stressors of work and the psychosocial pressures would prevent her from improving.  Id. #39.   
+
+The following day, Dr. O’Laughlin performed trigger-point injections.  P SUF #14.  Dr. O’Laughlin saw Thomas five other times between February 2014 and May 2014.  Id. #15.  On April 21, 2014, Dr. O’Laughlin wrote Aetna a letter on behalf of Thomas stating that “after reviewing the medical records of Lashaun Thomas, as well as performing a face-to-face medical examination, it is my opinion that Ms. Thomas has been disabled and unable to work since her accident on 9/19/2012.”  P SUF # 16; D SUF #43. 
+
+Aetna then hired Dr. Priya Swamy to complete a peer review.  D SUF #46.  The scope of what Dr. Swamy reviewed is under dispute, but the parties agree that Dr. Swamy reviewed some records from between August 26, 2013 through March 24, 2014, the MRIs from June 18, 2013, and records from July 31, 2013 and August 19, 2013.  Id. #47.  The parties dispute how much of Dr. O’Laughlin’s records Dr. Swamy reviewed.  Id. ## 48-50.  Dr. Swamy also attempted a peer-to-peer consultation with Dr. O’Laughlin but was unable to reach him.  Id. #51.  Dr. Swamy concluded that Thomas had no functional impairments from August 26, 2013 through March 24, 2014.  Id. #52; AR 584-586.   
+
+Aetna wrote to Thomas on June 6, 2014, informing her that it completed the appeal review of the denial of her STD benefits and upheld the original decision to deny STD benefits effective August 26, 2013.  Id. #53; AR 581. 
+
+Thomas filed the complaint in this case, alleging that she “was entitled to short-term disability, as well as other benefits under the Plan.”  Compl. ¶ 4 (Doc. #1).  Thomas alleges that Defendants “arbitrarily and in bad faith refused to make payments to [her] as required by the Disability Plan.”  Id. ¶ 6.  Thomas seeks the past and future benefits allegedly owed to her under the LTD Plan and “a declaration by this court . . . that all benefits provided to Plan participants while they are disabled under the Plan . . . be reinstated retroactive to the date her LTD benefits were terminated.”  Id. at 3.  Thomas then filed a motion for summary judgment (Doc. #16).  Defendants opposed the motion and filed a cross motion for summary judgment (Doc. #20).  Thomas opposed Defendants’ cross motion (Doc. #22).  The Court heard argument on the cross motions for summary judgment on August 9, 2016.   
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+The preliminary issue the Court must decide is whether it should review Aetna’s determination that Thomas did not qualify for STD benefits under a de novo standard of review or an abuse of discretion standard of review.  Thomas asks the Court to apply de novo review, while Aetna argues that abuse of discretion is the appropriate standard.   
+
+1. Proper Delegation 
+
+
+
+
+
+Thomas argues that the abuse of discretion standard would be inappropriate here because Aetna was never unambiguously granted discretion by the Benefits Committee.  P Reply (Doc. #22) at 1.  Thomas concedes that the Benefits Committee was granted discretion for its determination of whether Thomas was disabled but contends that “there is no language in the Plan granting Aetna discretion and Defendants have not cited anything evidencing that the Benefits Committee expressly delegated its discretion to Aetna.”  Id.   In response, Defendants point to section 5.1(d) of the Plan, which permits the Plan Administrator to delegate its discretionary authority to a third party.  D Reply at 2 (Doc. #25) (citing AR 060).  In response to questioning from the Court during the August 9, hearing on the cross motions, Defendants further noted that section 2.4 of the Plan states that “Claims Paying Administrator” means Aetna and that section 4.5(a) of the Plan states that the Claims Paying Administrator is charged with “determin[ing] pursuant to the terms of the STD Plan that a Total Disability exists.”   
+
+On this issue, the Court agrees with Defendants.  The Plan clearly states that Aetna, as the Claims Paying Administrator, was charged with deciding whether Thomas was disabled under the terms of the Plan.  The Plan contains a discretionary clause that provides the Plan Administrator with “the discretion and authority to interpret and construe the provisions of the STD plan . . . [and] decide any dispute which may arise with regard to the rights of Participants entitled to benefits.”  AR 060.  Read as a whole, the Plan sufficiently delegates the Plan Administrator’s discretionary authority to Aetna.  The Court will not apply de novo review on the basis of Thomas’s argument that Aetna was not properly delegated discretion. 
+
+/// 
+
+/// 
+
+2. ERISA Preemption of Section 10110.6 
+
+
+
+
+
+The crux of the dispute over the proper standard of review is whether ERISA preempts the application of California Insurance Code section 10110.6 (“section 10110.6”) to self-funded plans, such as the one at issue in this case.  Defendants argue that ERISA preempts section 10110.6 because section 10110.6 “has an impermissible connection with a key facet of ERISA plan administration.”  Opp. at 15.  Thomas argues that all previous courts that have ruled on this issue have determined that ERISA does not preempt section 10110.6, whether or not the plan is self-funded.  P Reply at 2. 
+
+ERISA permits a benefits plan participant to bring a civil case in federal court to recover benefits allegedly owed to him under a benefits plan.  29 U.S.C. § 1132(a)(1).  A district court is then charged with reviewing the plan administrator’s decision denying benefits to the participant.  The default standard of review in such cases is de novo.  Standard Ins. Co. v. Morrison, 584 F.3d 837, 846 (9th Cir. 2009) (“[D]e novo review is the default standard of review in an ERISA case.”).  However, “[i]f an insurance contract has a discretionary clause, the decisions of the insurance company are reviewed under an abuse of discretion standard.”  Id. at 840; Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101, 115 (1989) (“a denial of benefits challenged under § 1132(a)(1)(B) is to be reviewed under a de novo standard unless the benefit plan gives the administrator or fiduciary discretionary authority to determine eligibility for benefits or to construe the terms of the plan”).   
+
+Here, the Plan contains a discretionary clause: “[t]he Plan Administrator shall have the discretion and authority to interpret and construe the provisions of the STD plan, determine the entitlement of any Participant to benefits hereunder, and decide any dispute which may arise with regard to the rights of Participants entitled to benefits.”  AR 060.  Thus, based solely on the presence of this discretionary clause, the Court would have to apply an abuse of discretion standard. 
+
+However, California law renders such discretionary clauses void and unenforceable.  Section 10110.6 states that 
+
+ 
+
+[i]f a policy, contract, certificate, or agreement offered, issued, delivered, or renewed, whether or not in California, that provides or funds life insurance or disability insurance coverage for any California resident contains a provision that reserves discretionary authority to the insurer, or an agent of the insurer, to determine eligibility for benefits or coverage, to interpret the terms of the policy, contract, certificate, or agreement, or to provide standards of interpretation or review that are inconsistent with the laws of this state, that provision is void and unenforceable. 
+
+ 
+
+If section 10110.6 applies in this case, then the discretionary clause in the Plan is void, and the default de novo standard of review would apply. 
+
+Defendants argue that section 10110.6 cannot apply in this case because ERISA preempts its application.  ERISA is meant to “supersede any and all State laws insofar as they . . . relate to any employee benefit plan.”  29 U.S.C. § 1144(a).  However, the so-called “Savings Clause” states that ERISA “shall not be construed to exempt or relieve any person from any law of any State which regulates insurance, banking, or securities.”  29 U.S.C. § 1144(b)(2)(A).  The so-called “Deemer Clause” then states that an “an employee benefit plan described in section 1003(a) of this title, which is not exempt under section 1003(b) of this title . . . shall [not] be deemed to be an insurance company . . . or to be engaged in the business of insurance or banking for purposes of any law of any State purporting to regulate insurance companies, insurance contracts, banks, trust companies, or investment companies.”  29 U.S.C. § 1144(b)(2)(B). 
+
+The United States Supreme Court recently summarized ERISA preemption by stating that ERISA preempts two categories of state laws.  ERISA preemption exists (1) where a state’s law acts immediately and exclusively upon ERISA plans and (2) where a state law has an “impermissible connection” with ERISA plans.  Gobeille v. Liberty Mut. Ins. Co., 136 S. Ct. 936, 943 (2016).  An “impermissible connection” “mean[s] a state law that ‘governs a central matter of plan administration or ‘interferes with nationally uniform plan administration.’”  Id. at 943. 
+
+Defendants argue that section 10110.6 is preempted under the second category of state law identified in Gobeille.  Citing Gobeille, Defendants argue that section 10110.6 “has an impermissible connection with a key facet of ERISA plan administration” because “[v]oiding language conferring discretionary authority to plan administrators disrupts the uniform administration of plans and forces administrators to master the laws of all 50 states.”  Opp. at 14.   
+
+Defendants’ citation to Gobeille in support of their pre-emption argument is unavailing.  Gobeille considered a Vermont disclosure statute that required health insurers to report payments relating to health care claims to a state agency that would compile the payments in a database.  Under the statutory scheme at issue in Gobeille, entities covered by the Vermont statute that failed to comply with the reporting requirements would be fined.  Thus, Gobeille considered a state law that added a new requirement for administrators of benefits plans, thereby creating a whole new cause of action.  That case is significantly different than cases involving state laws, such as section 10110.6, that simply void discretionary clauses and therefore only impact the procedures by which a party can challenge a plan administrator’s determination in a federal district court. 
+
+In fact, the Ninth Circuit has concluded that state laws that bar discretionary clauses (such as section 10110.6) are not preempted by ERISA because they do not “authorize any form of relief in state courts nor serve as an alternative enforcement mechanism outside of ERISA’s civil enforcement provisions.”  Standard Ins. Co., 584 F.3d at 846 (rejecting claim that ERISA preempted a policy implemented by the Montana insurance commissioner of disapproving any insurance contract containing a discretionary clause).  In Standard Ins. Co., the court reasoned that these policies “merely force[] ERISA suits to proceed with their default standard of review,” which is de novo, and therefore do not “duplicate, supplement, or supplant the ERISA remedy.”  Id.  The court distinguished these policies from policies at issue in cases such as Gobeille that involve a state’s attempt “to meld a new remedy to the ERISA framework.”  Id.  Multiple California district courts have similarly concluded that section 10110.6 is not preempted by ERISA.  See, e.g., Polnicky v. Liberty Life Assurance Co. of Bos., 999 F. Supp. 2d 1144, 1150 (N.D. Cal. 2013); Gonda v. Permanente Med. Grp., Inc., 10 F.Supp.3d 1091, 1094 (C.D. Cal. 2014).   Defendants also could not provide this Court with any case in which a California district court has concluded that section 10110.6 is preempted and unenforceable. 
+
+Defendants attempt to distinguish this case from the overwhelming weight of authority in this Circuit that has concluded that section 10110.6 is not preempted by arguing that self-funded plans should be treated differently.  Defendants argued at the hearing that the Deemer Clause prevents courts from applying section 10110.6 to self-funded plans.  And Defendants believe that section 10110.6 treats self-funded plans as if they are insurance.  
+
+During the hearing, however, Defendants conceded that the only court that has directly addressed the issue of whether the application of section 10110.6 to self-funded plans is preempted by ERISA concluded that there is no preemption.  Williby v. AETNA Life Insurance Company, 2015 WL 5145499, *5 (C.D. Cal. Aug. 31, 2015).1  The defendant in Williby argued just as Defendants argue in this case “that the insurance code does not apply because (1) the STD benefits are self-funded . . . and (2) Aetna is granted discretion by the Plan, which is not an insurance policy, and thus, not regulated by the insurance code.”  Id. at *5.  The Williby court rejected this argument.   
+
+1 Defendants argue that Williby was incorrectly decided and note that the case has been or will be appealed.  Until the Ninth Circuit takes up this issue, however, this Court is free to agree with Williby.   
+
+By its plain language, section 10110.6 applies to contracts.  Cal. Ins. Code § 10110.6(a) (“If a policy, contract, [or] certificate . . . that provides or funds life insurance or disability insurance coverage for any California resident contains a provision that reserves discretionary authority . . . to determine eligibility for benefits or coverage . . . that provision is void and unenforceable.”) (emphasis added).  “An ERISA plan is a contract.”  LeGras v. AETNA Life Ins. Co., 786 F.3d 1233, 1240 (9th Cir. 2015), cert. denied, 136 S. Ct. 1448, 194 L. Ed. 2d 549 (2016).  Thus, as the Williby court concluded, a plain reading of section 10110.6 demonstrates that it applies to contracts such as self-funded ERISA plans.  This reading accords with the purpose behind section 10110.6.  As pointed out in Williby, the legislative history of section 10110.6 demonstrates that the California legislature was concerned over how a discretionary clause, even in a self-funded plan, “deprives California insureds of the benefits for which they bargained, access to the protections of the Insurance Code[,] and other protections in California law.”  Id. at *5. 
+
+Defendants’ concern that discretionary clauses “force[] administrators to master the laws of all 50 states” is misplaced.  As pointed out above, the Ninth Circuit has already rejected this argument.  Standard Ins. Co., 584 F.3d at 846 (finding that state laws that bar discretionary clauses merely enforce the application of the default standard of review and do not “duplicate, supplement, or supplant” ERISA).  Implicit in this argument is the recognition that the initial decision made by a plan administrator to deny or grant disability benefits is a technical medical decision based on the evidence before the administrator.  Whether that decision will be subject to de novo or discretionary review should not impact the administrator’s decision.  And so it’s not clear how state laws that only impact the standard of review will “force[] administrators to master the laws of all 50 states.”  Plainly, state laws such as section 10110.6, whether applied to self-funded plans or not, do not “govern[] a central matter of plan administration or interfere with nationally uniform plan administration.”  Gobeille, 136. S. Ct. at 943.  Nor do they “authorize any form of relief in state courts [or] serve as an alternative enforcement mechanism outside of ERISA’s civil enforcement provisions.”  Standard Ins. Co., 584 F.3d at 846.  Section 10110.6 and similar state laws simply enforce the default de novo standard of review, and therefore are not preempted by ERISA under Gobeille. 
+
+Discretionary clauses are controversial.  “The use of discretionary clauses, according to National Association of Insurance Commissioners, may result in insurers engaging in inappropriate claim practices and relying on the discretionary clause as a shield.”  Standard Ins. Co., 584 F.3d at 840.  At the same time, “insurers . . . argue [discretionary clauses] keep insurance costs manageable . . . and that the wide ranging nature of de novo review will lead to increased per-case costs.”  Id. at 841.  The Court recognizes the competing interests in the application of state laws that bar discretionary clauses.  Absent further direction from the Ninth Circuit, the Court is reluctant to forge a new path through case law that has unanimously concluded that the application of section 10110.6 to disability plans, whether insured or self-funded, is not preempted by ERISA. 
+
+For these reasons, the Court concludes that section 10110.6 applies to self-funded plans in the same way it applies to insured plans and effectively bars the Court from applying the abuse of discretion standard of review.  The Court will therefore review Aetna’s decision on a de novo basis.   
+
+B. Analysis 
+
+
+
+
+
+To resolve the summary judgment motion, the Court must determine whether there is a genuine issue of material fact as to whether Thomas was disabled under the Plan.  Since the Court applies de novo review, the Court may not defer to Aetna’s determination that Thomas was not entitled to STD benefits. 
+
+Under the Plan, disability is defined as “the inability of a Participant, because of a medically-determinable physical impairment or mental impairment, to perform the duties of his regular occupation.”  AR 051.  Additionally, the Participant is not considered disabled “unless he is, during the entire period of Disability Absence, under the direct care and treatment of a Physician and such disability is substantiated by significant objective findings which are defined as signs which are noted on a test or medical exam and which are considered significant anatomical, physiological, or psychological abnormalities which can be observed apart from the individual’s symptoms.”  AR 051. 
+
+Here, Thomas was employed by FedEx as a Contractor Relations Specialist.  Thomas’ job duties included ensuring contractors complied with FedEx’s business models and operation agreements, providing guidance to independent contractors regarding FedEx’s operating agreements, investigating disputes between FedEx and contractors, implementing business strategies, building business relationships, recommending improvements for FedEx programs, educating field operators about FedEx’s business model, performing temporary staffing audits, verifying business documentation and compliance, and documenting communications between contractors and FedEx.  AR 436.  The job description does not list any physical demands as essential functions, but it does state that standing is required 25%-50% of the time, sitting is required 50%-75% of the time, and walking is required 25%-50% of the time.  AR 437.  Bending, stooping, reaching, lifting, carrying, pushing, and pulling are not essential functions and are never required.  AR 438.  Travel is an essential function and is required 50%-75% of the time.  Id. 
+
+Under the Plan, Thomas has the burden to prove with sufficient objective evidence that she was disabled because she was unable to perform her regular occupation.  Estate of Barton v. ADT Sec. Servs. Pension Plan, 820 F.3d 1060, 1065 (9th Cir. 2016) (“[A] claimant may bear the burden of proving entitlement to ERISA benefits” when “the claimant has better – or at least equal – access to the evidence needed to prove entitlement.”).  Thomas argues that she provided sufficient objective evidence, Mot. at 11-13, while Defendants argue that her evidence was faulty and that she did not meet her burden, Opp. at 16-18. 
+
+Taking into consideration the parties’ arguments and evidence, the Court concludes that there is a genuine issue of material fact as to whether Thomas proved with objective evidence that she was disabled.  First, two doctors have concluded that Thomas was disabled and two doctors have concluded that Thomas was not disabled.  Also, the MRI results count as objective evidence because they are “signs which are noted on a test or medical exam.”  AR 051.  At least one doctor considered the MRI in conjunction with other evidence to conclude that Thomas had “significant anatomical, physiological, or psychological abnormalities.”  Id.  Consideration of the MRI means that Dr. O’Laughlin’s opinion was at least partly based on his observations “apart from [Thomas’] symptoms.”  AR 051.  Defendants even admit that there are some pieces of objective evidence.  D Reply at 5 (“there are extremely limited medical records providing objective, measurable evidence.”).  The mere existence of such limited evidence means that summary judgment in favor of Defendants would be inappropriate at this point.  And this evidence, along with other evidence, was enough for several doctors to conclude that Thomas was unable to perform her regular tasks. 
+
+On the other hand, Defendants provide multiple reasons why this limited evidence is not sufficient to conclude that Thomas was disabled.  Their two records reviewer doctors reached the exact opposite conclusion as Dr. O’Laughlin and opined that Thomas was not disabled.  Dr. O’Laughlin himself opined that the MRI report was “very sparse.” AR 511.  And Dr. Swamy found that there was no clinical evidence of any motor or sensory loss, weakness, or gait dysfunction.  AR 586. Moreover, the October 8, 2012 x-ray revealed no fracture and normal disc spaces and facet joints.  AR 340-345.  Though the cervical spine MRI demonstrated degenerative disc disease, the lumbar spine MRI revealed no neural compression.  AR 379.   
+
+At the summary judgment stage, the Court simply analyzes whether there is a genuine issue of material fact that should be reserved for trial.  Here, there is some evidence to conclude that Thomas was disabled and there is some evidence that Thomas was not disabled.  Resolution of the competing facts should be reserved for a trier of fact. 
+
+ 
+
+
+
+
+
+
+
+For the reasons set forth above, the Court DENIES Thomas’s and Defendants’ motions for summary judgment.  
+
+IT IS SO ORDERED. 
+
+
+
+ 
+
+  
+
+
+
