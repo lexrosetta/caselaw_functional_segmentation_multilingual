@@ -32,7 +32,7 @@ The data used in the ICAIL 2021 experiments can be found in the following paths:
 
     data/Country-Language-*/annotator-*-ICAIL2021.csv
 
-Note that the Canadian subset could not be included in this repository due to concerns about personal information protection in Canada. However, it can be obtained upon request at <...>@canlii.org. Once you obtain the data, you just need to create `data/Canada-EN-1` directory and place all the files there.
+Note that the Canadian subset could not be included in this repository due to concerns about personal information protection in Canada. However, it can be obtained upon request at [feedback-form@canlii.org](mailto://feedback-form@canlii.org). Once you obtain the data, you just need to create `data/Canada-EN-1` directory and place all the files there.
 
 If you would like to experiment with different preprocessing techniques the original texts are placed in the following paths:
 
@@ -44,7 +44,7 @@ You can find the annotations corresponding to these texts here:
 
 The texts cleaned of the `Out of Scope` and `Heading` segments (via `dataset_clean.py`) are placed in the following paths:
 
-    ata/Country-Language-*/texts-clean-annotator-*
+    data/Country-Language-*/texts-clean-annotator-*
 
 Note that the processing depends on annotations. Hence, there are several versions of documents at this stage if there were multiple annotators. The annotations corresponding to the cleaned texts are here:
 
