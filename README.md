@@ -60,7 +60,12 @@ To generate the dataset statistics reported in the ICAIL 2021 paper you can use 
 
 ### Experiments
 
-<...>
+The file `ICAIL2021_experiments.ipynb` contains the code necessary to run the code presented in the paper. This includes the code to embed the sentences of the cases into a multilingual vector representation, the definition of the Gated Recurrent Unit model and the code to train and evaluated along the different experiments described in the paper. It also contains the code to create the visualizations presented in the discussion section of the paper.
+
+The notebook can be run in two different ways:
+* On Google Colab **(easier)**. Follow this link: https://colab.research.google.com/drive/1zSsKIPZXp3JdlU5E5GVZox-FiapYm4oD?usp=sharing to open the notebook. It can be run for free on the servers of Google. The notebook will download the necessary data from github. Note that RAM restrictions on colab means that the experiments for H2 and H3 are likely to crash. 
+* Locally: It is recommended to set up a new python environment and run the first cell to install the necessary requirements. Instructions to enable CUDA training, which significantly speeds up execution, is available at https://www.tensorflow.org/install/gpu and https://pytorch.org/get-started/locally/. 
+Certain cells (such as loading the data from github) are only required on Google Colab and can be skipped.
 
 ## Attribution
 We kindly ask you to cite the following paper:
